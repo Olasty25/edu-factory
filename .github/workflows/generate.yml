@@ -22,6 +22,10 @@ jobs:
       - run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
+      - name: Commit generated content
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add content/ public/
           git commit -m "Add new generated content" || echo "No new content"
           git push
