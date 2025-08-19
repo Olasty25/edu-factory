@@ -30,7 +30,7 @@ async function generateContent(topic) {
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
-        model: "openai/gpt-3.5-turbo",   // 🟢 zmień na taki, który istnieje na openrouter.ai/models
+        model: "mistralai/mixtral-8x7b-instruct",   // 🟢 zmień na taki, który istnieje na openrouter.ai/models
         messages: [{ role: "user", content: prompt }]
       }),
     });
