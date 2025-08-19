@@ -1,20 +1,24 @@
 import fs from "fs";
 import fetch from "node-fetch";
 
-const API_KEY = process.env.OPENROUTER_API_KEY; // wrzucisz do GitHub Secrets
-const TOPIC = process.argv[2] || "Balladyna streszczenie"; 
+const API_KEY = process.env.OPENROUTER_API_KEY;
+const topics = fs.readFileSync("topics.txt", "utf8")
+  .split("\n")
+  .map(x => x.trim())
+  .filter(Boolean);
+
+// Weź 5 pierwszych tematów (można rotacyjnie zmieniać w kolejnych runach)
+const batch = topics.slice(0, 5);
 
 async function generateContent(topic) {
   const prompt = `
-  Napisz krótkie materiały edukacyjne dla tematu: "${topic}".
-
-  1. Quiz (5 pytań ABCD z poprawną odpowiedzią zaznaczoną).
-  2. 5 fiszek (pojęcie → definicja).
-  3. 1 strona notatek (max 250 słów).
-
-  Zwróć w formacie Markdown.
+  Przygotuj materiały dla: "${topic}".
+  1. Quiz (5 pytań ABCD).
+  2. 5 fiszek.
+  3. Krótkie notatki (max 250 słów).
+  Format: Markdown.
   `;
-  
+
   const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
     headers: {
@@ -22,19 +26,23 @@ async function generateContent(topic) {
       "Content-Type": "application/json"
     },
     body: JSON.stringify({
-      model: "openai/gpt-3.5-turbo",  // na OpenRouter znajdziesz darmowe/free modele
-      messages: [{ role: "user", content: prompt }],
+      model: "openai/gpt-3.5-turbo", 
+      messages: [{ role: "user", content: prompt }]
     }),
   });
-  
+
   const data = await response.json();
   const text = data.choices[0].message.content;
 
-  // zapisz do pliku w katalogu /content
   if (!fs.existsSync("content")) fs.mkdirSync("content");
   fs.writeFileSync(`content/${topic.replace(/\s+/g, "_")}.md`, text);
 
-  console.log("Wygenerowano paczkę dla:", topic);
+  console.log("Wygenerowano:", topic);
 }
 
-generateContent(TOPIC);
+async function run() {
+  for (let t of batch) {
+    await generateContent(t);
+  }
+}
+run();
