@@ -137,3 +137,159 @@ Holocaust – definicja i skutki
 PRL najważniejsze wydarzenia
 Solidarność powstanie i znaczenie
 Transformacja ustrojowa 1989
+
+1. Syzyfowe prace streszczenie  
+2. Jądro ciemności streszczenie  
+3. Tango streszczenie  
+4. Ludzie bezdomni streszczenie  
+5. Quo vadis streszczenie  
+6. Kordian streszczenie  
+7. Kamienie na szaniec streszczenie  
+8. Zdążyć przed Panem Bogiem streszczenie  
+9. Inny świat streszczenie  
+10. Medaliony streszczenie  
+11. Rok 1984 streszczenie  
+12. Opowiadania Tadeusza Borowskiego streszczenie  
+13. Dżuma streszczenie  
+14. Makbet analiza bohaterów  
+15. Antygona analiza bohaterów  
+16. Lalka analiza bohaterów  
+17. Pan Tadeusz motywy  
+18. Wesele motywy  
+19. Dziady cz. III analiza motywów  
+20. Ferdydurke analiza bohaterów  
+21. Granica – analiza psychologiczna Elżbiety  
+22. Balladyna – motywy winy i kary  
+23. Ludzie bezdomni – postać doktora Judyma  
+24. Quo vadis – analiza bohaterów  
+25. Potop – motyw patriotyzmu  
+
+26. Interpretacja wykresu funkcji kwadratowej  
+27. Funkcja wykładnicza zadania  
+28. Funkcja homograficzna przykłady  
+29. Granice ciągów zadania  
+30. Granice funkcji obliczenia  
+31. Pochodna funkcji – definicja i przykłady  
+32. Zastosowanie pochodnych w praktyce  
+33. Asymptoty funkcji przykłady  
+34. Pole pod wykresem funkcji (całki oznaczone)  
+35. Całki nieoznaczone ćwiczenia  
+36. Geometryczne znaczenie pochodnej  
+37. Macierze obliczenia podstawowe  
+38. Wyznaczniki zadania  
+39. Układ równań macierzowych  
+40. Wektory w przestrzeni zadania  
+41. Iloczyn skalarny przykłady  
+42. Równania prostej w przestrzeni  
+43. Równania płaszczyzny w przestrzeni  
+44. Geometria analityczna – zadania  
+45. Logarytmy równania i nierówności  
+46. Ciąg geometryczny – suma n wyrazów  
+47. Ciąg arytmetyczny – własności  
+48. Zadania z prawdopodobieństwa klasycznego  
+49. Zadania z wariancji i odchylenia standardowego  
+50. Permutacje z powtórzeniami  
+
+51. Fotosynteza – faza jasna i ciemna  
+52. Cykl Calvina schemat  
+53. Oddychanie tlenowe – równanie reakcji  
+54. Oddychanie beztlenowe – fermentacje  
+55. Transport przez błonę komórkową  
+56. Dyfuzja i osmoza przykłady  
+57. Aparat Golgiego funkcje  
+58. Rybosomy i synteza białek  
+59. Regulacja genów u bakterii (operon laktozowy)  
+60. Mutacje genetyczne rodzaje  
+61. Dziedziczenie cech jednogenowych Mendla  
+62. Dziedziczenie sprzężone z płcią  
+63. Krzyżówka genetyczna przykłady  
+64. GMO zalety i zagrożenia  
+65. Immunologia – antygeny i przeciwciała  
+66. Szczepionki mechanizm działania  
+67. Fotosynteza u bakterii purpurowych  
+68. Adaptacje roślin do środowiska wodnego  
+69. Tkanki roślinne rodzaje  
+70. Rozmnażanie płciowe i bezpłciowe  
+71. Budowa kwiatu i zapylenie  
+72. Rozwój zarodkowy człowieka  
+73. Klonowanie zwierząt – etyka i biologia  
+74. Ekologia – sukcesja ekologiczna  
+75. Biomy świata przykłady  
+
+76. Reakcje addycji do alkenów  
+77. Reakcje substytucji w alkanach  
+78. Reakcje eliminacji – przykłady  
+79. Aromatyczne węglowodory – benzen  
+80. Polimeryzacja definicja i przykłady  
+81. Poliestry i poliamidy  
+82. Aminokwasy budowa i właściwości  
+83. Białka – denaturacja i renaturacja  
+84. Lipidy – rodzaje reakcji  
+85. Mydła właściwości i otrzymywanie  
+86. Pochodne węglowodorów – zadania  
+87. Struktura hybrydyzacji atomów węgla  
+88. Obliczenia stechiometryczne trudniejsze  
+89. Prawo Avogadra przykłady  
+90. Gaz doskonały równanie stanu  
+91. Surówce ropy naftowej skład i destylacja  
+92. Metody rozdzielania mieszanin  
+93. Chromatografia wyjaśnienie i przykłady  
+94. Spektroskopia – NMR, IR, UV  
+95. Elektrochemia ogniwa galwaniczne  
+96. Korozyjność metali i jej zapobieganie  
+97. Roztwory buforowe zadania  
+98. Hydroliza soli przykłady  
+99. Wskaźniki pH – fenoloftaleina i oranż metylowy  
+100. Kinetyka reakcji chemicznych  
+
+101. Starożytny Egipt – kultura i religia  
+102. Starożytna Grecja – system polis  
+103. Demokracja Ateńska – Solon i Perykles  
+104. Starożytny Rzym – prawo rzymskie  
+105. Cesarstwo Rzymskie – przyczyny upadku  
+106. Chrystianizacja Europy  
+107. Średniowieczne rycerstwo i feudalizm  
+108. Krucjaty przyczyny i skutki  
+109. Monarchia piastowska – początki państwa  
+110. Kazimierz Wielki reformy  
+111. Unia polsko-litewska 1385  
+112. Jagiellonowie – złoty wiek Polski  
+113. Liberum veto i kryzys Rzeczpospolitej  
+114. Barok w Polsce – kultura i sztuka  
+115. Oświecenie w Europie  
+116. Konstytucja Stanów Zjednoczonych 1787  
+117. Wielka Rewolucja Francuska skutki  
+118. Napoleon Bonaparte – wojny i reformy  
+119. Wiosna Ludów 1848  
+120. Powstanie listopadowe przebieg  
+121. Powstanie styczniowe przebieg  
+122. I wojna światowa fronty  
+123. Traktat wersalski 1919  
+124. II wojna światowa front wschodni  
+125. II wojna światowa front zachodni  
+126. Konferencje wielkiej trójki  
+127. Powstanie warszawskie 1944  
+128. Zimna wojna – blok NATO i Układ Warszawski  
+129. Kubański kryzys rakietowy 1962  
+130. Upadek Muru Berlińskiego 1989  
+131. Rozpad ZSRR 1991  
+132. Wejście Polski do NATO 1999  
+133. Wejście Polski do UE 2004  
+134. Solidarność – strajki 1980  
+135. Okrągły Stół 1989  
+
+136. Strefy klimatyczne świata  
+137. Procesy wulkaniczne przykłady  
+138. Trzęsienia ziemi – powstawanie i skutki  
+139. Procesy krasowe – jaskinie i wywierzyska  
+140. Erozja rzeczna i morze przykład  
+141. Rolnictwo w Polsce – typy i rozmieszczenie  
+142. Przemysł ciężki w Polsce  
+143. Energetyka odnawialna – rodzaje i przykłady  
+144. Globalizacja skutki  
+145. ONZ cele i struktura  
+146. Unia Europejska instytucje  
+147. System polityczny III RP  
+148. Konstytucja RP 1997 omówienie  
+149. Samorząd terytorialny w Polsce  
+150. Media i opinia publiczna w demokracji  
