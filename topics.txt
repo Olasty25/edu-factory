@@ -1,45 +1,139 @@
-📚 Fazy startowe — Polski (lektury obowiązkowe do matury)
-„Balladyna streszczenie”
-„Lalka streszczenie”
-„Pan Tadeusz streszczenie”
-„Dziady cz. III streszczenie”
-„Wesele streszczenie”
-„Ferdydurke streszczenie”
-„Chłopi streszczenie”
-„Granica streszczenie”
-„Sklepy cynamonowe streszczenie”
-„Potop streszczenie”
+Balladyna streszczenie
+Lalka streszczenie
+Pan Tadeusz streszczenie
+Dziady cz. III streszczenie
+Antygona streszczenie
+Makbet streszczenie
+Romeo i Julia streszczenie
+Król Edyp streszczenie
+Wesele streszczenie
+Chłopi streszczenie
+Granica streszczenie
+Ferdydurke streszczenie
+Sklepy cynamonowe streszczenie
+Potop streszczenie
+Konrad Wallenrod streszczenie
+Świętoszek streszczenie
+Zemsta streszczenie
+Latarnik streszczenie
+Opowieść wigilijna streszczenie
+Mistrz i Małgorzata streszczenie
+Inny świat streszczenie
+Rok 1984 streszczenie
+Medaliony streszczenie
+Przedwiośnie streszczenie
+Folwark zwierzęcy streszczenie
 
-✍️ Motywy literackie (top frazy Google)
-„Motyw buntu w literaturze”
-„Motyw patriotyzmu w literaturze”
-„Motyw śmierci w literaturze”
-„Motyw wędrówki w literaturze”
-„Motyw miłości w literaturze”
+Motyw miłości w literaturze
+Motyw buntu w literaturze
+Motyw wędrówki w literaturze
+Motyw śmierci w literaturze
+Motyw patriotyzmu w literaturze
+Motyw cierpienia w literaturze
+Motyw rodziny w literaturze
+Motyw artysty w literaturze
+Motyw snu w literaturze
+Motyw władzy w literaturze
+Motyw przemiany bohatera literackiego
+Motyw apokalipsy w literaturze
+Motyw dzieciństwa w literaturze
+Motyw przyjaźni w literaturze
+Motyw wolności w literaturze
 
-🧮 Matematyka (8‑klasa + matura poziom podst.)
-„Równania kwadratowe zadania”
-„Twierdzenie Pitagorasa przykłady”
-„Funkcja liniowa zbiór zadań”
-„Logarytmy przykłady”
-„Ciąg arytmetyczny zadania”
-🔬 Biologia/Chemia (matura basic)
-„Fotosynteza notatki krok po kroku”
+Równania kwadratowe zadania
+Funkcja liniowa przykłady
+Wielomiany zadania
+Logarytmy przykłady
+Ciąg arytmetyczny ćwiczenia
+Ciąg geometryczny ćwiczenia
+Układ równań liniowych przykłady
+Twierdzenie Pitagorasa zadania
+Pole i obwód koła obliczenia
+Pole trójkąta przykłady
+Graniastosłupy zadania
+Ostrosłupy zadania
+Objętość walca przykłady
+Objętość stożka przykłady
+Funkcja kwadratowa wykresy
+Delty obliczenia
+Trygonometria podstawowe wzory
+Sinus i cosinus zadania
+Tangens przykłady
+Procenty i promile zadania
+Rachunek prawdopodobieństwa proste przykłady
+Statystyka opisowa – średnia, mediana, dominanta
+Permutacje i kombinacje przykłady
+Zbiory i diagramy Venna
+Układ współrzędnych – równania prostej
 
-„Oddychanie komórkowe schemat”
+Fotosynteza przebieg
+Oddychanie komórkowe etapy
+Mitoza i mejoza schemat
+DNA budowa i replikacja
+RNA rodzaje i funkcje
+Białka budowa i funkcje
+Lipidy rodzaje i funkcje
+Węglowodany przykłady i rola
+Komórka roślinna budowa
+Komórka zwierzęca budowa
+Układ krążenia człowieka funkcje
+Układ pokarmowy człowieka budowa
+Układ nerwowy człowieka schemat
+Oko budowa i funkcje
+Ucho budowa i funkcje
+Fotosynteza równanie chemiczne
+Chloroplasty funkcje
+Enzymy działanie i przykłady
+Układ hormonalny człowieka
+Immunologia – odporność swoista i nieswoista
+Mutacje genetyczne przykłady
+Ewolucja teoria Darwina
+Endosymbioza teoria
+Ekosystem definicja i przykłady
+Ekologia – łańcuch pokarmowy
 
-„Układ krążenia człowieka notatki”
+Układ okresowy pierwiastków
+Wiązania chemiczne przykłady
+Reakcje spalania przykłady
+Reakcje kwasów i zasad
+Tlenki i ich właściwości
+Wodorotlenki – budowa i zastosowanie
+Kwasy organiczne przykłady
+Zasady organiczne przykłady
+Alkan, alken, alkin – różnice
+Polimery przykłady
+Alkohol etanol właściwości
+Glukoza budowa i reakcje
+Sacharoza właściwości
+Skrobia właściwości
+Benzyna skład i właściwości
+Paliwa odnawialne przykłady
+Izotopy definicja i przykłady
+Prawo zachowania masy zadania
+Reakcje redoks przykłady
+Elektrochemia podstawy
+Roztwory kwasów obliczenia stężeń
+Bufory chemiczne przykłady
+Sole – otrzymywanie i właściwości
 
-„Układ pokarmowy człowieka fiszki”
-
-„Białka budowa i funkcje”
-
-„Pierwiastki chemiczne układ okresowy ściąga”
-
-„Wiązania chemiczne fiszki”
-
-„Reakcje kwasów i zasad notatki”
-
-„Obliczenia stechiometryczne ćwiczenia”
-
-„Izotopy przykłady”
+Rewolucja francuska streszczenie
+Powstanie listopadowe przyczyny i skutki
+Powstanie styczniowe przyczyny i skutki
+Rozbiory Polski przyczyny
+Konstytucja 3 maja omówienie
+Chrzest Polski 966 znaczenie
+Mieszko I zjednoczenie ziem polskich
+Bolesław Chrobry koronacja 1025
+Bitwa pod Grunwaldem 1410 omówienie
+Unia lubelska 1569 konsekwencje
+Potop szwedzki skrót notatek
+Konstytucja Księstwa Warszawskiego
+Powstanie kościuszkowskie skrót
+Armia Księstwa Warszawskiego
+Industrializacja XIX wieku
+I wojna światowa przyczyny i skutki
+II wojna światowa przyczyny i skutki
+Holocaust – definicja i skutki
+PRL najważniejsze wydarzenia
+Solidarność powstanie i znaczenie
+Transformacja ustrojowa 1989
