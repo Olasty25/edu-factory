@@ -1,71 +1,56 @@
- **Quiz: Lalka – Summary**
+ **Quiz:**
 
-1. Who is the main character of the novel "Lalka" by Bolesław Prus?
-A. Sztygar Stasiek
-B. Wokulski
-C. Izabela Łęcka
-D. Marynia
-  
-2. What is the profession of Stanisław Wokulski?
-A. Writer
-B. Doctor
-C. Businessman
-D. Artist
-  
-3. What is the relationship between Wokulski and Izabela Łęcka?
-A. Friends
-B. Teacher and student
-C. Lovers
-D. Enemies
-  
-4. What is the symbol of the novel "Lalka"?
-A. The doll
-B. The shop
-C. The ball
-D. The diamond
-  
-5. How does the novel end?
-A. Wokulski and Izabela get married.
-B. Wokulski dies in a duel.
-C. Wokulski becomes rich and famous.
-D. Wokulski becomes depressed and dies.
+1. Kto jest narratorem w „Lalki”?
+   A) Pipa
+   B) Gryzelda
+   **C) Dziadok**
+   D) Wacław
 
----
+2. Jakie imię nosi bohaterka „Lalki”?
+   A) Ania
+   B) Ewa
+   C) Helena
+   **D) Księżna**
 
-**Flashcards: Lalka – Summary**
+3. Jaki temperament ma Księżna w „Lalki”?
+   A) Rozmarzły
+   B) Melancholijny
+   C) Kolczy
+   **D) Flegmatyczny**
 
-1. Stanisław Wokulski
-   - Main character of the novel.
-   - Businessman and scientist.
-   - In love with Izabela Łęcka.
+4. Jaka jest prawdziwa tożsamość Stanisława?
+   A) Kapelan
+   B) Lekarz
+   C) Pantaleon
+   **D) Wojewoda**
 
-2. Izabela Łęcka
-   - A beautiful and rich young woman.
-   - The object of Wokulski's affection.
-   - Marries a much older man for money.
+5. Kto jest ojcem Księżnej w „Lalki”?
+   A) Wacław
+   B) Dziadok
+   **C) Wojewoda**
+   D) Kapelan
 
-3. The Doll
-   - A symbol of artifice and superficiality.
-   - Represents Izabela's lack of genuine feeling for Wokulski.
+**Fiszki:**
 
-4. The Shop
-   - Wokulski's place of business.
-   - Represents Wokulski's desire for security and success.
+1. **Narrator**
+   Opowiadacz historii; w „Lalki” jest nim Dziadok.
 
-5. The Diamond
-   - A symbol of wealth and materialism.
-   - Represents the values of the Polish aristocracy.
+2. **Księżna**
+   Bohaterka utworu, o imieniu nie podanym, o temperamencie flegmatycznym.
 
----
+3. **Temperament**
+   Charakterowa predyspozycja człowieka, zgodnie z teorią Galena; w „Lalki” opisane są cztery temperamenty: rozmarzły (Pipa), melancholijny (Wacław), kolczy (Dziadok) i flegmatyczny (Księżna).
 
-**Notes: Lalka – Summary**
+4. **Stanisław**
+   Postać w „Lalki”, imiennie nieznana, ukrywająca swoją tożsamość, która ostatecznie okazuje się być Wojewodą.
 
-"Lalka" (The Doll) is a novel by Bolesław Prus, published in 1889. It is a complex work of social realism, exploring the themes of materialism, morality, and the conflict between tradition and modernity in 19th century Poland.
+5. **Dążność do szczęścia**
+   Pogląd filozoficzny, głoszący, że istotą ludzkiego życia jest dążenie do szczęścia; wysunięty przez Pipę w „Lalki”.
 
-The main character of the novel is Stanisław Wokulski, a self-made businessman and scientist. He becomes infatuated with Izabela Łęcka, a beautiful young woman from a wealthy and aristocratic family. Despite his love for Izabela, Wokulski is unable to bridge the gap between their two worlds.
+**Notatki:**
 
-The novel explores the superficiality and artifice of the Polish aristocracy, as represented by the symbol of the doll. Wokulski's infatuation with Izabela is a form of self-delusion, as she is ultimately unattainable and unworthy of his love.
+„Lalka” Bolesława Prusa to klasyczny polski romans, opublikowany w odcinkach w latach 1887-1889. Utwór opowiada historię Księżnej, bohaterki marzycielskiej i słabej woli, otoczonej przez mężczyzn o wyraźnie zarysowanych charakterach.
 
-The novel also explores the themes of materialism and morality. Wokulski's desire for success and security leads him to make compromises, both ethical and personal. In the end, he is left alone and disillusioned, as the values of the aristocracy prove to be shallow and unsatisfying.
+Narratorem jest Dziadok, starszy służący w domu Księżnej. Wyjątkowa charakteryzacja bohaterów i analiza ich temperamentów, według teorii Galena, to jedne z najbardziej cenionych aspektów powieści.
 
-"Lalka" is a powerful critique of the materialistic values of 19th century Polish society, and a poignant exploration of the human desire for love and connection. It remains one of the most enduring works of Polish literature.
+Prus porusza wiele problemów społecznych i filozoficznych, m.in. dążenie do szczęścia (Pipa), zakorzenienie w przeszłości (Dziadok), naiwność (Księżna) czy pożądanie władzy (Stanisław/Wojewoda). Dzieło to uważane jest za jedno z arcydzieł literatury polskiej.

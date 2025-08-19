@@ -1,66 +1,61 @@
- **Quiz**
+ **Quiz:**
+1. Who is Antigone in the play Antigone by Sophocles?
+A. Antigone is the daughter of Oedipus and Jocasta.
+B. Antigone is the wife of Creon.
+C. Antigone is the sister of Polynices.
+D. Antigone is the mother of Haemon.
 
-1. Who is the main character of the play "Antigone"?
-A) Creon
-B) Haemon
-C) Antigone
-D) Tiresias
-   Answer: C) Antigone
+Answer: A
 
-2. What is the conflict in the play "Antigone" about?
-A) Whether to bury Polyneices or leave his body for the birds
-B) Whether to follow divine law or human law
-C) Whether to support Polyneices or Eteocles
-D) All of the above
-   Answer: B) Whether to follow divine law or human law
+2. What is the conflict in the play Antigone?
+A. The conflict is between Antigone and her desire for revenge.
+B. The conflict is between Antigone and the gods.
+C. The conflict is between Antigone and Creon, the king of Thebes.
+D. The conflict is between Antigone and her family's curse.
 
-3. Who is Creon's advisor in the play "Antigone"?
-A) Haemon
-B) Eurydice
-C) Tiresias
-D) The Chorus
-   Answer: C) Tiresias
+Answer: C
 
-4. What is the tragic flaw of Antigone in the play "Antigone"?
-A) Hubris
-B) Hamartia
-C) Nemesis
-D) Peripeteia
-   Answer: B) Hamartia
+3. What is the significance of the burial of Polynices in the play Antigone?
+A. The burial of Polynices is significant because it is forbidden by Creon, the king of Thebes.
+B. The burial of Polynices is significant because it is required by the gods.
+C. The burial of Polynices is significant because it is the only way to appease his spirit.
+D. The burial of Polynices is significant because it is a political statement.
 
-5. What is the final outcome of the play "Antigone"?
-A) Antigone and Haemon commit suicide
-B) Creon abdicates the throne
-C) Polyneices' body is given a proper burial
-D) The city of Thebes is saved
-   Answer: A) Antigone and Haemon commit suicide
+Answer: A
 
-**Fiszki**
+4. What is the final outcome of the play Antigone?
+A. Antigone is exiled from Thebes.
+B. Antigone is married to Haemon.
+C. Antigone and Creon both commit suicide.
+D. Antigone and Polynices are both buried with full honors.
+
+Answer: C
+
+5. What is the main theme of the play Antigone?
+A. The main theme of the play Antigone is the conflict between the individual and society.
+B. The main theme of the play Antigone is the inevitability of fate.
+C. The main theme of the play Antigone is the power of love.
+D. The main theme of the play Antigone is the dangers of ambition.
+
+Answer: A
+
+**Flashcards:**
 
 1. Antigone
-   Pojęcie: Główna bohaterka tragedii Sofoklesa
-   Definicja: Młoda kobieta, która decyduje się zignorować nakaz króla Kreona i pochować brata Polyneikesa, zostaje za to skazana na śmierć
+Def: The main character in the play Antigone by Sophocles, Antigone is the daughter of Oedipus and Jocasta, and the sister of Polynices.
 
-2. Kreon
-   Pojęcie: Król Thebów
-   Definicja: Postać tragiczna, konflikt z Antygoną w sprawie pogrzebu Polyneikesa
+2. Creon
+Def: The king of Thebes in the play Antigone by Sophocles, Creon is the main antagonist and the uncle of Antigone.
 
-3. Polyneikes
-   Pojęcie: Brat Antygony
-   Definicja: Zginął w walce o władzę w Thebach, jego ciało miało być pozostawione na pastwę psów i ptaków
+3. Theban Civil War
+Def: The civil war between Eteocles and Polynices, the sons of Oedipus, in the play Antigone by Sophocles.
 
-4. Hamartia
-   Pojęcie: Tragiczna wada postaci
-   Definicja: Błąd Antygony, którego konsekwencją była jej śmierć
+4. Political vs. Moral Law
+Def: The central conflict in the play Antigone by Sophocles, as Antigone defies Creon's law against burying Polynices and argues that the gods' laws are greater than man's laws.
 
-5. Tiresias
-   Pojęcie: Wieszcz Thebski
-   Definicja: Pomaga Kreonowi odnaleźć prawdziwą wersję prawdy i uniknąć katastrofy
+5. Tragic Hero
+Def: Antigone can be considered a tragic hero in the play Antigone by Sophocles, as she possesses a fatal flaw (stubbornness) that ultimately leads to her downfall and death.
 
-**Notatki**
+**Short Summary:**
 
-"Antygona" to tragedia grecka autorstwa Sofoklesa, która opowiada historię tytułowej bohaterki, Antygony. Antygona to młoda kobieta, która decyduje się zignorować nakaz króla Kreona i pochować swojego brata Polyneivesa, który zginął w walce o władzę w Thebach. Kreon, król Thebów, postanawia, że ciało Polyneikesa ma być pozostawione na pastwę psów i ptaków, jako kara za zdradę.
-
-Antygona decyduje się ukarać brata, mimo że wie, że to może skończyć się śmiercią. To jej decyzja ilustruje "hamartię" - tragiczną wadę charakteru, która prowadzi do katastrofy. Kreon również popełnia błąd, kiedy decyduje się nie pośłuchać Antygony i pominąć bożego prawa na rzecz prawa ludzkiego.
-
-"Antygona" to typowa tragedia grecka, która kończy się śmiercią wielu postaci, w tym Antygony, Kreona i jego syna Haemona. Jednak tragedia ta jest również studium konfliktu między prawem bożym a prawem ludzkim, a także studium postaci, które próbują zrobić wszystko, aby naprawić błąd.
+In the play Antigone by Sophocles, Antigone is the daughter of Oedipus and Jocasta, and the sister of Polynices. After the Theban Civil War between Polynices and Eteocles, Creon becomes the king of Thebes and forbids the burial of Polynices, considering him a traitor. However, Antigone defies Creon's decree and buries her brother, arguing that the gods' laws are greater than man's laws. Creon condemns Antigone to death, and she hangs herself in the tomb. Haemon, Creon's son and Antigone's fiancé, kills himself upon finding Antigone's body, and Eurydice, Creon's wife, also kills herself upon hearing of Haemon's death. The play is a tragedy that explores the conflict between the individual and society as well as the inevitability of fate and the tragic flaws of its characters.

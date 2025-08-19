@@ -1,56 +1,62 @@
  **Quiz: Balladyna – Streszczenie**
 
-1. Która postaci z Balladyny jest córką czarownicy?
+1. Który z bohaterów Balladyny jest siostrą Kirkora i Grzybowczyka?
+   A. Alina
+   **B. Balladyna**
+   C. Amelia
+   D. Bronka
+
+2. Jakie imię nosi kochanek Balladyny, syn bogatego mieszczanina z Krakowa?
+   A. Fon Kostryń
+   B. Fon Kostrzyn
+   **C. Fon Kostrzyna**
+   D. Fon Kostrzni
+
+3. Który z bohaterów Balladyny zabił swego brata?
+   A. Kirkor
+   **B. Balladyna**
+   C. Grzybowczyk
+   D. Fon Kostrzyna
+
+4. Kogo postanowiła poślubić Balladyna, widząc swój brak szans na uchodźcę z Krakowa?
+   A. Grzybowczyka
+   B. Fon Kostrzyny
+   **C. Kirkora**
+   D. Aliny
+
+5. Kto zabił Balladynę?
    A. Alina
    B. Kirkor
-   C. Gralon
-   D. Balladyna
-   **Poprawna odpowiedź: D. Balladyna**
-
-2. Który akt Balladyny kończy się morderstwem Aliny?
-   A. Akt I
-   B. Akt II
-   C. Akt III
-   D. Akt IV
-   **Poprawna odpowiedź: B. Akt II**
-
-3. Kto zabija Gralona w Balladynie?
-   A. Balladyna
-   B. Alina
-   C. Fon Kostryn
-   D. Kirkor
-   **Poprawna odpowiedź: A. Balladyna**
-
-4. Kto zostaje końcowym zwycięzcą w Balladynie?
-   A. Kirkor
-   B. Fon Kostryn
-   C. Maciej
-   D. Popiel
-   **Poprawna odpowiedź: A. Kirkor**
-
-5. Kto jest prawdziwym ojcem Aliny i Balladyny w Balladynie?
-   A. Fon Kostryn
-   B. Kirkor
-   C. Popiel
-   D. Maciej
-   **Poprawna odpowiedź: B. Kirkor**
+   C. Grzybowczyk
+   **D. Gnom**
 
 ---
 
 **Fiszki: Balladyna – Streszczenie**
 
-1. **Balladyna** – tytułowa bohaterka Balladyny, córka czarownicy, która poślubia Fona Kostryna i zabija swoją siostrę Alinę.
-2. **Alina** – siostra Balladyny, która jest zakochana w Fonie Kostrynie i zostaje przez nią zamordowana.
-3. **Fon Kostryn** – rycerz, który poślubia Balladynę, nie wiedząc, że to ona zabiła Alinę.
-4. **Kirkor** – ojciec Balladyny i Aliny, którego żona próbuje zabić w początkowej scenie Balladyny.
-5. **Popiel** – król, który chce poślubić Alinę, ale zostaje zabity przez Balladynę.
+1. **Balladyna**
+: :   Postać tytułowa Balladyny, siostra Kirkora i Grzybowczyka. Pochodzi z biednej rodziny, dąży do bogactwa i władzy za wszelką cenę.
+
+2. **Kirkor**
+: :   Ojciec Aliny, brat Balladyny i Grzybowczyka. Wierny i szlachetny mężczyzna o walorach rycerskich.
+
+3. **Fon Kostrzyna**
+: :   Uchodźca z Krakowa, kochanek Balladyny. Syn bogatego mieszczanina, który popadł w niełaskę u dworu królewskiego.
+
+4. **Grzybowczyk**
+: :   Brat Balladyny i Kirkora, ubogi szlachcic. Pragnie ożenić się z bogatą Aliną i zapewnić sobie lepsze życie.
+
+5. **Gnom**
+: :   Mieszkaniec lasu, przyjaciel Aliny. Ściął gałązkę z Drzewa Łez, przez co został przeklęty.
 
 ---
 
-**Krótkie notatki: Streszczenie Balladyny**
+**Krótkie notatki: Balladyna – Streszczenie**
 
-Balladyna to tragedia napisana przez Juliusza Słowackiego. Główną bohaterką jest Balladyna, córka czarownicy, która zabija swoją siostrę Alinę, by poślubić Fona Kostryna. Alina i Fon Kostryn byli w sobie zakochani, ale Alina nie miała odwagi wyjawić swych uczuć. Balladyna, zakochana w Fonie Kostrynie, postanawia zabić siostrę i zostać żoną Fona.
+Balladyna to trzyaktowa tragedia napisana przez Juliusza Słowackiego w 1834 roku. Akcja utworu rozgrywa się w czasach legendarnych, a przedstawiona historia jest mieszanką elementów baśniowych i romantycznych.
 
-Kirkor, ojciec Balladyny i Aliny, zostaje ocalony przez Macieja, który jest w nim zakochany. Początkowo Kirkor nie wie, kto go ocalił, ale później odkrywa to i dziękuje Maciejowi. Popiel, król, chce poślubić Alinę, ale Balladyna nie pozwala na to. Kiedy Popiel zostaje zabity, Balladyna podejrzewana jest o to morderstwo.
+Główną bohaterką Balladyny jest postać tytułowa – Balladyna, która dąży do władzy i bogactwa, nie szczędząc sił i środków, by go osiągnąć. Jej brat, Kirkor, jest szlachetnym rycerzem, który ma córkę, Alinę. Alina i Grzybowczyk, drugi z braci Balladyny, są zakochani w sobie. Jednakże Balladyna również zakochuje się w Grzybowczyku, co rodzi nie lada kłopot.
 
-Na końcu sztuki Balladyna zostaje zabita przez Fona Kostryna, a Kirkor zostaje królem. Sztuka kończy się jego pojednaniem z Maciejem. Balladyna to piękna, ale bezwzględna kobieta, która poślubiła bogatego mężczyznę i zabiła swoją siostrę, by to zrobić. Jest to tragedia, która kończy się śmiercią większości głównych bohaterów.
+Pragnąc spallać konkurentkę, Balladyna postanawia pozbawić ją życia. Udaje się do studni, aby zatruć kieliszek wody, mając nadzieję, że Alina to właśnie go wypije, lecz po drodze trafia do niej jej brat Kirkor, który umiera w wyniku zatrucia. Nad sceną pochopu przychodzi Fon Kostrzyna – uchodźca z Krakowa, którego Balladyna poznaje i z którą nawiązuje romans.
+
+W finale Balladyna prowadzi swój plan do końca – poślubia Fona Kostrzynę i zostaje w ten sposób królową. Jednakże jej niegodziwe poczynania nie pozostają bez żadnych konsekwencji. Podsłuchawszy rozmowę sióstr, Gnom postanawia zabić Balladynę. W ostatniej scenie tragedii, Gnom zabija Balladynę. Utwór kończy się dialogiem między Gnomem a Fonem Kostrzyną, informującym widzów o męczeńskiej śmierci Aliny.
