@@ -1,0 +1,25 @@
+name: Generate Content
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"     # co 6 godzin
+  workflow_dispatch:          # <-- dzięki temu możesz uruchamiać ręcznie!
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm install node-fetch marked
+      - run: node generator/generate.js
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      - run: node generator/md2html.js
+      - run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Add new generated content" || echo "No new content"
+          git push
