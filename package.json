@@ -1,0 +1,9 @@
+{
+  "name": "edu-factory",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "marked": "^9.0.3"
+  }
+}
