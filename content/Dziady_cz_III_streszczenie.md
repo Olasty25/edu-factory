@@ -3,70 +3,68 @@
 1. Who is the main character of "Dziady" Part III?
    A. Gustaw
    B. Konrad
-   C. Pan Tadeusz
-   D. Henryk
+   C. Pilot Wiktor
+   D. Pan Twardowski
 
    Answer: A
 
-2. What is the significance of the titular "Dziady" in the third part of the drama?
-   A. It represents the ancient Slavic feast of the dead
-   B. It is the name of the main character's ancestral home
-   C. It is a metaphor for the suffering of the Polish people
-   D. It is the name of a secret political organization
-
-   Answer: A
-
-3. What is Gustaw's relationship to Konrad in "Dziady" Part III?
-   A. They are twin brothers
-   B. They are father and son
-   C. They are close friends
-   D. They are alter egos of the same person
-
-   Answer: D
-
-4. What is the role of Guzek in the drama?
-   A. He is a political activist
-   B. He is a servant in Gustaw's household
-   C. He is a symbol of the Polish people's struggle for independence
-   D. He is a traitor who betrays Gustaw
-
-   Answer: C
-
-5. What is the fate of Gustaw and Konrad at the end of "Dziady" Part III?
-   A. They are reunited with their loved ones in the afterlife
-   B. They are killed in a revolution
-   C. They go into exile
-   D. They achieve their goal of liberating Poland
+2. Which act of "Dziady" Part III takes place in a madhouse?
+   A. Act I
+   B. Act II
+   C. Act III
+   D. Act IV
 
    Answer: B
 
-**Flashcards**
+3. Who is the author of "Dziady" Part III?
+   A. Adam Mickiewicz
+   B. Juliusz Słowacki
+   C. Stanisław Wyspiański
+   D. Cyprian Norwid
 
-1. Dziady
-   Ancient Slavic feast of the dead
+   Answer: C
 
-2. Gustaw
-   Main character; alter ego of Konrad
+4. What does Gustaw plan to do in the last scene of the play?
+   A. To kill himself
+   B. To save Konrad
+   C. To leave for the island of Corfu
+   D. To call the devil
 
-3. Konrad
-   Main character; alter ego of Gustaw
+   Answer: C
 
-4. Guzek
-   Symbol of the Polish people's struggle for independence
+5. Which character is considered to be the embodiment of the Polish spirit?
+   A. Gustaw
+   B. Konrad
+   C. Pilot Wiktor
+   D. Guest
 
-5. Black Mass
-   Occult ritual performed by Gustaw and Konrad
+   Answer: A
 
-**Notes**
+---
 
-"Dziady" Part III is a romantic drama written by Adam Mickiewicz, a prominent Polish poet and playwright. The play is set in the early 19th century, during the period of the Polish Partitions, when Poland was divided and ruled by neighboring empires.
+**Fiszki**
 
-The main character of the play is Gustaw, who is revealed to be an alter ego of Konrad, another character in the drama. Gustaw is portrayed as a rebellious and passionate young man who is determined to fight for Poland's independence.
+1. **Gustaw**
+   Postać autorska Adama Mickiewicza, kluczowy bohater "Dziadów" III. Poeta romantyczny, ekscentryk i enfant terrible.
 
-The titular "Dziady" is an ancient Slavic feast of the dead, which is celebrated in the play as a way of honoring ancestors and the departed. The feast is also used as a metaphor for the suffering of the Polish people and their longing for freedom.
+2. **Konrad**
+   Postać autorska Adama Mickiewicza, kluczowy bohater "Dziadów" III. Symbolizuje on młodego pokolenia Polaków, które jest pozbawione wolności.
 
-The play features several other notable characters, including Guzek, who symbolizes the Polish people's struggle for independence, and Zosia, a young woman who becomes involved in Gustaw and Konrad's revolutionary activities.
+3. **Pilot Wiktor**
+   Postać z "Dziadów" III. Reprezentuje on postawę apolityczną i unika zaangażowania się w sprawy narodowe.
 
-The drama is known for its poetic language, rich symbolism, and powerful emotional intensity. It has been interpreted in various ways, as a call to arms for political activism, a meditation on the nature of death and the afterlife, and a reflection on the human condition.
+4. **Madhouse**
+   Miejsce, w którym rozgrywa się część drugiego aktu "Dziadów" III. Symbolizuje on ciemiężenie i ucisk, który dotyka młode pokolenie Polaków.
 
-Despite its historical and cultural significance, "Dziady" Part III remains a challenging and thought-provoking work, with deep insights into the human experience and the struggle for freedom and self-determination.
+5. **Island of Corfu**
+   Symboliczne miejsce, do którego planuje udać się Gustaw. Oznacza izolację od świata i wycofanie się z zaangażowania w sprawy narodowe.
+
+---
+
+**Notatki**
+
+"Dziady" Part III to dramat napisany w 1832 roku przez Adama Mickiewicza. Jest to ostatnia część trylogii "Dziadów" i uważana za jedną z najbardziej oryginalnych i innowacyjnych prac autora. Rozgrywa się ona w różnych miejscach, m.in. w madhouse, w którym przebywają główni bohaterowie, Gustaw i Konrad oraz na cmentarzu, gdzie odbywa się uroczystość dziadów.
+
+Gustaw i Konrad są postaciami autorskimi, które symbolizują odmienne podejścia do sytuacji, w jakiej znajduje się Polska. Gustaw, który reprezentuje postawę bierną, planuje udać się na wyspę Corfu, by uniknąć zaangażowania w walkę o polską wolność. Konrad, który symbolizuje bunt przeciwko uciskowi, staje się ofiarą szaleńczego szaleńca, który symbolizuje ciemiężenie i ucisk, który dotyka młode pokolenie Polaków.
+
+W "Dziadach" III Mickiewicz używa licznych symboli, takich jak szalony chłop, który symbolizuje zapanowanie chaosu lub utraconą koronę Królestwa Polskiego, aby zwrócić uwagę na trudną sytuację, w jakiej znajduje się Polska. Jest to dzieło bardzo wyraziste i pełne wartości symbolicznych, które wciąż jest aktualne i wzbudza refleksję nad sytuacją polityczną w Polsce.

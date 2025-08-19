@@ -1,72 +1,71 @@
- **Quiz: „Lalka” - Summary**
+ **Quiz: Lalka – Summary**
 
-1. Who is the author of the novel „Lalka”?
-A. Stefan Zeromski
-B. Bolesław Prus
-C. Henryk Sienkiewicz
-D. Eliza Orzeszkowa
-
-Answer: B. Bolesław Prus
-
-2. What does the title „Lalka” mean?
-A. The Doll
-B. The Puppet
-C. The Mannequin
-D. The Figure
-
-Answer: A. The Doll
-
-3. Who is the main character of the novel?
-A. Stanisław Wokulski
-B. Izabela Łęcka
-C. Tomasz Szablewski
-D. Wacław Ruszczyc
-
-Answer: A. Stanisław Wokulski
-
-4. When was the novel „Lalka” published?
-A. 1887
-B. 1890
-C. 1895
-D. 1889
-
-Answer: A. 1887
-
-5. What is the main theme of the novel „Lalka”?
-A. Love and social class
-B. Betrayal and revenge
-C. Power and corruption
-D. Ambition and success
-
-Answer: A. Love and social class
+1. Who is the main character of the novel "Lalka" by Bolesław Prus?
+A. Sztygar Stasiek
+B. Wokulski
+C. Izabela Łęcka
+D. Marynia
+  
+2. What is the profession of Stanisław Wokulski?
+A. Writer
+B. Doctor
+C. Businessman
+D. Artist
+  
+3. What is the relationship between Wokulski and Izabela Łęcka?
+A. Friends
+B. Teacher and student
+C. Lovers
+D. Enemies
+  
+4. What is the symbol of the novel "Lalka"?
+A. The doll
+B. The shop
+C. The ball
+D. The diamond
+  
+5. How does the novel end?
+A. Wokulski and Izabela get married.
+B. Wokulski dies in a duel.
+C. Wokulski becomes rich and famous.
+D. Wokulski becomes depressed and dies.
 
 ---
 
-**5 Fiszek - Pojęcia i Definicje**
+**Flashcards: Lalka – Summary**
 
-1. **Tytuł** - Lalka
-Definicja: The title refers to the main character, Stanisław Wokulski, who is often described as a doll due to his inability to express his emotions.
+1. Stanisław Wokulski
+   - Main character of the novel.
+   - Businessman and scientist.
+   - In love with Izabela Łęcka.
 
-2. **Autor** - Bolesław Prus
-Definicja: Bolesław Prus was a Polish novelist and journalist, considered one of the greatest Polish writers. He is best known for his novels „Lalka” and „Faraon”.
+2. Izabela Łęcka
+   - A beautiful and rich young woman.
+   - The object of Wokulski's affection.
+   - Marries a much older man for money.
 
-3. **Główny bohater** - Stanisław Wokulski
-Definicja: A wealthy businessman who falls in love with Izabela Łęcka, a young woman from the aristocracy, but his love is unrequited due to the social class differences.
+3. The Doll
+   - A symbol of artifice and superficiality.
+   - Represents Izabela's lack of genuine feeling for Wokulski.
 
-4. **Temat przewodni** - Miłość i klasa społeczna
-Definicja: The main theme of the novel is the relationship between love and social class, as expressed through the unrequited love of Stanisław Wokulski for Izabela Łęcka.
+4. The Shop
+   - Wokulski's place of business.
+   - Represents Wokulski's desire for security and success.
 
-5. **Rok publikacji** - 1887
-Definicja: The novel was first published in installments in the „Kurier Codzienny” newspaper between 1887 and 1889, and then as a complete book in 1889.
+5. The Diamond
+   - A symbol of wealth and materialism.
+   - Represents the values of the Polish aristocracy.
 
 ---
 
-**Krótkie notatki o „Lalce” Bolesława Prusa**
+**Notes: Lalka – Summary**
 
-„Lalka” (The Doll) is a novel written by Bolesław Prus, one of the greatest Polish writers. The novel was first published in installments in the „Kurier Codzienny” newspaper between 1887 and 1889, and then as a complete book in 1889.
+"Lalka" (The Doll) is a novel by Bolesław Prus, published in 1889. It is a complex work of social realism, exploring the themes of materialism, morality, and the conflict between tradition and modernity in 19th century Poland.
 
-The title of the novel refers to the main character, Stanisław Wokulski, who is often described as a doll due to his inability to express his emotions. Wokulski is a wealthy businessman who falls in love with Izabela Łęcka, a young woman from the aristocracy. However, his love is unrequited due to the social class differences and the superficiality of the aristocracy.
+The main character of the novel is Stanisław Wokulski, a self-made businessman and scientist. He becomes infatuated with Izabela Łęcka, a beautiful young woman from a wealthy and aristocratic family. Despite his love for Izabela, Wokulski is unable to bridge the gap between their two worlds.
 
-The main theme of the novel is the relationship between love and social class. The novel critiques the aristocracy for their superficiality and lack of morals, while also portraying the struggles of the middle class to ascend to the aristocracy. Through the character of Wokulski, Prus explores the tensions between individual desire and social expectations.
+The novel explores the superficiality and artifice of the Polish aristocracy, as represented by the symbol of the doll. Wokulski's infatuation with Izabela is a form of self-delusion, as she is ultimately unattainable and unworthy of his love.
 
-The novel has been praised for its realistic depiction of 19th century Poland, as well as its psychological insights into the human condition. It has been adapted into several films and television series, and remains a beloved classic in Polish literature.
+The novel also explores the themes of materialism and morality. Wokulski's desire for success and security leads him to make compromises, both ethical and personal. In the end, he is left alone and disillusioned, as the values of the aristocracy prove to be shallow and unsatisfying.
+
+"Lalka" is a powerful critique of the materialistic values of 19th century Polish society, and a poignant exploration of the human desire for love and connection. It remains one of the most enduring works of Polish literature.
