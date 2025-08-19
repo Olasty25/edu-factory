@@ -5,13 +5,32 @@ import fetch from "node-fetch";
 const API_KEY = process.env.OPENROUTER_API_KEY;
 
 // Wczytanie fraz z pliku topics.txt
+// Wczytaj listę fraz
 const topics = fs.readFileSync("topics.txt", "utf8")
   .split("\n")
   .map(x => x.trim())
   .filter(Boolean);
 
-// Bierzemy batch pierwszych 5 tematów (później można dodać rotację)
-const batch = topics.slice(0, 5);
+// Wczytaj stan z poprzedniego uruchomienia
+let index = 0;
+const stateFile = "state.json";
+if (fs.existsSync(stateFile)) {
+  const state = JSON.parse(fs.readFileSync(stateFile, "utf8"));
+  index = state.index;
+}
+
+// Weź następne 5 tematów
+const batchSize = 5;
+const batch = topics.slice(index, index + batchSize);
+
+// Jeśli dojechaliśmy do końca listy → zacznij od nowa
+let newIndex = index + batchSize;
+if (newIndex >= topics.length) {
+  newIndex = 0;
+}
+
+// Zapisz nowy stan
+fs.writeFileSync(stateFile, JSON.stringify({ index: newIndex }), "utf8");
 
 async function generateContent(topic) {
   const prompt = `
