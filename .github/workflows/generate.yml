@@ -2,28 +2,38 @@ name: Generate Content
 
 on:
   schedule:
-    - cron: "0 */6 * * *"     # co 6 godzin
-  workflow_dispatch:          # <-- dzięki temu możesz uruchamiać ręcznie!
+    - cron: "0 */6 * * *"   # ⏰ co 6 godzin
+  workflow_dispatch:        # ▶️ ręczne uruchomienie
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
         with:
-          persist-credentials: true
-      - uses: actions/setup-node@v3
+          persist-credentials: true   # ważne, żeby dało się pushować
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: 18
-      - run: npm install node-fetch marked
-      - run: node generator/generate.js
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run generator (create Markdown)
+        run: node generator/generate.js
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-      - run: node generator/md2html.js
-      - run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+
+      - name: Convert Markdown to HTML
+        run: node generator/md2html.js
+
       - name: Commit generated content
-          run: |
+        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add content/ public/ || echo "No directories to add"
