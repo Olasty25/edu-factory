@@ -16,7 +16,7 @@ jobs:
 
       - run: npm install node-fetch marked
 
-      - run: node generator/generate.js "Balladyna streszczenie"
+      - run: node generator/generate.js 
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
 
