@@ -1,50 +1,60 @@
- **Quiz (5 pytań ABCD z poprawną odpowiedzią zaznaczoną)**
+ 1. Quiz
 
-1. Który pisarz jest autorem „Lalki”?
-A. Bolesław Prus
-B. Stefan Żeromski
-C. Henryk Sienkiewicz
-D. Stanisław Wyspiański
-*A. Bolesław Prus*
-2. Kogo zakochuje się główna bohaterka, dziewczynka imieniem Ewa?
-A. Wacława
-B. Staśka
-C. Nowicenka
-D. Władka
-*A. Wacława*
-3. Jakie imię ma sługa rodziny Rubensów?
-A. Tomasz
-B. Ignacy
-C. Tadeusz
-D. Józef
-*B. Ignacy*
-4. Gdzie odnajduje Ewa zabawkową lalkę, która nabrała życia?
-A. Na ulicy
-B. W sklepie z zabawkami
-C. W lesie
-D. U znajomych
-*C. W lesie*
-5. Jaki pseudonim używa pisarz, aby publikować swoje teksty?
-A. Bolesław
-B. Pruski
-C. Bolesław Pruski
-D. Prus
-*D. Prus*
+Question 1/5: Who is the protagonist of "The Doll" by Bolesław Prus?
+A) A young woman
+B) A soldier
+C) A merchant
+D) A child
+Answer: D) A child
 
-**5 fiszek (pojęcie → definicja)**
+Question 2/5: What is the name of the doll in "The Doll" by Bolesław Prus?
+A) Ewa
+B) Izabela
+C) Wanda
+D) Hania
+Answer: A) Ewa
 
-- **Bohaterka** – Ewa Rubensówna, dziewczynka z bogatej rodziny, która poznaje zabawkę, która ożyła i staje się jej przyjaciółką.
-- **Ojciec** – profesor Rubens, ojciec głównej bohaterki, przyjazny, akceptujący zachowanie córki.
-- **Lalka** – tytułowa lalka, która ożyła i stała się przyjaciółką Ewy.
-- **Staś** – starszy brat głównej bohaterki, postać pewna siebie, czasem arogancka, ale ciepła i oddana swojej rodzinie.
-- **Pseudonim** – Bolesław Prus, pseudonim literacki pisarza, który używał go, aby publikować swoje teksty.
+Question 3/5: What is the profession of Stanisław Wokulski, the main character's love interest in "The Doll"?
+A) A writer
+B) A doctor
+C) A scientist
+D) A merchant
+Answer: D) A merchant
 
-**Krótkie notatki (max 250 słów)**
+Question 4/5: Who gives the doll named Ewa to the main character?
+A) His mother
+B) His aunt
+C) His tutor
+D) His friend
+Answer: C) His tutor
 
-„Lalka” to powieść Bolesława Prusa, wydana w 1889 roku. Główną bohaterką jest Ewa Rubensówna, dziewczynka z bogatej rodziny. Losy Ewy i rodziny Rubensów opisane są w sposób realistyczny, pokazujący życie w starej Warszawie. Głównym wydarzeniem w powieści jest znalezienie przez Ewę w lesie zabawkowej lalki, która ożyła i stała się jej przyjaciółką.
+Question 5/5: Why does the main character, Witołd, fall in love with Izabela?
+A) She is kind and caring
+B) She is wealthy and of high social status
+C) She is intelligent and educated
+D) She is beautiful and graceful
+Answer: B) She is wealthy and of high social status
 
-Lalka, w porównaniu z Ewą, ma bardzo małe doświadczenie z światem. Ewa uczy lalkę współczucia, uczuć i jak być człowiekiem. Przeszłość i obecność lalki są okresem tworzenia się jej osobowości i postrzegania świata. Ewa i lalka to dwoje rówieśników, których relacja pokazuje miłość, przyjaźń i wspólne doświadczenia.
+2. Flashcards
 
-W powieści można znaleźć dużo tematów i zagadnień, takich jak problemy życia w społeczeństwie kapitalistycznym, emancypacji kobiet, a także relacji międzyludzkich w społeczeństwie.
+| Concept | Definition |
+| --- | --- |
+| Protagonist | The main character in a story, who is often faced with challenges or conflicts. |
+| Izabela | A character in "The Doll" by Bolesław Prus, who is the love interest of the main character, Witołd. |
+| Stanisław Wokulski | A character in "The Doll" by Bolesław Prus, who is a successful merchant and the love interest of the protagonist's cousin, Izabela. |
+| Tutor | A person who is hired to teach someone, often in a particular subject or skill. |
+| Social Status | The position or rank of a person in society, often determined by factors such as wealth, education, and occupation. |
 
-„Lalka” to jedna z najwybitniejszych powieści w literaturze polskiej, ceniona za bogatą warstwę psychologiczną i opis realiów życia w starej Warszawie.
+3. Short Notes
+
+"The Doll" by Bolesław Prus is a novel about a young man named Witołd, who falls in love with a woman named Izabela. However, their love is complicated by the fact that Izabela is from a higher social class than Witołd, and he is uncertain whether she will return his affections.
+
+The novel is set in 19th century Poland, and it explores themes of class, power, and the role of women in society. It is named "The Doll" because a doll played by the protagonist's cousin, who is also named Izabela, serves as a symbol of the protagonist's idealized vision of the woman he loves.
+
+The protagonist, Witołd, is a young man who is intelligent and sensitive, but he is also naive and idealistic. He is infatuated with Izabela, and he is willing to do anything to win her heart. However, he often misunderstands her motives and actions, and this leads to misunderstandings and conflicts.
+
+Izabela, the object of Witołd's affections, is a complex character who is both admired and criticized in the novel. She is praised for her beauty and grace, but she is also criticized for her superficiality and her obsession with social status. She is a woman who is caught between two worlds: the traditional, patriarchal society of 19th century Poland, and the modern, liberal ideas that are beginning to emerge.
+
+The novel also features a number of other interesting characters, including the protagonist's tutor, who gives him a doll named Ewa, and Stanisław Wokulski, a successful merchant who is also in love with Izabela. Through these characters, the novel explores themes of love, class, and the role of women in society.
+
+In conclusion, "The Doll" is a complex and thought-provoking novel that offers a rich, multilayered portrait of 19th century Poland, and the social, political, and cultural issues that shaped the era. It is a novel that challenges readers to think deeply about the nature of love, the role of women, and the impact of social class on our lives and relationships.
