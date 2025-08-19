@@ -4,9 +4,8 @@ import { marked } from "marked";
 const contentDir = "content";
 const publicDir = "public";
 
-// sprawdź, czy mamy jakieś treści
 if (!fs.existsSync(contentDir)) {
-  console.error("⚠️ Brak katalogu content/ – nie wygenerowano żadnych plików .md");
+  console.error("⚠️ Brak content/ – nie wygenerowano Markdownów.");
   process.exit(0);
 }
 
@@ -21,16 +20,12 @@ files.forEach((file) => {
 
     const out = `
     <html>
-      <head>
-        <meta charset="utf-8">
-        <title>${file.replace(".md", "")}</title>
-      </head>
-      <body>
-        ${html}
-      </body>
+      <head><meta charset="utf-8"><title>${file}</title></head>
+      <body>${html}</body>
     </html>
     `;
 
+    // zapis do public/
     fs.writeFileSync(`${publicDir}/${file.replace(".md", ".html")}`, out, "utf8");
     console.log("✔ Skonwertowano →", file.replace(".md", ".html"));
   }
