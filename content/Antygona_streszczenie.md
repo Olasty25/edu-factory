@@ -1,57 +1,69 @@
- **Quiz:**
+ **Quiz**
 
-1. Who is Antigone in Greek mythology?
-   A. A queen of Athens
-   B. The daughter of Oedipus, king of Thebes (*Correct*)
-   C. A famous Greek poet
-   D. A goddess of love
+1. Who is the main character in the play "Antigone" by Sophocles?
+   a) Oedipus
+   b) Creon
+   c) Antigone
+   d) Haemon
+   Answer: c) Antigone
 
-2. What is the main theme of the play "Antigone" by Sophocles?
-   A. Love and sacrifice
-   B. The conflict between divine law and human law (*Correct*)
-   C. The tragedy of fate
-   D. Revenge
+2. What is the central conflict in "Antigone"?
+   a) Man versus man
+   b) Man versus self
+   c) Man versus society
+   d) Man versus nature
+   Answer: a) Man versus man
 
-2. Who is the ruler of Thebes in "Antigone"?
-   A. Oedipus
-   B. Creon (*Correct*)
-   D. Laius
+3. What is Antigone's punishment for disobeying Creon's decree?
+   a) Imprisonment
+   b) Exile
+   c) Death
+   d) Blindness
+   Answer: c) Death
 
-4. What fate befalls Antigone in the end of the play?
-   A. She is exiled from Thebes
-   B. She dies by her own hand (*Correct*)
-   C. She is married to Haemon
-   D. She becomes the queen of Thebes
+4. Who tries to persuade Creon to change his mind about Antigone's punishment?
+   a) Tiresias
+   b) Haemon
+   c) The Chorus
+   d) Antigone
+   Answer: b) Haemon
 
-5. Who tries to bury Polyneices, Antigone's brother, against the order of Creon?
-   A. Ismene
-   B. Haemon
-   C. Eurydice
-   D. Antigone (*Correct*)
+5. What is the final outcome of the conflict between Antigone and Creon?
+   a) Creon is overthrown
+   b) Antigone is pardoned
+   c) Both Antigone and Creon die
+   d) The dispute is resolved peacefully
+   Answer: c) Both Antigone and Creon die
 
-**Flashcards:**
+---
+
+**Fiszki**
 
 1. Antigone
-   - The daughter of Oedipus, king of Thebes
+   Definicja: The main character and protagonist in Sophocles' play "Antigone". She is the daughter of Oedipus and Jocasta, and the sister of Polynices, Eteocles, and Ismene.
 
 2. Creon
-   - The ruler of Thebes in the play "Antigone" by Sophocles
+   Definicja: The king of Thebes in "Antigone". He is a tragic hero who faces a difficult decision that ultimately leads to his downfall.
 
-3. Polyneices
-   - One of the sons of Oedipus, who Antigone tries to bury against the order of Creon
+3. Tragic Hero
+   Definicja: In Greek tragedy, a tragic hero is a protagonist with a fatal flaw that eventually leads to his downfall. Creon is an example of a tragic hero in "Antigone".
 
-4. Divine law
-   - Laws that are considered to be of divine origin
+4. Hubris
+   Definicja: Hubris is an excessive pride or self-confidence that often leads to the downfall of the tragic hero. Creon's hubris is exemplified by his refusal to listen to others and his insistence on enforcing his decree.
 
-5. Human law
-   - Laws made by humans and enforced by human authorities
+5. Irony
+   Definicja: Irony is a literary device where the outcome of an action is different from what was anticipated. In "Antigone", the ironic outcome of Creon's decree is the death of not only Antigone but also of his own son, Haemon.
 
-**Notatki:**
+---
 
-"Antigone" is a tragedy by the ancient Greek playwright Sophocles, written around 441 BC. The play tells the story of Antigone, the daughter of Oedipus, king of Thebes. When Oedipus' sons, Eteocles and Polyneices, kill each other in a battle for the throne, their uncle Creon becomes the new ruler of Thebes. Creon decrees that Eteocles will be honored with a proper burial, while the body of Polyneices will be left outside the city walls to be eaten by animals, as a warning against treason.
+**Krótkie notatki**
 
-Antigone defies Creon's order and tries to bury her brother, considering it to be her duty as a sister and a religious obligation. She believes that divine laws, which require her to bury her brother, take precedence over human laws made by Creon. Antigone is caught, and Creon pronounces the death penalty for her.
+"Antigone" is a tragedy written by Sophocles, a prominent Greek playwright. The play is named after the protagonist, Antigone, who faces a moral dilemma when her brother, Polynices, is denied proper burial by their uncle, Creon, the king of Thebes.
 
-The play explores the conflict between divine law and human law and the tragic consequences of this conflict for both Antigone and Creon. Antigone's unwavering commitment to her principles and her refusal to compromise her beliefs lead to her death, while Creon's stubbornness results in the loss of his son and his wife, as well as the downfall of his rule.
+Antigone decides to bury her brother, despite Creon's decree, and faces the consequences of her actions when she is caught and sentenced to death. Creon's obstinacy is a result of his hubris and his inability to see the error of his ways, leading to the downfall of both Antigone and Creon.
 
-"Antigone" is a powerful exploration of the themes of morality, ethics, and the limits of human authority, making it one of the most enduring and thought-provoking plays in Western literature.
+The conflict in "Antigone" is primarily between Antigone, who believes Creon's decree is unjust and immoral, and Creon, who is determined to maintain his authority and uphold his laws. The Chorus, a group of elder Thebans in the play, acts as a moral compass, providing commentary on the action and attempting to persuade Creon to change his mind.
+
+Ultimately, Creon realizes his mistake too late, and both Antigone and his own son, Haemon, who is engaged to Antigone, are dead. The play highlights the dangers of hubris and the importance of upholding morality and justice in the face of unjust laws.
+
+In "Antigone", Sophocles explores several themes, including the conflict between state laws and individual morality, the role of the gods in human affairs, and the limitations of human authority and power. The play is an enduring masterpiece of Greek tragedy and has inspired numerous adaptations and interpretations throughout history.

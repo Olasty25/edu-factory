@@ -2,57 +2,71 @@
 
 1. Who is the main character of "Dziady" Part III?
    A. Gustaw
-   **B.** Konrad
-   C. Wacław
-   D. Pan Twardowski
+   B. Konrad
+   C. Pan Tadeusz
+   D. Henryk
 
-2. What is the role of the Old Cemetery in the play?
-   A. It is a place where the protagonist meets with the dead.
-   **B.** It is a symbol of the past and tradition.
-   C. It is where the protagonist's grave is located.
-   D. It is a setting for the final scene of the play.
+   Answer: A
 
-3. Who is the author of "Dziady" Part III?
-   A. Juliusz Słowacki
-   **B.** Adam Mickiewicz
-   C. Stanisław Wyspiański
-   D. Cyprian Norwid
+2. What is the significance of the titular "Dziady" in the third part of the drama?
+   A. It represents the ancient Slavic feast of the dead
+   B. It is the name of the main character's ancestral home
+   C. It is a metaphor for the suffering of the Polish people
+   D. It is the name of a secret political organization
 
-4. What is the significance of the number three in the play?
-   A. It represents the Holy Trinity.
-   **B.** It symbolizes the three stages of life: birth, life, and death.
-   C. It refers to the three main characters.
-   D. It is a recurring element in Mickiewicz's poetry.
+   Answer: A
 
-5. What is the message of the play "Dziady" Part III?
-   A. The importance of remembering and honoring the past.
-   **B.** The power of tradition and its influence on the present.
-   C. The inevitability of death.
-   D. The conflict between the old and the new.
+3. What is Gustaw's relationship to Konrad in "Dziady" Part III?
+   A. They are twin brothers
+   B. They are father and son
+   C. They are close friends
+   D. They are alter egos of the same person
 
-**Fiszki**
+   Answer: D
 
-1. Konrad
-   Definicja: The main character of "Dziady" Part III, a young man who communicates with the dead.
+4. What is the role of Guzek in the drama?
+   A. He is a political activist
+   B. He is a servant in Gustaw's household
+   C. He is a symbol of the Polish people's struggle for independence
+   D. He is a traitor who betrays Gustaw
 
-2. Old Cemetery
-   Definicja: A symbol of the past and tradition, a setting for several scenes in the play.
+   Answer: C
 
-3. Adam Mickiewicz
-   Definicja: The author of "Dziady" Part III, a renowned Polish Romantic poet and playwright.
+5. What is the fate of Gustaw and Konrad at the end of "Dziady" Part III?
+   A. They are reunited with their loved ones in the afterlife
+   B. They are killed in a revolution
+   C. They go into exile
+   D. They achieve their goal of liberating Poland
 
-4. Number Three
-   Definicja: A recurring element in the play, symbolizing the three stages of life or the Holy Trinity.
+   Answer: B
 
-5. Message
-   Definicja: The importance of remembering and honoring the past, the power of tradition and its influence on the present.
+**Flashcards**
 
-**Krótkie notatki**
+1. Dziady
+   Ancient Slavic feast of the dead
 
-"Dziady" Part III is a play by Adam Mickiewicz, a renowned Polish Romantic poet and playwright. The main character of the play is Konrad, a young man who communicates with the dead in the Old Cemetery, a symbol of the past and tradition.
+2. Gustaw
+   Main character; alter ego of Konrad
 
-The number three is a recurring element in the play, symbolizing the three stages of life: birth, life, and death, or the Holy Trinity. The play highlights the importance of remembering and honoring the past and the power of tradition and its influence on the present.
+3. Konrad
+   Main character; alter ego of Gustaw
 
-Mickiewicz's use of language and imagery creates a vivid and powerful portrayal of Konrad's journey into the world of the dead and his encounters with the spirits of the past. The play is a masterpiece of Polish literature and a powerful exploration of the human condition.
+4. Guzek
+   Symbol of the Polish people's struggle for independence
 
-The message of the play is that the past is always present and should be remembered and honored. The traditions and values of the past shape the present and should be passed down to future generations. The play is a call to remember and preserve the past, to honor the dead, and to appreciate the power of tradition.
+5. Black Mass
+   Occult ritual performed by Gustaw and Konrad
+
+**Notes**
+
+"Dziady" Part III is a romantic drama written by Adam Mickiewicz, a prominent Polish poet and playwright. The play is set in the early 19th century, during the period of the Polish Partitions, when Poland was divided and ruled by neighboring empires.
+
+The main character of the play is Gustaw, who is revealed to be an alter ego of Konrad, another character in the drama. Gustaw is portrayed as a rebellious and passionate young man who is determined to fight for Poland's independence.
+
+The titular "Dziady" is an ancient Slavic feast of the dead, which is celebrated in the play as a way of honoring ancestors and the departed. The feast is also used as a metaphor for the suffering of the Polish people and their longing for freedom.
+
+The play features several other notable characters, including Guzek, who symbolizes the Polish people's struggle for independence, and Zosia, a young woman who becomes involved in Gustaw and Konrad's revolutionary activities.
+
+The drama is known for its poetic language, rich symbolism, and powerful emotional intensity. It has been interpreted in various ways, as a call to arms for political activism, a meditation on the nature of death and the afterlife, and a reflection on the human condition.
+
+Despite its historical and cultural significance, "Dziady" Part III remains a challenging and thought-provoking work, with deep insights into the human experience and the struggle for freedom and self-determination.

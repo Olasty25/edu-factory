@@ -1,60 +1,72 @@
- 1. Quiz
+ **Quiz: „Lalka” - Summary**
 
-Question 1/5: Who is the protagonist of "The Doll" by Bolesław Prus?
-A) A young woman
-B) A soldier
-C) A merchant
-D) A child
-Answer: D) A child
+1. Who is the author of the novel „Lalka”?
+A. Stefan Zeromski
+B. Bolesław Prus
+C. Henryk Sienkiewicz
+D. Eliza Orzeszkowa
 
-Question 2/5: What is the name of the doll in "The Doll" by Bolesław Prus?
-A) Ewa
-B) Izabela
-C) Wanda
-D) Hania
-Answer: A) Ewa
+Answer: B. Bolesław Prus
 
-Question 3/5: What is the profession of Stanisław Wokulski, the main character's love interest in "The Doll"?
-A) A writer
-B) A doctor
-C) A scientist
-D) A merchant
-Answer: D) A merchant
+2. What does the title „Lalka” mean?
+A. The Doll
+B. The Puppet
+C. The Mannequin
+D. The Figure
 
-Question 4/5: Who gives the doll named Ewa to the main character?
-A) His mother
-B) His aunt
-C) His tutor
-D) His friend
-Answer: C) His tutor
+Answer: A. The Doll
 
-Question 5/5: Why does the main character, Witołd, fall in love with Izabela?
-A) She is kind and caring
-B) She is wealthy and of high social status
-C) She is intelligent and educated
-D) She is beautiful and graceful
-Answer: B) She is wealthy and of high social status
+3. Who is the main character of the novel?
+A. Stanisław Wokulski
+B. Izabela Łęcka
+C. Tomasz Szablewski
+D. Wacław Ruszczyc
 
-2. Flashcards
+Answer: A. Stanisław Wokulski
 
-| Concept | Definition |
-| --- | --- |
-| Protagonist | The main character in a story, who is often faced with challenges or conflicts. |
-| Izabela | A character in "The Doll" by Bolesław Prus, who is the love interest of the main character, Witołd. |
-| Stanisław Wokulski | A character in "The Doll" by Bolesław Prus, who is a successful merchant and the love interest of the protagonist's cousin, Izabela. |
-| Tutor | A person who is hired to teach someone, often in a particular subject or skill. |
-| Social Status | The position or rank of a person in society, often determined by factors such as wealth, education, and occupation. |
+4. When was the novel „Lalka” published?
+A. 1887
+B. 1890
+C. 1895
+D. 1889
 
-3. Short Notes
+Answer: A. 1887
 
-"The Doll" by Bolesław Prus is a novel about a young man named Witołd, who falls in love with a woman named Izabela. However, their love is complicated by the fact that Izabela is from a higher social class than Witołd, and he is uncertain whether she will return his affections.
+5. What is the main theme of the novel „Lalka”?
+A. Love and social class
+B. Betrayal and revenge
+C. Power and corruption
+D. Ambition and success
 
-The novel is set in 19th century Poland, and it explores themes of class, power, and the role of women in society. It is named "The Doll" because a doll played by the protagonist's cousin, who is also named Izabela, serves as a symbol of the protagonist's idealized vision of the woman he loves.
+Answer: A. Love and social class
 
-The protagonist, Witołd, is a young man who is intelligent and sensitive, but he is also naive and idealistic. He is infatuated with Izabela, and he is willing to do anything to win her heart. However, he often misunderstands her motives and actions, and this leads to misunderstandings and conflicts.
+---
 
-Izabela, the object of Witołd's affections, is a complex character who is both admired and criticized in the novel. She is praised for her beauty and grace, but she is also criticized for her superficiality and her obsession with social status. She is a woman who is caught between two worlds: the traditional, patriarchal society of 19th century Poland, and the modern, liberal ideas that are beginning to emerge.
+**5 Fiszek - Pojęcia i Definicje**
 
-The novel also features a number of other interesting characters, including the protagonist's tutor, who gives him a doll named Ewa, and Stanisław Wokulski, a successful merchant who is also in love with Izabela. Through these characters, the novel explores themes of love, class, and the role of women in society.
+1. **Tytuł** - Lalka
+Definicja: The title refers to the main character, Stanisław Wokulski, who is often described as a doll due to his inability to express his emotions.
 
-In conclusion, "The Doll" is a complex and thought-provoking novel that offers a rich, multilayered portrait of 19th century Poland, and the social, political, and cultural issues that shaped the era. It is a novel that challenges readers to think deeply about the nature of love, the role of women, and the impact of social class on our lives and relationships.
+2. **Autor** - Bolesław Prus
+Definicja: Bolesław Prus was a Polish novelist and journalist, considered one of the greatest Polish writers. He is best known for his novels „Lalka” and „Faraon”.
+
+3. **Główny bohater** - Stanisław Wokulski
+Definicja: A wealthy businessman who falls in love with Izabela Łęcka, a young woman from the aristocracy, but his love is unrequited due to the social class differences.
+
+4. **Temat przewodni** - Miłość i klasa społeczna
+Definicja: The main theme of the novel is the relationship between love and social class, as expressed through the unrequited love of Stanisław Wokulski for Izabela Łęcka.
+
+5. **Rok publikacji** - 1887
+Definicja: The novel was first published in installments in the „Kurier Codzienny” newspaper between 1887 and 1889, and then as a complete book in 1889.
+
+---
+
+**Krótkie notatki o „Lalce” Bolesława Prusa**
+
+„Lalka” (The Doll) is a novel written by Bolesław Prus, one of the greatest Polish writers. The novel was first published in installments in the „Kurier Codzienny” newspaper between 1887 and 1889, and then as a complete book in 1889.
+
+The title of the novel refers to the main character, Stanisław Wokulski, who is often described as a doll due to his inability to express his emotions. Wokulski is a wealthy businessman who falls in love with Izabela Łęcka, a young woman from the aristocracy. However, his love is unrequited due to the social class differences and the superficiality of the aristocracy.
+
+The main theme of the novel is the relationship between love and social class. The novel critiques the aristocracy for their superficiality and lack of morals, while also portraying the struggles of the middle class to ascend to the aristocracy. Through the character of Wokulski, Prus explores the tensions between individual desire and social expectations.
+
+The novel has been praised for its realistic depiction of 19th century Poland, as well as its psychological insights into the human condition. It has been adapted into several films and television series, and remains a beloved classic in Polish literature.
