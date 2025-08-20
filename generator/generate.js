@@ -1,36 +1,41 @@
 import fs from "fs";
-import fetch from "node-fetch";
+import path from "path";
 
 const API_KEY = process.env.OPENROUTER_API_KEY;
 
-// Wczytaj wszystkie frazy
+// absolutna ścieżka do pliku w katalogu repo
+const stateFile = path.join(process.cwd(), "state.json");
+
+// wczytaj frazy
 const topics = fs.readFileSync("topics.txt", "utf8")
   .split("\n")
   .map(x => x.trim())
   .filter(Boolean);
 
-// Wczytaj ostatni indeks z pliku state.json
+// wczytaj poprzedni stan
 let index = 0;
-const stateFile = "state.json";
 if (fs.existsSync(stateFile)) {
-  const state = JSON.parse(fs.readFileSync(stateFile, "utf8"));
-  index = state.index;
+  try {
+    const state = JSON.parse(fs.readFileSync(stateFile, "utf8"));
+    index = state.index || 0;
+  } catch {
+    index = 0;
+  }
 }
 
-// Ile fraz generować na jeden run
+// batch size
 const batchSize = 5;
-
-// Wyciągnij batch
 const batch = topics.slice(index, index + batchSize);
 
-// Jak przesunąć indeks na kolejny run
+// oblicz nowy index
 let newIndex = index + batchSize;
-if (newIndex >= topics.length) {
-  newIndex = 0; // reset do początku listy
-}
+if (newIndex >= topics.length) newIndex = 0;
 
-// Zapisz nowy stan
-fs.writeFileSync(stateFile, JSON.stringify({ index: newIndex }), "utf8");
+// zapisz stan
+fs.writeFileSync(stateFile, JSON.stringify({ index: newIndex }, null, 2), "utf8");
+console.log("📁 Zaktualizowano state.json →", newIndex);
+
+// ... dalej Twój kod generateContent / fetch / zapis plików
 
 async function generateContent(topic) {
   const prompt = `Twoim zadaniem jest stworzenie materiałów edukacyjnych dla tematu "${topic}". 
