@@ -1,68 +1,51 @@
- **Quiz**
+ # Balladyna Streszczenie
 
-1. Who is the main character of "Balladyna" by Juliusz Słowacki?
-A. Baltazar
-B. Macko
-C. Balladyna
-D. Geldhab
-   Answer: C
+## Quiz
 
-2. What is Balladyna's main motivation in the play?
-A. Love
-B. Power
-C. Justice
-D. Knowledge
-    Answer: B
+1. Kto są bohaterowie "Balladyny" Słowackiego?
+   - A. Jontka i Borowla
+   **B.** Alina i Kirkor
+   - C. Kalina i Hrabina
+   - D. Popiel i Fon Kostryna
 
-3. Who is the main villain in the play?
-A. Balladyna
-B. Geldhab
-C. Baltazar
-D. Fonk
-   Answer: A
+2. Co jest głównym motywem w "Balladynie"?
+   - A. Miłość
+   **B.** Zazdrość i pożądanie władzy
+   - C. Honor i odwaga
+   - D. Wierność
 
-4. Who does Balladyna marry in the end?
-A. Baltazar
-B. Geldhab
-C. Fonk
-D. Nobody
-   Answer: D
+3. Kto jest ukochanym Aliny?
+   - A. Kirkor
+   **B.** Gralon
+   - C. Fon Kostryna
+   - D. Popiel
 
-5. What happens to Balladyna in the end?
-A. She becomes a queen
-B. She dies
-C. She goes crazy
-D. She repents
-   Answer: B
+4. Kto zabija Alinę i Gralona?
+   - A. Balladyna
+   **B.** Kirkor
+   - C. Popiel
+   - D. Fon Kostryna
 
-**Fiszki**
+5. Kto w końcu zostaje królem?
+   - A. Fon Kostryna
+   **B.** Popiel
+   - C. Kirkor
+   - D. Nigdy nie zostaje wyłoniony monarcha
 
-1. Balladyna
-   Pojęcie: Main character of the play
-   Definicja: Amoral and power-hungry woman
+## Fiszki
 
-2. Juliusz Słowacki
-   Pojęcie: Author of the play
-   Definicja: Polish Romantic poet and playwright
+1. **Balladyna** - tytułowa bohaterka, ambitna i bezwzględna kobieta, która zabija własną siostrę i jej ukochanego.
+2. **Alina** - siostra Balladyny, uprzejma i urodziwa młoda kobieta, której poślubienie daje tytuł królewski.
+3. **Kirkor** - kołończyk, który zakochuje się w Alinie, ale jest ona nieodpowiedzialna w jego uczuciach.
+4. **Popiel** - brat króla, który zagorzałe pragnienie władzy prowadzi przez całą sztukę.
+5. **Fon Kostryna** - szlachcic, który również pragnie poślubić Alinę, co prowadzi do jego konfliktu z Kirkorem.
 
-3. Baltazar
-   Pojęcie: One of the characters in the play
-   Definicja: Kind-hearted but weak-willed young man
+## Notatki
 
-4. Geldhab
-   Pojęcie: One of the characters in the play
-   Definicja: Rich and power-hungry merchant
+"Balladyna" jest klasyczną tragedią napisaną przez Juliusza Słowackiego w 1834 roku. Jest to dramatyczna opowieść o sprawach serca, pożądaniu władzy, zazdrości i szaleństwie.
 
-5. Fonk
-   Pojęcie: One of the characters in the play
-   Definicja: Simple-minded and innocent young man
+Główna bohaterka, Balladyna, jest ambitną kobietą, której pragnienie bogactwa i władzy prowadzi do serii zabójstw, w tym jej własnej siostry, Aliny, i jej ukochanego, Gralona. Balladyna poślubia króla i zostaje królową, ale zamiast odczuwać satysfakcję, to tylko pogłębia jej żądzę pożądliwości i bezwzględności.
 
-**Krótkie notatki**
+Choć Balladyna jest główną bohaterką tragedii, wiele innych postaci odgrywa znaczące role, w tym Kirkor, Fon Kostryna i Popiel, którzy są w nierozstrzygniętym trójkącie miłosnym z Aliną. Każda z tych postaci ma swoje motywy i ambicje, a ich konflikty prowadzą do śmierci i nieszczęścia.
 
-"Balladyna" is a play written by Juliusz Słowacki, one of the most renowned Polish Romantic poets and playwrights. The play tells the story of Balladyna, an amoral and power-hungry woman who will stop at nothing to become a queen.
-
-The play is set in medieval Poland, and it follows the story of Balladyna, Baltazar, Geldhab, and Fonk, who all fight for power and wealth. Balladyna is depicted as an immoral and cunning character, who is willing to kill her own mother and sister to achieve her goals. She eventually marries Baltazar, but in the end, she dies, and Baltazar becomes king.
-
-The play is a critique of the society at the time, where wealth and power were valued above all else. Słowacki uses the character of Balladyna to show the consequences of unchecked ambition and the dangers of moral corruption. Despite its dark themes, the play is also a celebration of the power of love and redemption, as Baltazar is eventually able to find peace and happiness after Balladyna's death.
-
-In conclusion, "Balladyna" is a classic of Polish literature, which explores the themes of power, ambition, and morality. It is a play that has stood the test of time and still resonates with audiences today, thanks to its complex characters and thought-provoking themes.
+"Balladyna" jest uważana za jedno z najważniejszych dzieł Słowackiego i jest rozważana za arcydzieło polskiego romantyzmu. Dramatyczna fabuła i głęboka symbolika sprawiły, że "Balladyna" do dziś jest ceniona i studiowana w Polsce i na całym świecie.

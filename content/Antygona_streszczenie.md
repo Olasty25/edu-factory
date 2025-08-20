@@ -1,65 +1,61 @@
- **Quiz**
-1. Who is Antigone in Greek mythology?
-A. A goddess
-B. A mortal woman
-C. A king
-D. A warrior
+ # Quiz: Antygona Streszczenie
 
-Answer: B. A mortal woman
+1. Kto są rodzice Antygony?
+   A. Kreon i Eurydyka
+   B. Jokasta i Ojdieusz
+   C. Teבis i Dejanira
+   D. Nikt nie wie
 
-2. What is Antigone's primary motivation in the play?
-A. To defy the state
-B. To bury her brother
-C. To marry her true love
-D. To avenge her family
+   (Poprawna odpowiedź: A. Kreon i Eurydyka)
 
-Answer: B. To bury her brother
+2. Gdzie happenia akcja sztuki "Antygona"?
+   A. Ateny
+   B. Salamina
+   C. Teby
+   D. Argos
 
-3. Who is Creon in the play?
-A. Antigone's father
-B. Antigone's brother
-C. Antigone's fiance
-D. The king of Thebes
+   (Poprawna odpowiedź: C. Teby)
 
-Answer: D. The king of Thebes
+3. Jakie jest zasadnicze pytanie sztuki "Antygona"?
+   A. Czy należy przestrzegać przepisów prawa?
+   B. Czy należy słuchać rozkazów władcy?
+   C. Czy należy kochać rodzinę ponad wszystko?
+   D. Czy należy żyć zgodnie z własnym sumieniem?
 
-4. What is the ultimate fate of Antigone?
-A. She is exiled from Thebes
-B. She is put to death
-C. She marries Haemon
-D. She is pardoned by Creon
+   (Poprawna odpowiedź: D. Czy należy żyć zgodnie z własnym sumieniem?)
 
-Answer: B. She is put to death
+4. Kto ginie w sztuce "Antygona"?
+   A. Kreon
+   B. Hajmon
+   C. Antygona
+   D. Eteokles i Polinikes
 
-5. What is the central conflict of the play?
-A. Man vs. God
-B. Man vs. Nature
-C. Man vs. Self
-D. Man vs. Society
+   (Poprawna odpowiedź: C. Antygona)
 
-Answer: D. Man vs. Society
+5. Co się dzieje na końcu sztuki "Antygona"?
+   A. Kreon popełnia samobójstwo
+   B. Haemon popełnia samobójstwo
+   C. Eurydyka umiera z żalu
+   D. Wszyscy wracają do normalnego życia
 
-**Fiszki**
+   (Poprawna odpowiedź: A i C. Kreon i Eurydyka umierają z żalu)
 
-1. Antigone
- Definicja: Główna bohaterka tragedii greckiej, córka Ojdcusa, dba o swoją familijne obowiązki i honor pogrzebowy.
+# Fiszki: Antygona Streszczenie
 
-2. Kreon
- Definicja: Król Tebe, staje w opozycji do Antygony i jej działań.
+1. **Antygona** - córka Ojdieusza i Jokasty, siostra Polinika i Eteoklesa. Antygona jest główną bohaterką sztuki. Ona nie baca na rozkazy króla Kreona i pozwala sobie pogrzebać brata. W konsekwencji zostaje uwięziona i popełnia samobójstwo.
+2. **Kreon** - nowy król Teb, mąż Eurydyki i teść Antygony. Kreon wydaje rozkaz, że nie należy pogrzebać Polinika, gdyż był on zabił swego brata Eteoklesa. To decyzja ta staje się przyczyną konfliktu z Antygoną.
+3. **Polinikes i Eteokles** - bracia Antygony i synowie Ojdieusza i Jokasty. Po śmierci swego ojca, bracia walczą o tron Teb. Zabijają się nawzajem i zostają nie pogrzebani. Antygona postanawia spalić ciało Polinika, wbrew rozkazom Kreona.
+4. **Hajmon** - syn Kreona i Eurydyki oraz kochanek Antygony. Pod koniec sztuki próbuje pomóc Antygonie, ale nie udaje mu się i on też ginie.
+5. **Eurydyka** - żona Kreona i matka Hajmona. Ojdeje umiera z żalu, gdy dowiaduje się o śmierci syna.
 
-3. Konflikt
- Definicja: Konflikt pomiędzy obowiązkiem obywatelskim a obowiązkiem rodzinnym.
+# Notatki: Antygona Streszczenie
 
-4. Tragedia
- Definicja: Forma literacka pochodzenia greckiego, charakteryzuje się konfliktami wewnętrznymi bohaterów i negatywnym zakończeniem.
+Sztuka "Antygona" napisana przez Sofoklesa to tragedia nt. córki Ojdieusza i Jokasty, Antygony. Główny wątek to konflikt, który powstaje pomiędzy Antygoną a nowym królem Teb, Kreonem.
 
-5. Pogrzeb
- Definicja: Ceremonia pozwalająca oddać hołd zmarłemu, Antygona ryzykuje karę śmierci, aby umożliwić swojemu bratu pogrzeb.
+Na początku sztuki, Kreon wydaje rozkaz, że należy pogrzebać Eteoklesa, ale Polinika powinien być pozostawiony bez pogrzebu, jako zdrajca Teb. Antygona, będąc gorliwą córką i obowiązując się prawem boskim, postanawia spalić ciało Polinika i zgromadzić koronę z jej włosów.
 
-**Notatki**
+Kreon dowiaduje się o tym i wydaje rozkaz, aby Antygona została uwięziona w jaskini, zabronił też udzielenia jej pomocy. Po pewnym czasie, Hajmon - syn Kreona i kochanek Antygony, prosi swego ojca o ułaskawienie Antygony. Kreon, jednak, nie zmienia decyzji i Antygona popełnia samobójstwo, a następnie Haemon umiera z żalu.
 
-"Antygona" to grecka tragedia autorstwa Sofoklesa. Główna bohaterka, Antygona, jest wdową po dwóch braciach, którzy zginęli w walce o władzę w Tebe. Kreon, aktualny król Tebe, wydał dekret, który zakazuje pogrzebu jednego z braci, Eteoklesa, uznając go za zdrajcę. Antygona uważa, że musi wykonać ostatnie obowiązki wobec swojego brata i organizuje tajny pogrzeb. Gdy Kreon odkrywa jej działania, karuje ją śmiercią.
+Pomysłem „Antygony” jest konflikt pomiędzy obowiązkiem obywatelskim a obowiązkiem rodzinnym. To, czy postępować zgodnie z rozkazami króla czy z własnym sumieniem, jest pytaniem fundamentalnym, przed którym staje Antygona.
 
-Centralnym konfliktem w "Antygonie" jest spór między obowiązkiem obywatelskim a obowiązkiem rodzinnym. Antygona uważa, że jej obowiązek wobec rodziny jest ważniejszy niż rozkazy Kreona. Kreon natomiast, reprezentuje władzę państwową i obraża się na to, że ktoś sprzeciwia się jego woli.
-
-Tragedia ta ukazuje w jaki sposób konflikt wewnętrzny bohaterki prowadzi do klasycznego zakończenia greckiej tragedii - katastrofy. "Antygona" jest często interpretowana jako przestrogą przed nadmierną stałością i uporczywością w pogoni za swoimi ideałami.
+Tematy, które są wysunięte w tej sztuce, to rola prawa, władzy i sprawiedliwości. Pod względem zawartości, „Antygona” jest satysfakcjonująca, ponieważ porusza wrażliwe aspekty życia: życia i śmierci, władzy i bezsilności i miłości i lojalności.

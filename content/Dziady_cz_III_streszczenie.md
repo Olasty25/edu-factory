@@ -1,54 +1,61 @@
- **Quiz:**
+ # Quiz - Dziady cz. III streszczenie
 
-1. Who is the main character of "Dziady Part III"?
-   A. Horeszko
-   B. Gustaw-Konrad
-   C. Paderewski
-   D. Prince Radziwiłł
-   **Answer: B. Gustaw-Konrad**
+1. Kto jest głównym bohaterem Dramy Czyśćcowej "Dziady" cz. III autorstwa Adama Mickiewicza?
+   A. Gustaw
+   B. Konrad
+   C. Pan Twardowski
+   D. Mickiewicz
 
-2. Which historical event is presented in the play?
-   A. The November Uprising
-   B. The Kościuszko Uprising
-   C. The January Uprising
-   D. The Warsaw Uprising
-   **Answer: C. The January Uprising**
+   Poprawna odpowiedź: A (Gustaw)
 
-3. Who is the author of "Dziady Part III"?
-   A. Julian Tuwim
-   B. Adam Mickiewicz
-   C. Cyprian Kamil Norwid
-   D. Stanisław Wyspiański
-   **Answer: C. Cyprian Kamil Norwid**
+2. Na kim składają się wizje bohatera Dramy?
+   A. Przeszłość, teraźniejszość, przyszłość
+   B. Czyściec, Piekło, Raj
+   C. Polska, Litwa, Rosja
+   D. Cierpienie, Śmierć, Wiara
 
-4. Where does the action of the play take place?
-   A. In a tavern
-   B. In a church
-   C. In a prison
-   D. In a park
-   **Answer: B. In a church**
+   Poprawna odpowiedź: B (Czyściec, Piekło, Raj)
 
-5. Who is the leader of the uprising presented in the play?
-   A. Prince Czartoryski
-   B. Prince Radziwiłł
-   C. General Langiewicz
-   D. General Sowiński
-   **Answer: C. General Langiewicz**
+3. Co oznacza pojęcie "młoda Polska"?
+   A. Ugrupowanie literackie
+   B. Przebudzenie sił twórczych narodu i dążenie do niepodległości
+   C. Walka z faszyzmem
+   D. Polityczna partia
 
-**Fiszki:**
+   Poprawna odpowiedź: B (Przebudzenie sił twórczych narodu i dążenie do niepodległości)
 
-1. **Gustaw-Konrad** - the main character of the play, a poet and a participant in the January Uprising.
-2. **Cyprian Kamil Norwid** - a 19th-century Polish poet, playwright, and painter, the author of "Dziady Part III".
-3. **The January Uprising** - an armed rebellion against the Russian Empire, which took place in 1863-1864 in the territories of the former Polish-Lithuanian Commonwealth.
-4. **General Langiewicz** - the leader of the uprising presented in the play, based on the historical figure Józef Langiewicz.
-5. **Church** - the main location of the play, symbolizing the spiritual life of the Polish nation.
+4. Które słowa wymawia Zosia na koniec, zanim umrze i po śmierci oznacza to, że staje się ona aniołem krzewicielem wiary?
+   A. "Nie opuszczę cię, kochany"
+   B. "Chrystus umarł za nas"
+   C. "Bog mi was pozwala"
+   D. "Czuwajcie i modlicie się"
 
-**Krótkie notatki:**
+   Poprawna odpowiedź: D (Czuwajcie i modlicie się)
 
-"Dziady Part III" is a play written by Cyprian Kamil Norwid, published in 1863. It is a dramatized account of the January Uprising, an armed rebellion against the Russian Empire that took place in the territories of the former Polish-Lithuanian Commonwealth.
+5. Co jest celem Mickiewicza, pisząc Dramę "Dziady"?
+   A. Pokazać system wartości epoki
+   B. Pokazać wiarę chrześcijańską
+   C. Zapoczątkowanie dążenia do niepodległości Polski
+   D. Krytyka polityczna
 
-The main character of the play is Gustaw-Konrad, a poet and a participant in the uprising. The action takes place in a church, which symbolizes the spiritual life of the Polish nation. The play explores the themes of patriotism, heroism, and sacrifice.
+   Poprawna odpowiedź: A (Pokazać system wartości epoki)
 
-The play is based on the historical events of the January Uprising and presents General Langiewicz as the leader of the rebellion. The uprising was brutally suppressed by the Russian authorities, resulting in the deaths of thousands of people.
+# Fiszki - Dziady cz. III streszczenie
 
-Overall, "Dziady Part III" is a powerful and moving portrayal of the Polish national spirit, showcasing the heroism and courage of those who fought for freedom and independence. Norwid's poetic language and symbolic use of the church as a setting contribute to the play's enduring significance as a work of Polish literature.
+1. Adam Mickiewicz - Wielki polski poeta romantyczny, pisarz, krytyk, tłumacz i działacz społeczno-polityczny.
+2. Drama Czyśćcowa - Trzyczęściowy poemat epicki, stanowiący ważny element dorobku liryki i filozofii romantycznej.
+3. Gustaw - Główny bohater Dramy; postać romantycznego "bohatera", który symbolizuje walkę uczuć i ducha.
+4. Zosia - Postać kobieca, symbolizująca kobiecość, miłość i wiarę.
+5. Czyściec - Symboliczne miejsce, stanowiące wariację na temat katolickiego pojęcia "czystości".
+
+# Notatki - Dziady cz. III streszczenie
+
+"Dziady" cz. III to ważna i hołubiona część Dramy Czyśćcowej Adama Mickiewicza opublikowanej w 1832 r. w Paryżu. Utwór ten przedstawia refleksje i rozważania na temat wartości epoki. Autor przedstawił postać głównego bohatera Gustawa - typowego "bohatera", który jest podzielony wewnętrznie i zmaga się z uczuciami i zdaniem społecznym. Dramat odzwierciedla wartości epoki i refleksje na temat polskiej historii.
+
+W Dramie pojawiają się wizje z przeszłości, teraźniejszości i przyszłości, które mają kluczowe znaczenie dla bogatej treści Dramy. Bohater Gustaw i inni poznają swoją duchową naturę, zagadnienia wolności, klasy i wiary, oraz ich znaczenie dla Polski i jej losu.
+
+Dramat jest pełen symboliki i aluzji, podkreślających różnorodność myśli romantycznej. "Dziady" cz. III składa się z trzech części: Czyściec, Piekło i Raj; jest refleksją nad religijnością głęboką i ludową, zaś wiarę chrześcijańską traktuje jako podstawę dla odnalezienia ojczyzny i wolności.
+
+Zosia jest drugą ważną postacią Dramy, z którą Gustaw podróżuje do Czyśćca w ramach procesu poznania siebie. Słowa Zosi, kiedy umiera dają nam poczucie, że staje się ona aniołem krzewicielem wiary.
+
+Mickiewicz pragnął przez Dramę "Dziady" pokazać system wartości epoki, niepodległość i narodowe poczucie tożsamości narodu polskiego, oraz krytycznie ocenić system polityczny. Jako jeden z największych polskich poetów romantycznych, żeportretował narodziny ruchu romantycznego i zapoczątkował poczucie "młodej Polski". Dramat ten jest wzorcem romantyzmu, który nadal żyje dalej i był inspiracją dla wielu twórców. Obecnie "Dziady" stanowią znaczącą część polskiej literatury i sztuki.

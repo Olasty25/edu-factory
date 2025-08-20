@@ -1,48 +1,68 @@
- **Quiz**
+ Lalka: Streszczenie
+================
 
-1. Who is the main character of "The Doll" by Bolesław Prus?
-   A) A young girl
-   B) A writer
-   C) A soldier
-   D) An old man
-   Answer: D) An old man
+Quiz
+----
 
-2. What object does the main character find on the street?
-   A) A diamond ring
-   B) A doll
-   C) A lottery ticket
-   D) A Russian passport
-   Answer: B) A doll
+1. Kto jest twórcą *Lalki*?
 
-3. What does the main character initially think about the doll?
-   A) That it is worth a fortune
-   B) That it is ugly
-   C) That it is broken
-   D) That it is very precious
-   Answer: C) That it is broken
+   A. Jan Potocki
+   B. Bolesław Prus
+   C. Henryk Sienkiewicz
+   D. Stefan Żeromski
 
-4. How does the main character decide to fix the doll?
-   A) He takes it to a professional repair shop
-   B) He throws it away and buys a new one
-   C) He tries to fix it himself with materials he has at home
-   D) He asks his granddaughter for help
-   Answer: C) He tries to fix it himself with materials he has at home
+   Poprawna odpowiedź: B. Bolesław Prus
 
-5. What is the main theme of "The Doll"?
-   A) The value of material possessions
-   B) The beauty of childhood
-   C) The importance of family
-   D) The power of imagination
-   Answer: A) The value of material possessions
+2. W którym mieście mieszka główny bohater *Lalki*?
 
-**Fiszki**
+   A. Kraków
+   B. Warszawa
+   C. Poznań
+   D. Wrocław
 
-1. **The Doll** - a short story by Bolesław Prus, first published in 1882
-2. **Main character** - an old man, who finds a broken doll on the street
-3. **Doll** - an object of fascination for the main character, who tries to fix it
-4. **Repair** - the action taken by the main character to restore the doll
-5. **Themes** - the value of material possessions, the power of imagination
+   Poprawna odpowiedź: B. Warszawa
 
-**Krótkie notatki**
+3. Jaka jest profesja ojca bohatera *Lalki*?
 
-"The Doll" is a short story by Bolesław Prus, a prominent Polish writer. The story centers around an old man who finds a broken doll on the street. The doll becomes an object of fascination for the man, and he decides to fix it using materials he has at home. The story explores the themes of the value of material possessions and the power of imagination. Through the main character's attempts to repair the doll, Prus encourages readers to consider the worth they place on objects and the lengths they will go to preserve them. The story also highlights the importance of imagination and creativity in giving new life to seemingly worthless objects. Overall, "The Doll" is a thought-provoking and engaging short story that encourages readers to reflect on the values they hold and the power of imagination.
+   A. Prawnik
+   B. Nauczyciel
+   C. Lekarz
+   D. Inżynier
+
+   Poprawna odpowiedź: C. Lekarz
+
+4. Która z bohaterek *Lalki* jest aktorką?
+
+   A. Izabela
+   B. Ola
+   C. Ewa
+   D. Aniela
+
+   Poprawna odpowiedź: A. Izabela
+
+5. Kiedy ma miejsce akcja *Lalki*?
+
+   A. Okres poromantyczny
+   B. Okres pozytywistyczny
+   C. Okres Młodej Polski
+   D. Okres po II wojnie światowej
+
+   Poprawna odpowiedź: B. Okres pozytywistyczny
+
+Fiszki
+-----
+
+1. **Bolesław Prus** - polski pisarz, filozof i publicysta, autor *Lalki* oraz nowel i esejów.
+2. **Stanisław Wokulski** - główny bohater *Lalki*, samouk, przedstawiciel nowej warstwy mieszczańskiej, podporucznik powstania styczniowego.
+3. **Izabela Łęcka** - bohaterka *Lalki*, aktorka, ukochana Stanisława Wokulskiego.
+4. **Okres pozytywistyczny** - czas, w którym ma miejsce akcja *Lalki*, okres przemian społeczno-gospodarczych w drugiej połowie XIX wieku.
+5. **Państwo Łęcki** - rodzina, w której mieszka Izabela Łęcka, reprezentanci starej szlachty.
+
+Notatki
+-------
+
+*Bolesław Prus* w *Lalki* opisuje dzieje i rozterki głównego bohatera, *Stanisława Wokulskiego*, samouka, przedstawiciela nowej warstwy mieszczańskiej. Wokulski podjął pracę w aptekarskim za sprawą swego wuja, po śmierci którego popadł w nędzę i musiał się samodzielnie wybić na świat. Po odbyciu służby wojskowej w carskiej armii, powrócił do Warszawy, a po pewnym czasie otworzył sklep kolonialny. Dzięki swojemu zaangażowaniu, pomysłowości i inteligencji, stał się zamożnym i szanowanym człowiekiem. Podczas jednej z wieczorów w domu swego przyjaciela, poznał *Izabelę Łęcką*, aktorkę, w której się zakochał. Wskutek swojej zazdrosnej natury i kłamstw ukochanej, porzucił ją, a później próbował jeszcze ją odzyskać, ale zanim doszło do tego, Izabela wstąpiła do klasztoru. Wokulski nie był w stanie pogodzić się z tą śmierćą ukochanej i popełnił samobójstwo.
+
+*Lalka* to powieść psychologiczna, której tematem są ludzkie uczucia i relacje między ludźmi. Prus ucieka się do szczegółów i dokładnie opisuje cechy swoich bohaterów, zwraca uwagę na ich wady i zalety. Całą akcję osadza w realiach okresu pozytywistycznego, więc jego bohaterowie są w pewnym sensie jego traductores i interpretes (tłumaczami i odczytaczami) swoich czasów. Wokulski i Łęcka są postaciami bardzo interesującymi, każda z nich ma swoje marzenia i plany, ambicje i słabości. Wokulski pragnie być szanowany i akceptowany przez Lizbę Łęcką i jej rodzinę, podczas gdy Izabela chce zostać aktorką i znaleźć miłość.
+
+Zakończenie *Lalki* jest tragiczne, jednak wcześniej autor pokazuje nam wiele sytuacji, w których bohaterowie zmieniają zdanie i dokonują ważnych postanowień, a następnie porzucają je. W sumie *Lalka* to powieść, w której bohaterowie zmieniają się wraz z upływem czasu. Ponadto *Lalka* stanowi dobry przykład powieści psychologicznej, ponieważ autor opisuje także myśli i emocje postaci.
