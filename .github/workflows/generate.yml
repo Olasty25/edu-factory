@@ -8,12 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
-
-    - name: Install dependencies
-        run: npm install
+    
         
     steps:
+      - name: Install dependencies
+        run: npm install
+        
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
