@@ -1,40 +1,48 @@
  # Quiz - Dziady cz. III streszczenie
-1. Kto to Guy de Vergy?
-   A) ojciec Konrada
-   B) krewny Konrada
-   C) wróg Konrada
-   D) sługa Konrada (poprawna odpowiedź: C)
+1. Kto są bohaterowie, którzy przybywają do Guślarza na początku aktu III?
+   A. Czyhacze
+   B. Stary Żebrak, Panna Mowa
+   C. Pan Twardowski, Devil
+   D. Guślarz sam
 
-2. Po co Gustawowi potrzebne są kości jego ojca?
-   A) aby zniszczyć je
-   B) aby je oddać H Hotelskiemu
-   C) aby się nimi posłużyć do czarnej magii
-   D) aby zachować je jako pamiątkę (poprawna odpowiedź: D)
+2. Co przynosi Guślarz dla zmarłych?
+   A. Chleb i sól
+   B. Kwiaty i owoce
+   C. Żadnych darów
+   D. Pieczone danie
 
-3. Jakie ma imię siostra Gustawa?
-   A) Agnieszka
-   B) Zosia
-   C) Jadwiga
-   D) Aniela (poprawna odpowiedź: A)
+3. Jaka postać z historii Polski przybywa do Guślarza?
+   A. Tadeusz Kościuszko
+   B. Józef Piłsudski
+   C. Król Jan III Sobieski
+   D. Kazimierz Wielki
 
-4. Kto jest Judytą?
-   A) córką Zbigniewa
-   B) żoną Zbigniewa
-   C) córką Konrada
-   D) kochanką Konrada (poprawna odpowiedź: A)
+4. Dlaczego Zygmunt III Waza czuje się winny?
+   A. Za wojny z Moskwą
+   B. Za wprowadzenie kalwinizmu
+   C. Za klęskę pod Kircholmem
+   D. Za abdykację
 
-5. Dlaczego Zbigniew nie chce brać udziału w uroczystościach pogrzebowych?
-   A) bo się boi
-   B) bo nie kocha swojego ojca
-   C) bo nie chce opuszczać zamku
-   D) bo nie jest w stanie pogodzić się ze śmiercią ojca (poprawna odpowiedź: D)
+5. Kto wygłasza monolog na koniec aktu III?
+   A. Guślarz
+   B. Zygmunt III Waza
+   C. Stary Żebrak
+   D. Panna Mowa
+
+Poprawne odpowiedzi: 1B, 2A, 3C, 4C, 5B
 
 # Fiszki - Dziady cz. III streszczenie
-1. Guy de Vergy - krewny Konrada, który zabił jego ojca.
-2. Konrad - główny bohater, który dla zemsty na Guyu de Vergy pragnie zachować kości swojego ojca.
-3. Zbigniew - syn Konrada, który jest zagubiony emocjonalnie i nie umie pogodzić się ze śmiercią ojca.
-4. Judyta - córka Zbigniewa, która jest uważana za magiczną i przynosi wieści ze świata umarłych.
-5. Gustaw - ojciec Konrada, który pojawia się w wieku dziecięcym i młodzieńczym jako duch.
+1. Czyhacze - dusze zmarłych oczekujące przybycia Guślarza do piekła
+2. Guślarz - postać ludowa, przewodnik dusz zmarłych w drodze do zaświatów
+3. Zygmunt III Waza - król Polski i Szwecji, oskarżany o winę za klęskę pod Kircholmem
+4. Panna Mowa - dusza zmarłej, która ukazuje się ludziom w snach, a w Dziadach trzecim wygłasza swoją mowę na koniec aktu III
+5. Stary Żebrak - biedny staruszek, pojawiający się w wielu dziełach Mickiewicza, w tym w Dziadach
 
 # Notatki - Dziady cz. III streszczenie
-Dziady cz. III to trzeci akt dramatu Adama Mickiewicza, który opowiada o śmierci ojca głównego bohatera, Konrada. Akcja toczy się w zbrojowni, w której Konrad przechowuje kości swojego ojca, aby się nimi posłużyć do czarnej magii i dokonać zemsty na Guyu de Vergy, który go zabił. Dramat opisuje też jego relacje z synem Zbigniewem, który ma kłopoty z niestandardowością swojego ojca i nie potrafi pogodzić się ze jego śmiercią. W dramacie występują także postaci duchowe, w tym sam ojciec Konrada, który pojawia się w wieku dziecięcym i młodzieńczym, a także Judyta, córka Zbigniewa, która jest uważana za magiczną i przynosi wieści ze świata umarłych. Dramat ten to studium relacji ojcowsko-synowych, które są nacechowane silnymi emocjami i silnymi konfliktami.
+Akt III Dziadów Mickiewicza rozpoczyna się w piekle, gdzie przybywają dusze zmarłych. Oczekują tutaj Czyhaczy, którzy klaszczą w dłonie, aby rozbudzić Guślarza i poprowadzić go do nich. Gdy ten przybywa, dusze proszą o wodę z rzeki Lete, aby pomyć pamięć i zwolnić je spod mocy trzech postanowień.
+
+Guślarz wśród zmarłych rozpoznaje postać z historii Polski - króla Zygmunta III Wazy. Ten czuje się winny za klęskę pod Kircholmem i żałuje, że przez nią kościuszkiem w Polsce wstąpił pan niezwyciężony, czyli cierpienie. Guślarz stwierdza jednak, że wszyscy ludzie, nawet najwięksi królowie, są równi w śmierci.
+
+W dalszej części aktu III pojawiają się Panna Mowa i Stary Żebrak. Obie postacie wygłaszają monologi, w których opowiadają o swoim życiu i lamentują nad losem Polski. Panna Mowa skarży się, że jest bezsilna i niewidoczna dla ludzi żywych, a Stary Żebrak - że żyje w biedzie i bez celu.
+
+Akt III kończy się mową Panny Mowy, w której opisuje swoje życie i śmierć, a także przeklina Polskę, która nie doceniła jej za życia. Stwierdza, że Polska nie zasługuje na wolność i że nie będzie w niej śpiewała pieśni dobrze. Kończy słowami, że nie wróci do Polski, dopóki nie będzie ona inna niż teraz.

@@ -1,62 +1,66 @@
- ## Quiz
+ # Pan Tadeusz - Quiz
 
-1. Która nazwa narodowa pojawia się w refrenie wszystkich ksiąg eposu "Pan Tadeusz"? <br>
-A. Polesie <br>
-B. Litwa <br>
-**C. Łotwa** <br>
-D. Litwo <br>
-Odp. D. Litwo
+1. Kto jest autorem dzieła "Pan Tadeusz"?
+   A. Henryk Sienkiewicz
+   B. Adam Mickiewicz
+   C. Bolesław Prus
+   D. Julian Tuwim
+   *B. Adam Mickiewicz
 
-2. Która postać jest autorem listu, który jest kluczem do zrozumienia wielu wydarzeń w eposie "Pan Tadeusz"? <br>
-A. Onufry Baldwin <br>
-B. Zosia Helfertówna <br>
-**C. Hrabia Henryk Bogumił Rojestrzański** <br>
-D. Tadeusz Soplica <br>
-Odp. C. Hrabia Henryk Bogumił Rojestrzański
+2. W którym roku poemat powstał?
+   A. 1834
+   B. 1827
+   C. 1807
+   D. 1812
+   *B. 1827
 
-3. W którą klasę szlachecką należy rodzina Sopliców? <br>
-A. Magnaci <br>
-B. Szlachta zagrodowa <br>
-**C. Szlachta cząstkowa** <br>
-D. Szlachta ziemiańska <br>
-Odp. C. Szlachta cząstkowa
+3. Gdzie rozgrywa się akcja "Pana Tadeusza"?
+   A. Warszawa
+   B. Lwów
+   C. Wilno
+   D. Soplicowo
+   *D. Soplicowo
 
-4. Który narrator opisuje wydarzenia z perspektywy pierwszej osoby w "Panu Tadeuszu"? <br>
-A. Tadeusz Soplica <br>
-B. Jawnuta <br>
-C. Hrabia Henryk Bogumił Rojestrzański <br>
-**D. Autor, Adam Mickiewicz** <br>
-Odp. D. Autor, Adam Mickiewicz
+4. Kto jest głównym bohaterem "Pana Tadeusza"?
+   A. Tadeusz Soplica
+   B. Jan Soplica
+   C. Gerwazy Pomian
+   D. Hrabia Henryk Birmingham
+   *A. Tadeusz Soplica
 
-5. Kiedy toczy się akcja "Pan Tadeusza"? <br>
-A. Okres przedrozbiorowy <br>
-B. Okres powstania kościuszkowskiego <br>
-**C. Okres po III rozbiorze Polski** <br>
-D. Okres niewoli narodu <br>
-Odp. C. Okres po III rozbiorze Polski
+5. Która z postaci została opisana jako "najdzielniejsza żona Wilna"?
+   A. Telimena
+   B. Ewa Zaleska
+   C. Leonia
+   D. Podstolina
+   *D. Podstolina
 
-## Fiszki
+# Pan Tadeusz - Fiszki
 
-1. **Adam Mickiewicz** (1798-1855) - polski poeta, dramaturg, publicysta i tłumacz, uważany za klasyka polskiej literatury romantycznej. Napisał m.in. ballady, poematy ("Pan Tadeusz"), dramaty i utwory o tematyce patriotycznej i historycznej.
+1. Pan Tadeusz: **epicki poemat** (12 ksiąg) autorstwa Adama Mickiewicza
+2. Utwór jest pełen sentymentu do **przeszłości i kultury Rzeczypospolitej**
+3. **Akcja** rozgrywa się w roku 1811, na Litwie, w majątku Soplicowo
+4. **Głównym bohaterem** jest Tadeusz Soplica, syn zesłanego w wyniku konfederacji targowickiej Hrabiego
+   Soplicy
+5. Poemat zawiera wiele postaci z różnych warstw społecznych, takich jak szlachta, chłopi, duchowieństwo
+   czy urzędnicy dworscy
 
-2. **Rodzina Sopliców** - rodzina szlachecka w "Panu Tadeuszu", w której skład wchodzą Tadeusz i jego siostra Zosia. Mieszkają na dworze Sopliców wraz z wujem, Onufrym Baldwinem, stryjem Melchiorusem i ciotką Telnińską.
+# Pan Tadeusz - Notatki
 
-3. **Hrabia Henryk Bogumił Rojestrzański** - postać w "Panu Tadeuszu", która doprowadza do pogodzenia rodzin Sopliców i Helfertów i renegata Gerwazego.
+"Pan Tadeusz" jest epickim poematem Adama Mickiewicza, opublikowanym w 1827 roku, po zakończeniu przez autora studiów na Uniwersytecie Wileńskim. Uważany jest za arcydzieło polskiej literatury romantycznej.
 
-4. **Onufry Baldwin** - wuj Tadeusza i Zosi w "Panu Tadeuszu", mieszkający z nimi na dworze w Soplicowie.
+Akcja utworu rozgrywa się w roku 1811, w majątku Soplicowo na Litwie. Głównym bohaterem poematu jest Tadeusz Soplica, syn zesłanego w wyniku konfederacji targowickiej Hrabiego Soplicy, który po dłuższej nieobecności wraca do rodzinnego domu.
 
-5. **Okres po III rozbiorze Polski (1795-1918)** - to okres, w którym rozgrywa się akcja "Pan Tadeusza". W tym czasie Polska była podzielona pomiędzy Rosję, Prusy i Austrię.
+W poemacie znaleźć można wiele interesujących postaci z różnych warstw społecznych. Do najważniejszych należą:
 
-## Notatki
+- Tadeusz Soplica, główny bohater, który po długiej nieobecności wraca do rodzinnego domu
+- Hrabia Henryk Birmingham, właściciel majątku i przyjaciel rodziny Sopliców
+- Gerwazy Pomian, zubożały szlachcic, który dbając o interesy rodu, opiekuje się rodziną Sopliców
+- Telimena, piękna kobieta, która ukrywa heroiczną przeszłość
+- Ewa Zaleska, miła i urodziwa kobieta, obiekt westchnień i trosk Tadeusza
+- Podstolina, znana jako "najdzielniejsza żona Wilna", która opiekuje się swoim dworem i rodziną
+- Horeszko, zły duch polskiej wiecu, kushner czyhający na szansę obrażenia rodziny Sopliców
 
-"Pan Tadeusz" to najsłynniejszy epos Adama Mickiewicza, autora polskiej literatury romantycznej. Akcja "Pan Tadeusza" toczy się w okresie po III rozbiorze Polski, w roku 1811-1812, na Litwie. Utwór składa się z 12 ksiąg, z których każda nosi tytuł na Litwę.
+Poemat jest pełen sentymentu do przeszłości i kultury Rzeczypospolitej. Jest poematem erudycyjnym, zawierającym wiele nawiązań do historii, astronomii, matematyki, heraldyki, muzyki, plastyki i teatru. Mickiewicz wplótł w tekst poematu wiele elementów folkloru ludowego i humoru.
 
-Głównymi postaciami eposu są Tadeusz Soplica, młody szlachcic, i Gerwazy, renegat, który zwraca się przeciw rodakom i staje się wrogiem narodu. Obaj zostali przedstawieni od początku jako postacie negatywne i wrogie, ale z czasem ich postawa zmienia się i stają się oni postaciami pozytywnymi.
-
-"Pan Tadeusz" jest utworem o szlacheckiej kulturze i tradycjach, w którym pojawia się wiele aluzji do historii Polski i innych wydarzeń politycznych. Epos ten jest obserwacją i opisem życia na wsi, rolnictwa i gospodarki, a jednocześnie jest ukazaniem mentalności szlacheckiej i jej roli w świecie polskim.
-
-Epos ten cechuje się dużą ilością elementów ludowych, folklorystycznych i religijnych. Pojawia się tu wiele zwrotów, przysłów, piosenek i modlitw ludowych, a także wersy o charakterze sentymentalnym i patetycznym.
-
-"Pan Tadeusz" to utwór, w którym autor ukazuje szlachtę jako grupę mającą swoje potrzeby i sprawy, ale też jako grupę spajaną tradycyjnymi wartościami i obowiązkami. Jest to przede wszystkim utwór o patriotyzmie, honorze, rodzinie, przyjaźni, odwadze, czci i wiary. Jest także utworem, w którym pojawia się wiele postaw i postaci pozytywnych, jak i negatywnych, szlacheckich i chłopskich, patriotycznych i zdrajców.
-
-"Pan Tadeusz" kończy się pojednaniem wrogów, gerwazym i hrabią Henrykiem Bogumiłem Rojestrzańskim, która pozwля na pojednanie dwóch rodzin, Sopliców i Helfertów. To także utwór, w którym zakończenie jest świetliste - pojawia się tu wreszcie dzień i światło, ukoronowane pogodzeniem tych, którzy byli wrogami i wypuszczeniem rycerstwa i wszystkich Polaków na wolność.
+W "Panu Tadeuszu" Mickiewicz przedstawił obraz życia codziennego w sarmackiej szlachcie, ich stosunki rodzinne, obyczaje i tradycje. W poemacie przeplatają się wątki obyczajowe, historyczne, heroiczne, patriotyczne i filozoficzne.

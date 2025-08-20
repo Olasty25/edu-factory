@@ -1,6 +1,10 @@
- ### Quiz
+ Balladyna: Streszczenie
+=====================
 
-1. Któż jest młodszym bratem Franka i Kiryka w „Balladynie” Juliusza Słowackiego?
-    - A. Gustaw
-    - B. Alina
+Quiz
+---
+
+1. Kto towarzyszy Balladynie w jej wyprawie na zamek?
+    - A. Miasto
+    - B. Maciej
    
