@@ -35,7 +35,7 @@ jobs:
       - name: Commit generated content
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add content/ public/ || echo "No directories to add"
+          git config --local user.name "GitHub Action"   
+          git add content/ public/ state.json || echo "No directories to add"
           git commit -m "Add new generated content [skip ci]" || echo "No changes to commit"
           git push origin main
