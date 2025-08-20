@@ -1,5 +1,5 @@
-const fs = require("fs");
-const fetch = require("node-fetch");
+import fs from "fs";
+import fetch from "node-fetch";
 
 const API_KEY = process.env.OPENROUTER_API_KEY;
 
@@ -34,7 +34,7 @@ fs.writeFileSync(stateFile, JSON.stringify({ index: newIndex }), "utf8");
 
 async function generateContent(topic) {
   const prompt = `Twoim zadaniem jest stworzenie materiałów edukacyjnych dla tematu "${topic}". 
-  Zwróć Markdown z trzema sekcjami: Quiz (5 pytań ABCD + poprawne), Fiszki (5 sztuk), Notatki (200 słów).`;
+  Zwróć Markdown z trzema sekcjami: Quiz (5 pytań ABCD + poprawna odpowiedź), Fiszki (5 sztuk), Notatki (~200 słów).`;
 
   const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
@@ -43,7 +43,7 @@ async function generateContent(topic) {
       "Content-Type": "application/json"
     },
     body: JSON.stringify({
-      model: "mistralai/mixtral-8x7b-instruct",
+      model: "mistralai/mixtral-8x7b-instruct", // np. Mistral
       messages: [{ role: "user", content: prompt }]
     }),
   });
