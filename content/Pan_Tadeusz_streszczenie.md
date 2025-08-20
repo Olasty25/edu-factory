@@ -1,72 +1,61 @@
- **Quiz (5 pytań ABCD z poprawną odpowiedzią zaznaczoną)**
+ **Quiz:**
 
-1. Który poeta napisał poemat epiczny "Pan Tadeusz"?
-   A. Adam Mickiewicz
-   B. Juliusz Słowacki
-   C. Zygmunt Krasiński
-   D. Cyprian Norwid
+1. Who is the author of "Pan Tadeusz"?
+   A. Bolesław Prus
+   B. Adam Mickiewicz
+   C. Henryk Sienkiewicz
+   D. Stanisław Lem
+   Answer: B. Adam Mickiewicz
 
-   Poprawna odpowiedź: A
-
-2. W którym roku ukazało się pierwsze wydanie "Pana Tadeusza"?
+2. In which year was "Pan Tadeusz" published?
    A. 1834
    B. 1827
-   C. 1839
-   D. 1818
+   C. 1812
+   D. 1848
+   Answer: A. 1834
 
-   Poprawna odpowiedź: B
+3. What is the genre of "Pan Tadeusz"?
+   A. Science fiction
+   B. Drama
+   C. Epic poem
+   D. Short story
+   Answer: C. Epic poem
 
-3. Gdzie rozgrywa się akcja poematu "Pan Tadeusz"?
-   A. W Wilnie
-   B. Na Litwie
-   C. W Podolu
-   D. W Warszawie
+4. Where does the story of "Pan Tadeusz" take place?
+   A. Warsaw
+   B. Lithuania
+   C. Siberia
+   D. Galicia
+   Answer: B. Lithuania
 
-   Poprawna odpowiedź: C
-
-4. Kto jest głównym bohaterem "Pana Tadeusza"?
+5. Who is the main character of "Pan Tadeusz"?
    A. Tadeusz Soplica
-   B. Jan Soplica
-   C. Ewa Soplica
-   D. Hanka Zagłoba
+   B. Józef Zaliwski
+   C. Gerwazy Plehwa
+   D. Jan Kmita
+   Answer: A. Tadeusz Soplica
 
-   Poprawna odpowiedź: A
+**Fiszki:**
 
-5. Która z poniższych postaci nie pojawia się w "Panie Tadeuszu"?
-   A. Gerwazy
-   B. Telimena
-   C. Rejent Milczek
-   D. Gustaw Konrad
+1. Pan Tadeusz
+   Definicja: An epic poem by Adam Mickiewicz, published in 1834, describing the lives of the Polish gentry in Lithuania before and during the Napoleonic Wars.
 
-   Poprawna odpowiedź: D
+2. Adam Mickiewicz
+   Definicja: Polish poet, dramatist, essayist, publicist, translator, professor of Slavic literature, and political activist. He is regarded as the national poet of Poland and one of the greatest Slavic literary figures.
 
----
+3. Epic Poem
+   Definicja: A lengthy, narrative poem that celebrates heroic deeds and events important to a culture or nation.
 
-**5 fiszek (pojęcie → definicja)**
+4. Lithuania
+   Definicja: A country in northeastern Europe, known for its medieval Old Town, Academia Militara Radvilas, and the Hill of Crosses.
 
-1. **Pan Tadeusz**
-   Poemat epiczny Adama Mickiewicza, opisujący życie polskiej szlachty na Podolu w okresie panowania carskiego.
+5. Tadeusz Soplica
+   Definicja: The main character of "Pan Tadeusz", a young nobleman who returns to his ancestral home in Lithuania after many years of separation from his family.
 
-2. **Adam Mickiewicz**
-   Autor "Pana Tadeusza", uważany za najwybitniejszego polskiego romantycznego poety narodowego.
+**Krótkie notatki:**
 
-3. **Podole**
-   Region historyczny w południowo-wschodniej Polsce, gdzie rozgrywa się akcja "Pana Tadeusza".
+"Pan Tadeusz" is an epic poem written by Adam Mickiewicz, published in 1834. It is considered one of the most important works of Polish literature and is widely regarded as the national epic of Poland. The poem describes the lives of the Polish gentry in Lithuania before and during the Napoleonic Wars, and it has been praised for its vivid portrayal of the historical period and its exploration of themes such as love, honor, and the relationship between the individual and the community.
 
-4. **Szlachta**
-   Klasa społeczna w Rzeczypospolitej Obojga Narodów, składająca się z właścicieli ziemskich o szlacheckich korzeniach.
+The main character of the poem is Tadeusz Soplica, a young nobleman who returns to his ancestral home in Lithuania after many years of separation from his family. Through his experiences, we see a complex portrait of life in the Polish-Lithuanian Commonwealth, with its values, traditions, and social hierarchies.
 
-5. **Romantyzm**
-   Ruch literacki, któremu autor "Pana Tadeusza" należał, opierający się na uczuciach i wyobraźni, a nie na roзуmie lub faktach.
-
----
-
-**Krótkie notatki (max 250 słów)**
-
-"Pan Tadeusz" to polski poemat epiczny napisany przez Adama Mickiewicza w latach 1832-1834. Jest to ostatnie duże dzieło Mickiewicza i uważane za szczytowe osiągnięcie polskiej poezji romantycznej. Poemat składa się z dwunastu pieśni, opisujących życie polskiej szlachty na Podolu w okresie panowania carskiego.
-
-Głównym bohaterem "Pana Tadeusza" jest Tadeusz Soplica, który wraca na rodzinną wieś po studiach w Wilnie. Inne ważne postacie to jego ojciec, Jan Soplica, jego ciotka, Telimena, i wierny sługa, Gerwazy. Poemat rozpoczyna się od słynnego wersu "Litwo! Ojczyzno moja!", w którym Mickiewicz wyraża nostalgię za utraconym krajem i czasami.
-
-"Pan Tadeusz" jest bogaty w obrazy i opisy natury, a także wraz jako studium charakterów i obserwacja polskiego społeczeństwa. Opisuje różne aspekty życia na wsi, takie jak polowania, uroczystości i pijaństwo. Poemat także zawiera wiele odniesień historycznych, takich jak konflikt między polskimi magnatami a caratem, a także do polskiego powstania listopadowego.
-
-W sumie, "Pan Tadeusz" jest klasycznym dziełem literackim, które dostarcza wglądu w polskie społeczeństwo i historię. Jest to także piękna opowieść o miłości, honorze i przynależności do rodziny i ojczyzny.
+Mickiewicz's use of poetic language and vivid imagery has captivated readers for generations and has made "Pan Tadeusz" a essential reading for anyone interested in Polish culture and history. The poem has also been adapted into a number of films, stage productions, and other works of art, further cementing its place as a timeless classic.
