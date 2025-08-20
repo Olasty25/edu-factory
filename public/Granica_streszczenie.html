@@ -1,0 +1,128 @@
+
+    <html>
+      <head>
+        <meta charset="utf-8">
+        <title>Granica_streszczenie</title>
+        
+<style>
+  body {
+    font-family: "Segoe UI", Roboto, Arial, sans-serif;
+    margin: 40px;
+    background: #fafafa;
+    color: #333;
+    line-height: 1.6;
+  }
+  h1 {
+    font-size: 2rem;
+    color: #0070f3;
+    border-bottom: 3px solid #0070f3;
+    padding-bottom: 5px;
+  }
+  h2 {
+    font-size: 1.5rem;
+    color: #444;
+    margin-top: 30px;
+  }
+  .section {
+    background: #fff;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  .quiz ol {
+    padding-left: 20px;
+  }
+  .quiz li {
+    margin-bottom: 12px;
+  }
+  .answer {
+    font-weight:bold;
+    color:#0070f3;
+  }
+  .flashcards ul {
+    list-style:none;
+    padding-left:0;
+  }
+  .flashcards li {
+    background:#eef6ff;
+    margin:8px 0;
+    padding:10px;
+    border-radius:6px;
+  }
+  .notes p {
+    margin-bottom:12px;
+  }
+  a.back {
+    display:inline-block;
+    margin-top:20px;
+    color:#0070f3;
+    text-decoration:none;
+  }
+  a.back:hover {
+    text-decoration:underline;
+  }
+</style>
+
+      </head>
+      <body>
+        <h1>Granica_streszczenie</h1>
+        <div class="section quiz">
+          <h1>Granica Streszczenie</h1>
+<h2>Quiz</h2>
+<ol>
+<li><p>Co odróżnia proces kompilacji od wykonywania programu?
+A. Wynik procesu kompilacji jest plikiem wykonywalnym, natomiast wykonywanie programu daje wynik wykonania jego instrukcji.
+B. Proces kompilacji ma miejsce w czasie wykonywania programu, natomiast wykonywanie programu odbywa się przed kompilacją.
+C. Proces kompilacji jest opcjonalny, podczas gdy wykonywanie programu jest wymagane.
+D. Proces kompilacji odbywa się w pamięci, natomiast wykonywanie programu na dysku.</p>
+<p>Poprawna odpowiedź: A</p>
+</li>
+<li><p>Czym jest limit streszczenia?
+A. Procedurą wyznaczania największej możliwej wartości zmiennej.
+B. Jakościowym pojęciem w stosunku do kompilacji i wykonywania programów.
+C. Jednostką pomiaru w systemach operacyjnych do zarządzania pamięcią.
+D. Limitem wydajności systemu zależnym od architectury sprzętowej.</p>
+<p>Poprawna odpowiedź: B</p>
+</li>
+<li><p>Jakie jest znaczenie limitu streszczenia dla kompilacji i wykonywania programów?
+A. W kompilacji decyduje on o możliwościłości utworzenia pliku wykonywalnego, natomiast w trakcie wykonywania o prawidłowym działaniu programu.
+B. Jest on niezależny od kompilacji i wykonywania programów, ponieważ dotyczy tylko pamięci stosu i sterty.
+C. Dla kompilacji nie ma znaczenia, natomiast dla wykonywania programu jest on kluczowy do jego poprawnego działania.
+D. Bez względu na kompilację czy wykonywanie programu, limit streszczenia nie ma wpływu na ich zachowanie.</p>
+<p>Poprawna odpowiedź: A</p>
+</li>
+<li><p>Jak sprawdzić wartość limitu streszczenia w systemie Linux?
+A. Za pomocą narzędzia <code>ulimit</code>, które jest częścią interpretera <code>bash</code>.
+B. Za pomocą komendy <code>limit</code>, która dostępna jest na wszystkich uniksowych systemach operacyjnych.
+C. Za pomocą polecenia <code>ulimit</code> wywoływanego z uprawnieniami administratora.
+D. Za pomocą systemowych wywołań interfejsu systemowego (ang. system calls), które są dostępne w kodzie źródłowym języka C.</p>
+<p>Poprawna odpowiedź: A</p>
+</li>
+<li><p>Dlaczego niedostateczne rozumienie limitu streszczenia może prowadzić do problemów z bezpieczeństwem?
+A. Może to prowadzić do przepełnienia bufora, błędów segfaultów oraz możliwej eksploatacji tych błędów przez osoby postronne.
+B. Brak tego rozumienia nie ma wpływu na bezpieczeństwo, ponieważ limit streszczenia nie jest powiązany z ochroną pamięci.
+C. Problem pojawia się tylko w przypadku kompilacji programów, a w trakcie ich wykonywania nie ma ryzyka.
+D. Znajomość limitu streszczenia zmniejsza ryzyko</p>
+<p>Poprawna odpowiedź: A</p>
+</li>
+</ol>
+<h2>Fiszki</h2>
+<ul>
+<li>Kompilacja to konwersja kodu źródłowego w postaci napisaną przez człowieka w języku programowania w plik wykonywalny, który może być od razu wykonany przez system operacyjny.</li>
+<li>Limit streszczenia to graniczna wartość przestrzeni adresowej, która jest zarezerwowana dla każdego procesu na potrzeby tworzenia jego stosu oraz sterty.</li>
+<li>Ograniczenie streszczenia ma istotny wpływ na kompilację i wykonywanie programów, zwłaszcza jeśli nie jest ono prawidłowo rozumiane.</li>
+<li>Za pomocą narzędzia <code>ulimit</code> dostępnego w systemach Linux, można sprawdzić wartość i ustawić limit streszczenia.</li>
+<li>Problemy z zarządzaniem danymi w pamięci, takie jak przepełnienie bufora czy wycieki pamięci, mogą być spowodowane niewystarczającym rozumieniem limitu streszczenia.</li>
+</ul>
+<h2>Notatki</h2>
+<p>Limit streszczenia, również nazywany &quot;limitem wzrostu&quot;, to istotne pojęcie przy kompilacji i wykonywaniu programów. Ogranicza ono ilość pamięci, którą program może zająć podczas swojego wykonywania, a dokładniej, ilość dostępnej przestrzeni adresowej na potrzeby tworzenia stosu oraz sterty dla danego procesu.</p>
+<p>Sam proces kompilacji zajmuje tylko nieznaczne ilości pamięci, podczas gdy w trakcie wykonywania, poszczególne części programu wymagają większych ilości pamięci. Dzięki ograniczeniu streszczenia, zapobiega się nadmiernemu zajmowaniu pamięci przez procesy, które mogą to zrobić w sposób niewłaściwy, takie jak przepełnienie bufora czy wyciek pamięci.</p>
+<p>Jednym ze sposobów sprawdzenia i ustawienia limitu streszczenia w systemach Linux jest użycie <code>ulimit</code>, które jest dostępne we wbudowanym interpreterze bash. Polecenie <code>ulimit -s</code> pozwala sprawdzić bieżącą wartość limitu streszczenia, a <code>ulimit -S -s N</code> ustawia nową wartość limitu, gdzie <code>N</code> to liczba w bajtach. Należy pamiętać, że każdy proces Linux dziedziczy wartość limitu streszczenia po swoim procesie nadrzędnym, więc aby na pewno zmienić go, należy dokonać tego dla procesu o najwyższym poziomie nadrzędności.</p>
+<p>Można powiedzieć, że rozumienie limitu streszczenia jest niezbędne do pisania bezpiecznego kodu, a jego zaniedbanie prowadzić może do problemów, takich jak przepełnienie stosu, które mogą prowadzić do kompromitacji bezpieczeństwa systemu. Należy wziąć pod uwagę, że wydajność i bezpieczeństwo kodu nie zawsze są wzajemnie sprzeczne wymagania, a dobre zarządzanie pamięcią może przyczynić się do poprawy obu tych aspektów.</p>
+
+        </div>
+        <a href="index.html" class="back">← Powrót do spisu treści</a>
+      </body>
+    </html>
+    
