@@ -1,179 +1,84 @@
-<!DOCTYPE html>
-<html lang="pl">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Darmowe Paczki Notatek i Quizów 🚀</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: "Segoe UI", Roboto, Arial, sans-serif;
-      line-height:o
-      background: #f5f7fa;
-      color: #333;
-    }
-    header.hero {
-      background: linear-gradient(135deg, #0070f3, #00c6ff);
-      color: #fff;
-      text-align: center;
-      padding: 80px 20px;
-    }
-    header.hero h1 {
-      font-size: 2.5rem;
-      margin-bottom: 20px;
-    }
-    header.hero p {
-      font-size: 1.2rem;
-      max-width: 700px;
-      margin: 0 auto 30px;
-    }
-    header.hero .cta-btn {
-      background: #fff;
-      color: #0070f3;
-      padding: 15px 30px;
-      border-radius: 8px;
-      text-decoration: none;
-      font-weight: bold;
-      transition: background 0.3s;
-    }
-    header.hero .cta-btn:hover {
-      background: #e6f0ff;
-    }
-    section {
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 0 20px;
-    }
-    section h2 {
-      margin-bottom: 20px;
-      font-size: 1.8rem;
-      text-align: center;
-      color: #0070f3;
-    }
-    .newsletter-box {
-      background: #fff;
-      padding: 30px;
-      text-align: center;
-      border-radius: 12px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      margin-bottom: 40px;
-    }
-    .newsletter-box input[type="email"] {
-      padding: 12px;
-      width: 60%;
-      max-width: 300px;
-      border: 1px solid #ccc;
-      border-radius: 6px;
-      margin-right: 10px;
-    }
-    .newsletter-box button {
-      padding: 12px 20px;
-      background: #0070f3;
-      color: #fff;
-      border: none;
-      border-radius: 6px;
-      cursor: pointer;
-      transition: background 0.3s;
-    }
-    .newsletter-box button:hover {
-      background: #0056b3;
-    }
-    .product-cta {
-      background: #fff;
-      padding: 40px;
-      text-align: center;
-      border-radius: 12px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      margin-bottom: 40px;
-    }
-    .product-cta a {
-      background: #ff4081;
-      color: #fff;
-      text-decoration: none;
-      padding: 15px 30px;
-      border-radius: 8px;
-      font-size: 1.2rem;
-      font-weight: bold;
-      transition: background 0.3s;
-    }
-    .product-cta a:hover {
-      background: #e73370;
-    }
-    ul.quiz-list {
-      list-style: none;
-      padding: 0;
-    }
-    ul.quiz-list li {
-      background: #fff;
-      margin: 10px 0;
-      padding: 15px;
-      border-radius: 8px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-      transition: transform 0.2s;
-    }
-    ul.quiz-list li:hover {
-      transform: translateY(-2px);
-    }
-    ul.quiz-list a {
-      text-decoration: none;
-      color: #0070f3;
-      font-weight: 600;
-    }
-    footer {
-      background: #222;
-      color: #aaa;
-      text-align: center;
-      padding: 20px;
-      font-size: 0.9rem;
-    }
-  </style>
-</head>
-<body>
 
-  <!-- HERO -->
-  <header class="hero">
-    <h1>Darmowe Paczki Notatek i Quizów dla Uczniów 🎓</h1>
-    <p>Ucz się szybciej i sprytniej! Codziennie nowe notatki, fiszki i quizy do lektur, matematyki, biologii i historii.</p>
-    <a href="https://quizy-crw.edu-factory.pages.dev" class="cta-btn">📘 Sprawdź przykładowe quizy</a>
-  </header>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Fabryka Quizów 🚀</title>
+    
+<style>
+  body {
+    font-family: "Segoe UI", Roboto, Arial, sans-serif;
+    margin: 40px;
+    background: #fafafa;
+    color: #333;
+    line-height: 1.6;
+  }
+  h1 {
+    font-size: 2rem;
+    color: #0070f3;
+    border-bottom: 3px solid #0070f3;
+    padding-bottom: 5px;
+  }
+  h2 {
+    font-size: 1.5rem;
+    color: #444;
+    margin-top: 30px;
+  }
+  .section {
+    background: #fff;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  .quiz ol {
+    padding-left: 20px;
+  }
+  .quiz li {
+    margin-bottom: 12px;
+  }
+  .answer {
+    font-weight:bold;
+    color:#0070f3;
+  }
+  .flashcards ul {
+    list-style:none;
+    padding-left:0;
+  }
+  .flashcards li {
+    background:#eef6ff;
+    margin:8px 0;
+    padding:10px;
+    border-radius:6px;
+  }
+  .notes p {
+    margin-bottom:12px;
+  }
+  a.back {
+    display:inline-block;
+    margin-top:20px;
+    color:#0070f3;
+    text-decoration:none;
+  }
+  a.back:hover {
+    text-decoration:underline;
+  }
+</style>
 
-  <!-- NEWSLETTER -->
-  <section>
-    <h2>Zapisz się na newsletter ✉️</h2>
-    <div class="newsletter-box">
-      <p>Dołącz i odbierz <b>3 darmowe paczki PDF</b> na start!</p>
-      <!-- 🔥 Wklej tu kod embed Beehiiv zamiast formularza poniżej -->
-      <form action="https://paczkinauki.beehiiv.com/subscribe" method="post" target="_blank">
-        <input type="email" name="email" placeholder="Twój e‑mail" required>
-        <button type="submit">Zapisz się</button>
-      </form>
-    </div>
-  </section>
-
-  <!-- CTA GUMROAD -->
-  <section>
-    <h2>⚡ Oferta specjalna</h2>
-    <div class="product-cta">
-      <p>Pobierz pełny pakiet PDF z notatkami i quizami do najważniejszych lektur!</p>
-      <a href="https://paczkinauki.gumroad.com/l/agvbc" target="_blank">
-        ❤️ Kup pakiet PDF za 19 zł
-      </a>
-    </div>
-  </section>
-
-  <!-- LISTA QUIZÓW -->
-  <section id="quizy">
-    <h2>📚 Ostatnio wygenerowane quizy</h2>
-    <ul class="quiz-list">
-      <li><a href="Balladyna_streszczenie.html">Balladyna – streszczenie + quiz</a></li>
-      <li><a href="Lalka_streszczenie.html">Lalka – streszczenie + quiz</a></li>
-      <li><a href="Pan_Tadeusz_streszczenie.html">Pan Tadeusz – streszczenie + quiz</a></li>
+  </head>
+  <body>
+    <h1>📘 Fabryka Quizów – Spis paczek</h1>
+    <p>Automatycznie wygenerowane notatki, fiszki i quizy:</p>
+    <ul>
+      <li><a href="Antygona_streszczenie.html">Antygona_streszczenie</a></li>
+<li><a href="Balladyna_streszczenie.html">Balladyna_streszczenie</a></li>
+<li><a href="Chopi_streszczenie.html">Chopi_streszczenie</a></li>
+<li><a href="Dziady_cz_III_streszczenie.html">Dziady_cz_III_streszczenie</a></li>
+<li><a href="Krl_Edyp_streszczenie.html">Krl_Edyp_streszczenie</a></li>
+<li><a href="Lalka_streszczenie.html">Lalka_streszczenie</a></li>
+<li><a href="Makbet_streszczenie.html">Makbet_streszczenie</a></li>
+<li><a href="Pan_Tadeusz_streszczenie.html">Pan_Tadeusz_streszczenie</a></li>
+<li><a href="Romeo_i_Julia_streszczenie.html">Romeo_i_Julia_streszczenie</a></li>
+<li><a href="Wesele_streszczenie.html">Wesele_streszczenie</a></li>
     </ul>
-  </section>
-
-  <footer>
-    © 2024 Fabryka Quizów | Stworzone z AI 🚀
-  </footer>
-
-</body>
+  </body>
 </html>
