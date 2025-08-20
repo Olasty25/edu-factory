@@ -1,61 +1,40 @@
  # Quiz - Dziady cz. III streszczenie
+1. Kto to Guy de Vergy?
+   A) ojciec Konrada
+   B) krewny Konrada
+   C) wróg Konrada
+   D) sługa Konrada (poprawna odpowiedź: C)
 
-1. Kto jest głównym bohaterem Dramy Czyśćcowej "Dziady" cz. III autorstwa Adama Mickiewicza?
-   A. Gustaw
-   B. Konrad
-   C. Pan Twardowski
-   D. Mickiewicz
+2. Po co Gustawowi potrzebne są kości jego ojca?
+   A) aby zniszczyć je
+   B) aby je oddać H Hotelskiemu
+   C) aby się nimi posłużyć do czarnej magii
+   D) aby zachować je jako pamiątkę (poprawna odpowiedź: D)
 
-   Poprawna odpowiedź: A (Gustaw)
+3. Jakie ma imię siostra Gustawa?
+   A) Agnieszka
+   B) Zosia
+   C) Jadwiga
+   D) Aniela (poprawna odpowiedź: A)
 
-2. Na kim składają się wizje bohatera Dramy?
-   A. Przeszłość, teraźniejszość, przyszłość
-   B. Czyściec, Piekło, Raj
-   C. Polska, Litwa, Rosja
-   D. Cierpienie, Śmierć, Wiara
+4. Kto jest Judytą?
+   A) córką Zbigniewa
+   B) żoną Zbigniewa
+   C) córką Konrada
+   D) kochanką Konrada (poprawna odpowiedź: A)
 
-   Poprawna odpowiedź: B (Czyściec, Piekło, Raj)
-
-3. Co oznacza pojęcie "młoda Polska"?
-   A. Ugrupowanie literackie
-   B. Przebudzenie sił twórczych narodu i dążenie do niepodległości
-   C. Walka z faszyzmem
-   D. Polityczna partia
-
-   Poprawna odpowiedź: B (Przebudzenie sił twórczych narodu i dążenie do niepodległości)
-
-4. Które słowa wymawia Zosia na koniec, zanim umrze i po śmierci oznacza to, że staje się ona aniołem krzewicielem wiary?
-   A. "Nie opuszczę cię, kochany"
-   B. "Chrystus umarł za nas"
-   C. "Bog mi was pozwala"
-   D. "Czuwajcie i modlicie się"
-
-   Poprawna odpowiedź: D (Czuwajcie i modlicie się)
-
-5. Co jest celem Mickiewicza, pisząc Dramę "Dziady"?
-   A. Pokazać system wartości epoki
-   B. Pokazać wiarę chrześcijańską
-   C. Zapoczątkowanie dążenia do niepodległości Polski
-   D. Krytyka polityczna
-
-   Poprawna odpowiedź: A (Pokazać system wartości epoki)
+5. Dlaczego Zbigniew nie chce brać udziału w uroczystościach pogrzebowych?
+   A) bo się boi
+   B) bo nie kocha swojego ojca
+   C) bo nie chce opuszczać zamku
+   D) bo nie jest w stanie pogodzić się ze śmiercią ojca (poprawna odpowiedź: D)
 
 # Fiszki - Dziady cz. III streszczenie
-
-1. Adam Mickiewicz - Wielki polski poeta romantyczny, pisarz, krytyk, tłumacz i działacz społeczno-polityczny.
-2. Drama Czyśćcowa - Trzyczęściowy poemat epicki, stanowiący ważny element dorobku liryki i filozofii romantycznej.
-3. Gustaw - Główny bohater Dramy; postać romantycznego "bohatera", który symbolizuje walkę uczuć i ducha.
-4. Zosia - Postać kobieca, symbolizująca kobiecość, miłość i wiarę.
-5. Czyściec - Symboliczne miejsce, stanowiące wariację na temat katolickiego pojęcia "czystości".
+1. Guy de Vergy - krewny Konrada, który zabił jego ojca.
+2. Konrad - główny bohater, który dla zemsty na Guyu de Vergy pragnie zachować kości swojego ojca.
+3. Zbigniew - syn Konrada, który jest zagubiony emocjonalnie i nie umie pogodzić się ze śmiercią ojca.
+4. Judyta - córka Zbigniewa, która jest uważana za magiczną i przynosi wieści ze świata umarłych.
+5. Gustaw - ojciec Konrada, który pojawia się w wieku dziecięcym i młodzieńczym jako duch.
 
 # Notatki - Dziady cz. III streszczenie
-
-"Dziady" cz. III to ważna i hołubiona część Dramy Czyśćcowej Adama Mickiewicza opublikowanej w 1832 r. w Paryżu. Utwór ten przedstawia refleksje i rozważania na temat wartości epoki. Autor przedstawił postać głównego bohatera Gustawa - typowego "bohatera", który jest podzielony wewnętrznie i zmaga się z uczuciami i zdaniem społecznym. Dramat odzwierciedla wartości epoki i refleksje na temat polskiej historii.
-
-W Dramie pojawiają się wizje z przeszłości, teraźniejszości i przyszłości, które mają kluczowe znaczenie dla bogatej treści Dramy. Bohater Gustaw i inni poznają swoją duchową naturę, zagadnienia wolności, klasy i wiary, oraz ich znaczenie dla Polski i jej losu.
-
-Dramat jest pełen symboliki i aluzji, podkreślających różnorodność myśli romantycznej. "Dziady" cz. III składa się z trzech części: Czyściec, Piekło i Raj; jest refleksją nad religijnością głęboką i ludową, zaś wiarę chrześcijańską traktuje jako podstawę dla odnalezienia ojczyzny i wolności.
-
-Zosia jest drugą ważną postacią Dramy, z którą Gustaw podróżuje do Czyśćca w ramach procesu poznania siebie. Słowa Zosi, kiedy umiera dają nam poczucie, że staje się ona aniołem krzewicielem wiary.
-
-Mickiewicz pragnął przez Dramę "Dziady" pokazać system wartości epoki, niepodległość i narodowe poczucie tożsamości narodu polskiego, oraz krytycznie ocenić system polityczny. Jako jeden z największych polskich poetów romantycznych, żeportretował narodziny ruchu romantycznego i zapoczątkował poczucie "młodej Polski". Dramat ten jest wzorcem romantyzmu, który nadal żyje dalej i był inspiracją dla wielu twórców. Obecnie "Dziady" stanowią znaczącą część polskiej literatury i sztuki.
+Dziady cz. III to trzeci akt dramatu Adama Mickiewicza, który opowiada o śmierci ojca głównego bohatera, Konrada. Akcja toczy się w zbrojowni, w której Konrad przechowuje kości swojego ojca, aby się nimi posłużyć do czarnej magii i dokonać zemsty na Guyu de Vergy, który go zabił. Dramat opisuje też jego relacje z synem Zbigniewem, który ma kłopoty z niestandardowością swojego ojca i nie potrafi pogodzić się ze jego śmiercią. W dramacie występują także postaci duchowe, w tym sam ojciec Konrada, który pojawia się w wieku dziecięcym i młodzieńczym, a także Judyta, córka Zbigniewa, która jest uważana za magiczną i przynosi wieści ze świata umarłych. Dramat ten to studium relacji ojcowsko-synowych, które są nacechowane silnymi emocjami i silnymi konfliktami.
