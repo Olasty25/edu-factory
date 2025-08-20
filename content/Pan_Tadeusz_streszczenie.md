@@ -1,66 +1,56 @@
- # Pan Tadeusz - Quiz
+ # Quiz
+1. W którym roku rozgrywa się akcja „Pan Tadeusza”?
+A. 1811
+B. 1812
+C. 1813
+D. 1814
 
-1. Kto jest autorem dzieła "Pan Tadeusz"?
-   A. Henryk Sienkiewicz
-   B. Adam Mickiewicz
-   C. Bolesław Prus
-   D. Julian Tuwim
-   *B. Adam Mickiewicz
+Correct answer: B. 1812
 
-2. W którym roku poemat powstał?
-   A. 1834
-   B. 1827
-   C. 1807
-   D. 1812
-   *B. 1827
+2. Kto jest autorem „Pan Tadeusza”?
+A. Juliusz Słowacki
+B. Adam Mickiewicz
+C. Stanisław Wyspiański
+D. Cyprian Norwid
 
-3. Gdzie rozgrywa się akcja "Pana Tadeusza"?
-   A. Warszawa
-   B. Lwów
-   C. Wilno
-   D. Soplicowo
-   *D. Soplicowo
+Correct answer: B. Adam Mickiewicz
 
-4. Kto jest głównym bohaterem "Pana Tadeusza"?
-   A. Tadeusz Soplica
-   B. Jan Soplica
-   C. Gerwazy Pomian
-   D. Hrabia Henryk Birmingham
-   *A. Tadeusz Soplica
+3. Gdzie mieszka rodzina Soplicy?
+A. Na Litwie
+B. W Wilnie
+C. Na Ukrainie
+D. W namiotach
 
-5. Która z postaci została opisana jako "najdzielniejsza żona Wilna"?
-   A. Telimena
-   B. Ewa Zaleska
-   C. Leonia
-   D. Podstolina
-   *D. Podstolina
+Correct answer: A. Na Litwie
 
-# Pan Tadeusz - Fiszki
+4. Kto Ninieszieławski?
+A. Syn Telimeny
+B. Syn Hrabiny
+C. Kochanek Telimeny
+D. Syn Tadeusza
 
-1. Pan Tadeusz: **epicki poemat** (12 ksiąg) autorstwa Adama Mickiewicza
-2. Utwór jest pełen sentymentu do **przeszłości i kultury Rzeczypospolitej**
-3. **Akcja** rozgrywa się w roku 1811, na Litwie, w majątku Soplicowo
-4. **Głównym bohaterem** jest Tadeusz Soplica, syn zesłanego w wyniku konfederacji targowickiej Hrabiego
-   Soplicy
-5. Poemat zawiera wiele postaci z różnych warstw społecznych, takich jak szlachta, chłopi, duchowieństwo
-   czy urzędnicy dworscy
+Correct answer: C. Kochanek Telimeny
 
-# Pan Tadeusz - Notatki
+5. Zakończył się sukcesem powstanie kościuszkowskie, który z bohaterów „Pan Tadeusza” wziął w nim udział?
+A. Tadeusz
+B. Hrabia
+C. Jankiel
+D. Podstoli
 
-"Pan Tadeusz" jest epickim poematem Adama Mickiewicza, opublikowanym w 1827 roku, po zakończeniu przez autora studiów na Uniwersytecie Wileńskim. Uważany jest za arcydzieło polskiej literatury romantycznej.
+Correct answer: A. Tadeusz
 
-Akcja utworu rozgrywa się w roku 1811, w majątku Soplicowo na Litwie. Głównym bohaterem poematu jest Tadeusz Soplica, syn zesłanego w wyniku konfederacji targowickiej Hrabiego Soplicy, który po dłuższej nieobecności wraca do rodzinnego domu.
+# Fiszki
+1. Pan Tadeusz - tytuł epopei Adama Mickiewicza, opisującej losy powstańca kościuszkowskiego Tadeusza Soplicy i jego rodziny oraz życia szlachty na Litwie i w Polsce w okresie wojen napoleońskich.
+2. Sielanka - utwór literacki o tematyce wiejskiej, najczęściej o budowie idyllicznej.
+3. Telimena - centralna postać kobieca w „Panu Tadeuszu”, z jej losem związane są wielkie wydarzenia historyczne i osobiste.
+4. Jankiel - postać epicka w „Panu Tadeuszu” Adama Mickiewicza, Żyd, skrzypek i restaurator, przyjaciel rodziny narratora.
+5. Hrabia - rycerz, uczestnik wojen napoleońskich, powstaniec kościuszkowski, ojciec Tadeusza i Stanisława.
 
-W poemacie znaleźć można wiele interesujących postaci z różnych warstw społecznych. Do najważniejszych należą:
+# Notatki
+„Pan Tadeusz” to znana epopeja Adama Mickiewicza, opisująca losy powstańca kościuszkowskiego Tadeusza Soplicy i jego rodziny. Akcja rozgrywa się na Litwie w 1812 roku. Utwór ten jest uważany za arcydzieło polskiej literatury. Jest to również sielanka, ponieważ ukazuje on wiejskie życie szlachty w sposób idealizowany.
 
-- Tadeusz Soplica, główny bohater, który po długiej nieobecności wraca do rodzinnego domu
-- Hrabia Henryk Birmingham, właściciel majątku i przyjaciel rodziny Sopliców
-- Gerwazy Pomian, zubożały szlachcic, który dbając o interesy rodu, opiekuje się rodziną Sopliców
-- Telimena, piękna kobieta, która ukrywa heroiczną przeszłość
-- Ewa Zaleska, miła i urodziwa kobieta, obiekt westchnień i trosk Tadeusza
-- Podstolina, znana jako "najdzielniejsza żona Wilna", która opiekuje się swoim dworem i rodziną
-- Horeszko, zły duch polskiej wiecu, kushner czyhający na szansę obrażenia rodziny Sopliców
+Głównymi postaciami są Tadeusz Soplica, Hrabia (ojciec Tadeusza i Stanisława), Telimena, Ninieszieławski i Jankiel. Telimena jest postacią kobiecą, która gra dużą rolę w życiu Tadeusza. Ninieszieławski był jej kochankiem, ale został zabity w walce. Telimena ma duże wpływy wśród miejscowej szlachty i jej los jest związany z wielkimi wydarzeniami historycznymi.
 
-Poemat jest pełen sentymentu do przeszłości i kultury Rzeczypospolitej. Jest poematem erudycyjnym, zawierającym wiele nawiązań do historii, astronomii, matematyki, heraldyki, muzyki, plastyki i teatru. Mickiewicz wplótł w tekst poematu wiele elementów folkloru ludowego i humoru.
+Jankiel to postać epicka, Żyd, który jest skrzypkiem i restauratorem. Jest on symbolem zjednoczenia narodów, których łączy muzyka.
 
-W "Panu Tadeuszu" Mickiewicz przedstawił obraz życia codziennego w sarmackiej szlachcie, ich stosunki rodzinne, obyczaje i tradycje. W poemacie przeplatają się wątki obyczajowe, historyczne, heroiczne, patriotyczne i filozoficzne.
+„Pan Tadeusz” ukazuje alsoż w sposób realistyczny życie szlachty w tamtych czasach, jej obyczaje i tradycje, zwyczaje i obowiązki oraz życie codzienne. Utwór ten jest także warty zapamiętania ze względu na piękne opisy przyrody oraz obrazy bitwy pod Ostrołęką.

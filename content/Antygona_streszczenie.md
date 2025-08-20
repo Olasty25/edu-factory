@@ -1,48 +1,49 @@
  # Quiz - Antygona streszczenie
 
-1. Któż jest bratem Antygony w tragedii Sofoklesa?
-   A. Kreon
-   B. Eteokles
-   C. Polinikes
-   D. Haimon
-   Poprawna odpowiedź: B. Eteokles
+1. Kto to Antygona?
+   A) Matka Oidipa
+   B) Siostra Oidipa
+   **C) Córka Oidipa**
+   D) Żona Oidipa
 
-2. Która z postaci w "Antygonie" Sofoklesa nie jest spokrewniona z Antygoną krwią?
-   A. Kreon
-   B. Eteokles
-   C. Polinikes
-   D. Tejrezjasz
-   Poprawna odpowiedź: D. Tejrezjasz
+2. Dlaczego Antygona postanowiła pochować swojego brata Polinika, mimo że zakazano tego władzom Teb?
+   A) Uważała, że prawo państwa ma ograniczenia
+   **B) Chciała spełnić ostatnią wolę ojca**
+   C) Myślała, że nie ma wartości, aby żyć w niesprawiedliwości
+   D) Podążała za radą swego kochanka
 
-3. Po śmierci Eteoklesa i Polinikesa, kto przejmuje władzę w Tebach?
-   A. Kreon
-   B. Haimon
-   C. Jokasta
-   D. Antygona
-   Poprawna odpowiedź: A. Kreon
+3. Kto to Kreon?
+   A) Ojciec Antygony
+   B) Mąż Antygony
+   **C) Król Teb**
+   D) Kochanek Antygony
 
-4. Antygona własnym ciałem chce dokonać czego dla Polinikesów?
-   A. Oddać hołd
-   B. Pochować
-   C. Uczcić pogrzebem
-   D. Wszystkie poprawne
-   Poprawna odpowiedź: D. Wszystkie poprawne
+4. Co stało się z Hajmonem, kochankiem Antygony?
+   A) Uciekł z Teb i został kupcem
+   **B) Skoczył z wieży, żeby uniknąć ślubu z Kreontową córką**
+   C) Został ogłoszony nowym królem Teb
+   D) Został przyjacielem Kreona
 
-5. Czytając tragedię "Antygona", dowiadujemy się, że Kreon jest...
-   A. Ojcem Antygony
-   B. Mężem Jokasty
-   C. Bratem Eteoklesa
-   D. Królem Teb
-   Poprawna odpowiedź: D. Królem Teb
+5. Jak zakończyła się historia Antygony?
+   A) Wyszła za mąż i żyła długo i szczęśliwie
+   B) Została królową Teb
+   **C) Została zamurowana żywcem w jaskini**
+   D) Udała się na wygnanie
 
 # Fiszki - Antygona streszczenie
 
-1. **Antygona** - córka Ojdcypesa i Jokasty, siostra Polinikesa i Eteoklesa, narzeczona Haimona.
-2. **Kreon** - tebajski władca, brat Jokasty, teść Haimona i Antygony.
-3. **Eteokles** - syn Ojdcypesa i Jokasty, brat Antygony i Polinikesa, zabił Polinikesa w pojedynku, pochowany z honorami.
-4. **Polinikes** - syn Ojdcypesa i Jokasty, brat Antygony i Eteoklesa, zginął z ręki Eteoklesa, pozbawiony pogrzebu.
-5. **Haimon** - syn Kreona i Eurydyki, narzeczony Antygony.
+1. Antygona - córka Oidipa, króla Teb, i Jokasty, królowej Teb
+2. Polinik - brat Antygony, zginął w wojnie i nie miał pochówku
+3. Kreon - wuj Antygony, stał na czele państwa po tym, jak Ojdie odebrał sobie życie
+4. Hajmon - kochanek Antygony, syn Kreona
+5. Ismena - siostra Antygony, nie poparła jej w działaniach
 
 # Notatki - Antygona streszczenie
 
-"Antygona" Sofoklesa to tragiczna opowieść o konflikcie pomiędzy królem Teb, Kreonem, a jego siostrzenicą, Antygoną. Kreon po śmierci Eteoklesa, który zginął w pojedynku z Polinikesem, wydał edykt, zakazujący pochówku Polinikesa, ponieważ ten sprzymierzył się z wrogami Teb, próbując zdobyć tron. Antygona, niezależnie od edyktu, postanawia pochować swojego brata, uważając, że mając krwią tebańską zasługuje na pogrzeb. Jej postanowienie staje się przyczyną konfliktu, którego celem jest ukazać ważność praw, miłości rodzinnej, wierności decyzjom władzy oraz sprawiedliwość boską i ludzką. Kontrowersyjna decyzja Kreona i uporczywa postawa Antygony prowadzą do tragicznego finału, w którym obie postacie tracą najbliższych sobie ludzi, a także same poświęcają swoje życie.
+Antygona to tragedia napisana przez greckiego poetę Sofoklesa. Akcja opowiada historię Antygony, córki króla Teb Ojtego i królowej Jokasty. Antygona musiała stawić czoła sytuacji, gdy jej brat Polinik zginął w wojnie i nie mógł otrzymać pochówku, ponieważ Kreon, wuj Antygony i nowy król Teb, zabronił tego.
+
+Kreon ogłosił, że ktokolwiek spróbuje pochować ciało Polinika, zostanie ukarany śmiercią. Antygona postanowiła jednak zignorować to zakazane prawo i wykonać ostatnią wolę ojca. Pochowała Polinika i jako konsekwencję została schwytana i ukarana przez Kreona.
+
+Hajmon, syn Kreona i kochanek Antygony, pomógł jej uciec z Teb, ale Antonyna zdecydowała się na powrót, by położyć kres cierpieniom i bólu. Kreon zmienił decyzję i postanowił ją oszczędzić, ale było za późno - Antygona już zamknęła się w jaskini i umarła tam na skutek zatrucia się dwutlenkiem węgla.
+
+Antygona to historia o konflikcie między własnym sumieniem a prawem państwa, o sprawiedliwości i niesprawiedliwości oraz o tym, że bycie lojalnym wobec własnej rodziny nie jest zbrodnią. Antygona jest symbolem oporu i umawiania się z nadużyciami władzy. Tragedia ta została po raz pierwszy wystawiona w 442 roku p.n.e., ale jej przesłanie jest nadal aktualne.
