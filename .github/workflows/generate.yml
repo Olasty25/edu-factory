@@ -32,6 +32,9 @@ jobs:
       - name: Convert Markdown to HTML
         run: node generator/md2html.js
 
+      - name: Generate PDF bundle
+        run: node makepdf.js
+
       - name: Commit generated content
         run: |
           git config --local user.email "action@github.com"
