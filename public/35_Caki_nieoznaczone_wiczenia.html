@@ -1,0 +1,152 @@
+
+    <html>
+      <head>
+        <meta charset="utf-8">
+        <title>35_Caki_nieoznaczone_wiczenia</title>
+        
+<style>
+  body {
+    font-family: "Segoe UI", Roboto, Arial, sans-serif;
+    margin: 40px;
+    background: #fafafa;
+    color: #333;
+    line-height: 1.6;
+  }
+  h1 {
+    font-size: 2rem;
+    color: #0070f3;
+    border-bottom: 3px solid #0070f3;
+    padding-bottom: 5px;
+  }
+  h2 {
+    font-size: 1.5rem;
+    color: #444;
+    margin-top: 30px;
+  }
+  .section {
+    background: #fff;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  .quiz ol {
+    padding-left: 20px;
+  }
+  .quiz li {
+    margin-bottom: 12px;
+  }
+  .answer {
+    font-weight:bold;
+    color:#0070f3;
+  }
+  .flashcards ul {
+    list-style:none;
+    padding-left:0;
+  }
+  .flashcards li {
+    background:#eef6ff;
+    margin:8px 0;
+    padding:10px;
+    border-radius:6px;
+  }
+  .notes p {
+    margin-bottom:12px;
+  }
+  a.back {
+    display:inline-block;
+    margin-top:20px;
+    color:#0070f3;
+    text-decoration:none;
+  }
+  a.back:hover {
+    text-decoration:underline;
+  }
+</style>
+
+      </head>
+      <body>
+        <h1>35_Caki_nieoznaczone_wiczenia</h1>
+        <div class="section quiz">
+          <h1>Quiz: Całki Nieoznaczone Ćwiczenia</h1>
+<ol>
+<li>Co otrzymamy po obliczeniu całki $\int x^2 dx$?
+A) 0
+B) 1
+C) $x^2$
+D) $x^3/3 + C$</li>
+</ol>
+<p>Correct answer: D) $x^3/3 + C$</p>
+<ol start="2">
+<li>Co oznacza $C$ w wyniku całkowania $(\int x^2 dx = x^3/3 + C)$?
+A) Constansa
+B) Ciągiem
+C) Całką
+D) Coś losowego</li>
+</ol>
+<p>Correct answer: A) Constansa</p>
+<ol start="3">
+<li>Całką nieoznaczoną $\int f(x) dx$ nazywamy:
+A) Antysymetryczną funkcję
+B) Funkcję odwrotną od funkcji $f(x)$
+C) Przybliżenie wartości funkcji $f(x)$
+D) Dowolną funkcję $F(x)$ taki, że $F&#39;(x) = f(x)$</li>
+</ol>
+<p>Correct answer: D) Dowolną funkcję $F(x)$ taki, że $F&#39;(x) = f(x)$</p>
+<ol start="4">
+<li>Co otrzymamy po obliczeniu całki $\int \sin(x) dx$?
+A) $-\cos(x)$
+B) $\cos(x)$
+C) $-\sin(x)$
+D) $\sin(x)$</li>
+</ol>
+<p>Correct answer: A) $-\cos(x)$</p>
+<ol start="5">
+<li>Jaka to własność całek nieoznaczonych? $\int (f(x) + g(x)) dx =$
+A) $\int f(x) dx + \int g(x) dx$
+B) $\int f(x) dx - \int g(x) dx$
+C) $\int f(x) g(x) dx$
+D) $\int f(x) / \int g(x) dx$</li>
+</ol>
+<p>Correct answer: A) $\int f(x) dx + \int g(x) dx$</p>
+<h1>Fiszki: Całki Nieoznaczone Ćwiczenia</h1>
+<ol>
+<li>Całka nieoznaczona</li>
+<li>Przyrost funkcji</li>
+<li>Koniunktywność całek</li>
+<li>Funkcje pętli</li>
+<li>Pochodna funkcji</li>
+</ol>
+<h1>Notatki: Całki Nieoznaczone Ćwiczenia</h1>
+<h2>Zapis całek nieoznaczonych</h2>
+<ul>
+<li>Całki nieoznaczone zapisujemy symbolem $\int f(x) dx$</li>
+<li>Symbol $\int$ wskazuje, że jest to całka</li>
+<li>$f(x)$ jest to funkcja całkowana</li>
+<li>$dx$ oznacza, że całkujemy ze względu na $x$</li>
+</ul>
+<h2>Interpretacja całek nieoznaczonych</h2>
+<p>Całka nieoznaczona to antysymetryczna funkcja $F(x)$ taką, że dla dowolnej wartości $x$ i jej przyrostu $\Delta x$, różnica całek $F(x + \Delta x) - F(x)$ jest przyblżeniem wartości funkcji $f(x)$, nilpotencjalnie zapisywanego jako:
+$$
+\int f(x) dx = F(x) \Rightarrow \Delta F = F(x + \Delta x) - F(x) \approx f(x) \Delta x
+$$
+Np. dla $f(x) = x^2$ i $F(x) = x^3/3$
+$$
+\Delta F \approx (x+\Delta x)^3/3 - x^3/3 = (x^3 + 3x^2\Delta x + 3x(\Delta x)^2 + (\Delta x)^3)/3 - x^3/3
+$$
+$$
+\approx 3x^2\Delta x/3 = x^2\Delta x
+$$</p>
+<h2>Własności całek nieoznaczonych</h2>
+<ol>
+<li>Liniowość całek $\int (af(x) + bg(x)) dx = a \int f(x) dx + b \int g(x) dx$</li>
+<li>Dowolna całka nieoznaczona jest wyznaczona z dokładnością do stałej aka (dla dowolnych $F(x), G(x)$, jeśli $\int f(x) dx = F(x)$, to $\int f(x) dx = F(x) + C$)</li>
+<li>Przyrost funkcji całkowanej za pomocą całki jest przyrostem funkcji zmiennej omówione w punkcie wyżej</li>
+<li>Addytywność całek $\int (f(x) + g(x)) dx = \int f(x) dx + \int g(x) dx$</li>
+</ol>
+
+        </div>
+        <a href="index.html" class="back">← Powrót do spisu treści</a>
+      </body>
+    </html>
+    
