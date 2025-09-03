@@ -1,61 +1,52 @@
- # Quiz: Wesele - streszczenie
+ # Quiz: Wesele - Streszczenie
 
-1. Jakie są główne postacie w dramacie *Wesele* Stanisława Wyspiańskiego?
-   A. Bolesław i Lilla
-   B. Gustaw i KostUSzek
-   C. Młynarz i Wachmaster
-   D. Staruszek i Dzidka
+1. Jaka postać shakespeerowska jest głównym bohaterem wesela w sztuce "Wesele" Williama Shakespeare'a?
+A. Romeo
+B. Książę Hal
+C. Książę Hamlet
+D. Książę Henryk
+Odpowiedź: D. Książę Henryk
 
-   Poprawna odpowiedź: C. Młynarz i Wachmaster
+2. Jaką funkcję pełni czwórka podstarostów w sztuce "Wesele" Williama Shakespeare'a?
+A. Są świadkami zamieszek i przemocy
+B. Przygotowują wesele
+C. Są sobowtórami księcia Henryka
+D. Prowadzą dobrowolne zbiórki pieniędzy na wesele księcia
+Odpowiedź: A. Są świadkami zamieszek i przemocy
 
-2. Która scena w *Wesele* jest uznawana za najbardziej kontrowersyjną?
-   A. Scena na cmentarzu
-   B. Scena poprzedzająca ślub
-   C. Scena weselna
-   D. Scena Konrada i Zosii
+3. Jak Książę Henryk postrzega swój obowiązek wobec społeczeństwa i królestwa?
+A. Uważa, że ma prawo robić, co zechce, ponieważ jest księciem
+B. Rozważa abdykację, ponieważ czuje się niezdolny do spełniania swoich obowiązków
+C. Uważa, że jego obowiązkiem jest służba i obrona kraju
+D. Liczy się tylko jego przyjemność i zabawa
+Odpowiedź: C. Uważa, że jego obowiązkiem jest służba i obrona kraju
 
-   Poprawna odpowiedź: A. Scena na cmentarzu
+4. Jaką rolę pełni Lady Percy, wdowa po Hotspurze, w sztuce "Wesele"?
+A. Zachęca księcia Henryka do zmiany swojego stylu życia
+B. Sprzeciwia się małżeństwu jej syna z księżniczką Kate
+C. Uprawiają romans z księciem Henrykiem
+D. Wpaja nienawiść do Francji w swojego syna
+Odpowiedź: A. Zachęca księcia Henryka do zmiany swojego stylu życia
 
-3. Którym z guestów weselnych jest adresat wiersza *Do Autora* Wyspiańskiego?
-   A. Młynarz
-   B. Wachmaster
-   C. Pan Młody
-   D. Hipopotam
+5. Jak kończy się sztuka "Wesele"?
+A. Książę Henryk umiera z rany odniesionej w bitwie
+B. Książę Henryk umiera z powodu picia i przywary
+C. Książę Henryk abdykuje i zostaje mnichem
+D. Książę Henryk żeni się z Kate
+Odpowiedź: A. Książę Henryk umiera z rany odniesionej w bitwie
 
-   Poprawna odpowiedź: D. Hipopotam
+# Fiszki: Wesele - Streszczenie
 
-4. Kto według Wyspiańskiego niesie winę za sytuację Polski pod zaborami?
-   A. Naród polski
-   B. Zaborcy
-   C. Szlachta
-   D. Duchowni
+1. Książę Henryk - główny bohater wesela, książę Anglii, obowiązkowy, wręcz ascetyczny tryb życia, obowiązki wobec społeczeństwa i królestwa
+2. Podstarostowie - czterej pijacy, którzy doprowadzają do zamieszek podczas wesela
+3. Lady Percy - wdowa po Hotspurze, zachęca księcia do zmiany swojego stylu życia
+4. Księżniczka Kate - narzeczona księcia Henryka, córka króla Francji
+5. Falstaff - najlepszy przyjaciel księcia Henryka, starszy starszy człowiek, komiczna postać, pijaczek, zabawienie
 
-   Poprawna odpowiedź: A. Naród polski
+# Notatki: Wesele - Streszczenie
 
-5. Który z bohaterów dramatu *Wesele* jest uosobieniem sarmatyzmu?
-   A. Wachmaster
-   B. Młynarz
-   C. Staruszek
-   D. Hipopotam
+W sztuce "Wesele" Williama Shakespeare'a, książę Henryk jest młodym, energicznym i obowiązkowym księciem Anglii. Współcześni mu postrzegali go jako przyszłego króla Henryka V, w przeciwieństwie do jego ojca, księcia Jana, który był nieudolnym władcą. Pewnego dnia książę Henryk odwiedza tawernę, gdzie spotyka Falstaffa, starszego człowieka, który jest jego najlepszym przyjacielem, a zarazem komicznej postaci. Falstaff jest pijaczem, złodziejem i kłamcą, ale ma wspaniały humor, i książę Henryk uwielbia spędzać czas z nim.
 
-   Poprawna odpowiedź: A. Wachmaster
+Gdy książę wraca do zamku, zostaje poinformowany o planowanym ślubie z księżniczką Kate, córką króla Francji. Zaproszone są do królewskiego dworu podstarosty, grupa czterech pijaków, którzy doprowadzają do zamieszek podczas wesela. Książę Henryk jest zaniepokojony swoim obowiązkiem wobec społeczeństwa i królestwa i postanawia zmienić swój styl życia. Podczas wesela poznaje Lady Percy, wdowę po Hotspurze, a kiedy dowiaduje się, że tancerka w zamku jest córką szlachcica, zakochuje się w niej.
 
-# Fiszki: Wesele - streszczenie
-
-1. Sarmatyzm - ideał moralny i kulturowy szlachty polskiej okresu baroku
-2. Zaborcy - państwa, które zajęły ziemie polskie w latach 1795-1918
-3. Hipokryzja - domyślne skłonność do działania podwójnych standardsów lub sprzecznych postaw
-4. Melancholia - uduchowiona przygnębienie; uczucie smutku i rozpaczy
-5. Nihilizm - pogląd, według którego życie nie ma sensu ani celu, brak nadziei
-
-# Notatki: Wesele - streszczenie
-
-*Wesele* Stanisława Wyspiańskiego to dramat, który podąża za losami głównych bohaterów w dniu ślubu Młodego i Młodej. Spektakl ten, jeden z klasycznych dramatów polskich, to nie tylko opowieść o weselnych przygotowaniach i ceremonii, ale też głęboka refleksja nad losem narodu polskiego, jego historią i tożsamością.
-
-Główne postacie weselne to Młynarz i Wachmaster, otoczają ich liczni goście takiego wydarzenia: NOWAK, STARUSZEK, DZIDKA, PAN MŁODY, PANNA MŁODA, ZOSIA, KONRAD. Jednak, najbardziej kontrowersyjna scena, to scena na cmentarzu, w której młodzi ludzie odwiedzają groby swoich przodków, co stanowi swoisty hołd historyczny i pokazuje świadomość przeszłości.
-
-Napisane w 1901 roku, *Wesele* Wyspiańskiego, to praca zdecydowanie krytyczna wobec ówczesnej sytuacji Polski. Autor rozważa nad winami narodu polskiego oraz nad przyszłością kraju. Dramat skupia się na hipokryzji społeczeństwa, podkreślając tym samym konieczność samokrytyki. Stanisław Wyspiański kreśli poglądy nihilistyczne i melancholijne, zauważając, iż losem narodu rządzą większe siły i działania, niż mogą one same sobie zarzucić.
-
-Autor podważa też pojęcie sarmatyzmu, legitymizując swój pogląd na hipokryzję społeczeństwa. Wyspiański szczególną uwagę poświęca postaci Wachmastera, uosabiającego ideał sarmatyzmu, który zraża bohaterów nie tylko swoimi poglądami na moralność, ale i zachowaniem.
-
-W końcowej części dramatu Wyspiański podkreśla rolę Hipopotama, który nazwany zostaje autorem wiersza *Do Autora*. Hipopotam stanowi ucieleśnienie idei konformizmu, uległości i adaptacji, co ponownie podkreśla problem hipokryzji społecznej.
+Sztuka kończy się tragicznie, gdy książę Henryk dowiaduje się o konflikcie z Francją i udaje się na wojnę, gdzie umiera z rany odniesionej w bitwie. "Wesele" to tragiczna historia młodego księcia, który zostaje królem, poświęca swoje życie dla dobra kraju i umiera, zanim zdąży się ożenić i stać ojcem. Sztuka ta jest o konflikcie między obowiązkiem a przyjemnością, miłością a obowiązkiem, a także o zmianie i dojrzewaniu, ponieważ książę musi porzucić swój uprzyknienia i zostać odpowiedzialnym władcą.

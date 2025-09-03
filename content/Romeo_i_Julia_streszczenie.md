@@ -1,71 +1,61 @@
- # Romeo i Julia - Quiz
+ ### Quiz
 
-1. W którym mieście rozgrywa się akcja dramatu "Romeo i Julia" autorstwa Williama Shakespeare'a?
-    A. Werona
-    B. Rzym
-    C. Wenecja
-    D. Florencja
-    ***A.*** Werona
+1. Kto są Romeo i Julia?
+   A) Brat i siostra
+   B) Kuzyni
+   C) Kochankowie
+   D) Wrogowie
 
-2. Kto są rodzice Julii?
-    A. Kapuleti
-    B. Monteccy
-    C. Książę Werony
-    D. Bracia Laurencia
-    ***A.*** Kapuleti
-    
-3. Kto jest najlepszym przyjacielem Romea?
-    A. Benvolio
-    B. Tybalt
-    C. Mercucio
-    D. Parys
-    ***C.*** Mercucio
+   Poprawna odpowiedź: C) Kochankowie
 
-4. Jakie nazwisko nosi Romeo przed ślubem z Julią?
-    A. Kapuleti
-    B. Monteccy
-    C. Książę Werony
-    D. Skargi
-    ***A.*** Kapuleti
+2. Gdzie żyją główni bohaterowie?
+   A) W Weronie
+   B) W Mediolanie
+   C) W Wenecji
+   D) W Rzymie
 
-5. Kiedy i gdzie umiera Julia?
-    A. Na cmentarzu przed grobem Romea
-    B. W domu Kapuletich
-    C. Na schodach Kapuletów
-    D. W klasztorze
-    ***A.*** Na cmentarzu przed grobem Romea
+   Poprawna odpowiedź: A) W Weronie
 
-# Romeo i Julia - Fiszki
+3. Które rodziny są zwaśnione?
+   A) Montague i Capulet
+   B) Capulet i Sly
+   C) Montague i Capulettowicz
+   D) Capuletti i Montechristo
 
-1. **Werona** - miasto, w którym rozgrywa się akcja dramatu.
-2. **Rodzina Kapuletich** - rodzina Juli, znienawidzona przez Montecchi.
-3. **Rodzina Montecchi** - rodzina Romea, w konflikcie z Kapuletami.
-4. **Książę Werony** - rządca Werony, który próbuje załagodzić spór pomiędzy rodami.
-5. **Bałwany** - przedmiot, który Romeo kupuje w aptece, omyłkowo wzięty za truciznę.
+   Poprawna odpowiedź: A) Montague i Capulet
 
-# Romeo i Julia - Notatki
+4. Kto poślubił Julię jak wynik królewskiego розпорядження?
+   A) Tybalt
+   B) Paris
+   C) Kapulet
+   D) Brabancio
 
-*Akt I*
-- Wprowadzenie do rodzin Kapuletich i Montecchi: konflikt, w którym jestem głęboko zakorzeniony.
-- Romeo nie jest zainteresowany kobietami, ponieważ jest załamany po zerwanym związku z Rosalindą.
-- Spotkanie Romea i Julii na balu i ich natychmiastowe zauroczenie.
+   Poprawna odpowiedź: B) Paris
 
-*Akt II*
-- Romeo i Julia zdecydowani są się pobrać w tajemnicy, mimo wrogości swoich rodzin.
-- Ślub jest przeprowadzony przez ojca Ławki, franciszkanina.
-- Zabójstwo Tybalta przez Romea prowadzi do wyroku księcia na wygnanie Romea.
+5. Kto umiera na samym końcu spektaklu?
+   A) Julietta
+   B) Romeo
+   C) Kapulet
+   D) Montague
 
-*Akt III*
-- Julia otrzymuje wieść o wygnaniu Romea i jest załamana.
-- Postanawiają spotkać się w nocy na cmentarzu, gdzie mają poślubić się ponownie.
-- W trakcie ich spotkania, para zostaje przerywana przez brata Julii, kapelana, który nie wie o ich małżeństwie.
+   Poprawna odpowiedź: A) Julietta i B) Romeo
 
-*Akt IV*
-- Julii rodzi plan wmawiając swojej rodzinie, że zamierza poślubić Parysa.
-- W tym samym czasie Romeo jest już w głębokim smutku z powodu banicji, ale jest spełniony po ślubie z Julią.
-- Friar Lorenzo proponuje alternatywny plan, który zapewni Romea powrót do Werony i pojednanie rodzin.
+### Fiszki
 
-*Akt V*
-- Julia dowiaduje się o planach FriaraLorenzo na jej małżeństwie z Parysem.
-- Wskutek pomyłki FriaraLorenzo, Romeo i Julia umierają w objęciach, sąsiadujących z ich grobami.
-- Dramat kończy się śmiercią obojga kochanków, co przywraca spokój w Weronie i pojednanie rodzin Kapuletich i Montecchi.
+1. **Romeo i Julia** - tragedia autorstwa Williama Szekspira opowiadająca historię złośliwego rodowego sporu i zakazanej miłości młodych kochanków.
+2. **Werona** - miasto, w którym rozgrywa się akcja.
+3. **Montague i Capulety** - rodziny, które są skonfliktowane.
+4. **Romeo** - syn rodu Montague, zakochany w Julii.
+5. **Julia** - córka rodu Capulet, zakochana w Romeo.
+
+### Notatki
+
+"Romeo i Julia" to słynna tragedia Williama Szekspira, która opowiada historię zakazanej miłości. Główni bohaterowie, Romeo i Julia, pochodzą z dwóch rywalizujących ze sobą rodzin - Montague i Capulet. Historia rozpoczyna się na balu, który daje rodzina Capulet, gdzie Romeo, będąc pod wpływem miłości od pierwszego wejrzenia, zaprasza Julię do tańca. Podczas tańca ich spojrzenia spotykają się, i wkrótce daremnie próbują porozmawiać. Gdy Romeo wychodzi, Julię odwiedza jej kuzyn Tybalt, który ma urazę do Montague. Gdy dowiaduje się, że Romeo przybył na bal, obraża go, lecz starsi Montague i Capulet uspokajają sytuację, i bal trwa dalej.
+
+Następnego ranka Julia spotyka się z starszą siostrą, Capulettową, której mówi o Romeo. Capulettowa przyznaje, że Romeo jest postrzegany jako zaletowy młody mężczyzna, i mówi Julii, że Romeo przyjdzie na zaręczyny jej córki z hrabią Parisem. Julię rozczarowuje to, ale nie może mu się oprzeć, międzyczasem Romeo spotyka siebie z Mercucym, swoim przyjacielem i Benvoliem, swoim kuzynem. Mercutio i Benvolio dają Romeowi radę, by zapomniał o Julii, lecz Romeo w odpowiedzi mówi, że nadal ją kocha i pragnie ją zobaczyć. Podczas rozmowy z najlepszymi przyjaciółmi Romeo widzi Julię przez okno i wchodzi na teren jej ogrodu. Oboje wyznają sobie miłość, a następnie w haste Romeo i Julia wziąwszy ślub z młodej zakochanej pary.
+
+Gdy słudzy Capulettów atakują Romea i Benvolia, Mercucio Chroniony przed atakiem rozpoczyna pojedynek z Tybaltem, w wyniku którego zostaje śmiertelnie cięty. Romeo zabija Tybalta w odwecie, i zostaje zmuszony do opuszczenia Werony. Następnie Julię dowiaduje się o śmierci Tybalta i obawiając się o Romea, odmawia małżeństwa z hrabią Parisem. Jej ojciec jest wściekły i mówi, że wyda ją za mąż w ciągu trzech dni, bez względu na to, czy będzie chciała lub nie. Julietta udaje się do Friara Laurence'a, który wyswatał Romea i Julię, prosi go o pomoc. Friar Laurence daje jej truciznę, która zostawi ją w stanie nibyśmiertelności na cztery dni. Podczas gdy Juliet jest w ciągu, ma pójść do kościoła i udać się do grobów Capuletów, a Friar Laurence powiadomi Romea o planie.
+
+Wkrótce Julietta wypija truciznę i umiera. Romeo, który nie otrzymał wiadomości od Friar Laurence'a, przybywa do grobu Juliety, żeby być z nią. W tym czasie Balthasar, przyjaciel Romea, przekonany, że Romeo popełnił samobójstwo, zawiadamia o tym Capuleta i Montague. Gdy osoby okoliczne przybywają na miejsce, Romeo widzi ich w kościele i przyjmuje truciznę, żeby umrzeć obok Julii. Julia budzi się i zastaje wszystko to, co się wydarzyło, i gdy widzi mrtwe ciało Romea, popełnia samobójstwo, podrzynając sobie gardło. Jednak przybywających na miejscu Capuletów i Montague poinformowuje Friar Laurence o rodzinnym dramacie i wskutek rozmów zostaje zaprzestane wszelkiego wzajemnego nienawiści.
+
+Historia Romea i Julii zostaje przekazana jako historia dwóch zakochanych i tragicznie zmarłych nastolatków, którzy padli ofiarą rodzinnego sporu. Shakespeare w swym utworze opisuje historię namiętnej i nieszczęsnej miłości, której tragedia osiąga kulminację w śmierci Romea i Julii.

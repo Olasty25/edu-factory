@@ -1,63 +1,47 @@
- # Król Edyp: Streszczenie
-
-## Quiz
+ # Quiz
 
 1. Kto są rodzice Edypa?
-   A. Kreon i Eurydyka
-   B. Laio i Jokasta
-   C. Kreon i Jokasta
-   D. Laio i Eurydyka
+    A. Kreon i Eurydika
+    B. Laius i Jocasta (poprawna odpowiedź)
+    C. Amfitryon i Alkmena
+    D. Kadmos i Harmonia
 
-   Poprawna odpowiedź: B. Laio i Jokasta
+2. Gdzie się odbywa akcja dramatu "Król Edyp"?
+    A. Ateny
+    B. Salamina
+    C. Teby (poprawna odpowiedź)
+    D. Argos
 
-2. Dlaczego Edyp musiał opuścić Korynt?
-   A. Został wygnany za zabójstwo
-   B. Został wygnany przez ottęstwo swego ojca
-   C. Opuścił Korynt dobrowolnie, by uniknąć przepowiedni
-   D. Opuścił Korynt dobrowolnie, by uniknąć zabójstwa
+3. Jak zmarł ojciec Edypa?
+    A. Został zamordowany przez bandytów na drodze do Delf
+    B. Zginął w wielkim pożarze w pałacu
+    C. Został zamordowany przez Edypa (poprawna odpowiedź)
+    D. Został zabity przez centaura
 
-   Poprawna odpowiedź: C. Opuścił Korynt dobrowolnie, by uniknąć przepowiedni
+4. Co prorokowało orakulum w Delfach co do losów Edypa?
+    A. Żenić się z własną matką i zabić własnego ojca (poprawna odpowiedź)
+    B. Zostać największym królem w historii
+    C. Przegrać bitwę z Tebańczykami
+    D. Zostać czarnoksiężnikiem
 
-3. Kogo Edyp zabija na drodze do Teb?
-   A. Laia
-   B. Kreona
-   C. Stróża
-   D. Polibosa
+5. Kto była żoną i matką Edypa?
+    A. Antygona
+    B. Merope
+    C. Jokasta (poprawna odpowiedź)
+    D. Eurydyka
 
-   Poprawna odpowiedź: A. Laia
+# Fiszki
 
-4. Co sprawia, że Edyp poślubia swej matki?
-   A. Edyp nie wie, że Jokasta jest jego matką
-   B. Jokasta namawia Edypa do ślubu
-   C. Edyp i Jokasta zakochują się w sobie
-   D. Muszą się pobrać, by uratować Teby
+- Edyp – bohater mitu greckiego, syn Laiusa i Jocasty, króla Teb
+- Laius – król Teb, który został zabity na drodze do Delf przez bandytów, z czego okazuje się, że zabójcą było własne dziecko, Edyp
+- Jocasta – matka i żona Edypa, nie wiedząc, że jest matką, wychodzi za niego za mąż i ma z nim dzieci
+- Ojrodzeici – w mitologii greckiej określenie na relacji seksualnych między krewnymi w linii prostej
+- Orakulum – sanktuarium Apollina w Delfach, do którego ludzie uczęszczali po prorocze wskazówki
 
-   Poprawna odpowiedź: A. Edyp nie wie, że Jokasta jest jego matką
+# Notatki
 
-5. Co się dzieje z Edypem w finale sztuki?
-   A. Zostaje wygnany
-   B. Ciężko się rozchorowuje
-   C. Wyrywa sobie oczy
-   D. Umiera
+"Król Edyp" (Oidipus Tyrannus) to tragedia napisana przez Sofoklesa około 429 roku przed Chrystusem. Opowiada historię Edypa, króla Teb, który staje się królem wkrótce po swoim przybyciu do tego miasta. Edyp przybywa do Teb po tym, jak jego ojciec, król Laius, zostaje zabity na drodze do Delf. Edyp postanawia rozwiązać zagadkę tajemniczego morderstwa i uratować Teby przed klęską głodu, która nawiedza miasto.
 
-   Poprawna odpowiedź: C. Wyrywa sobie oczy
+Pewnego dnia Edyp spotyka wędrowca, który informuje go, że Laius został zamordowany na drodze do Delf. Edyp zapowiada, że ten zabójca nie przeżyje, jeśli kiedykolwiek go spotka. Wkrótce potem dowiaduje się, że przyczyną klęski głodu w Tebach jest potwór, który nawiedza drogę i morduje każdego, kto próbuje przejść przez nią. Edyp wysyła Kreona, swojego szwagra, do Delf, aby zapytać Apollo, co ma zrobić, aby usunąć klęskę głodu z Teb. Kreon wraca z wieścią, że Apollo każe znaleźć i ukarać zabójcę Laiusa, który teraz stoi się przyczyną klęski głodu.
 
-## Fiszki
-
-1. **Ojciec Edypa**: Laio, król Teb
-2. **Matka Edypa**: Jokasta, królowa Teb
-3. **Przepowiednia Lajosa**: Edyp zabije swego ojca, poślubi matkę i zrodzi z nią dzieci, które zostaną zabici
-4. **Wyrocznia Apollo w Delfach**: Prowadzi do spełnienia się przepowiedni Lajosa
-5. **Megaera**: Jedna z Erinii, która później staje się Irydą
-
-## Notatki
-
-"Król Edyp" (gr. *Oidipus Tyrannos*) – tragedia grecka autorstwa Sofoklesa. Jej akcja rozgrywa się w Tebach, położonych w Beocji.
-
-Głównym bohaterem utworu jest tytułowy Edyp, który przybywa do Teb pod koniec wędrówki, bojąc się spełnienia przepowiedni proroctwa wyroczni delfijskiej. Przepowiednia ta głosi, że będzie zabił własnego ojca i poślubił matkę. W wyniku rozwiązania zagadki Sfinksa ocala miasto i zostaje jego królem.
-
-Później okazuje się, że Edyp jest synem Laia, poprzedniego króla Teb. Laio zostawił dziecko w dziczy, ale zostało ono znalezione i wychowane na księcia Koryntu. Po pokonaniu Sfinksa i poślubieniu Jokasty Edyp uzyskuje wszystko, czego pragnie, jednak spełniają się złośliwe zapowiedzi wyroczni: Edyp zabija ojca i poślubia matkę.
-
-W finale Edyp opuszcza Teby i oślepia siebie, by zatuszować winę. Jest on symbolem kary za znalezienie się zbyt blisko prawdy, której nie powinien się dowiedzieć. Sofokles przedstawia tu losem tragicznego bohatera bogatą w śmierć i cierpienie historię.
-
-Utwór ten jest klasycznym przykładem tragedii greckiej oraz szczególnie interesującym, ponieważ jej bohater nieumyślnie dopuszcza się swojej zbrodni.
+Po wielu perypetiach Edyp odkrywa, że zabójcą jego ojca był on

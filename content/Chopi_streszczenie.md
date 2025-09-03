@@ -1,60 +1,65 @@
- Chłopi (Bacerracja) - Streszczenie
-=================================
+ Chłopi (Bacerakci, 1908) - Streszczenie
+=====================================
 
 Quiz
 ----
 
-1. Który twórca nie jest związany z dramatem "Chłopi"?
+1. Który rok wydała Polska Akademia Umiejętności pierwszą edycję "Chłopów" Wyspianskiego?
 
-   A. Stanisław Wyspiański
-   B. Stefan Żeromski
-   C. Gabriela Zapolska
-   **D. Władysław Reymont**
+A. 1905
+B. 1906
+C. 1907
+D. 1908 (Poprawna odpowiedź)
 
-2. W której wsi rozgrywa się akcja dramatu?
+2. W "Chłopach" Wyspianskiego jakie postacie literackie reprezentują rodziców Waclawa?
 
-   A. Brzezice
-   B. Markowa
-   **C. Lipce**
-   D. Gołąbki
+A. Jasiek i Stasia
+B. Maciej i Jagna
+C. Antek i Baszka (Poprawna odpowiedź)
+D. Jasiek i Baszka
 
-3. Który z mężczyzn z Lipcy jest opisywany jako "człowiek wielki, szeroki, gładki jak morwa"?
+3. Jakiej symboliki używa Wyspianski w scenie wesela w "Chłopach"?
 
-   A. Młynarz
-   **B. Jagna**
-   C. Antek
-   D. Maciej Boryna
+A. Symbolika światła
+B. Symbolika roślin
+C. Symbolika tańca
+D. Symbolika wody (Poprawna odpowiedź)
 
-4. Jakie imię nosi żona Boryny?
+4. Któż jest odpowiedzialny za śmierć Jagny w "Chłopach"?
 
-   **A. Hanka**
-   B. Basia
-   C. Aniela
-   D. Kasia
+A. Jagna
+B. Maciej
+C. Stach (Poprawna odpowiedź)
+D. Wacław
 
-5. Który z bohaterów "Chłopów" ginie na końcu dramatu?
+5. Kiedy odbywa się akcja "Chłopów"?
 
-   A. Boryna
-   B. Antek
-   C. Jakub
-   **D. Hanka**
+A. W XIX wieku
+B. W okresie I wojny światowej
+C. W okresie powstań narodowych
+D. W XVI wieku (Poprawna odpowiedź)
 
 Fiszki
 -----
 
-1. **Bacerracja** - gatunek polskiego dramatu
-2. **Lipce** - wieś, w której rozgrywa się akcja dramatu
-3. **Antek** - syn Boryny i Hanki, postać uosabiająca Nowego Człowieka
-4. **Jagna** - postać z "Chłopów", opisywana jako "człowiek wielki, szeroki, gładki jak morwa"
-5. **Hanka** - żona Boryny, matka Antka, postać o dużej roli w bacerractwie
+1. **Stanisław Wyspianski** - polski artysta; malarz, grafik, scenograf, poeta i dramaturg, znany z twórczości teatralnej i malarstwa symbolicznego.
+2. **Jagna** - córka wdowca Macieja Boryny, nieślubna córka Stanisława w "Chłopach".
+3. **Symbolika wody** - w "Chłopach" Wyspianskiego jest wykorzystywana przede wszystkim w scenie ślubu Jagny i Wacława. Wodę czerpią z studni jako symbol odnowy i czystości, co ma przynieść szczęście nowożeńcom.
+4. **Śmierć Jagny** - postać Jagny ginie z rąk Stacha w wyniku jego obłędu, którego przyczyną było poniżenie i upokorzenie przez Jagnę w scenie weselnej.
+5. **Historia dramatu** - "Chłopi" to drama z 1908 roku uznawane za jedno z głównych dzieł Wyspianskiego. Historia to grupa chłopów, których postacie reprezentują właściwości ludzkiej natury i powolne wynikające z tego konflikty pomiędzy nimi.
 
 Notatki
 -------
 
-"Chłopi" jest dramatem Władysława Reymonta, nagrodzonym literacką Nagrodą Nobla w 1924 roku. Opisuje on życie chłopów w dwudziestoleciu międzywojennym w Polsce. Głównym bohaterem jest Maciej Boryna, bogaty chłop i właściciel ziemski. Jego syn, Antek, uosabia nowy ideał - Nowego Człowieka, który kwestionuje autorytet ojca.
+"Chłopi" to jedno z najważniejszych dzieł dramatycznych polskiego modernizmu, napisane przez Stanisława Wyspianskiego i opublikowane w 1908 roku.
 
-Akcja dramatu rozgrywa się w wsi Lipce, gdzie Reymont przedstawia trudne życie chłopów, konflikty społeczne i to, co oznacza bycie chłopem. Dramat porusza również temat miłości, która jest tu szczera i pozbawiona sentymentalizmu. Hanka, żona Boryny, jest postacią o dużej roli w bacerractwie, co oznacza, że pełni funkcję mediatora i rozjemcy w konfliktach.
+W dziele "Chłopi" znajdujemy liczne postaci chłopskich, reprezentujące różne właściwości ludzkiej natury. Centralna postać to Wacław, który jest postacią słabą, inne postacie to m.in. Maciej i Jagna. Natomiast Stach to symbol siły, która pełni również rolę katastrofy w dziele.
 
-W dramacie pojawiają się również inne postacie o dużej roli, m.in. Jagna, opisywana jako "człowiek wielki, szeroki, gładki jak morwa", oraz Młynarz, którego cechuje głęboka religijność i uczciwość.
+Dzieło to składa się z 4 aktów, przy czym akcja rozgrywa się w XVI wieku, w małej wsi, gdzie zgromadzone są różnorodne postacie weselne.
 
-"Chłopi" to dramat, w którym autor opisuje życie codzienne wsi, a także przedstawia głęboką analizę społeczeństwa i jego problemów. Dlatego też jest uznawany za arcydzieło polskiej literatury.
+Wyspianski wykorzystuje w tym dziele liczne symbole, takie jak symbolika wody, którą czerpią z studni Jagna i Wacław by zapobiec upojeniu podczas trwającej ceremonii. Symbolika ta jest jedną z ważniejszych symboli przywoływanych w dziele, znajdujemy ją w scenie weselnej, gdzie odbywa się ceremonia ślubu Jagny i Wacława. Ślub ukazany jest jako przejście z dzieciństwa do dojrzałości, które poprzedza małżeństwo. Wacław i Jagna doświadczają tu również kryzysu, który będzie miał znaczące konsekwencje w dalszej części dramatu.
+
+Innym ważnym elementem "Chłopów" Wyspianskiego są konflikty pomiędzy poszczególnymi postaciami. Chociaż ich pochodzenie jest tego samego pochodzenia, ich sytuacja i uwarunkowania są inne. Konflikty są przedstawiane przez Wyspińskiego w sposób naturalistyczny, przy czym łatwo
+mozna je powiązać z rzeczywistością z tamtego okresu.
+
+"Chłopi" Wyspińskiego są ważną książką w literaturze polskiej, ponieważ są reinterpretacją tradycji wiejskich i wprowadzają nowy sposób patrzenia na stosunki międzyludzkie, jednocześnie dotykając ludzkiej egzystencji.
