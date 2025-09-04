@@ -1,61 +1,63 @@
- # Quiz
-1. W którym kraju rozgrywa się akcja „Roku 1984”?
-A. Niemcy
-B. Wielka Brytania
-C. Stany Zjednoczone
-D. Rosja
+ # Rok 1984: Zestaw edukacyjny
 
-Poprawna odpowiedź: B. Wielka Brytania
+## Quiz
 
-2. Kto jest Winstonem, głównym bohaterem powieści?
-A. Członkiem Komitetu Centralnego Partii
-B. Pracownikem biura propagandy
-C. Wysokiej rangi członkiem Partii Wewnętrznej
-D. Wybitnym uczonym i intelektualistą
+1. Kto jest głównym bohaterem powieści "Rok 1984"?
+   A. Emmanuel Goldstein
+   B. Julia
+   C. Winston Smith
+   D. O'Brien
 
-Poprawna odpowiedź: B. Pracownikiem biura propagandy
+   Poprawna odpowiedź: C. Winston Smith
 
-3. Co oznaczają liczby 2 + 2 w „Roku 1984”?
-A. 5
-B. 4
-C. 3
-D. Zależy od Winstona
+2. Jaka fraza jest znana jako hasło Partii?
+   A. Wojna jest pokój
+   B. Wolność jest niewola
+   C. Ignorancja jest siłą
+   D. Wszystko zmieniamy, nic nie pozostaje tak samo
 
-Poprawna odpowiedź: D. Zależy od Winstona
+   Poprawna odpowiedź: A. Wojna jest pokój
 
-4. Kim jest O’Brien w powieści?
-A. Przywódca rebelii przeciw partii
-B. Członek Komitetu Centralnego Partii
-C. Przeciwnik głównego bohatera
-D. Tajny agent policji myśli
+3. Co oznaczają liczby 2 + 2 w "Roku 1984"?
+   A. 5
+   B. 4
+   C. 3
+   D. 2
 
-Poprawna odpowiedź: B. Członek Komitetu Centralnego Partii
+   Poprawna odpowiedź: A. 5 (a także 4; zobacz Notatki)
 
-5. Co to znaczy „wojenka i pokój” w „Roku 1984”?
-A. Hasło propagandowe partii
-B. Tajemnica, którą odkrywa główny bohater
-C. Slogan reżimu, by kontrolować umysły ludzi
-D. Faktyczny cel partii
+4. Gdzie mieszka Winston Smith w powieści?
+   A. W Londynie
+   B. W Paryżu
+   C. W Waszyngtonie
+   D. W nowym Londynie (Arykula)
 
-Poprawna odpowiedź: C. Slogan reżimu, by kontrolować umysły ludzi
+   Poprawna odpowiedź: D. W nowym Londynie (Arykula)
 
-# Fiszki
+5. Która fraka jest symbolem Partii w "Roku 1984"?
+   A. Zielona
+   B. Fioletowa
+   C. Czarna
+   D. Biała
 
-1. Big Brother - symbol partii rządzącej w „Roku 1984”
-2. Winston Smith - główny bohater, pracownik propagandy
-3. Partia Zewnętrzna - najmniej uprzywilejowana grupa w partii
-4. Partia Wewnętrzna - najwyższa grupa w hierarchii partii
-5. Proles - większość ludności w kraju, używana do pracy
+   Poprawna odpowiedź: D. Biała
 
-# Notatki
+## Fiszki
 
-* „Rok 1984” to powieść napisana przez George’a Orwella w 1949 roku
-* Wleading character of the novel is Winston Smith, an employee at the Ministry of Truth, where he doctor historical records to fit the propaganda needs of the government
-* The goverment, led by Big Brother, uses telescreens and thought police to control the population
-* The Party has three slogans: „War is Peace, Freedom is Slavery, and Ignorance is Strength”
-* Winston falls in love with Julia, a member of the Anti-Sex League, and it turns out they both hate Big Brother and want to rebel
-* They join a secret society called the Brotherhood, which has the goal of overthrowing the Party
-* O’Brien, a member of the Inner Party, turns out to be a member of the Thought Police and tortures Winston
-* Winston eventually betrays Julia and learns to love Big Brother, the symbol of the state
-* The novel explores themes such as totalitarianism, physical and mental control, and manipulation of reality by propaganda
-* It's a warning about the dangers of a society where individualism and critical thinking are eliminated.
+1. **Nowy Londyn (Arykula)** - fikcyjne miasto z "Roku 1984".
+2. **Partia** - wewnętrzna partia rządząca w "Roku 1984", znana z celów totalitarystycznych.
+3. **Winston Smith** - główny bohater powieści, pracownik Ministerstwa Prawdy.
+4. **Julia** - postać kobieca ze "Roku 1984", ukochana Winstona.
+5. **O'Brien** - postać z powieści, tajny członek partii wewnętrznej.
+
+## Notatki
+
+"Rok 1984" jest powieścią napisaną przez George'a Orwella w 1949 roku. Rok 1984 tocy się w nowym Londynie (Arykuli) w przyszłości nieokreślonej. Głównym bohaterem jest Winston Smith, pracownik Ministerstwa Prawdy, którego zadaniem jest przerabianie historii i faktów, aby pasowały do interesów Partii.
+
+Swobodne myślenie i piętnowane są w nowym świecie. Ludzie są pozbawieni prywatności, a nad ich życiem czuwa totalitarna partia sprawująca dyktatorską władzę. Winston jest rozczarowany światem, w którym żyje, i pragnie zmian. Wprowadza go w ten świat Julia, kobieta zapaśniczo podtrzymująca system, ale w tajemnicy sympatyzująca z ich przeciwnikami.
+
+W powieści pojawia się dewiza "Wojna jest pokój, wolność jest niewola, ignorancja jest siłą". Jest symbolem totalitaryzmu Partii, która używa rozmaitych metod do manipulacji, terroryzowania i kontrolowania obywateli.
+
+Liczba 2 + 2 odpowiada w powieści zarówno 4, jak i 5. Każdy mieszkaniec Oceani jest zmuszany do przekonania siebie, że wszystko, co proklamuje Partia, jest prawdziwe. Dlatego Winston (i bezpośrednio czytelnik) zastanawia się, czy w rzeczywistości 2 + 2 = 5.
+
+Powieść kończy się poddawaniem głównego bohatera O'Brienowi - członkowi Partii Wewnętrznej - który torturuje i przekonuje Winstona, że Twoje myśli nie mogą być wolne od kontroli Partii. "Rok 1984" jest dystopijną opowieścią o zagrożeniach towarzyszących nadmiernemu scentralizowaniu władzy, nadmiernej kontroli i nadmiernym nadzorze.
