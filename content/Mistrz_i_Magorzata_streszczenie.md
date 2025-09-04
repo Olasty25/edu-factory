@@ -1,61 +1,65 @@
  # Quiz - Mistrz i Małgorzata Streszczenie
 
-1. Kto to są: Woland, Korowiew, Bezdomny i Azazello?
-A - Postacie literackie z “Mistrza i Małgorzaty”
-B - Diabeł, jego pomocnicy i ofiara
-C - Czterej mężczyźni o imionach Woland, Korowiew, Bezdomny i Azazello
-D - Wszyscy wyżej wymienieni są diabelskimi postaciami
+1. Który rok rozpoczyna się akcją powieści Michaiła Bułhakowa „Mistrz i Małgorzata”?
+A. 1938
+B. 1941
+C. 1943
+D. 1945
 
-Poprawna odpowiedź: D
+   Poprawna odpowiedź: B. 1941
 
-2. Co to jest variete?
-A - Sztuka cyrkowa z akrobatyką i trickami
-B - Magia sceniczna z iluzjami
-C - Widowisko estradowe z muzyką, tańcem i żartami
-D - Teatr z sztuką w jednym akcie
+2. Kto z magom występujących w powieści jest w stanie wyleczyć oczy Korowirowa?
+A. Woland
+B. Azazello
+C. Behemot
+D. Korowi
 
-Poprawna odpowiedź: C
+   Poprawna odpowiedź: B. Azazello
 
-3. Kto są Mariamna i Nikanor Bohajłow?
-A - Postacie drugoplanowe w „Mistrzu i Małgorzacie”
-B - Główni bohaterowie ksiązki
-C - Postacie fikcyjne z Moskwy lat 30. XX wieku
-D - Nieistotne postacie w utworze
+3. Jakie zwierzę towarzyszy Wolandowi i jest czarnym kotem o imieniu Azraël?
+A. Pies
+B. Kocur
+C. Szczur
+D. Kot
 
-Poprawna odpowiedź: A
+   Poprawna odpowiedź: D. Kot
 
-4. Dlaczego Woland organizuje gestapo w teatrze?
-A - Aby zapewnić sobie środek przymusu
-B - Aby wzbudzić zamieszanie w Moskwie
-C - Aby zrewanżować się dyrektorowi teatru za obelgi
-D - Aby wykazać swe moce i nadnaturalną moc
+4. Który z bohaterów powieści jest autorem dramatu „Wariacje na temat tematu śmierci”?
+A. Rimski
+B. Berlioz
+C. Korowi
+D. Iwan Bezdomny
 
-Poprawna odpowiedź: D
+   Poprawna odpowiedź: B. Berlioz
 
-5. Kto to jest Pontius Pilatus?
-A - Postać historyczna z czasów Chrystusa
-B - Postać literacka z „Mistrza i Małgorzaty”
-C - Człowiek oskarżony o morderstwo
-D - Symbolem zła i krzywdy
+5. Gdzie odbywa się finałowa rozgrywka między Wolandem a Wolandem i końcowy finał powieści?
+A. Teatr Wariétés
+B. Metro
+C. Aleksandrinski
+D. Nowy teatr
 
-Poprawna odpowiedź: A
+   Poprawna odpowiedź: D. Nowy teatr
 
 # Fiszki - Mistrz i Małgorzata Streszczenie
 
-1. Mistrz i Małgorzata - powieść Mikhaila Bułhakowa z 1967 roku
-2. Woland - diabeł w postaci starca, główny antagonista w książce
-3. Korowiew, Azazello, Behemot - pomocnicy Wolanda
-4. Variete - widowisko estradowe z muzyką, tańcem i żartami
-5. Magia czarna - rodzaj magii wykorzystywany przez Wolanda i jego towarzyszy
+1. Michaił Bułhakow
+2. Mistrz i Małgorzata (powieść)
+3. Woland
+3. Moskwa (lokalizacja)
+4. Czarnoksięsty
+5. Berlioz
+6. Korowi
+7. Małgorzata
+8. Teatr Wariétés
+9. Azazello
+10. Behemot
 
 # Notatki - Mistrz i Małgorzata Streszczenie
 
-„Mistrz i Małgorzata” to powieść z 1967 roku autorstwa Mikhaila Bułhakowa. Opowiada historię bohaterów, którzy żyją w Moskwie lat 30. XX wieku. Niestandardowym bohaterem powieści jest Woland – postać demoniczna, która przybywa do Moskwy ze swymi pomocnikami Korowiewem, Azazello i Behemotem.
+Powieść „Mistrz i Małgorzata” została napisana przez rosyjskiego autora Michaiła Bułhakowa. Akcja powieści rozgrywa się w Moskwie w 1941 roku. Autor opisuje historię czterech magów, w tym Wolanda, Azazello i Behemota, którzy przybywają do miasta, aby zapanować nad ludźmi i sprawdzić, czy wierzą w istnienie diabła.
 
-W powieści Woland organizuje sztukę variete w teatrze, aby ukazać swoje moce i zaprezentować magię czarną. Postacie z książki uwikłane są w nadprzyrodzone wydarzenia, które zmienią życie głównych bohaterów.
+Najważniejszymi bohaterami powieści są Berlioz i Korowi, którzy wspólnie napisali dramat „Wariacje na temat tematu śmierci”. Berlioz zostaje ścięty przez tramwaj na początku powieści, a Korowi traci wzrok po wykonaniu zaklęcia. Obaj są zwolennikami marksizmu i ateizmu, w przeciwieństwie do innych bohaterów, którzy wierzą w istnienie Boga.
 
-W trakcie historii losy Mistrza i Małgorzaty splatają się z losami innych bohaterów, takich jak dyrektor teatru, jego żona Mariamna oraz Nikanor Bohajłow, którzy mają kontakt z diabelskimi postaciami.
+Innym ważnym bohaterem jest Małgorzata, która zakochuje się w Wolandzie i sprzedaje duszę, aby pomóc Korowi odzyskać wzrok. Jednak w ostateczności Woland i Małgorzata są zmuszeni walczyć ze sobą w finale powieści w Nowym teatrze.
 
-W powieści pojawia się też Pontius Pilatus – postać historyczna z czasów Chrystusa. Jego historia opowiedziania jest jednym z filarów książki.
-
-„Mistrz i Małgorzata” to powieść, która oddziałuje na wyobraźnię czytelnika i jest bogata w symbolizm i nadnaturalne zdarzenia.
+Powieść jest pełna nawrotów akcji, humoru i fantastyki, z czarnym kotem o imieniu Azraël, który jest w stanie wyleczyć oczy Korowi. „Mistrz i Małgorzata” to kompleksowa powieść, która jest nie tylko dowcipna i zabawna, ale również głęboka i pełna symboliki.

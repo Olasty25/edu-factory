@@ -1,70 +1,57 @@
- # Quiz: Zemsta – Test Your Knowledge
+ # Zemsta - Streszczenie
 
-1. What is the main theme of the movie "Revenge" (2017)?
-A) Love
-B) Betrayal
-C) Friendship
-D) Family
-   *B) Betrayal*
+## Quiz
+1. Który akt powszechnego prawa zabrania zabijania w zemście?
+   A. Akt o Przestępstwach przeciwko Osobie i Rodzinie
+   B. Akt o Przestępstwach przeciwko Własności
+   C. Akt Kryminalny
+   D. Akt Cywilny
+   **Poprawna odpowiedź: A. Akt o Przestępstwach przeciwko Osobie i Rodzinie**
 
-2. Who is the main character of the movie "Revenge"?
-A) Richard
-B) Jen
-C) Stan
-D) Dimitri
-   *B) Jen*
+2. Co oznacza w świetle prawa określenie "zabójstwo w zemście"?
+   A. Zabójstwo z premedytacją
+   B. Zabójstwo w afekcie
+   C. Zabójstwo w obronie własnej
+   D. Zabójstwo popełnione w stanu wyższej konieczności
+   **Poprawna odpowiedź: B. Zabójstwo w afekcie**
 
-3. What is the name of the villain in the movie "Revenge"?
-A) Richard
-B) Jen
-C) Stan
-D) Dimitri
-   *A) Richard*
+3. Kto z morderców z filmu "Zemsta" popełnił zabójstwo w afekcie?
+   A. Klara
+   B. Zygmunt Fuks
+   C. Cześnik Rewera
+   D. Rejent Milczek
+   **Poprawna odpowiedź: A. Klara**
 
-4. Where was the movie "Revenge" filmed?
-A) France
-B) Spain
-C) Italy
-D) Greece
-   *A) France*
+4. Co zgodnie z prawem karanym jest w "Zemście"?
+   A. Krępowanie i porwanie
+   B. Upokorzenie czci osoby
+   C. Napad i zgwałcenie
+   D. Wszystkie poprzednie odpowiedzi
+   **Poprawna odpowiedź: D. Wszystkie poprzednie odpowiedzi**
 
-5. What is the twist in the movie "Revenge"?
-A) Richard is not the villain
-B) Jen is not the victim
-C) Stan is working with the police
-D) Dimitri is Jen's ex-boyfriend
-   *A) Richard is not the villain*
+5. Gdzie odbywa się proces o zabójstwo w zemście Rejenta Milczka i Cześnika Rewery?
+   A. W Krakowie
+   B. W Warszawie
+   C. W Klimkowiczach
+   D. W Czehryniu
+   **Poprawna odpowiedź: D. W Czehryniu**
 
-# Flashcards: Zemsta – Key Terms and Concepts
+## Fiszki
+- **Zabójstwo w zemście** - jest to zabójstwo popełnione w afekcie, czyli w wyniku silnej emocji lub oburzenia.
+- **Zabójstwo w afekcie** - w świetle prawa to czyn zabroniony określony w art. 148 § 1 kk, zagrożony karą pozbawienia wolności na czas nie krótszy od lat 3.
+- **Rehabilitacja** - jest to wyrocznik sądowy o stwierdzeniu, że osoba skazana nieprawomocnie lub o uznaniu za utracone skutki precedensowe pracy prawotwórczej skazującej.
+- **Afektoznik** - jest to pojęcie prawne określające osobę, która popełnia przestępstwo pod wpływem silnej emocji.
+- **Akt o Przestępstwach przeciwko Osobie i Rodzinie** - akt powszechnego prawa z dnia 6 czerwca 1997 r. (Dz.U. z 2022 r. poz. 1138), regulujący odpowiedzialność prawną za popełnienie przestępstw przeciwko osobie i rodzinie.
 
-1. **Jen**
-   - The main character of the movie "Revenge"
-   - A young woman who goes on a retreat to a desert villa with her wealthy boyfriend Richard and his friends
+## Notatki
+"Zemsta" to dramat autorstwa Aleksandra Fredry, który ukazuje losy kilku postaci związanych ze sobą wzajemnymi pretensjami i urazami. Głównymi bohaterami są Cześnik Rewera i Rejent Milczek, którzy pomimo obiektywnego braku winy, stają się ofiarami zabójstwa.
 
-2. **Richard**
-   - Jen's wealthy boyfriend
-   - A villain in the movie who betrays Jen and is involved in her attempted murder
+W świetle prawa kara za popełnienie zabójstwa w zemście wynosi od 3 lat pozbawienia wolności. Jest to kara łagodniejsza niż za zabójstwo z premedytacją, ponieważ popełnione jest w afekcie, czyli w wyniku silnej emocji lub oburzenia.
 
-3. **Stan**
-   - One of Richard's friends
-   - A minor character in the movie who is not involved in Jen's attempted murder
+W dramacie "Zemsta" w afekcie działają dwie postacie: Klara, która zabija Rejenta Milczka oraz Zygmunt Fuks, który próbuje zabić Cześnika Rewerę. Obie sytuacje charakteryzuje ostry konflikt emocjonalny i brak wyraźnej intencji zabójczej wcześniej.
 
-4. **Dimitri**
-   - Jen's ex-boyfriend
-   - A minor character in the movie who appears in a flashback
+Warto zwrócić uwagę na fakt, że pojęcie "zemsty" nie istnieje w świetle prawa, jest to raczej pojęcie kulturowe i literackie. W prawie odróżnia się między innymi zabójstwo w afekcie a zabójstwo z premedytacją.
 
-5. **Betrayal**
-   - The main theme of the movie "Revenge"
-   - Jen is betrayed by Richard and his friends, leading to her attempted murder and revenge
+W dramacie "Zemsta" obok zabójstw popełnione są także inne czyny zabronione, takie jak krępowanie i porwanie, upokorzenie czci osoby, napad i zgwałcenie. Każdy z tych czynów jest karany prawem i ma konkretne konsekwencje prawne.
 
-# Notes: Zemsta – Understanding the Film
-
-"Revenge" (2017) is a French action thriller directed by Coralie Fargeat. The movie follows the story of Jen, a young woman who goes on a retreat to a desert villa with her wealthy boyfriend Richard and his friends. However, the retreat takes a dark turn when Richard betrays Jen and is involved in her attempted murder.
-
-The film is a commentary on gender dynamics and the objectification of women in film and society. Jen is presented as an object of desire for the male characters, who view her as a plaything rather than a person. This is exemplified in a scene where Richard's friends watch Jen skinny dipping through a telescope.
-
-Jen's revenge against her oppressors is portrayed as a journey of self-discovery, as she transforms from a vulnerable victim to a fierce survivor. The film's graphic violence and gore serve to highlight the brutality of the male characters' actions towards Jen and the consequences of their betrayal.
-
-The cinematography and setting of the film also play a significant role in creating a distinct atmosphere. The desert landscape is used to emphasize Jen's isolation and vulnerability, while the use of bright colors and wide shots highlight the beauty of the natural environment.
-
-Overall, "Revenge" is a powerful and thought-provoking film that challenges traditional gender dynamics and offers a fresh perspective on the revenge genre. It is a must-watch for fans of action, thriller, and horror films.
+Warto zwrócić uwagę na zachowanie postaci w dramacie "Zemsta" w sytuacjach konfliktowych. Często postępują one impulsywnie, bez refleksji nad konsekwencjami swoich czynów. To ilustruje zagrożenie działania w afekcie, które może skutkować popełnieniem czynu zabronionego i konieczność poniesienia odpowiedzialności prawnej.

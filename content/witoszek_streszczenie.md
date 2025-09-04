@@ -1,73 +1,62 @@
- # Quiz - Świętoszek streszczenie
-1. Który akt Molière'a nosi tytuł "Świętoszek"?
-   A. Pierwszy
-   B. Drugi
-   C. Trzeci
-   D. Czwarty
+ Sure, here are the materials for the topic "Tartuffe Summary" in Markdown format:
 
-   **Poprawna odpowiedź: C. Trzeci**
+# Tartuffe Summary
 
-2. Jaka jest zawodowa rola tytułowego bohatera "Świętoszech"?
-   A. Lekarz
-   B. Prawnik
-   C. Kapłan
-   D. Nauczyciel
+Tartuffe, also known as "The Hypocrite," is a play written by Molière, a French playwright, in 1664. The play tells the story of a hypocritical religious fraud who infiltrates the household of a wealthy man and manipulates him, his family, and their servants, leading to a series of comedic and dramatic events.
 
-   **Poprawna odpowiedź: C. Kapłan**
+## Quiz
 
-3. Kto jest prawdziwym ojcem córki Sganarela?
-   A. Harpagon
-   B. Mariane
-   C. Valère
-   D. Oronte
+1. Who is the main character of the play Tartuffe?
+   A) Orgon
+   B) Elmire
+   C) Tartuffe
+   D) Damis
+   **Answer: C)**
 
-   **Poprawna odpowiedź: A. Harpagon**
+2. What is Tartuffe's true nature?
+   A) A holy man
+   B) A fraud
+   C) A philosopher
+   D) A servant
+   **Answer: B)**
 
-4. Kto zabiega o rękę Mariane z powodu jej dużego posagu?
-   A. Valère
-   B. Oronte
-   C. Sganarel
-   D. Harpagon
+3. Who is Orgon's mother in the play?
+   A) Dorine
+   B) Mariane
+   C) Pernelle
+   D) Elmire
+   **Answer: C)**
 
-   **Poprawna odpowiedź: D. Harpagon**
+4. Who attempts to expose Tartuffe's deceit?
+   A) Orgon
+   B) Dorine
+   C) Damis
+   D) Valère
+   **Answer: C)**
 
-5. Co zdradza, że Harpagon mimo lat ciągle kocha się w Frosinie?
-   A. Jego dewocja
-   B. Obsesja na punkcie złota
-   C. Zazdrość i ochrona mienia córki
-   D. List, który celowo oddaje Frosinie
+5. How does Tartuffe's plot end?
+   A) Tartuffe is exposed and expelled from the household
+   B) Tartuffe is arrested
+   C) Tartuffe becomes the head of the household
+   D) Tartuffe dies
+   **Answer: A)**
 
-   **Poprawna odpowiedź: D. List, który celowo oddaje Frosinie**
+## Fiszki
 
-# Fiszki - Świętoszek Molière'a
-- **"Świętoszek"** (*Tartuffe, ou l'Imposteur*) - tytułowej sztuki Molière'a, trzeciego aktu
-- **Harpagon** - tytułowy bohater "Świętoska", chciwy starszy mężczyzna, który boi się o swoje złoto
-- **Sganarel** - służący Harpagona, ojciec Mariane
-- **Mariane** - córka Harpagona, zakochana w Valèrze
-- **Valère** - zakochany w Mariane młody mężczyzna, którego ojciec jest bogaczem
-- **Oronte** - poeta, zakochany w Elmisie, ojciec głupieżycy Dorine
-- **Elmira** - przybrana matka i kochanka tytułowego "Świętoska", wdowa po ojcu Valère'a
-- **Frosina** - staruszka, kurtujanka, która próbuje wydać Elmirę za mąż za Harpagona
+1. Tartuffe - a hypocritical religious fraud
+2. Orgon - a wealthy man who invites Tartuffe into his household
+3. Elmire - Orgon's second wife, who tries to expose Tartuffe's deceit
+4. Pernelle - Orgon's mother, who is initially supportive of Tartuffe
+5. Dorine - a servant in the household who also tries to expose Tartuffe's deceit
 
-# Notatki - Świętoszek streszczenie:
-**Treść**
+## Notatki
 
-"Świętoszek" Molière'a jest trzecim aktem kryminalnej komedii, opowiadającej o chciwości i odrazie starszego człowieka, Harpagona. Jego córkę, Mariane, chce wydać za mąż za starszego od siebie podstarzałego bogacza, zamiast młodego mężczyzny, w którym jest zakochana. Dodatkowo się z wzajemnością zakochuje w Frosinie, a jego ukochana Elmira w Sganarelu, służącym Harpagona i prawdziwym ojcem Mariane.
+Tartuffe, the main character of the play, is a hypocritical religious fraud who pretends to be a holy man. He infiltrates the household of Orgon, a wealthy man who is easily manipulated by Tartuffe's false piety. Despite his family's warnings, Orgon remains blind to Tartuffe's true nature and starts to trust him more and more.
 
-**Rola tytułowego bohatera**
+Elmire, Orgon's second wife, is aware of Tartuffe's deceit and tries to expose him. She devises a plan to trap Tartuffe into confessing his true intentions, which eventually leads Orgon to see Tartuffe for who he really is.
 
-"Świętoszek" to tytułowy bohater dramatu. Jest kapłanem, który udaje głęboką pobożność, aby skłonić Harpagona do wydania za niego za mąż jego ukochanej Elmirty. Tytułowy "Świętoszek" okazuje się tylko mistyfikatorem, niczego dobrego nie pragnącym, z powodu własnego pożądania i stawiania własnych interesów ponad te innych.
+Pernelle, Orgon's mother, initially supports Tartuffe, but her views change throughout the play. She eventually becomes convinced of Tartuffe's deceit and helps Orgon and his family expel him from the household.
 
-**Postaci**
+Dorine, a servant in the household, is also aware of Tartuffe's deceit and tries to expose him. She provides comedic relief throughout the play, often mocking Tartuffe's false piety and hypocrisy.
 
-- *Harpagon* - Chciwy starszy mężczyzna, obawiający się o swój majątek. To główna postać, próbująca wydać swoją córkę za mąż dla bogatego mężczyzny i sam kocha się w Frosinie.
-- *Sganarel* - Ojciec Mariane i sługa Harpagona.
-- *Mariane* - Córka Harpagona, zakochana w Valère.
-- *Valère* - Młody mężczyzna, zakochany w Mariane.
-- *Oronte* - Poeta, którego kocha Elmira, a także ojciec Dorine.
-- *Elmira* - Ukochana Harpagona, matka Valère i wdowa, zakochana w Sganarelu.
-- *Frosina* - Starsza kobieta, kurtujanka, która próbuje wydać Elmirę za mąż dla Harpagona.
-
-**Uwaga na końcu**
-
-Aż do dzisiaj sztuka Molière'a pozostaje aktualna i popularna, ponieważ komediowe i satyryczne przedstawienie ludzkich wad są zrozumiałe dla różnych kultur i ludzi. Autor ukazuje tu zgubne skutki oszukiwania innych, a sam Harpagon jest doskonałym przykładem problemów, z jakimi może się spotkać taki zarozumialczy człowiek.
+The play ends with Tartuffe's deceit exposed, and he is expelled from the household. Orgon learns a valuable lesson about trust and the importance of listening to those around him. The play is a commentary on the dangers of hypocrisy and the power of truth and honesty.

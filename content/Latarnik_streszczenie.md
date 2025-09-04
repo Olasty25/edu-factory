@@ -1,60 +1,53 @@
- # Quiz: Latarnik Streszczenie
-1. Jaki jest główny cel latarnika?
-   A. Ostrzega żeglugę o niebezpieczeństwie
-   B. Rzuca cień długich cieni na plażę
-   C. Świeci całą noc zawsze, kiedy słońce zachodzi
-   D. Reguluje ruch w porcie
+ # Quiz - Latarnik
+1. Który z poniższych twierdzeń jest prawdziwy w odniesieniu do zawodu latarnika?
+   A. Latarnicy pracują tylko nocą
+   B. Do obowiązków latarnika należy m.in. obserwacja morza
+   C. W historii nie istniały latarnie morskie
+   D. Latarnicy muszą posiadać umiejętność sterowania jednostkami pływającymi
+   *Poprawna odpowiedź: B. Do obowiązków latarnika należy m.in. obserwacja morza*
 
-   Poprawna odpowiedź: A
-
-2. Jakiej wysokości powinien być latarnia morska, aby była efektywna?
-   A. 10 metrów
-   B. 30 metrów
-   C. 50 metrów
-   D. 100 metrów
-
-   Poprawna odpowiedź: D
-
-3. Co oznacza system kolorów latarni morskich?
-   A. Szybkość wiatru
-   B. Głębokość wody
-   C. Kierunek wiatru
-   D. Natężenie zagrożenia
-
-   Poprawna odpowiedź: D
-
-4. Kiedy latarnia morska została po raz pierwszy zbudowana?
-   A. W starożytności
-   B. W średniowieczu
-   C. W epoce wiktoriańskiej
+2. Kiedy w historii pojawiły się pierwsze latarnie morskie?
+   A. W starożytności, w czasach Egiptu
+   B. W epoce wiktoriańskiej
+   C. W średniowieczu
    D. W nowożytności
+   *Poprawna odpowiedź: A. W starożytności, w czasach Egiptu*
 
-   Poprawna odpowiedź: A
+3. Co oznacza sygnał SOS w systemie światłowskim latarni morskiej?
+   A. Złe warunki pogodowe
+   B. Potrzeba pomocy
+   C. Koniec sygnalizacji
+   D. Ruch jednostki pływającej w kierunku latarni
+   *Poprawna odpowiedź: B. Potrzeba pomocy*
 
-5. Co reprezentuje latarnia morska na herbie Trinity House?
-   A. Siłę morza
-   B. Bezpieczeństwo żeglugi
-   C. Koniec podróży
-   D. Wielkość Anglii
+4. Które z poniższych państw posiada najwięcej latarni morskich?
+   A. Stany Zjednoczone
+   B. Wielka Brytania
+   C. Norwegia
+   D. Japonia
+   *Poprawna odpowiedź: C. Norwegia*
 
-   Poprawna odpowiedź: B
+5. Która z poniższych organizacji zajmuje się utrzymaniem i budową latarni morskich na świecie?
+   A. OIC
+   B. IHO
+   C. IALA
+   D. IMCO
+   *Poprawna odpowiedź: C. IALA*
 
-# Fiszki: Latarnik Streszczenie
-- Latarnia morska: konstrukcja służąca do oświetlania płycizn, scatteru, ujść rzek, pomostów, nabrzeży, portów i innych miejsc, stanowiąca dla żeglugi oznakowanie i punkt orientacyjny.
-- System kolorów latarni morskich: sposób komunikowania poziomu zagrożenia żeglugi poprzez zmianę kolorów światła (białe - bez zagrożenia, żółte - normalne zagrożenie, czerwone - duże zagrożenie).
-- Trinity House: brytyjska organizacja odpowiedzialna za budowę i utrzymanie latarń morskich, światłów nabrzeżnych i innych oznaczeń morskich.
-- Fokstower: najwyższa część latarni morskiej, w której umieszczane jest światło.
-- Dioptria: jednostka miary siły soczewki, używana do określania mocy soczewek w latarni morskiej.
+# Fiszki - Latarnik
+- Latarnia morska: wieża z zapalnicą lub instalacja optyczna służąca do wskazywania miejsca lub sygnalizacji niebezpieczeństwa na morzu
+- Efekt Fresnela: innowacyjny aparat optyczny wynaleziony przez francuskiego fizyka Augustina-Jeana Fresnela, używany w latarniach morskich
+- Zasięg latarni morskiej: maksymalny dystans, na jaki promień światła latarni morskiej jest widoczny
+- Sygnał SOS: widoczny w systemie światłowskim latarni morskiej, oznaczający potrzebę pomocy
+- IALA: Międzynarodowa Organizacja Latarni Morskich, zajmująca się standardami i bezpieczeństwem w zakresie sygnalizacji morskiej
 
-# Notatki: Latarnik Streszczenie
-Latarnie morskie są budowlami służącymi do oświetlania płycizn, scatteru, ujść rzek, pomostów, nabrzeży, portów i innych miejsc, stanowiąc dla żeglugi oznakowanie i punkt orientacyjny. Ich historia sięga starożytności, kiedy to Egipcjanie i Grecy stosowali latarnie na swoich wybrzeżach. W średniowieczu latarnie morskie zyskały na znaczeniu, stając się niezbędnym elementem bezpieczeństwa dla żeglugi.
+# Notatki - Latarnik
+Latarnicy to osoby, które pracują w latarniach morskich i odpowiadają za bezpieczne żeglugę na morzu. Latarnie morskie to wieże lub instalacje optyczne, które służą do wskazywania miejsca lub sygnalizacji niebezpieczeństwa na morzu. W historii, pierwsze latarnie morskie pojawiły się w starożytności, w czasach Egiptu.
 
-Latarnie morskie mogą być budowlami masywnymi, o konstrukcji murowanej, z zaokrąglonym kształtem, co pozwala im na lepsze przetrwanie ekspozycji na warunki atmosferyczne i siłę morza. Czasem są to też wieże stalowe lub betonowe. Niezależnie od formy, najwyższa część latarni morskiej to tzw. fokstower, w którym umieszczane jest światło.
+Współcześnie, systemy światłowochemiczne latarni morskich umożliwiają przekazywanie informacji w czasie rzeczywistym, między latarniami morskimi a jednostkami pływającymi. Jednym z najbardziej rozpoznawalnych sygnałów jest SOS, który oznacza potrzebę pomocy.
 
-Latarnie morskie wykorzystują różne systemy oświetlenia, ale najbardziej rozpowszechniony jest system kolorów latarni morskich, który informuje o poziomie zagrożenia żeglugi poprzez zmianę kolorów światła. Biały kolor oznacza brak zagrożenia, żółty normalne zagrożenie, a czerwony duże zagrożenie.
+Obecnie, najwięcej latarni morskich na świecie znajduje się w Norwegii, która zarządza ponad 200 takich instalacji. Natomiast organizacja, która zajmuje się utrzymaniem i budową latarni morskich na świecie to IALA (Międzynarodowa Organizacja Latarni Morskich).
 
-Wraz z rozwojem techniki, latarnie morskie stały się bardziej zaawansowane, wyposażone w soczewki o dużej sile i zasięgu. Jednostką miary siły soczewki jest dioptria, a w latarni morskiej liczba dioptrii decyduje o mocy oświetlenia oraz zasięgu latarni.
+Efekt Fresnela to innowacyjna technologia, która została wynaleziona przez francuskiego fizyka Augustina-Jeana Fresnela, aby zapewnić maksymalny zasięg światła latarni morskiej. Dzięki temu, maksymalny dystans na jaki promień światła latarni morskiej jest widoczny, nazywany zasięgiem, osiąga do kilkudziesięciu mil morskich.
 
-Trinity House to brytyjska organizacja odpowiedzialna za budowę i utrzymanie latarń morskich, światłów nabrzeżnych i innych oznaczeń morskich. Została założona w 1514 roku i ma bogatą historię, w tym włączenie w swoje zadania komory celnej, straży przybrzeżnej i innych organów odpowiedzialnych za bezpieczeństwo na morzu.
-
-Łącząc wszystkie te elementy, latarnie morskie są nie tylko budowlami o dużej istotności historycznej i kulturowej, ale też aktualnie spełniają ważną rolę w bezpieczeństwie żeglugi, zapewniając oznakowanie i orientację marynarzom na całym świecie.
+Latarnicy są odpowiedzialni za monitorowanie warunków pogodowych, w tym fali, wiatru, czy też obecności lodu na morzu. Ponadto, muszą posiadać wiedzę i umiejętności w zakresie utrzymania i napraw latarni morskich, a także muszą umieć komunikować się z jednostkami pływającymi.
