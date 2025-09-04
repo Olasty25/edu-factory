@@ -1,77 +1,54 @@
- ### Quiz
+ # Quiz: Motyw Miłości w Literaturze
+1. Który z następujących utworów literackich jest uważany za najbardziej romantyczny w historii literatury angielskiej?
+   A. Wuthering Heights
+   B. Pride and Prejudice
+   C. Jane Eyre
+   D. Sense and Sensibility
+   **Poprawna odpowiedź: B. Pride and Prejudice**
+2. Która rola odgrywa miłość w tragedii Williama Shakespeare'a, Romeo i Julia?
+   A. Sama tragedia
+   B. Przyczyna konfliktu
+   C. Motywacja głównych bohaterów
+   D. Tło społeczne
+   **Poprawna odpowiedź: C. Motywacja głównych bohaterów**
+3. Która z powieści Nikosia Kazantzakisa przedstawia trudną miłość pomiędzy dwoma bohaterami, której muszą się porzucić by zrealizować się w życiu?
+   A. Zorba, Grek
+   B. Chryзо pięść
+   C. Ostatnia żegnajda
+   D. Aleksis Zorbas
+   **Poprawna odpowiedź: C. Ostatnia żegnajda**
+4. Która z postaci Romana Malapartego w powieści Kaprysy Loli jest kochankiem głównej bohaterki?
+   A. Juliusz
+   B. Ken
+   C. Wilhelm
+   D. Ambroży
+   **Poprawna odpowiedź: A. Juliusz**
+5. Który z następujących utworów Literatury Polskiej porusza temat miłości dwojga ludzi w sytuacji wyjątkowo trudnej?
+   A. Pan Tadeusz
+   B. Chłopi
+   C. Lalka
+   D. Popioły
+   **Poprawna odpowiedź: C. Lalka**
 
-1. Który angielski romantyk najbardzalej prześledzał temat miłości w swoich dziełach?
-A. William Blake
-B. Lord Byron
-C. Percy Bysshe Shelley
-D. John Keats
+# Fiszki: Motyw Miłości w Literaturze
 
-Odpowiedź: B. Lord Byron
+1. Wuthering Heights - miłość bezgraniczna i niszcząca Cathy i Heathcliffa
+2. Pride and Prejudice - rzeczywista miłość Elizabeth i Darcy'ego zaczyna się dopiero wtedy gdy oboje poznają siebie prawdziwie
+3. Jane Eyre - miłość prawdziwa i równa w związku Jane i Rochester
+4. Sense and Sensibility - kruche i bolesne złączenie Marianne i Willoughby, które zakończyło się rozstaniem
+5. Romeo i Julia - tragiczna miłość dwojga kochanków, która skończyła się śmiercią
+6. Zorba, Grek - miłość do życia i przyrody, która pozwala bohaterom na docenienie piękna świata i jego obfitości
+7. Chryzo pięść - braterska miłość, której płomień dla Odysa pali się silniej niż miłość kobieca
+8. Ostatnia żegnajda - trudna miłość, której bohaterowie muszą się zrzekną, by osiągnąć swój cel
+9. Kaprysy Loli - zderzenie dwóch kultur i ich obyczajów, które umożliwia poznanie prawdziwej miłości
+10. Lalka - mocna i nieodwzajemniona miłość Wokulskiego do Izabeli
 
-2. Które z tych dzieł Williama Shakespeare'a nie dotyczy miłości?
-A. Romeo i Julia
-B. Sonety
-C. Hamlet
-D. Komedia omyłek
+# Notatki: Motyw Miłości w Literaturze
 
-Odpowiedź: C. Hamlet
+Motyw miłości jest jednym z najważniejszych i najczęściej występujących w literaturze. Można go spotkać w wielu dziełach literackich, od starożytności do nowożytności, w różnych krajach i kulturach. W literaturze romantycznej miłość jest najczęściej przedstawiana jako niemożliwa lub tragiczna, tak jak w słynnej tragedii Romeo i Julia autorstwa Williama Shakespeare'a. W powieściach realistycznych miłość bywa przedstawiana jako moc motywująca głównych bohaterów, tak jak w Pride and Prejudice Jane Austen.
 
-3. Zakończyć fraze: "Miłość jest…" jest głównym tematem powieści "Wojna i pokój" Lwa Tołstoja. Która odpowiedź najlepiej uzupełnia tę frazę?
-A. …wszystkim
-B. …nieodzowna
-C. …niewyczerpana
-D. …ślepa
+W wielu utworach miłość jest przedstawiana jako prawdziwa i równa, tak jak w Jane Eyre Charlotte Bronte. W tej powieści główni bohaterowie wychodzą poza normy społeczne, aby ochronić swoją miłość. W innych dziełach motyw miłości jest prezentowany jako dopełniający postaci, tak jak w Zorbie, Greku Nikosa Kazantzakisa.
 
-Odpowiedź: C. …niewyczerpana
+W literaturze polskiej motyw miłości występuje także w wielu dziełach, takich jak Lalka Bolesława Prusa. W tej powieści główny bohater, Wokulski, pokazuje swoją miłość do Izabeli, co prowadzi do konfliktu z kręgiem jej przyjaciół.
 
-4. Która z tych pisarek ukazała miłość w romansie "Jane Eyre"?
-A. Emily Brontë
-B. Charlotte Brontë
-C. Anne Brontë
-D. Virginia Woolf
-
-Odpowiedź: B. Charlotte Brontë
-
-5. Zakończyć fraze: "Miłość do bliźniego" jest jednym z centralnych elementów…
-A. ...duchowości chrześcijańskiej
-B. ...filozofii buddyjskiej
-C. ...psychologii pozytywnej
-D. ...etyki kantowskiej
-
-Odpowiedź: A. ...duchowości chrześcijańskiej
-
----
-
-### Fiszki
-
-1. **Romeo i Julia** - sztuka Williama Shakespeare'a, w której przedstawiona jest historia tragicznej miłości młodego małżeństwa z feudalnych Włoch.
-2. **Sonety** Williama Shakespeare'a - cykl 154 wierszy, w których miłość zajmuje centralne miejsce.
-3. **Wojna i pokój** Lwa Tołstoja - jedna z najważniejszych powieści rosyjskich, która ukazuje szeroki obraz niewyczerpanej miłości.
-4. **Jane Eyre** Charlotte Brontë - w tej powieści przedstawiona została opowieść o duchowej i zmysłowej miłości głównej bohaterki.
-5. **Miłość do bliźniego** - jeden z głównych przykazań Kościoła, które nakazuje miłować swojego bliźniego jak siebie samego.
-
----
-
-### Notatki
-
-Motyw miłości to jeden z najczęściej spotykanych tematów w literaturze. Od tragedii do romansów, miłość jest przedstawiana w różny sposób i przenika większość gatunków literackich.
-
-#### Miłość w romantyzmie
-
-Najbardziej znani angielscy romantycy - William Blake, Lord Byron, Percy Bysshe Shelley i John Keats - byli zafascynowani motywem miłości. Lord Byron pisał wiersze o nieudanych i tajemniczych relacjach miłosnych. Podobnie Shelley w swoich wierszach mówił o miłości, która była obiecaną wolnością i największą siłą.
-
-#### Shakespeare i motyw miłości
-
-William Shakespeare nieustannie eksplorował motyw miłości w swojej twórczości. Najbardziej znanymi pracami na ten temat są "Romeo i Julia" oraz "Sonety", które zawierają własne odczucia autora i refleksje na temat miłości.
-
-#### Ukazanie miłości w "Wojnie i pokoju" Tołstoja
-
-"Wojna i pokój" jest jednym z najbardziej znaczących dzieł rosyjskich. Tołstoj w tej powieści przedstawił wiele typów miłości, w tym fizyczną, duchową, patriotyczną i przyjacielską. Główny motyw, miłość do kraju i do ludzi, nadaje dziełu głębi i pozwala czytelnikowi doświadczyć kontrastu miłości i wojny.
-
-#### "Jane Eyre" - historia miłości Charlotte Brontë
-
-Charlotte Brontë w swojej powieści opisała relację miłosną głównej bohaterki, Jane Eyre, z jej pracodawcą, Edwardem Rochesterem. W swojej powieści Brontë pokazała kompleksowość miłości, opisując wiele form pragnienia, w tym fascynację seksualną i głębszą duchową miłość.
-
-#### Miłość do bliźniego jako centralne elementy duchowości chrześcijańskiej
-
-Miłość do bliźniego jest jednym z najważniejszych przykazań chrześcijaństwa. Najczęściej. Pojawia się w rozdziale 19 Ewangelii Mateusza, która mówi: "Każdemu będzie, jak zrobił". Tę mądrość można czytać w innych dziełach literackich, które inspirują się teologią chrześcijańską.
+W konkluzji, motyw miłości jest bardzo ważny w literaturze i pozwala autorom na przedstawienie wielu aspektów życia ludzkiego. Miłość może być prezentowana jako niemożliwa, tragiczna, równa, prawdziwa lub motywująca.

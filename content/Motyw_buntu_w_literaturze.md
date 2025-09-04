@@ -1,66 +1,59 @@
  # Quiz: Motyw Buntu w Literaturze
 
-1. Co to jest motyw buntu?
-A. Akceptacja rzeczywistości
-B. Bunt przeciwko autorytetowi
-C. Poddanie się losowi
-D. Szukanie porozumienia
+1. Jaki znany utwór Janusza Werblana ilustruje konflikt generacyjny i bunt młodych ludzi przeciwko społeczeństwu starszego pokolenia?
+A. Akta oskarżenia
+B. Słaba klasa robotnicza
+C. Ludzie i idee
+D. Wybór
 
-Correct Answer: B. Bunt przeciwko autorytetowi
+2. Który z poniższych powieści Stanisława Lema jest satyrą na biurokrację i konformizm, ukazującą bunt głównego bohatera przeciw systemowi?
+A. Niezwyciężony
+B. Solaris
+C. Powrót z gwiazd
+D. Kongres Futurologiczny
 
-2. Który klasyk europejski literatury XIX wieku często wykorzystywał motyw buntu w swojej twórczości?
-A. Lew Tolstoj
-B. Fiodor Dostojewski
-C. Gustave Flaubert
-D. Victor Hugo
+3. W której powieści Aldousa Huxleya mieszkańcy stworzyli zupełnie nowe społeczeństwo, w którym nie ma miejsca na bunt czy podważanie zasad?
+A. Mistrz i Małgorzata
+B. Nowa Utopia
+C. Brave New World
+D. 1984
 
-Correct Answer: D. Victor Hugo
+4. Który z poniższych utworów George’a Orwella pokazuje terroryzm państwowy, który zmusza obywateli do posłuszeństwa, ale również inspirowany jest buntem głównego bohatera?
+A. Farmhania
+B. Mały przemyczek
+C. My, zwierzęta
+D. 1984
 
-3. W książce "1984" George'a Orwella, czym jest odmiana motywu buntu?
-A. Ucieczka człowieka
-B. Zwalczanie wroga z zewnątrz
-C. Zrewoltowanie się przeciwko systemowi
-D. Utworzenie nowego porządku
-
-Correct Answer: C. Zrewoltowanie się przeciwko systemowi
-
-4. Jaki jest główny motyw powieści "Lolita" Vladimira Nabokova?
-A. Bunt przeciwko konwencom
-B. Naiwność dziecka
-C. Pochwała wolności seksualnej
-D. Obrona praw dziecka
-
-Correct Answer: A. Bunt przeciwko konwencom
-
-5. Który z poniższych filmów można uznać za adaptację literacką wykorzystującą motyw buntu?
-A. "Fight Club"
-B. "The Matrix"
-C. "American Beauty"
-D. Wszystkie poprawne
-
-Correct Answer: D. Wszystkie poprawne
-
----
+5. W którym z tych dzieł Fiodora Dostojewskiego główny bohatar wyraża bunt przeciw losowi i społeczeństwu w wyniku rozterek egzystencjalnych?
+A. Bracia Karamazow
+B. Zbrodnia i kara
+C. Idiota
+D. Biesy
 
 # Fiszki: Motyw Buntu w Literaturze
 
-1. **Motyw buntu** - jest to jedno z najczęściej pojawiających się motywów w literaturze. Opisuje on reakcję jednostki lub grupy na piętno autorytetu lub systemu, które ją uciskają lub ograniczają w rozwoju.
-2. **Victor Hugo** - francuski pisarz i dramaturg, który często wykorzystywał motyw buntu w swoich powieściach, takich jak "Nędznicy" i "Notre-Dame de Paris".
-3. **George Orwell** - brytyjski pisarz, który w powieści "1984" ukazał motyw buntu w opisie walki głównego bohatera przeciwko tyranii i uciskowi w ustabilizowanym społeczeństwie.
-4. **Vladimir Nabokov** - rosyjski i amerykański pisarz, który w "Lolicie" przedstawił bohatera buntującego się przeciwko konwencom i normom obyczajowym swojej epoki.
-5. **Adaptacje filmowe** - motyw buntu spotyka się również w kinematografii. Przykładem są filmy "Fight Club", "The Matrix" i "American Beauty".
-
----
+- Janusz Werblan: Akta oskarżenia (konflikt generacyjny, bunt młodych ludzi)
+- Stanisław Lem: Kongres Futurologiczny (satyra na biurokrację, konformizm, bunt głównego bohatera)
+- Aldous Huxley: Nowa Utopia (społeczeństwo totalitarne, brak miejsca na bunt)
+- George Orwell: 1984 (terror państwowy, bunt głównego bohatera)
+- Fiodor Dostojewski: Bracia Karamazow (bunt przeciw losowi i społeczeństwu)
 
 # Notatki: Motyw Buntu w Literaturze
 
-Motyw buntu to jedno z najpopularniejszych motywów w literaturze. Polega ono na opisie reakcji jednostki lub grupy na piętno autorytetu lub systemu, które ją uciskają lub ograniczają w rozwoju. Motyw ten jest wykorzystywany przez wielu klasyków literatury, w tym Victora Hugo,
-whose novels "Les Misérables" and "The Hunchback of Notre-Dame" prominently feature themes of rebellion against societal norms and expectations.
+W literaturze, motyw buntu odnosi się do akcji lub tematu, w którym główny bohater lub bohaterowie sprzeciwiają się zasadom przyjętym w ich społeczeństwie. Może się objawiać w różnej formie, od oporu przeciw autorytetowi, do rewolucji społecznej. Ta tematyka była często wykorzystywana przez pisarzy, którzy ilustrowali bunt przeciwko niepokojącym im obserwacjom dotyczącym społeczeństwa, polityki czy kultury.
 
-In the dystopian novel "1984" by George Orwell, the protagonist's rebellion against the oppressive totalitarian regime serves as the central theme of the story. Similarly, in Vladimir Nabokov's "Lolita," the protagonist's rebellion against societal conventions and norms serves as a key motif in the novel.
+Zaznaczmy kilka znanych dzieł, w których motyw buntu jest wyraźnie zakodowany:
 
-Motyw buntu nie jest jednak ograniczony do literatury klasycznej. W kinematografii spotyka się również liczne adaptacje, w których motyw ten jest wykorzystywany. Na przykład w filmach "Fight Club", "The Matrix" i "American Beauty," motyw buntu jest wykorzystywany do opisywania walki głównych bohaterów przeciwko tyranii i uciskowi w ustabilizowanych społeczeństwach.
+- **Janusz Werblan – Akta oskarżenia (1975)**: Ta powieść, opisująca konflikt
+generacyjny7, ukazuje bunt młodych ludzi przeciwko społeczeństwu starszego pokolenia. Ukazuje ona grupę studentów z Krakowa zmagającą
+się z komunistyczną władzą w Polsce lat 50. i 60. XX wieku. Bohaterowie kwestionują zasady polityczne, etyczne i społeczne, zmagając się
+z represjami i próbując zreformować urzędnicze instytucje.
 
-Warto zauważyć, że motyw buntu może przyjmować różne formy, w zależności od kontekstu historycznego i kulturowego. Może to być zbuntowanie przeciwko systemowi politycznemu, społecznemu lub kulturowemu. Może też obejmować zbuntowanie się przeciwko normom i konwencom społecznym, a nawet wewnętrzne bunty przeciwko własnej tożsamości lub przeszłości.
+- **Stanisław Lem – Kongres Futurologiczny (1971)**: Tę science-fictionową satyrę na
+biurokrację i konformizm cechuje bunt głównego bohatera przeciw systemowi. Książka przedstawia wizję przyszłości, w której inteligencja artificjalna jest używana do unikania rzeczywistych problemów ludzkości. Główny bohater, Ijon Tichy, niesie ze sobą głos krytyki i próbuje zreformować absurdalne instytucje.
 
-Motyw buntu w literaturze jest wciąż aktualny i inspirujący, podkreślając istotność indywidualnej wolności i odwagi w obliczu ucisku i niesprawiedliwości.
+- **Aldous Huxley – Nowa Utopia (1932)**: W tej powieści mieszkańcy stworzyli zupełnie nowe społeczeństwo, w którym nie ma miejsca na bunt czy podważanie zasad. Jest to opowieść o społeczeństwie totalitarnej Nowej Utopii, gdzie wszystko jest zaplanowane i schematyczne, a wolność jest całkowicie ograniczona. Główny bohater kwestionuje tę rzeczywistość i próbuje stanąć w obronie praw ludzkich, co staje się radykalnym ucieleśnieniem motywu buntu.
+
+- **George Orwell – 1984 (1949)**: Ta słynna powieść pokazuje totalitarny, terrorystyczny aparat państwa, który zmusza obywateli do posłuszeństwa, ale również wyraża bunt głównego bohatera, Winstona Smitha. Smith poddaje się torturom i przesłuchaniom, żeby złamać jego ducha i skłonić do posłuszeństwa, ale on stale się opiera, czyniąc gestem buntu.
+
+- **Fiodor Dostojewski – Bracia Karamazow (1880)**: Tę powieść Dostojewskiego cechuje głęboka analiza psychologiczna bohaterów i ich etyczno-moralnych rozterek, z których wynika bunt głównego bohatera, Dymity Karamazowa, przeciw losowi i społeczeństwu. Motyw buntu jest tu prezentowany z perspektywy rozterek egzystencjalnych, które muszą być rozwiązane w trudnych warunkach społecznych i kulturowych.
