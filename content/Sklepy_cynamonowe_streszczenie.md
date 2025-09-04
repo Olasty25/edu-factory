@@ -1,54 +1,54 @@
- # Quiz
+ # Quiz (Cinnamon Shops)
 
-1. Co to są sklepy cynamonowe?
-   A) Magazyny, w których sprzedaje się przyprawy
-   B) Sklepy z kosmetykami i pielęgnacją ciała
-   C) Sklepy z cukierkami i słodyczami
-   D) Magazyny z ziołami i naturalnymi produktami leczniczymi
-   * Dodatkowa informacja: Sklepy cynamonowe to butiki z akcesoriami modowymi i dodatkami do garderoby.
+1. What is the name of the protagonist in "Cinnamon Shops"?
+A. Adela
+B. Maria
+C. Anula
+D. Ola
+ Answer: C. Anula
 
-2. Która z poniedziałkowych propozycji promocyjnych przyciągnęłabę Ciebie do sklepu cynamonowego?
-   A) 20% zniżka na wszystkie torebki
-   B) Bezpłatna sesja konsultacyjna z stylistką
-   C) Darmowa kawa dla każdego klienta
-   D) Zniżka 30% na buty
-   * Poprawna odpowiedź: B) Bezpłatna sesja konsultacyjna ze stylistką. To unikalna i przyciągająca propozycja, szczególnie dla osób, które lubią modę i szukają porad w wyborze stylu.
+2. Which country is "Cinnamon Shops" set in?
+A. Spain
+B. Poland
+C. Germany
+D. Austria
+ Answer: D. Austria
 
-3. Gdzie najczęściej znajdują się sklepy cynamonowe?
-   A) W centrach handlowych
-   B) W galeriach sztuki
-   C) W dzielnicach mieszkaniowych
-   D) W pobliżu szkół i uniwersytetów
-   * Poprawna odpowiedź: A) W centrach handlowych. Sklepy cynamonowe często tworzą swoje butiki w miejscach o dużym ruchu osobistym, takich jak centra handlowe, aby zyskać lepszą widoczność i zwrócić uwagę klientów.
+3. Which of the following is NOT a color mentioned in the description of the cinnamon?
+A. Brown
+B. Red
+C. Green
+D. Gold
+ Answer: C. Green
 
-4. Jakie akcesoria modowe można znaleźć w sklepie cynamonowym?
-   A) Torebki, szale, paski, korekce
-   B) Biżuteria, zegarki, pudełka do pereł, obrączki
-   C) Buty, buty botaniczne, sandały, trampki
-   D) Kosmetyki, pieluchy, kremy do rąk, szampony
-   * Poprawna odpowiedź: A) Torebki, szale, paski, korekce. Sklepy cynamonowe specjalizują się w sprzedaży akcesoriów modowych, które mogą uzupełnićtwoją twoją garderobę i podkreślić indywidualny styl.
+4. Which of the following is a spice NOT described as having a similar scent to cinnamon?
+A. Cloves
+B. Ginger
+C. Nutmeg
+D. Pepper
+ Answer: D. Pepper
 
-5. Co odróżnia sklepy cynamonowe od innych butików modowych?
-   A) Unikalne i eleganckie projekty
-   B) Działalność charytatywna i zaangażowanie w społeczności lokalne
-   C) Duża różnorodność marek i wielkość asortymentu
-   D) Niskie ceny i częste promocje
-   * Poprawna odpowiedź: B) Działalność charytatywna i zaangażowanie w społeczności lokalne. Sklepy cynamonowe chętnie uczestniczą w lokalnych wydarzeniach i inicjatywach charytatywnych, w celu rozbudzenia więzi z klientami i społecznością.
+5. What is the author's attitude towards the cinnamon shops, based on the text?
+A. Indifferent
+B. Nostalgic
+C. Fearful
+D. Disgusted
+ Answer: B. Nostalgic
 
-# Fiszki
+# Fiszki (Cinnamon Shops)
 
-1. Cynamonowe - określenie stylu sklepów modowych, które oferują unikalne akcesoria i dodatki do garderoby.
-2. Bezpłatna konsultacja ze stylistką - propozycja promocyjna, która pozwala klientom uzyskać indywidualne rady w zakresie mody.
-3. Centra handlowe - miejsca, w których sklepy cynamonowe regularnie tworzą swoje butiki, aby skorzystać z dużego ruchu osobistego i zwiększyć swoją widoczność.
-4. Akcesoria modowe - wyroby, takie jak torebki, szale, paski, korekce, które uzupełniają i podkreślają indywidualny styl.
-5. Działalność charytatywna - zaangażowanie sklepów cynamonowych w lokalne inicjatywy i wydarzenia, które mają pozytywny wpływ na społeczności.
+1. Anula - protagonist in "Cinnamon Shops"
+2. Austria - country where "Cinnamon Shops" is set
+3. Brown, red, gold - colors used to describe cinnamon
+4. Cloves, ginger, nutmeg - spices with a similar scent to cinnamon
+5. Nostalgic - the author's attitude towards the cinnamon shops
 
-# Notatki
+# Notatki (Cinnamon Shops Summary)
 
-Sklepy cynamonowe to butiki modowe, które sepcjalizują się w sprzedaży unikalnych, eleganckich akcesoriów i dodatków do garderoby. Znajdują się one zazwyczaj w centrach handlowych, gdzie zyskują lepszą widoczność i mogą korzystać z dużego ruchu osobistego.
+"Cinnamon Shops" is a short story written by Bruno Schulz and set in Austria. The protagonist is a young girl named Anula who visits a cinnamon shop with her mother. The shop is described in detail, using colors such as brown, red, and gold to convey the warmth of the spice. The author's use of language creates a nostalgic atmosphere, as Anula remembers the shop from her childhood.
 
-Oferowane akcesoria to między innymi torebki, szale, paski i korekce. Dzięki temu, klient ma możliwość uzupełnienia i podkreślenia swojego unikalnego stylu.
+Cinnamon is the central theme of the story and is described as having a rich, pungent scent, similar to other spices such as cloves, ginger, and nutmeg. The sights and smells of the cinnamon shop evoke strong memories in Anula, highlighting the power of sensory experiences in shaping our recollections.
 
-Jednym z unikalnych atutów sklepów cynamonowych jest bezpłatna konsultacja ze stylistką, która pozwala klientom uzyskać indywidualne porady w zakresie mody i uzyskać wgląd w nowe trendy. Dodatkowo, sklepy cynamonowe są zaangażowane w działalność charytatywną i uczestniczą w lokalnych inicjatywach, co pozytywnie wpływa na relacje z klientami oraz społecznością.
+The story touches on themes of nostalgia and the passage of time, as Anula's memories of the cinnamon shop are contrasted with her current experiences. The author's use of descriptive language paints a vivid picture of the cinnamon shop, making it a powerful symbol of the past.
 
-Celem sklepów cynamonowych jest uzupełnienie i poprawa Twojej garderoby, dlatego zawsze starają się oferować szeroki asortyment różnorodnych akcesoriów, które zapewnią indywidualny styl każdej osobie. Zwracając uwagę na potrzeby klientów i wspierając lokalne inicjatywy, sklepy cynamonowe stają się coraz bardziej popularne i doceniane w środowiskach modowych.
+In summary, "Cinnamon Shops" is a nostalgic exploration of memory and the power of sensory experiences, set in a richly-described cinnamon shop.

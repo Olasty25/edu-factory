@@ -1,68 +1,68 @@
- # Quiz: Konrad Wallenrod - Summary
+ Konrad Wallenrod: Quiz
+===================
 
-1. Who is the main character of the novel?
-A. Michael Scott
-B. Konrad Wallenrod
-C. Harry Potter
-D. Sherlock Holmes
+1. Kto jest Konrad Wallenrod?
+A. Polski poeta
+B. Historyczny przywódca plemienia
+C. Fikcyjna postać literacka
+D. Znany żołnierz
 
-Correct answer: B. Konrad Wallenrod
+Answer: C. Fikcyjna postać literacka
 
-2. What is the nationality of Konrad Wallenrod?
-A. German
-B. Lithuanian
-C. Polish
-D. Russian
+2. Która książka jest głównym źródłem informacji o Konradzie Wallenrodzie?
+A. Pan Tadeusz
+B. Quo Vadis
+C. Konrad Wallenrod
+D. Chłopi
 
-Correct answer: B. Lithuanian
+Answer: C. Konrad Wallenrod
 
-3. What is the profession of Konrad Wallenrod before joining the Teutonic Order?
-A. Blacksmith
-B. Knight
-C. Farmer
-D. Hermit
+3. Któremu narodowi Konrad Wallenrod miał pochodzić według przekonania głównych postaci książki?
+A. Niemieckiemu
+B. Białoruskiemu
+C. Polskiemu
+D. Litewskiemu
 
-Correct answer: A. Blacksmith
+Answer: D. Litewskiemu
 
-4. Which historical event is the background of the novel?
-A. World War II
-B. Hundred Years War
-C. The Deluge
-D. The Great War of the Teutonic Order
+4. Jakie były prawdziwe narodowości Konrada Wallenroda?
+A. Polski
+B. Niemiecki
+C. Litewski
+D. Ruski
 
-Correct answer: D. The Great War of the Teutotic Order
+Answer: C. Litewski
 
-5. Who wrote the novel "Konrad Wallenrod"?
-A. Adam Mickiewicz
-B. Juliusz Słowacki
-C. Stanisław Wyspiański
-D. Bolesław Prus
+5. Kto zawarł układ z Konradem Wallenrodem?
+A. Król Władysław Jagiełło
+B. Król Władysław II Jagiellończyk
+C. Wielki książę Witold
+D. Wielki książę Aleksander
 
-Correct answer: A. Adam Mickiewicz
+Answer: C. Wielki książę Witold
 
-# Flashcards: Konrad Wallenrod - Summary
 
-1. who
-	* Konrad Wallenrod
-2. nationality
-	* Lithuanian
-3. profession
-	* Blacksmith
-4. background
-	* The Great War of the Teutonic Order
-5. author
-	* Adam Mickiewicz
+Konrad Wallenrod: Fiszki
+=====================
 
-# Notes: Konrad Wallenrod - Summary
+1. Konrad Wallenrod - fikcyjna postać literacka stworzona przez Adama Mickiewicza
+2. Opowiada ona o młodym Litwinie, który został adoptowanym przez Krzyżaków i wszedł w ich hierarchię
+3. Prawdziwe narodowości Konrada Wallenroda to litewskie
+4. Konrad Wallenrod został zawarł układ z krzyżakami, a potem zdradził ich, przyłączając się do Litwinów w walce przeciwko Krzyżakom
+5. Adam Mickiewicz posługuje się nim jako alegorią patriotyzmu i oddania dla ojczyzny
 
-"Konrad Wallenrod" is a narrative poem by the Polish romantic poet Adam Mickiewicz about a Lithuanian knight who infiltrates the Teutonic Order, a German religious order that ruled much of Poland, Lithuania, and Latvia in the Middle Ages. The novel is set during the Great War of the Teutonic Order (1409-1411) when the Teutonic Order attacked the Grand Duchy of Lithuania.
 
-The main character, Konrad Wallenrod, is a Lithuanian who was kidnapped by the Teutonic Order in his youth and raised as a knight. He serves the Order faithfully for many years, but when the Order begins to plan an invasion of Lithuania, Wallenrod becomes disillusioned and decides to take action against them.
+Konrad Wallenrod: Notatki
+======================
 
-Wallenrod infiltrates the Order and rises to a position of power, where he is able to manipulate the Teutonic Knights into firing their best soldiers and weakening their military strength. He also convinces the Order to use a disastrous strategy in the upcoming battle against Lithuania, which leads to a crushing defeat for the Teutonic Order.
+Konrad Wallenrod to fikcyjna postać literacka, stworzona przez polskiego poety narodowego, Adama Mickiewicza. Poemat epiczny Konrad Wallenrod został opublikowany w 1828 roku i jest uważany za jedno z najważniejszych dzieł w twórczości Mickiewicza. Głównym bohaterem jest Konrad Wallenrod, który jest adoptowanym przez Krzyżaków młodym Litwinem i zawiera układ z nimi, zdradzając je później i przyłączając się do walczących z Krzyżakami Litwinów.
 
-The novel is a powerful critique of the Teutonic Order and the brutality and injustice of its rule. It also explores themes of loyalty, betrayal, and identity, as Wallenrod is torn between his loyalty to the Order and his love for his native Lithuania.
+Sam Konrad Wallenrod jest postacią bardzo tajemniczą i nie wiadomo wiele o jego życiu przed przystąpieniem do zakonu krzyżackiego. Wiadomo tylko, że pochodził z Litwy i był synem księcia. W zakonie krzyżackim awansował do rangi dowódcy oddziału wojskowego i stał się bardzo popularny i szanowany. W czasie swego pobytu w zakonie, wchodzi w kontakt z innymi Litwinami, z którymi dyskutuje o sytuacji politycznej w regionie. Wtedy to okazuje się, że Konrad jest bardzo zaangażowany w sprawy ojczyzny i chce pomóc Litwinom w walce przeciwko Krzyżakom. Wtedy to zawiera on układ z wielkim księciem Witoldem, zgodnie z którym będzie wspierał Litwinów w przyszłych walkach.
 
-Mickiewicz based the character of Konrad Wallenrod on a real historical figure, a Lithuanian knight named Kunigaikštis Vaidotas. Like Wallenrod, Vaidotas was raised by the Teutonic Order and served as a knight, but he eventually turned against the Order and fought for Lithuania.
+Gdy wreszcie nastaje czas na realizację tego planu, Konrad zdradza Krzyżaków i przyłącza się do Litwinów. Połączone siły Litwinów i Krzyżaków stają do walki i Konrad dowodzi armią Litwinów. W bitwie udaje im się odniesioną zwycięstwo i Krzyżacy zostają pokonani. Jednakże, po zwycięstwie, Konrad zniknął bez śladu i nikt nie wie, co się stało z nim.
 
-The novel is considered a classic of Polish literature and has been widely read and studied in Poland and other countries. It has also been adapted into plays, films, and other forms of media.
+Poemat Konrad Wallenrod odniósł wielki sukces wśród czytelników i stał się symbolem patriotyzmu i oddania dla ojczyzny. Dzięki temu, postać Konrada Wallenroda stała się bardzo popularna w Polsce i Litwie. W wiele sposobów, Konrad Wallenrod jest uważany za symbol walki o wolność i niepodległość, a także za wyraźne przesłanie o konieczności walki z najeźdźcą i przywrócenia suwerenności.
+
+W połowie XIX wieku, w Królestwie Polskim i w Wielkim Księstwie Litewskim, pojawił się ruch niepodległościowy, który inspirował się postacią Konrada Wallenroda. Członkowie tego ruchu byli zdeterminowani w walce o niepodległość Polski i Litwy i chcieli zbudować nowe, sprawne państwo, które będzie odpowiedzialne za obronę ich interesów. Wierzyli, że dzięki temu będą mogli ustanowić rządy demokratyczne i zapewnić bezpieczeństwo swoim obywatelom. Dlatego też, postać Konrada Wallenroda była dla nich bardzo inspirująca i stała się symbolem walki o wolność.
+
+Konrad Wallenrod jest dziś uważany za jedno z najważniejszych dzieł w twórczości Adama Mickiewicza i jest czytany i studiowany w wielu krajach. Jest on uważany przez wielu za symbol walki o niepodległość i wolność, a także za wyraz solidarności narodowej i miłości do ojczyzny. Dzięki temu, postać Konrada Wallenroda stała się niezapomnianym symbolem w polskiej i litewskiej kulturze i jest do dziś aktualna i inspirująca.
