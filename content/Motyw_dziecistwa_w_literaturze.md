@@ -1,53 +1,62 @@
- # Quiz - Motyw Dzieciństwa w Literaturze
+ # Quiz
 
-1. Który klasyk preromanizmu francuskiego stworzył opowieść o dziewczynce, która była wychowywana przez wilki?
-   A. Gustave Flaubert
-   B. Victor Hugo
-   C. George Sand
-   **D. Prosper Mérimée**
+1. Który z poniższych pisarzy jest znany ze swojej autobiograficznej trylogii, w której opisuje swoje dzieciństwo w południowych Stanach Zjednoczonych?
+A. Mark Twain
+B. Harper Lee
+C. F. Scott Fitzgerald
+D. John Steinbeck
 
-2. Kto jest narratorem w książce Marka Twaina, "Przygody Hucka Finna"?
-   A. Huckleberry Finn
-   B. Tom Sawyer
-   C. Jim
-   **D. Wypowiedź w pierwszej osobie z punktu widzenia Hucka Finna**
+Poprawna odpowiedź: B. Harper Lee ("Kto się boi Virginii Woolf?" , "Dzieci piekła prerii")
 
-3. Która z następujących książek dekadenckich ma narratorką dorastającą dziewczynę?
-   A. "Pani Bovary" Gustave Flauberta
-   B. "Agnes" Antoniego Czechowa
-   C. "Dziewczyna w rękawiczkach różowych" Guya de Maupassanta
-   **D. "Jakość życia" Henryka Jamesa**
+2. Która z poniższych książek jest przykładem literatury dziecięcej, w której autor opisuje „czary i zombie” swojego dzieciństwa?
+A. “Matka bohaterów”
+B. “Korzenie”
+C. “A wróżka rozpierała krowę”
+D. “Zielona mila”
 
-4. W książce Williama Goldinga, "Władca мух" w jaki sposób grupa chłopców radzi sobie z utratą dorosłych?
-   A. Tworzą surową hierarchię i zasady, żeby zachować panowanie nad wyspą
-   B. Próbują płynąć z powrotem do domu
-   C. Poddają się losowi i żyją w harmonii ze sobą i naturą
-   **D. Podzielili się na dwie frakcje: rozumowych i dziki**
+Poprawna odpowiedź: C. “A wróżka rozpierała krowę” (Roald Dahl)
 
-5. W powieści J.D. Salingera, "Buszujący w zbożu" główny bohater ucieka od obowiązujących norm macierzyństwa i dorosłego życia. Jak się nazywa ten bohater?
-   A. Allie
-   B. Stradlater
-   C. Holden
-   **D. Caulfield**
+3. Który z poniższych autorów jest znany ze swoich utworów opowiadających o dzieciństwie w czasach II wojny światowej?
+A. Gabriel Garcia Marquez
+B. J.D. Salinger
+C. Ernest Hemingway
+D. George Orwell
 
-# Fiszki - Motyw Dzieciństwa w Literaturze
+Poprawna odpowiedź: B. J.D. Salinger (“Dziewięć Stories”, w tym opowiadanie „Zabawka” opisujące dzieciństwo chłopca w czasie wojny)
 
-| Terym | Definicja |
-| --- | --- |
-| **Bildungsroman** | Powieść o dorastaniu, dewelopmentu i wychowaniu głównego bohatera |
-| **Idylle dziecięce** | Opis życia dziecięcego z idealistycznego lub nostalgicznego punktu widzenia |
-| **Kompleks Edipa** | Centralny czynnik w teorii Sigmunda Freuda dotyczącyj psychologicznego rozwoju dzieci w wieku przedszkolnym |
-| **Psychologia rozwoju** | Badanie zmian, które zachodzą w ludzkim myśleniu, uczuciach i zachowaniu z biegiem czasu |
-| **Dekadencja** | Filozofia lub styl literacki upatrujący schyłku epoki lub obecne zepsucie |
+4. Która z poniższych powieści nie jest książką dla dzieci, ale tematyką i stylem przypomina bajki i historie czytane w dzieciństwie?
+A. “Alicja w krainie czarów”
+B. “Bambi”
+C. “Janosik”
+D. “Lolita”
 
-# Notatki - Motyw Dzieciństwa w Literaturze
+Poprawna odpowiedź: D. “Lolita” (Vladimir Nabokov)
 
-Motyw dzieciństwa w literaturze jest szczególnie interesujący, ponieważ pozwala autorom na daleko idące eksploracje rodzaju ludzkiego oraz wrażliwości na spektrum wydarzeń. Pisarze z coraz większą dbałością przykładają się do tematu, gdyż jest on chyba jednym z najbardziej uniwersalnych.
+5. Który z poniższych autorów jest znany ze swojego opisu dzieciństwa na wsi w Rosji, włączając opisy lokalnego folkloru i zwyczajów?
+A. Fiodor Dostojewski
+B. Anton Czechow
+C. Lew Tołstoj
+D. Maksym Gorki
 
-W związku z tym szybko było zwrócone uwagę teorii, które potwierdziły tę zasadę (np. teoria Sigmunda Freuda na temat kompleksu Edipa).
+Poprawna odpowiedź: C. Lew Tołstoj (“Dzieciństwo”, „Boyhood”, „Youth” - trylogia opisująca jego dzieciństwo, młodość i dojrzałość)
 
-Oprócz psychologicznego podejścia, motyw dzieciństwa*} pozwala także na eksperymenty z narracją – czasem kpiąc z teorii, a innym razem語 przyjmując je. Przykładem może być "Buszujący w zbożu" J.D. Salingera, w którym główny bohater Holden Caulfield jest recalcitrantnym nastolatkiem, który opinii swojej rodziny i szkoły nie darzy zaufaniem. Według teorii Freuda, Holden przechodzi kryzys identyfikacyjny, co jest przedstawione realistycznie, pozwalając czytelnikom pogrążyć się w jego świadomości.
+# Fiszki
 
-W literaturze romantycznej motyw dzieciństwa często pojawia się w postaci idylli, utrwalającej szczęśliwe wrażenia związane z tym okresem jako przyjemny i niewinny. Z kolei pisarze dekadenccy często lansowali krytyczne nastawienie do ich czasów, czego skutkiem było umieszczanie bohaterów dziecięcych w surowym świecie i obserwowanie jak poradzą sobie z utratą opatrzności dorosłych.
+- „Matka bohaterów” (Brian Aldiss) - powieść science-fiction, w której autor opisuje tam swoje dzieciństwo w okresie II wojny światowej
+- „Momo” (Michael Ende) - książka dla dzieci, w której dziewczynka próbuje ocalić swoich przyjaciół przed czasowymi lichwiarzami
+- „Korzenie” (Alex Haley) - powieść historyczna, w której autor opisuje historię swoich afroamerykańskich przodków od zbiegłego niewolnika w XVIII wieku po czas jego własnego dzieciństwa
+- „Dziecięce lata literackie” (Jerzy Ficowski) - zbiór esejów o literaturze dla dzieci i o przyszłych pisarzach, których dzieciństwa były inspirejami dla ich późniejszych dzieł
+- „Kubuś Puchatek” (A.A. Milne) - kolekcja powieści dla dzieci opisująca przygody Kubusia Puchatka i jego przyjaciół ze Słowiańskiego Lasu, inspirowana autentycznymi zabawami autora z jego
 
-Na koniec, warto wspomnieć o powieściach poświęconych dorastaniu, znanych jako *Bildungsromane*. Główni bohaterowie mają za zadanie uczyć się sami siebie, czytelnicy na ich przykładzie dowiadują się o wartościach, które umożliwią im pomyślne wejście w dorosłe życie.
+# Notatki
+
+Motyw dzieciństwa można znaleźć w literaturze na różne sposoby. Autorzy mogą wykorzystać swoje własne wspomnienia z dzieciństwa jako inspirację do utworów autobiograficznych, opisywać dzieciństwo postaci w ich fabule jako sposób na lepsze zrozumienie ich motywacji i historii, lub nawet tworzyć utwory dla dzieci, które mogą przywoływać wspomnienia z ich własnego dzieciństwa.
+
+Motyw dzieciństwa w literaturze można podzielić na kilka kategorii, w tym:
+
+- Autobiografia: autor opisuje swoje własne dzieciństwo, jak w trylogii Harper Lee „Kto się boi Virginii Woolf?”, „Dzieci piekła preri” i „Wszystko, co pragnęłem było zagrali w piłkę”
+- Literatura dla dzieci: autor opisuje dzieciństwo postaci lub świat, który jest przeznaczony dla dzieci, jak np. w „Kubusiu Puchatku” Milne'a czy „A wróżka rozpierała krowę” Dahla
+- Historia: autor opisuje historię swojej rodziny lub społeczeństwa jako sposób na lepsze zrozumienie ich współczesnych czasów i własnego dzieciństwa, jak w „Korzeniach” Haleya
+- Science-fiction/Fantasy: autor opisuje dzieciństwo postaci w świecie fantastycznym lub surrealistycznym, jak w „Matce bohaterów” Aldissa czy „Momo” Endego.
+
+Poprzez analizowanie literatury dziecięcej i dzieł dla dorosłych, możemy zauważyć wspólne tematy i wątki, które są związane z dzieciństwem. Wiele z tych wątków ma swoje korzenie w wspomnieniach autora z własnego dzieciństwa, które miały wpływ na jego życie i twórczość. Poprzez analizę i badanie tych dzieł, możemy uzyskać lepsze zrozumienie rozwoju dzieci i młodzieży, a także wpływu dzieciństwa na przyszłe życie i twórczość.

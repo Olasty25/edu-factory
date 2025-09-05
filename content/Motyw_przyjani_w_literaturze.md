@@ -1,56 +1,63 @@
  ### Quiz
 
-1. Jaka książka jest przykładem idealnej przyjaźni chłopięcej w literaturze dla dzieci?
-A. "Kubuś Puchatek"
-B. "Harry Potter"
-C. "Winnie The Pooh"
-D. "Oliver Twist"
-Poprawna odpowiedź: C. "Winnie The Pooh"
+1. Jaka jest motywem głównym w powieści „Diuna” Franka Herberta?
+A. Miłość
+B. Władza
+C. Przyjaźń
+D. Wojna
 
-2. Który z tych bohaterów literackich nie ma przyjaciół?
-A. Tom Sawyer
-B. Heathcliff z "Wichrowych Wzgórz"
-C. Humbert Humbert z "Lolity"
-D. Frodo Baggins
-Poprawna odpowiedź: B. Heathcliff z "Wichrowych Wzgórz"
+Poprawna odpowiedź: B. Władza
 
-3. W książce "Anna Karenina" kim jest kobieta, która jest prawdziwą przyjaciółką tytułowej bohaterki?
-A. Dolly Oblonskaya
-B. Kitty Shcherbatskaya
-C. Princess Betsy
-D. Varenka
-Poprawna odpowiedź: A. Dolly Oblonskaya
+2. Który z następujących utworów literackich opisuje przyjaźń między kobietą a bestią?
+A. „Laski lady Chatterley” D.H. Lawrence’a
+B. „Wyspa doktora Moreau” H.G. Wellsa
+C. „Przygody Huckleberry’ego Finna” Marka Twaina
+D. „Matuszek i Róża” Thorne Smitha
 
-4. Jaka jest nazwa romansu Emily Brontë, który opisuje historię dwóch siostrzenic i ich głębokiej przyjaźni?
-A. "Jane Eyre"
-B. "Wuthering Heights"
-C. "Agnes Grey"
-D. "The Tenant of Wildfell Hall"
-Poprawna odpowiedź: B. "Wuthering Heights"
+Poprawna odpowiedź: B. „Wyspa doktora Moreau” H.G. Wellsa
 
-5. Który z tych bohaterów literackich ma najlepszego przyjaciela, który jest psem?
-A. James Bond
-B. Philip Marlowe
-C. Sherlock Holmes
-D. Hercule Poirot
-Poprawna odpowiedź: C. Sherlock Holmes (z psem o imieniu Piorun)
+3. Który z następujących autorów jest znany ze swoich opisów przyjaźni męskiej?
+A. Jane Austen
+B. Charles Dickens
+C. Ernest Hemingway
+D. J.K. Rowling
+
+Poprawna odpowiedź: C. Ernest Hemingway
+
+4. Która z następujących powieści J.R.R. Tolkiena opisuje przyjaźń między hobbitami i krasnoludami?
+A. „Hobbit, czyli tam i z powrotem”
+B. „Władca Pierścieni: Dwie Wieże”
+C. „Władca Pierścieni: Powrót Króla”
+D. „Silmarillion”
+
+Poprawna odpowiedź: A. „Hobbit, czyli tam i z powrotem”
+
+5. Która z następujących baśni Charles’a Perraulta opisuje przyjaźń między dwoma siostrami?
+A. „Sypialnia babki”
+B. „Kopciuszek”
+C. „Czerwony Kapturek”
+D. „Kot w butach”
+
+Poprawna odpowiedź: A. „Sypialnia babki”
 
 ### Fiszki
 
-1. Idealna chłopięca przyjaźń - "Winnie The Pooh"
-2. Brak prawdziwych przyjaciół - Heathcliff z "Wichrowych Wzgórz"
-3. Przyjaciółka Anny Kareniny - Dolly Oblonskaya
-4. Powieść o głębokiej przyjaźni - "Wuthering Heights"
-5. Najlepszy przyjaciel z ludzi i psów - Sherlock Holmes
+1. **Diuna** - powieść science-fiction Franka Herberta, w której motywem głównym jest walka o władzę w galaktyce.
+2. **Wyspa doktora Moreau** - powieść fantastycznonaukowa Herberta George’a Wellsa, w której opisana jest przyjaźń między kobietą a bestią.
+3. **Ernest Hemingway** - amerykański pisarz, który jest znany ze swoich opisów przyjaźni męskiej w takich książkach jak „Strumień” i „Stary człowiek i morze”.
+4. **„Hobbit, czyli tam i z powrotem”** - powieść fantasy J.R.R. Tolkiena, w której opisana jest przyjaźń między hobbitami i krasnoludami.
+5. **„Sypialnia babki”** - baśń Charles’a Perraulta, w której opisana jest przyjaźń między dwoma siostrami.
 
 ### Notatki
 
-Przyjaźń jako motyw w literaturze reprezentuje pozytywne i negatywne aspekty relacji międzyludzkich. Może ona być idealizowana, prezentowana jako czysta i pozbawiona egoizmu, albo jako relacja pełna rywalizacji i nienawiści.
+Przyjaźń to jeden z najczęstszych motywów w literaturze. Może być ona przedstawiona w różny sposób - jako głębokie i bezinteresowne poczucie współczucia, jako relacja oparta na korzyściach czy też jako relacja marginalizowana i niedoceniana.
 
-W literaturze dla dzieci, przyjaźń często jest opisywana jako jedno z najważniejszych wartości, między innymi w serii książek o Kubusiu Puchatku i Przyjaciołach, gdzie każdy bohater ma swojego najlepszego przyjaciela.
+Jednym z najbardziej znanych przedstawień przyjaźni w literaturze jest relacja między hobbitami i krasnoludami w „Hobbit, czyli tam i z powrotem” J.R.R. Tolkiena. Relacja ta, pomimo początkowych trudności, z czasem ewoluuje w głęboką więź i przyjaźń. Tolkien w swych utworach często podkreśla znaczenie przyjaźni w życiu człowieka.
 
-W literaturze dla dorosłych, motyw przyjaźni jest bardziej złożony i pełen sprzeczności. Przykładem tego jest powieść Emily Brontë "Wuthering Heights", w której relacja głównych bohaterów - Kat i Heathcliffa - początkowo opisana jest jako głęboka i szczera przyjaźń, lecz z czasem staje się ona bardziej złożona i niszczycielska.
+Innym interesującym przypadkiem jest relacja między kobietą a bestią w powieści „Wyspa doktora Moreau” H.G. Wellsa. Choć relacja ta przedstawiona jest jako bardzo niezwykła, autor podkreśla, że przyjaźń nie zna granic. Przyjaźń między dwoma tak różnymi stworzeniami sprawia, że obie postacie stają się bardziej ludzkie.
 
-Inne ciekawe przykłady relacji przyjacielskich w literaturze to Sherlock Holmes i Piorun (przyjaciel Holmesa jest psem), Tom Sawyer i Huckleberry Finn z powieści Marka Twaina, a także przyjaciółki z książki "Anna Karenina".
+Przyjaźń męska często jest prezentowana jako forma towarzyskości i wsparcia. Ernest Hemingway, jeden z najbardziej znanych amerykańskich pisarzy, często wykorzystywał ten motyw w swojej twórczości. W powieściach takich jak „Strumień” czy „Stary człowiek i morze” opisywał głębokie relacje między mężczyznami, które są oparte na wspólnych doświadczeniach i walce z wyzwaniami życiowymi.
 
-W literaturze motyw przyjacio
+W końcu, przyjaźń między kobietami również jest często tematem w literaturze. Baśń „Sypialnia babki” Charles’a Perraulta jest dobrym przykładem przedstawienia współzawodnictwa i rywalizacji między siostrami, które w końcu końców ewoluuje w przyjaźń i wspólne działanie.
+
+Wnioskiem z tego materiału jest to, że przyjaźń jest uniwersalnym motywem w literaturze, który może być prezentowany w różny sposób i ma różne znaczenie dla różnych postaci. Może ona być prezentowana jako forma towarzyskości i wsparcia, ale też jako relacja oparta na korzyściach lub relacja marginalizowana i niedoceniana. To, co jest wspólne dla wszystkich przedstawień przyjaźni, to głęboka więź i współczucie między postaciami.

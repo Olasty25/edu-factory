@@ -1,58 +1,56 @@
  ### Quiz
 
-1. Jaka jest główna motywacja bohatera w procesie przemiany?
-	A. Potrzeba zemsty
-	B. Poszukiwanie własnej tożsamości
-	C. Chęć zdobycia majątku
-	D. Potrzeba bycia najsilniejszym
-	**Poprawna odpowiedź: B. Poszukiwanie własnej tożsamości**
+1. Który z następujących motywów literackich jest spokrewniony z motywem przemiany bohatera?
+   A. Motyw miłości
+   B. Motyw śmierci
+   C. Motyw podróży
+   D. Motyw zbrodni
+   **Poprawna odpowiedź:** C. Motyw podróży
 
-2. Jakie etapy można wyróżnić w przemianie bohatera?
-	A. Początek, środek, koniec
-	B. Stan równowagi, przesilenie, nowa równowaga
-	C. Wyzwanie, konfrontacja, rozstrzygnięcie
-	D. Wszystkie z powyższych
-	**Poprawna odpowiedź: D. Wszystkie z powyższych**
+2. Co to jest przemiana wewnętrzna bohatera?
+   A. Zmiana wyglądu zewnętrznego
+   B. Zmiana charakteru lub postawy
+   C. Zmiana miejsca zamieszkania
+   D. Zmiana statusu społecznego
+   **Poprawna odpowiedź:** B. Zmiana charakteru lub postawy
 
-3. Które z wymienionych postaci są bohaterami literackimi, którzy przechodzą proces przemiany?
-	A. Eliza Doolittle z "Pygmalionu" George’a Bernarda Shaw
-	B. Jay Gatsby z "Wielkiego Gatsby'ego" F. Scotta Fitzgeralda
-	C. Humbert Humbert z "Lolity" Vladimira Nabokova
-	D. Sherlock Holmes z "Przygód Sherlocka Holmesa" Arthura Conana Doyle'a
-	**Poprawna odpowiedź: A i B**
+3. Który z poniższych bohaterów nie przechodzi przemiany w swojej powieści?
+   A. Eliza Doolittle z "Pygmaliona" George'a Bernarda Shaw'a
+   B. Jean Valjean z "Nędzników" Victora Hugo
+   C. Huckleberry Finn z "Przygód Hucka Finna" Marka Twaina
+   D. Sherlock Holmes z opowieści Arthura Conana Doyle'a
+   **Poprawna odpowiedź:** D. Sherlock Holmes z opowieści Arthura Conana Doyle'a
 
-4. Czym jest motyw "urojenia o wybraniowości"?
-	A. Motyw, w którym postać uważa, że jest szczególnie obdarzona i ma wyjątkową misję do spełnienia
-	B. Motyw, w którym postać poszukuje prawdy o sobie i otaczającym świecie
-	C. Motyw, w którym postać próbuje mieć kontrolę nad innymi
-	D. Motyw, w którym postać szuka miłości i akceptacji
-	**Poprawna odpowiedź: A. Motyw, w którym postać uważa, że jest szczególnie obdarzona i ma wyjątkową misję do spełnienia**
+4. Jaką rolę odgrywa przemiana bohatera w utworze literackim?
+   A. Prowadzi do rozwiązania konfliktu
+   B. Ułatwia zrozumienie postawy bohatera
+   C. Powoduje komplikacje w fabule
+   D. Nie odgrywa istotnej roli
+   **Poprawna odpowiedź:** A. Prowadzi do rozwiązania konfliktu
 
-5. Czym jest archetyp "bohatera-podróżnika"?
-	A. Postać, która wyrusza w podróż celem odnalezienia swojej tożsamości i zrozumienia świata
-	B. Postać, która stawia czoło wyzwaniom i przeszkodom w celu osiągnięcia swoich marzeń
-	C. Postać, która jest doskonała i nigdy nie ma problemów
-	D. Postać, która negatywnie wpływa na innych i świat wokół siebie
-	**Poprawna odpowiedź: A. Postać, która wyrusza w podróż celem odnalezienia swojej tożsamości i zrozumienia świata**
+5. Czy bohater może przestawać być bohaterem, jeśli przejdzie przemianę?
+   A. Tak, bo przemiana może prowadzić do zaniku konfliktu
+   B. Nie, bo przemiana może stworzyć nowy konflikt
+   C. Zależy od innych czynników w utworze
+   D. Nie da się tak ogólnie stwierdzić
+   **Poprawna odpowiedź:** C. Zależy od innych czynników w utworze
 
 ### Fiszki
 
-1. **Przemiana bohatera** - proces zmian, w którym bohater ponawia swoje myślenie, uczucia, a nawet zachowanie, aby osiągnąć cel lub dojrzeć.
-2. **Motywacja** - główny czynnik, który popycha bohatera do działania i zmiany.
-3. **Etapy przemiany** - początek, przesilenie, nowa równowaga.
-4. **Urojenie o wybraniowości** - motyw, w którym bohater uważa, że jest szczególnie obdarzony i ma wyjątkową misję do spełnienia.
-5. **Bohater-podróżnik** - archetyp, w którym postać wyrusza w podróż celem odnalezienia swojej tożsamości i zrozumienia świata.
+1. Przemiana wewnętrzna: zmiana charakteru lub postawy bohatera
+2. Przemiana zewnętrzna: zmiana wyglądu zewnętrznego bohatera
+3. Negatywna przemiana: zmiana ku gorszym cechom lub zachowaniom
+4. Pozytywna przemiana: zmiana ku lepszym cechom lub zachowaniom
+5. Przemiana jako konsekwencja konfliktu lub przeciwności
 
 ### Notatki
 
-Przemiana bohatera literackiego to głęboki i często trudny proces, w którym bohater zmienia swoje myślenie, uczucia i zachowanie. Ten proces zazwyczaj wymaga od bohatera spotkania wyzwań i przeszkód, które wymuszają na nim zmiany.
+Motyw przemiany bohatera jest powszechny w literaturze światowej. Może on obejmować zarówno zmiany wewnętrzne (zmiana charakteru lub postawy), jak i zewnętrzne (zmiana wyglądu zewnętrznego). Przemiana bohatera może być spowodowana konfliktem lub innymi przeciwnościami. Czasem przemiana jest wymuszona przez otoczenie, w innych wypadkach jest dobrowolna i rezultatem refleksji bohatera.
 
-Głównym czynnikiem, który popycha bohatera do zmiany, jest motywacja. Motywacja może być różnego rodzaju, od potrzeby zemsty po poszukiwanie własnej tożsamości.
+W zależności od kontekstu, przemiana bohatera może być postrzegana jako pozytywna lub negatywna. Pozytywna przemiana oznacza zmianę ku lepszym cechom lub zachowaniom, podczas gdy negatywna przemiana oznacza zmianę ku gorszym cechom lub zachowaniom. Niekiedy bohater może przejść zarówno negatywną, jak i pozytywną przemianę lub wrócić do swojego starego stanu.
 
-Można wyróżnić trzy etapy w przemianie bohatera: początek, przesilenie, i nowa równowaga. W początkowej fazie, bohater jest w stanie równowagi, jednak zostaje zakłócony przez jakieś zdarzenie. Następnie, bohater musi się zmierzyć z przeszkodami i wyzwaniami, co prowadzi do przesilenia. Ostatecznie, bohater osiąga nową równowagę, w której jest zmieniony i dojrzalszy.
+Przemiana bohatera ma duże znaczenie dla fabuły utworu literackiego. Może ona prowadzić do rozwiązania konfliktu lub stworzenia nowego. W niektórych wypadkach, przemiana bohatera może być zakończeniem utworu, w innych może otworzyć nowe możliwości i zagadnienia. W każdym przypadku, przemiana bohatera może pomóc czytelnikowi lepiej zrozumieć charakter i motywacje bohatera.
 
-Jednym z rodzajów motywacji bohatera jest urojenie o wybraniowości. W tym motywie, bohater uważa, że jest szczególnie obdarzony i ma wyjątkową misję do spełnienia. Ten motyw może prowadzić do przedsięwzięć śmiałych i heroicznych, jednak może też skutkować nadmiernym stresem i nieuzasadnionym poczuciem własnej wartości.
+Przykładem bohatera, który przechodzi przemianę, jest Jean Valjean z "Nędzników" Victora Hugo. Zmienia się on z brutalnego przestępcy w człowieka dobrego i pełnego współczucia. Inny przykład to Eliza Doolittle z "Pygmaliona" George'a Bernarda Shaw'a, która staje się kobietą wykształconą i kompetentną.
 
-Archetyp bohatera-podróżnika to postać, która wyrusza w podróż celem odnalezienia swojej tożsamości i zrozumienia świata. Bohater-podróżnik zazwyczaj spotyka wiele wyzwań i przeszkód na swojej drodze, jednak jego głęboki pożądanie odkrycia siebie i świata sprawia, że jest on w stanie je pokonać.
-
-Przemiana bohatera literackiego to skomplikowany proces, dlatego rozumienie motywacji i etapów tego procesu może być bardzo przydatne w analizie tekstów literackich. Poprzez zrozumienie motywacji i etapów przemiany bohatera, czytelnicy mogą lepiej zrozumieć bohaterów i teksty, w których występują.
+Przemiana bohatera nie zawsze oznacza zanik konfliktu. W niektórych wypadkach, nowa sytuacja bohatera może stworzyć nowe problemy i wyzwania. W każdym razie, przemiana bohatera jest zazwyczaj przełomowym momentem w fabule utworu literackiego i przyciąga uwagę czytelnika.

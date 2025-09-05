@@ -1,61 +1,61 @@
- # Quiz: Motyw Apokalipsy w Literaturze
+ # Quiz: Motyw apokalipsy w literaturze
 
-1. Co to znaczy termin "apokalipsa" w kontekście literackim?
-A. Odkrycie nowych światów
-B. Przepowiednia końca świata
-C. Wizja raju na ziemi
-D. Potworne widziadła
+1. Co to jest apokalipsy w kontekście literackim?
+A. Koniec świata
+B. Objawienie
+C. Katastrofa
+D. Przepowiednia
 
-Poprawna odpowiedź: B. Przepowiednia końca świata
+Odpowiedź: B. Objawienie
 
-2. Który z poniższych pisarzy nie jest związany z motywem apokalipsy w swojej twórczości?
-A. John Milton
-B. George Orwell
-C. Aldous Huxley
-D. Charles Dickens
+2. Która z następujących książek nie jest klasycznym przykładem literatury apokaliptycznej?
+A. "1984" George Orwella
+B. "Harry Potter i Pucharis Prawdy" J.K. Rowling
+C. "Nowy Testament"
+D. "Panteon" Jamesa Rollinsa
 
-Poprawna odpowiedź: D. Charles Dickens
+Odpowiedź: B. "Harry Potter i Pucharis Prawdy" J.K. Rowling
 
-3. Która z książek Orwella ma najbardziej apokaliptyczne tło?
-A. 1984
-B. Farmy Zwierząt
-C. Komnata kar
-D. Jak nas widzą
+3. Kiedy powstała Księga Apokalipsy, ostatnia księga Nowego Testamentu?
+A. I wiek naszej ery
+B. II wiek naszej ery
+C. III wiek naszej ery
+D. IV wiek naszej ery
 
-Poprawna odpowiedź: A. 1984
+Odpowiedź: A. I wiek naszej ery
 
-4. Jaki jest główny temat trylogii "His Dark Materials" Philipa Pullmana?
-A. Upadek i odbudowa Kościoła
-B. Podróż w poszukiwaniu zaginionej cywilizacji
-C. Upadek i odbudowa społeczeństwa
-D. Wojna i jej konsekwencje
+4. Która z poniższych postaci literackich nie jest związana z motywem apokalipsy?
+A. Widz z "Matrixa"
+B. Ofelia z "Balu zamkowego"
+C. Kain z "Braci Kaina"
+D. Frodo z "Władcy Pierścieni"
 
-Poprawna odpowiedź: A. Upadek i odbudowa Kościoła
+Odpowiedź: B. Ofelia z "Balu zamkowego"
 
-5. Który z poniższych filmów jest adaptacją literackiego utworu apokaliptycznego?
-A. Melancholia
-B. Stowarzyszenie Umarłych Poetów
-C. The Road
-D. Niebezpieczne związki
+5. Co oznacza pojęcie "apokalipsy kulturowej"?
+A. Upadek kultury
+B. Odkrycie nowej kultury
+C. Przemiana kultury
+D. Koniec kultury
 
-Poprawna odpowiedź: C. The Road
+Odpowiedź: C. Przemiana kultury
 
-# Fiszki: Motyw Apokalipsy w Literaturze
+# Fiszki: Motyw apokalipsy w literaturze
 
-1. **Apokalipsa** - w literaturze oznacza przeważnie przepowiednię końca świata lub nadejścia nowego porządku rzeczy.
-2. **John Milton** - angielski poeta, który w swoim dziele "Raj utracony" opisuje upadek człowieka i konsekwencje grzechu pierworodnego.
-3. **George Orwell** - brytyjski pisarz, autor książek "1984" i "Farma Zwierząt", w których przedstawia totalitarne społeczeństwa i ich upadek.
-4. **Aldous Huxley** - brytyjski pisarz, który w swojej "Nowym światku" prezentuje antyutopijną wizję przyszłości, w której ludzkość jest kontrolowana przez rząd za pomocą nauki i technologii.
-5. **Philip Pullman** - brytyjski pisarz, autor trylogii "His Dark Materials", w której przedstawia upadek Kościoła i walkę o wolność duchową.
+1. Motyw apokalipsy w literaturze odnosi się do przepowiedni lub objawienia o koncu świata lub zagrożeniu jego istnieniem.
+2. Księga Apokalipsy w Nowym Testamencie jest najbardziej znanym przykładem literatury apokaliptycznej.
+3. Motyw apokalipsy można znaleźć w wielu dziełach literackich, takich jak "1984" George'a Orwella, "Panteon" Jamesa Rollinsa czy "Metro 2033" Dmitrija Głuchowskiego.
+4. W literaturze apokaliptycznej często pojawiają się postacie o charakterze mesjańskim, które próbują ocalić świat lub ludzkość.
+5. Motyw apokalipsy może również odnosić się do katastrof naturalnych, konfliktów zbrojnych, epidemii czy innych zagrożeń dla ludzkości.
 
-# Notatki: Motyw Apokalipsy w Literaturze
+# Notatki: Motyw apokalipsy w literaturze
 
-Motyw apokalipsy jest powszechnie spotykany w literaturze światowej. Początkowo pojawiał się w kontekście religijnym, jako zapowiedź końca świata i Sądu Ostatecznego. Z czasem stał się też przedmiotem zainteresowania literatury świeckiej, gdzie stał się wyrazem obaw i lęków związanych z nowoczesnością, wojnami, przemianami społecznymi i politycznymi.
+Motyw apokalipsy w literaturze odnosi się do przepowiedni lub objawienia o koncu świata lub zagrożeniu jego istnieniem. Jest to popularny motyw w literaturze, filmie i grach komputerowych, ponieważ pozwala na stworzenie napięcia i dramatyzmu w dziele.
 
-Angielski poeta John Milton w swoim dziele "Raj utracony" opisuje upadek człowieka i konsekwencje grzechu pierworodnego. Motyw apokalipsy pojawia się też w twórczości George'a Orwella, który w swoim dziele "1984" prezentuje totalitarne społeczeństwo, w którym kontrola nad jednostką jest całkowita. W "Farmie Zwierząt" Orwell przedstawia antyutopijną wizję przyszłości, w której zwierzęta zbuntowały się przeciw ludziom, aby następnie sama wprowadzić dyktaturę.
+Najbardziej znanym przykładem literatury apokaliptycznej jest Księga Apokalipsy w Nowym Testamencie, która opisuje koniec świata i nadejście nowego porządku. Księga ta miała ogromny wpływ na kulturę zachodnią i przyczyniła się do rozwoju gatunku literackiego, który obejmuje opisy konca świata, sądu ostatecznego i odnowy świata.
 
-Aldous Huxley w swojej "Nowym świecie" pokazuje antyutopijną wizję przyszłości, w której ludzkość jest kontrolowana przez rząd za pomocą nauki i technologii. To dzieło jest wyrazem lęku autora przed możliwościami nowoczesności i jej wpływem na ludzką wolność.
+Motyw apokalipsy pojawia się w wielu dziełach literackich, takich jak "1984" George'a Orwella, "Panteon" Jamesa Rollinsa czy "Metro 2033" Dmitrija Głuchowskiego. W tych książkach koniec świata jest spowodowany czynnikami antropogenicznymi, takimi jak wojna nuklearna, katastrofa ekologiczna lub eksperymenty naukowe.
 
-Philip Pullman w trylogii "His Dark Materials" przedstawia upadek Kościoła i walkę o wolność duchową. Dzieło to jest krytyką duchowości i religii, a także refleksją nad losem człowieka w sytuacji, gdy władza duchowa ingeruje w sprawy świeckie.
+W literaturze apokaliptycznej często pojawiają się postacie o charakterze mesjańskim, które próbują ocalić świat lub ludzkość. Takimi postaciami są np. Neo z "Matrixa", Frodo Baggins z "Władcy Pierścieni" czy Eli z filmu "Postrach Nocy". Te postacie reprezentują nadzieję i możliwość odnowy świata, nawet w obliczu katastrofy.
 
-Motyw apokalipsy pozostaje aktualny w literaturze i stanowi wyraz lęków i obaw związanych z przemianami społecznymi i politycznymi. Jest też ostrzeżeniem przed nadmierną ingerencją w sferę prywatną i kontrolą nad jednostką.
+Motyw apokalipsy może również odnosić się do katastrof naturalnych, konfliktów zbrojnych, epidemii czy innych zagrożeń dla ludzkości. W tych dziełach autorzy często krytykują ludzkość za jej zachowanie i zachęcają do refleksji nad konsekwencjami swoich działań. Motyw apokalipsy w literaturze pozwala na przedstawienie zagrożeń i wyzwania, przed jakimi stoi ludzkość, a także na refleksję nad sensem życia i przyszłością ludzkości.
