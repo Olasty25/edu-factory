@@ -1,52 +1,65 @@
- # Quiz - Motyw artysty w literaturze
-1. Który polski romantyczny poeta regularnie pisał wiersze inspirowane własnym życiem artystycznym?
-   A. Juliusz Słowacki
-   B. Adam Mickiewicz
-   C. Zygmunt Krasiński
-   D. Cyprian Norwid (poprawna odpowiedź)
+ ### Quiz
 
-2. Która z postaci poniższych nie jest artystą w powieści "Muzę i meduzę" Zbigniewa Unillowskiego?
-   A. Mikołaj
-   B. Henryk
-   C. Izydor
-   D. Leonia (poprawna odpowiedź)
+1. Który z poniższych artystów jest bohaterem powieści Karola Dickensa "Barnet"?
+   A. Vincent van Gogh
+   B. Paul Cézanne
+   C. Claude Monet
+   D. Thomas Gainsborough
 
-3. Która z powieści Fiodora Dostojewskiego ukazuje fascynację ludzką psychiką, szczególnie artystów-nieudaczników, a jej akcja toczy się w paryskim świecie artystycznym?
-   A. Bracia Karamazow
-   B. Zbrodnia i kara
-   C. Idiota
-   D. Piętno (poprawna odpowiedź)
+   Poprawna odpowiedź: D. Thomas Gainsborough
 
-4. Wybierz prawidłową definicję motywu artysty:
-   A. Twórczy proces pisarski lub malarski przez tych, którzy nie są artystami
-   B. Fascynacja osobowościami artystów, ukazana poprzez przedstawienie wybranych fragmentów ich życia (poprawna odpowiedź)
-   C. Wyidealizowane przedstawienie męki artystów na odludziu
+2. Która z poniższych powieści została napisana przez Hermana Melville'a i opowiada o motywacji marinowskiego artysty?
+   A. "Dźwigacz cziper"
+   B. "Moby Dick"
+   C. "Billy Budd"
+   D. "Pierre, czyli dwa życia"
 
-5. Który z poniższych pisarzy Ukraińskiego renesansu literackiego regularnie odwoływał się do motywu sztuki i artystów?
-   A. Maksym Rylsky
-   B. Mychajło Kociubynskyj
-   C. Wasyl Stefanyk
-   D. Lesja Ukrainka (poprawna odpowiedź)
+   Poprawna odpowiedź: B. "Moby Dick"
 
-# Fiszki - Motyw artysty w literaturze
-* Dostojewski, Fiodor - **Piętno** (ros. *Пrestuplenie i nakazanie*)
-* Gogol,Mykoła - **Taras Bulba** (ukr. *Тарас Бульба*)
-* Krasiński, Zygmunt - **Nie-Boska komedia** (org. *Nie-boska komedia*)
-* Mickiewicz, Adam - **Dziady** (org. *Dziady*)
-* Nosik, Oles - **Hulajhorod** (ukr. *Гуляйгород*)
-* Pasternak, Boris - **Doktor Żywago** (ros. *Доктор Живаго*)
-* Uniłowski, Zbigniew - **Muzę i meduzę** (org. *Muza i meduza*)
-* Wasylewska, Olha - **Xadra** (ukr. *Шах*)
-* Wyspiański, Stanisław - **Wesele** (org. *Wesele*)
-* Żukowski, Jurij - **Orlando Furioso** (org. *Орlando Furioso*)
+3. Która z poniższych powieści Patricka Suskinda jest historią krawca, który stał się mistrzem perfum?
+   A. "Perfumer"
+   B. "Parfumeur"
+   C. "Das Parfum"
+   D. "Le Parfum"
 
-# Notatki - Motyw artysty w literaturze
-Motyw artysty to często wykorzystywany motyw w literaturze, który odzwierciedla fascynację ludzką osobowością, zwłaszcza artystów. Ten motyw ukazuje nie tylko ich twórcze dzieła, ale także fragmenty ich życia, charakterowe właściwości i relacje z innymi osobami. Poprzez motyw artysty autorzy mogą analizować ich geniusz, uzależnienia, psychikę oraz ich namiętności i emocje, które mogą być skonfliktowane z konwenansami i oczekiwaniami społecznymi.
+   Poprawna odpowiedź: C. "Das Parfum"
 
-Motyw ten występuje w wielu krajach i czasach, od klasycznej literatury europejskiej, poprzez literaturę rosyjską i ukraińską, aż do współczesnej prozy światowej. W klasycznej literaturze europejskiej pojawiają się postacie artystów, którzy stanowią centralne punkty utworów, takich jak w przypadku Adriana Leverkühna w *Piętnie* Fiodora Dostojewskiego, Henryka Wacława w *Muzie i meduzie* Zbigniewa Uniłowskiego oraz przedstawienia sztuki i twórców w *Weselu* Stanisława Wyspiańskiego czy *Orlando Furioso* Jurija Żukowskiego.
+4. Która z poniższych powieści autorstwa J.K. Rowling opisuje motyw artysty jako mistrza magii?
+   A. "Harry Potter i Kamień Filozoficzny"
+   B. "Harry Potter i Komnata Tajemnic"
+   C. "Harry Potter i więzień Azkabanu"
+   D. "Harry Potter i Czara Ognia"
 
-W literaturze rosyjskiej i ukraińskiej ważne miejsca zajmują Motyw artysty i obraz twórczości. Przykładami mogą być: *Hulajhorod* Olesia Nosika i *Xadra* Olhy Wasylewskiej. Motyw ten często przekracza granice samej sztuki i przedstawienia o charakterze artystycznym, stając się świadectwem powszechnego dążenia do tworzenia i osiągnięcia piękna.
+   Poprawna odpowiedź: A. "Harry Potter i Kamień Filozoficzny"
 
-W literaturze slawiańskiej włączenie motywu artystów bywa często powiązane z refleksją filozoficzną, gdzie twórcy zastanawiają się nad naturą geniuszu, jego warunkami i siłą oddziaływania. Stanowi to idealne narzędzie do Tworzenia Uniwersalnych Prawd i ujawniania Mrocznych Aspektów świata.
+5. Który z poniższych pisarzy uważany jest za artystę, ponieważ w swojej twórczości połączył konwencje realistyczne z symbolicznymi?
+   A. Fiodor Dostojewski
+   B. Ernest Hemingway
+   C. Gabriel García Márquez
+   D. James Joyce
 
-Łącząc wszystkie powyższe cechy, można stwierdzić, że **motyw artysty** stanowi uniwersalną koncepcję, która przekracza granice narodowości, kultury i czasu. Jest on wyrazem fascynacji własnymi fantazjami, marzeniami, świadectwem dążenia do poznania i urzeczywistniania piękna, oraz ostatecznie – siłą oddziaływania i zmiany w naszym świecie. Warto się zwrócić uwagę na rozwijanie tego motywu w własnej praktyce pisarskiej.
+   Poprawna odpowiedź: C. Gabriel García Márquez
+
+### Fiszki
+
+1. **Barnet** - powieść Karola Dickensa, opowiadająca o malarzu Thomasie Gainsborough i jego motywacji do twórczości.
+2. **Moby Dick** - powieść Hermana Melville'a, opowiadająca o kapitanie Ahabie i jego obsesji na punkcie mitycznego białego wieloryba.
+3. **Das Parfum** - powieść Patricka Suskinda, opowiadająca historię Jean-Baptiste'a Grenouille'a, krawca, który stał się mistrzem perfum.
+4. **Harry Potter i Kamień Filozoficzny** - powieść J.K. Rowling, opisująca historię Harry'ego Pottera, który dowiaduje się, że jest czarodziejem.
+5. **Gabriel García Márquez** - kolumbijski pisarz, laureat Nagrody Nobla w dziedzinie literatury, którego twórczość łączyła konwencje realistyczne z symbolicznymi.
+
+### Notatki
+
+Motyw artysty w literaturze jest bardzo interesującym tematem, ponieważ pozwala nam zgłębić zrozumienie sił, które kierują ludzką twórczością. W literaturze możemy znaleźć wiele przykładów artystów, którzy stali się bohaterami powieści, a ich motywacja do twórczości jest głównym tematem dzieła.
+
+Klasycznym przykładem jest powieść Karola Dickensa "Barnet", gdzie głównym bohaterem jest malarz Thomas Gainsborough. W tej powieści Dickens opisuje motywację Gainsborougha do twórczości, a także jego relacje z innymi postaciami z epoki, takimi jak Joshua Reynolds.
+
+Innym przykładem jest powieść Hermana Melville'a "Moby Dick", gdzie głównym bohaterem jest obsesyjny kapitan Ahab, którego głównym celem w życiu jest polowanie na mitycznego białego wieloryba. W tej powieści Melville opisuje motywację Ahaba do twórczości i jego relacje z załogą.
+
+Patrick Suskind w swojej powieści "Das Parfum" opisuje historię krawca, Jean-Baptiste'a Grenouille'a, który staje się mistrzem perfum. Suskind opisuje motywację Grenouille'a do twórczości i jego relacje z innymi postaciami z epoki, takimi jak mistrz perfumariusza Giuseppe Baldini.
+
+W powieści J.K. Rowling "Harry Potter i Kamień Filozoficzny", głównym bohaterem jest Harry Potter, który dowiaduje się, że jest czarodziejem i zaczyna uczyć się sztuki magii. W tej powieści Rowling opisuje motywację Harry'ego do nauki magii i jego relacje z innymi postaciami z Hogwartu.
+
+Gabriel García Márquez, kolumbijski pisarz, laureat Nagrody Nobla w dziedzinie literatury, w swojej twórczości łączył konwencje realistyczne z symbolicznymi. W jego powieści "sto lat samotności" opisuje historię małej wioski Macondo i jej mieszkańców, a w "Seniorze Seniors" opisuje historię emeryta, który odkrywa, że jest nieśmiertelny. W obu tych dziełach García Márquez opisuje motywację swoich bohaterów do twórczości i ich relacje z innymi postaciami.
+
+W literaturze motyw artysty jest bardzo interesującym tematem, który pozwala nam zgłębić zrozumienie sił, które kierują ludzką twórczością. W powieściach możemy znaleźć wiele przykładów artystów, których motywacja do twórczości jest głównym tematem dzieła. Dzięki badaniu tego tematu możemy zrozumieć, czym kierują się artyści w ich twórczości i jakie są motywacje, które skłaniają ich do tworzenia dzieł sztuki.

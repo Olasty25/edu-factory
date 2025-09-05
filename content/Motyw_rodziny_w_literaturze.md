@@ -1,60 +1,74 @@
- # Quiz - Motyw Rodziny w Literaturze
-1. Która powieść Charlesa Dickensa najbardziej koncentruje się na motywie rodziny?
-   A. "Olbrzym miasta"
-   B. "Bleak House"
-   C. "David Copperfield"
-   D. "Nicholas Nickleby"
+ # Quiz: Motyw Rodziny w Literaturze
 
-   Poprawna odpowiedź: C. "David Copperfield"
+1. Który znany amerykański powieściopisarz jest autorem sagi rodzinnej, opisującej losy rodziny Armstrongów na przestrzeni generacji?
+A. John Steinbeck
+B. William Faulkner
+C. F. Scott Fitzgerald
+D. James Baldwin
 
-2. Która z poniższych książek autorstwa Jane Austen nie dotyka tematu rodziny?
-   A. "Duma i uprzedzenie"
-   B. "Rozważna i uczta"
-   C. "Emma"
-   D. "Mansfield Park"
+Poprawna odpowiedź: B. William Faulkner
 
-   Poprawna odpowiedź: B. "Rozważna i uczta"
+2. Książka „Siekiere zdławione przez lód” autorstwa Petera Härtlinga jest opowieścią o:
+A. samotnym wychowaniu dziecka
+B. trudnej relacji ojca z synem
+C. żałobie po stracie bliskiej osoby
+D. rodzinie żyjącej w trudnych warunkach
 
-3. W powieści „Sense and Sensibility” kim są siostry Dashwood?
-   A. Córki księcia
-   B. Córki wicehrabiego
-   C. Córki parlaментаarzysty
-   D. Córki ziemianina
+Poprawna odpowiedź: A. samotnym wychowaniu dziecka
 
-   Poprawna odpowiedź: D. Córki ziemianina
+3. Która z powieści Lionela Shriver jest opowieścią o relacji między dwoma braćmi, którzy odziedziczyli po ojcu chorobę psychiczną?
+A. Dom z piasku i mgły
+B. Skrawki z całego świata
+C. Różowe buty
+D. Jak zabić wujka Jeana
 
-4. Która z poniższych książek NORY ROBERTS nie jest opowieścią o rodzinie?
-   A. „The released” (wyzwolona)
-   B. „The guarded” (osłonięty)
-   C. „The coveted” (pożądany)
-   D. „The braided” (tressowana)
+Poprawna odpowiedź: D. Jak zabić wujka Jeana
 
-   Poprawna odpowiedź: D. „The braided” (tressowana)
+4. Autorką reportażu „Przerwane życie” jest:
+A. Oriana Fallaci
+B. Simone de Beauvoir
+C. Joan Didion
+D. Svetlana Aleksijewicz
 
-5. Kto jest głównym bohaterem w książce „Wojna i pokój” Lwa Tołstoja?
-   A. Pierre Bezuchow
-   B. Natasza Rostowa
-   C. Andriej Bołkoński
-   D. Mikołaj Rostow
+Poprawna odpowiedź: C. Joan Didion
 
-   Poprawna odpowiedź: A. Pierre Bezuchow
+5. W powieści „Lolita” autorstwa Vladimira Nabokova motyw rodziny występuje w postaci:
+A. samotnej matki i jej córki
+B. romansu między starszym mężczyzną a młodą dziewczyną
+C. zastępczego ojca dla sieroty
+D. ciotki i jej bratanka
 
-# Fiszki - Motyw Rodziny w Literaturze
-1. Charles Dickens - „David Copperfield” - motyw rodziny jako fundament autobiograficznej powieści
-2. Jane Austen - „Duma i uprzedzenie” - siostrzane relacje jako esencja powieści
-3. NORA ROBERTS - „The released” - rodzinne namiętności i sprawiedliwość
-4. LEO TOLSTOY - „Wojna i pokój” - wpływ rodziny i towarzysze na losy głównych bohaterów
-5. LUCY MAUDE MONTGOMERY - „Ania z Zielonego Wzgórza” - wpływ rodziny na losy głównej bohaterki
+Poprawna odpowiedź: A. samotnej matki i jej córki
 
-# Notatki - Motyw Rodziny w Literaturze
-Motyw rodziny jest powszechny w literaturze, ponieważ pozwala na ukazanie wielu aspektów ludzkich relacji i emocji. Autorzy wykorzystują ten motyw do przedstawienia wpływu rodziny na życie bohatera, do ukazania relacji w rodzinach zamożnych i uboższych, a także do konfrontacji różnych cech rodziny i sposobu, w jaki one wpływają na losy bohaterów.
+# Fiszki: Motyw Rodziny w Literaturze
 
-Charles Dickens w powieści „David Copperfield” opisuje autobiograficzną historię młodego chłopca, który musi radzić sobie z trudnymi relacjami w rodzinie, zmagając się z różnymi rodzajami opieki i troski. W powieści Jane Austen - „Duma i uprzedzenie” ukazane są relacje w rodzinie, szczególnie siostrzane, jako esencja powieści, oraz wpływ rodziny na życie głównej bohaterki i jej decyzje.
+1. **Saga rodzinna**: rodzinny portret, przedstawiający historię rozwoju rodziny na przestrzeni wielu generacji, często poprzez ukazanie wielopokoleniowych powiązań i relacji pomiędzy jej członkami.
+    Przykład: „Sagi rodu Mississippi” (William Faulkner)
 
-NORA ROBERTS w cyklu książek o „Trzech Siostrach z Karoliny Północnej” (m.in. „The released”) przedstawia historię trzech sióstr, które w różny sposób muszą uporać się z traumami z przeszłości i znaleźć swoje miejsce w rodzinie, w miłości i w społeczeństwie. W tym samym cyklu, książce „The guarded” autorstwa NORI ROBERTS pokazane są relacje rodzinne i towarzyskie, które mają wpływ na losy głównej bohaterki i zapewniają jej wsparcie w powrocie do normalnego życia.
+2. **Samotne wychowanie dziecka**: ciężka i odpowiedzialna praca w pojedynkę, wymagająca od opiekuna niemałych umiejętności i cierpliwości, często spotykana w literaturze (szczególnie w okresie po II wojnie światowej).
+    Przykład: „Siekiere zdławione przez lód” (Peter Härtling)
 
-W „Wojnie i Pokoju” Lwa Tołstoja, jednym z najważniejszych wątków jest relacja Pierre Bezuchowa z rodziną, w tym ze swoją żoną Nataszą Rostową, oraz ich przyjaciółmi Andriejem Bołkońskim i Mikołajem Rostowem. Wszystkie te relacje mają duży wpływ na losy głównych bohaterów, a ich walka o znalezienie swojego miejsca w życiu jest kluczem do zrozumienia samego siebie.
+3. **Choroba psychiczna w rodzinie**: częsty motyw w literaturze, który wskazuje na trudne i drażliwe tematy, takie jak problemy psychiczne czy obciążenie genetyczne.
+    Przykład: „Jak zabić wujka Jeana” (Lionel Shriver)
 
-Lucy Maude Montgomery w powieści „Ania z Zielonego Wzgórza” pokazuje, jak rodzina wpływa na losy głównej bohaterki, dając jej siłę do przetrwania trudnych okresów, a także wpajając jej etykę i wartości.
+4. **Relacja między braćmi (lub siostrami)**: motyw, który skupia się na trudnej relacji oraz konfliktach i więziach wewnątrz rodziny.
+    Przykład: „Brudne pieniądze” (Ethan Canin)
 
-Motyw rodziny w literaturze może być użyty do przedstawienia różnych aspektów ludzkich relacji, emocji i wpływu na losy bohatera. Dzięki niemu autorzy mogą opisać trudne relacje w rodzinie, a także ukazać relacje w rodzinach zamożnych i biednych. Motyw rodziny jest uniwersalny i ma zastosowanie w różnych kontekstach historycznych, społecznych i kulturowych.
+5. **Reportaż-testimonial**: rodzaj reportażu, w którym autor przekazuje historię związaną z jego (lub bliskiej mu osoby) życiem, często dotyczącą osobistych zdarzeń i wydarzeń z przeszłości.
+    Przykład: „Przerwane życie” (Joan Didion)
+
+# Notatki: Motyw Rodziny w Literaturze
+
+Motyw rodziny w literaturze jest nie tylko szeroko spotykanym tematem, lecz również nieodzownym elementem wielu arcydzieł literackich. Pomimo deklarowanego w przeszłości dążenia do emancypacji od rodziny, wiele dzieł literackich zwraca się ku tej instytucji, ukazując jej rozmaitych członków, relacje i konflikty.
+
+**Wychowanie samotne** i **choroba psychiczna w rodzinie** to motywy, które odzwierciedlają trudność w przetrwaniu w społeczeństwie współczesnym. W powieści „Siekiere zdławione przez lód” Peter Härtling opisuje losy samotnej matki, Emili, która musi wychowywać swoją córeczkę w trudnych warunkach. Ten temat szczególnie dostrzegalny jest w literaturze powojennej, kiedy to wielu ludzi stało się sierotami lub opiekunami swoich dzieci z powodu wojny.
+
+**Sagi rodzinne** stanowią rodzaj literatury obrazującej długą historię jednej rodziny i jej pokoleń. Pismo tego typu pozwala na ukazanie zmian w zachowaniach, postawach, ale także kulturze, tradycji i polityce. Dzieła takie jak „Sagi rodu Mississippi” (William Faulkner) czy niedawna powieść „Mam na imię Lucy Barton” (Elizabeth Strout) świadczą o tym, jak silnie mocniej nawiązają do historii i ich rodzinnych tradycji, tworząc przy tym unikalne dzieła literackie.
+
+**Relacje pomiędzy braćmi** są popularnym motywem, który zwraca szczególną uwagę na trudne relacje oraz konflikty wewnątrz rodziny. Każdy z braci lub sióstr dąży do znalezienia własnej, wyznaczonej przez siebie drogi, co niekiedy prowadzi do ich starć. Innym czynnikiem mogą być również wydarzenia, które dzieliły ich w przeszłości, takie jak choroba psychiczna czy śmierć jednego z członków rodziny. Lionel Shriver w powieści „Jak zabić wujka Jeana” przedstawiła dodatkowo zagadnienie odziedziczonej po ojcu choroby psychicznej, która w połączeniu z presją wynikającą z niepewności swego pochodzenia doprowadziła do konfliktu braci.
+
+**Reportaż-testimonial** jest rodzajem dziennikarstwa, w którym autor skupia się na autentycznych, osobistych zdarzeniach lub wydarzeniach z przeszłości. Ten rodzaj literatury często obejmuje trudne tematy, takie jak utrata bliskich osób, depresja, choroba psychiczna, czy nawet uzależnienie od narkotyków. W powieści „Przerwane życie” (Joan Didion) autorka opisała walkę ze stratą córki i męża oraz z walką z powodu depresji, pomagając tym samym w procesie leczenia. Dzięki temu reportaż zyskał olbrzymią popularność i został opublikowany w serii Pocket Penguins, co świadczy o jego istotnym wkładzie w literaturę współczesną.
+
+**Romans między starszym mężczyzną a młodą dziewczyną**, znany bardziej jako „Lolita”, to motyw często pojawiający się w literaturze. Książka Vladimira Nabokova, nosząca tytuł tej samej nazwy, zwraca uwagę na relację między starszym mężczyzną a młodą dziewczyną, której poświęca się duża część fabuły. Własna matka będąca dziewczyną-narzeczoną starszego człowieka, który jest o wiele starszy od niej, podróżując po kraju z nim, zadawać się zaczęła z jego synem, tytułową Lolitą, sama przewodnicząc grze miłosnej. Ta powieść zwraca uwagę czytelnika na wielość perspektyw i relacji zachodzących wewnątrz rodziny.
+
+Literatura o rodzinie jest nie tylko tematem, ale także długą tradycją, która zarówno widać w klasycznych arcydziełach, jak i w nowoczesnych powieściach i reportażach. Pomimo ewolucji kulturowej i społecznej, ten motyw jest nadal silnie obecny w literaturze współczesnej.

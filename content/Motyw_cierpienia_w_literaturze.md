@@ -1,52 +1,61 @@
- # Quiz: Motyw Cierpienia w Literaturze
-1. Co to jest motyw cierpienia w literaturze?
-    A. Motyw twórców wyrażających radość i satysfakcję
-    B. Motyw przedstawiający cierpienie jako sposób na osiągnięcie celu
-    C. Motyw aktorów opisujących swoje przeżycia w śmieszny sposób
-    **D. Motyw przedstawiający różne aspekty cierpienia, jego przyczyn i konsekwencji**
+ ## Quiz
 
-2. Który z poniższych autorów najbardziej jest kojarzony z motywem cierpienia w swojej twórczości?
-    A. Hans Christian Andersen
-    B. Dr. Seuss
-    C. Fiodor Dostojewski
-    **D. Leo Tolstoy**
+1. Który francuski filozof stworzył koncepcję "abym być sobą"?
+A. Frederic Nietzsche
+B. Søren Kierkegaard
+C. Jean-Jacques Rousseau
+D. Martin Heidegger
 
-3. Który z poniższych utworów nie przedstawia motywu cierpienia?
-    A. "Czytaj dla siebie" przez Clive’a Barkera
-    B. "Anna Karenina" przez Leo Tolstoya
-    **C. "Jak rosną kaktusy w Padzierzu" przez Jorge Amado**
-    D. "Notatnik suicidalny" przez Sylvię Plath
+Correct answer: C. Jean-Jacques Rousseau
 
-4. Kiedy terminy "cierpienie" i "ból" nie są wymieniane wprost, ale są podtekstem w utworze, to nazywa się to:
-    A. Metonimią
-    B. Synekdochą
-    C. Aluzją
-    **D. Subtekstem**
+2. Która z powieści Fiodora Dostojewskiego jest uważana za jego najbardziej pesymistyczne dzieło?
+A. Mały heros
+B. Bracia Karamazow
+C. Zbrodnia i kara
+D. Biesy
 
-5. Czym jest "cierpienie estetyczne"?
-    A. To rodzaj cierpienia, który wydobywa piękno z traumy
-    B. To rodzaj cierpienia, który jest wynikiem lektury trudnego utworu
-    C. To rodzaj cierpienia, które jest poczuciem winy po lekturze utworu
-    **D. To rodzaj cierpienia, które jest częścią procesu twórczego autora**
+Correct answer: C. Zbrodnia i kara
 
-# Fiszki: Motyw Cierpienia w Literaturze
-- Motyw cierpienia w literaturze
-  - Przedstawienie cierpienia we wszelkich jego aspektach
-  - Często interpretowane jako sposób na wyrażenie przeżyć autora
-- Fiodor Dostojewski
-  - Rosyjski pisarz, najbardziej kojarzony z motywem cierpienia
-  - Autor takich dzieł jak "Bracia Karamazow" i "Zbrodnia i kara"
-- Leo Tolstoy
-  - Inny rosyjski pisarz, dobrze znany z przedstawiania cierpienia
-  - Autor takich dzieł jak "Wojna i pokój" i "Anna Karenina"
-- Subtekst
-  - Podtekst, który nie jest wymieniony wprost, ale jest w utworze
-- Cierpienie estetyczne
-  - Rodzaj cierpienia, które wydobywa piękno z traumy
+3. Który autor angielski pisał o "wypalonej szczęśliwości"?
+A. T.S. Eliot
+B. Virginia Woolf
+C. Aldous Huxley
+D. George Orwell
 
-# Notatki: Motyw Cierpienia w Literaturze
-Motyw cierpienia w literaturze jest przedstawieniem różnorodnych aspektów cierpienia, jego przyczyn i konsekwencji. Cierpienie związane jest nie tylko z bólem fizycznym, ale również z emocjami. Motyw ten jest jednym z najstarszych i najbardziej uniwersalnych w literaturze, można go znaleźć w wielu dziełach z całego świata.
+Correct answer: A. T.S. Eliot
 
-Fiodor Dostojewski i Leo Tolstoy są dwoma rosyjskimi pisarzami, którzy znani są z przedstawiania tego motywu w swoich dziełach. Dostojewski, znany z takich dzieł jak "Bracia Karamazow" i "Zbrodnia i kara", często wykorzystywał motyw cierpienia, aby zilustrować wewnętrzne konflikty swoich bohaterów. Tolstoy, znany z dzieł takich jak "Wojna i pokój" i "Anna Karenina", również często ukazywał cierpienie w swoich dziełach.
+4. Która z tych postaci literackich nie była przeżywała cierpienia z powodu utraty wiary?
+A. Ivan Karamazow (Bracia Karamazow)
+B. Raskolnikov (Zbrodnia i kara)
+C. Julien Sorel (Czerwone i czarne)
+D. Stephen Dedalus (Portret artysty zbuntowanego)
 
-Subtekst to podtekst, który nie jest wymieniony wprost, ale jest ukryty w utworze. Czasami motyw cierpienia jest tak przedstawiony, że subtelnie wskazuje na niego, co pozwala czytelnikom na swoje zinterpretacje. Cierpienie estetyczne to rodzaj cierpienia, które wydobywa piękno z traumy. Jest ono częścią procesu twórczego autora i może być poczuciem przez czytelnika po lekturze trudnego utworu.
+Correct answer: D. Stephen Dedalus (Portret artysty zbuntowanego)
+
+5. Który z tych pisarzy unikał tematu cierpienia w swojej twórczości?
+A. Ernest Hemingway
+B. Franz Kafka
+C. Fyodor Dostoevsky
+D. Charles Dickens
+
+Correct answer: D. Charles Dickens
+
+## Fiszki
+
+- Motyw cierpienia w literaturze ma na celu: wyrażenie ludzkich przeżyć, odkrycie sensu ludzkiego życia, oraz zachęcenie do refleksji nad ludzką naturą.
+- Filozoficzne podejście do cierpienia bywa określane mianem "tragicznego optymizmu", czyli uznania cierpienia za nieuniknione, lecz jednocześnie za konieczne do rozwoju człowieka i dojrzewania jego ducha.
+- Jean-Jacques Rousseau stworzył koncepcję "abym być sobą", która promuje poznanie siebie i przyjęcie własnej tożsamości jako sposobu na znalezienie szczęścia mimo cierpienia.
+- Fiodor Dostojewski jako jeden z niewielu pisarzy poruszał wątek utraty wiary w swojej twórczości, szczególnie w powieści "Bracia Karamazow" i "Zbrodnia i kara".
+- W literaturze angielskiej postacie takie jak Stephen Dedalus w "Portrecie artysty zbuntowanego" T.S. Eliota lub Julien Sorel w "Czerwonych i czarnych" Stendhala, stanowią wyjątek w temacie cierpienia z powodu utraty wiary.
+
+## Notatki
+
+Motyw cierpienia w literaturze jest istotnym zagadnieniem, które umożliwia nam lepsze zrozumienie ludzkich doświadczeń. Cierpienie w literaturze pozwala autorom na wyrażenie emocji, przeżyć i ludzkiej natury w sposób głęboki i uniwersalny. Dzięki cierpieniu, bohaterowie są w stanie rozwijać się i dojrzewać na sposób duchowy, przy czym cierpienie może być traktowane jako konieczne do tego procesu.
+
+Cierpienie może przyjmować wiele form, takich jak cierpienie fizyczne, emocjonalne, duchowe, czy też moralne. Pisarze mogą również poruszać tematy utraty wiary, samotności, rozterek i izolacji, które mogą być źródłem cierpienia.
+
+Filozoficzne podejście do cierpienia jest określane mianem "tragicznego optymizmu", co oznacza uznanie cierpienia za nieuniknione, lecz jednocześnie za konieczne do rozwoju człowieka i dojrzewania jego ducha. Przykładami takiego podejścia są dzieła Fiodora Dostojewskiego, takie jak "Zbrodnia i kara" i "Bracia Karamazow", które w sposób bezkompromisowy przedstawiają cierpienie jako konieczne do rozwiązania filozoficznych problemów.
+
+W literaturze angielskiej motyw cierpienia nie jest tak powszechny, jak w literaturze rosyjskiej czy europejskiej. Postacie, takie jak Stephen Dedalus w "Portrecie artysty zbuntowanego" T.S. Eliota czy Julien Sorel w "Czerwonych i czarnych" Stendhala, stanowią wyjątek w temacie cierpienia z powodu utraty wiary.
+
+Wreszcie, filozofowie i pisarze używali różnych koncepcji i metodologii, aby poruszać temat cierpienia. Rousseau stworzył koncepcję "abym być sobą", która promuje poznanie siebie i przyjęcie własnej tożsamości jako sposobu na znalezienie szczęścia mimo cierpienia. Motyw cierpienia w literaturze pozostanie dla nas stale aktualny, obejmując zarówno piękno, jak i brzydotę życia, czerpiąc z cierpienia i wyrażając to w sposób, który może być zrozumiany i doświadczony przez każdego czytelnika.
