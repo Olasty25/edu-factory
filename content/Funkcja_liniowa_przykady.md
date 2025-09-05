@@ -1,67 +1,71 @@
- # Quiz - Funkcja liniowa przykłady
+ # Funkcja Liniowa Przykłady
 
-1. Jaka jest funkcja liniowa, która przeprowadza conversje z funtów (lb) na kilogramy (kg)?
-   A) # funtów / 2.2
-   B) # funtów \* 2.2
-   C) # funtów + 2.2
-   D) # funtów - 2.2
-   **Poprawna odpowiedź: B) # funtów \* 2.2**
+## Quiz
 
-2. Jaka funkcja liniowa przeprowadza conversje z dolarów (USD) na euro (EUR)?
-   A) # dolarów / 0.85
-   B) # dolarów \* 0.85
-   C) # dolarów + 0.85
-   D) # dolarów - 0.85
-   **Poprawna odpowiedź: B) # dolarów \* 0.85**
+1. Jaka jest funkcja liniowa o wzorze y = 3x + 2?
+   A) y = 2x + 3
+   B) y = 3x - 2
+   C) y = 3x + 2
+   D) y = x + 2
+   *C) y = 3x + 2*
 
-3. Jaka jest funkcja liniowa, która pokazuje koszt zakupu X ilości bananów po pół dolara sztuki?
-   A) # bananów \* 0.5
-   B) # bananów / 0.5
-   C) # bananów + 0.5
-   D) # bananów - 0.5
-   **Poprawna odpowiedź: A) # bananów \* 0.5**
+2. Znajdź wartość funkcji liniowej y = 4x - 1 dla x = 5.
+   A) 19
+   B) 20
+   C) 21
+   D) 22
+   *A) 19*
 
-4. Jaka funkcja liniowa pokazuje uzyskany dochód po sprzedaży Y ilości zabawek po cenie 10 dolarów sztuki?
-   A) # zabawek \* 10
-   B) # zabawek / 10
-   C) # zabawek + 10
-   D) # zabawek - 10
-   **Poprawna odpowiedź: A) # zabawek \* 10**
+3. Jaka jest pionowa asymptota funkcji liniowej y = 5x + 3?
+   A) y = 5
+   B) y = 3
+   C) Nie ma asymptoty pionowej
+   D) x = 5
+   *C) Nie ma asymptoty pionowej*
 
-5. Jaka funkcja liniowa pokazuje roczne pogorszenie się jakości komputera, wyrażone w procentach, w tempie 3% na rok?
-   A) # procent \* 3
-   B) # procent + 3
-   C) # procent / 3
-   D) # procent - 3
-   **Poprawna odpowiedź: D) # procent - 3**
+4. Znajdź przyrost y, gdy zmienna x w funkcji liniowej y = 2x + 1 zwiększy się o 4.
+   A) 4
+   B) 7
+   C) 8
+   D) 9
+   *B) 7*
 
-# Fiszki - Funkcja liniowa przykłady
+5. Jaka jest funkcja liniowa prostopadła do funkcji y = -2x + 1?
+   A) y = -1/2x + 1
+   B) y = -1/2x - 1
+   C) y = 2x + 1
+   D) y = 2x - 1
+   *A) y = -1/2x + 1*
 
-- Funkcja liniowa `y = mx + b` reprezentuje zależność między dwiema liczbami, w której:
-  - `y` wyraża wartość zależną,
-  - `x` wyraża wartość niezależną,
-  - `m` określa ,,kierunek" lub nachylenie funkcji,
-  - `b` określa wartość startową (przesunięcie w pionie).
+## Fiszki
 
-- Funkcja liniowa `y = mx` przebiega przez punkt `(0,0)`.
+1. **Funkcja liniowa**
+   Definicja: Funkcja f(x) = a*x + b, gdzie a i b są stałymi liczbami.
 
-- Funkcja liniowa `y = b` nie zależy od `x` i jest równoległa do osi `y` (pionowo).
+2. **Wzór funkcji liniowej**
+   Funkcja liniowa ma postać: y = ax + b
+   (gdzie x to zmienna niezależna, a y to zmienna zależna)
 
-- Funkcja liniowa `y = mx + b` może być interpretowana jako:
-  - Zakup po pół dolara sztuki: `cena = liczba sztuk \* 0.5`
-  - Conwersja dolarów na euro: `koszt w euro = ilość dolarów \* 0.85`
-  - Wiek po upływie N lat: `wiek = wiek początkowy + N \* 1`
+3. **Przyrost funkcji liniowej**
+   Jeśli x zmienia się o h, to przyrost y wynosi Δy = f'(x)*h
 
-- Funkcja liniowa `y = mx + b` może być tworzona graficznie korzystając z prostych odcinków biegnących z danego punktu podanej kąta schylenia.
+4. **Zero funkcji liniowej**
+   Każda funkcja liniowa f(x) = ax + b ma dokładnie jedno zero, które obliczamy jako -b/a
 
-# Notatki - Funkcja liniowa przykłady (~200 słów)
+5. **Funkcja liniowa i prosta**
+   Funkcja liniowa i prosta są równoważne na prostej.
+   Mamy y = ax + b - równanie prostego i f(x) = ax + b - równanie funkcji liniowej
 
-Funkcja liniowa to uogólnienie prostej linii na płaszczyźnie kartezjańskiej, gdzie zależność między wartościami x i y jest opisywana związkiem liniowym `y = mx + b`. Jest to jedna z najprostszych funkcji matematycznych, a jej prostota sprawia, że jest łatwa do zastosowania w różnych sytuacjach.
+## Notatki
 
-`m` jako pochylenie określa, w jaki sposób wartość zależna `y` zmienia się wraz z wartością niezależną `x`. Jeśli `m` jest dodatnie, oznacza to, że gdy `x` rośnie, rośnie też wartość y. Jeśli `m` jest ujemne, oznacza to, że wraz z wzrostem `x`, maleje wartość y.
+Funkcja liniowa to funkcja postaci f(x) = ax + b, gdzie a i b są stałymi liczbami a jest pendentem, a b przechwytem. Funkcja liniowa jest proporcjonalna, co oznacza, że zmiana w x powoduje stałą, przewidywalną zmianę w y. Zależy to od współczynnika pędu (a), który pokazuje, jak bardzo y zmieni się wraz ze zmianą x.
 
-`b` jako stała (również zwana wyrazem wolnym) określa, wartość `y`, gdy `x` wynosi zero. Mozna to interpretować jako wyraz stały i różnicę między dwiema prostopadłymi liniami `y = mx` oraz `y = mx + b`.
+Gdy a>0, funkcja liniowa jest rosnąca; gdy a<0, funkcja liniowa jest malejąca. Dodatkowo, gdyb = 0, funkcja liniowa jest jednostajna.
 
-Funkcje liniowe mogą być tworzone poprzez narysowanie prostej linii przebiegającej przez zadane punkty oraz obliczenie jej nachylenia (ilorazu różnicy wartości `y` i `x` dla danych punktów). Uzupełnienie tej prostej o pionowy przesunięcie na tyle, na ile wynosi stała `b`, pozwoli uzyskać funkcję liniową `y = mx + b`.
+Punkt przecięcia funkcji liniowej z osią y (b) jest równy wartości funkcji obliczonej dla x = 0 (f(0)).
 
-Zastosowanie funkcji liniowych to m.in. konwersja między jednostkami, opisanie kosztów lub zysków, obliczenie wieku po upływie lat. Właściwości prostoty i uniwersalności funkcji liniowych sprawia, że są one niezwykle użyteczne w wielu dziedzinach, poczynając od fizyki, przez ekonomię po informatykę oraz aplikacje codziennego użytku.
+Zero funkcji liniowej (kiedy f(x) = 0) zawsze istnieje i jest liczbą -b/a.
+
+Funkcja liniowa nie ma asymptot poziomo lub pionowo, ponieważ pokazuje tylko liniową zależność między zmiennymi.
+
+Funkcje liniowe są istotne, ponieważ są szeroko stosowane w matematyce, fizyce, inżynierii i informatyce.
