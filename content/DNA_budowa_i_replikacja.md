@@ -1,51 +1,71 @@
- # Quiz - DNA Structure and Replication
-1. What is the shape of a DNA molecule?
-A. Linear
-B. Circular
-C. Helical
-D. Square
-Answer: C. Helical
+ # Quiz - DNA Budowa i Replikacja
+1. Co to jest DNA?
+   A) Jednozwiązane cukry
+   B) Duża nukleotydowa kwasica
+   C) Mała nukleotydowa kwasica
+   D) Związki siarki
 
-2. How many nucleotides are there in one strand of DNA?
-A. 50
-B. 100
-C. 500
-D. Thousands
-Answer: D. Thousands
+   Poprawna odpowiedź: B) Duża nukleotydowa kwasica
 
-3. What are the four nitrogenous bases found in DNA?
-A. Adenine, Guanine, Thymine, Uracil
-B. Adenine, Guanine, Cytosine, Thymine
-C. Adenine, Guanine, Cytosine, Uracil
-D. Adenine, Cytosine, Thymine, Uracil
-Answer: B. Adenine, Guanine, Cytosine, Thymine
+2. Ile nukleotydów zawiera się w pojedynczym łańcuchu DNA?
+   A) 3
+   B) 4
+   C) 10
+   D) 1000
 
-4. Which type of bond holds the two strands of DNA together?
-A. Covalent
-B. Hydrogen
-C. Ionic
-D. Peptide
-Answer: B. Hydrogen
+   Poprawna odpowiedź: B) 4
 
-5. What is the role of the enzyme helicase during DNA replication?
-A. To proofread newly synthesized strands
-B. To unwind the DNA double helix
-C. To add phosphate groups to the new strands
-D. To repair any mismatched base pairs
-Answer: B. To unwind the DNA double helix
+3. Jakie nukleotydy tworzą mostki witkowe DNA?
+   A) Adenina-Guanina
+   B) Tymina-Guanina
+   C) Adenina-Tymina
+   D) Cytosyna-Guanina
 
-# Fiszki - DNA Structure and Replication
+   Poprawna odpowiedź: B) Tymina-Guanina
 
-1. The structure of DNA is a double helix, which consists of two sugar-phosphate backbones twisted together and held together by hydrogen bonds between complementary base pairs.
-2. Nucleotides are the building blocks of DNA, each containing a sugar (deoxyribose), a phosphate group, and a nitrogenous base.
-3. There are four nitrogenous bases in DNA: Adenine (A), Guanine (G), Cytosine (C), and Thymine (T).
-4. The enzymes involved in DNA replication include helicase, primase, polymerase, and ligase.
-5. Semiconservative replication is the mechanism by which DNA replicates, creating two identical daughter molecules, each consisting of one original strand and one newly synthesized strand.
+4. Ile mostków witkowych tworzy DNA?
+   A) 2
+   B) 3
+   C) 4
+   D) 5
 
-# Notatki - DNA Structure and Replication
+   Poprawna odpowiedź: A) 2
 
-DNA, or deoxyribonucleic acid, is the genetic material found in all living organisms. It is a long, twisted molecule that consists of two sugar-phosphate backbones held together by hydrogen bonds between complementary base pairs. The four nitrogenous bases found in DNA are Adenine (A), Guanine (G), Cytosine (C), and Thymine (T). These bases pair up with each other in a specific way, with A always pairing with T and C always pairing with G.
+5. Która z wymienionych faz replikacji DNA przebiega najwolniej?
+   A) Inicjacja
+   B) Elongacja
+   C) Terminacja
+   D) Rozpleczenie
 
-DNA replication is the process by which DNA makes an identical copy of itself. This is necessary for cell division and for passing genetic information on to the next generation. The process of DNA replication is semiconservative, which means that each daughter molecule contains one original strand and one newly synthesized strand.
+   Poprawna odpowiedź: D) Rozpleczenie
 
-The enzymes involved in DNA replication include helicase, which unwinds the DNA double helix; primase, which adds short RNA primers to the new strands; polymerase, which adds nucleotides to the new strands; and ligase, which seals any gaps in the new strands. The process of DNA replication is highly accurate, with multiple mechanisms in place to ensure that the new strands are an exact copy of the original strand. However, mistakes can still occur, leading to mutations. These mutations can have a wide range of effects on the organism, depending on where they occur and whether they affect the function of essential genes.
+# Fiszki - DNA Budowa i Replikacja
+1. DNA (Deoxyribonucleic acid)
+   - Duża nukleotydowa kwasica
+   - Nukleotydy: Adenina (A), Tymina (T), Guanina (G), Cytosyna (C)
+2. Mostki witkowe DNA
+   - Wytwarzane między T i G
+   - Każdy nukleotyd połączony z nukleotydem z drugiego łańcucha
+3. Budowa DNA
+   - Makroergaryczny związek węglowy
+   - Dwa łańcuchy antiparalelne
+4. Replikacja DNA
+   - Proces rozpleciania i kopiowania DNA
+   - W celu stworzenia nowej komórki
+5. Fazy replikacji DNA
+   - Inicjacja
+   - Elongacja
+   - Terminacja
+
+# Notatki - DNA Budowa i Replikacja
+DNA (Deoxyribonucleic acid) to duża nukleotydowa kwasica, która stanowi materiał genetyczny organizmów żywych. Składa się z nukleotydów Adenina (A), Tyminy (T), Guaniny (G) i Cytosyny (C).
+
+Dwie nici DNA są antiparalelne, co oznacza, że jedna z nich zwrócona jest w przeciwnym kierunku niż druga. Mostki witkowe DNA tworzone są między parą T-G, a każdy nukleotyd połączony jest z nukleotydem z drugiego łańcucha.
+
+Replikacja DNA to proces rozpleciania i kopiowania DNA, w celu stworzenia nowej komórki. Składa się z trzech faz: inicjacji, elongacji i terminacji.
+
+W fazie inicjacji, enzym helikaza rozplecza DNA na początku dwuniciowego łańcucha, tworząc dwie nici pojedyncze. Następnie, enzymprimaza tworzy mostki witkowe pomiędzy nukleotydami DNA a komplementarnymi nukleotydami deoksyrybonukleotydowymi.
+
+W fazie elongacji, enzym polimeraza dodaje komplementarne nukleotydy do nowo powstałych nici DNA. Na końcu elongacji, DNA dzieli się na dwie komplementarne nici DNA.
+
+W fazie terminacji, replikacja DNA zakańcza się, gdy enzym ligaza zamyka końce nowych łańcuchów DNA.

@@ -4,63 +4,71 @@
 Quiz
 ----
 
-1. What is the definition of mitosis?
-A. The process of cell division that results in four daughter cells each having the same number and kind of chromosomes as the parent nucleus.
-B. The process of cell division that results in the production of gametes or sex cells.
-C. The type of cell division that only occurs in egg and sperm cells.
-D. The process of cell division that results in the random distribution of chromosomes to daughter cells.
-   > Answer: A
+Please choose the best answer for each question.
 
-2. Which of the following is NOT a phase of mitosis?
-A. Prophase
-B. Metaphase
-C. Anaphase
-D. Telophase
-E. Interphase
-   > Answer: E
+1. What is the main goal of mitosis?
+A. To create new haploid cells
+B. To replace damaged cells
+C. To create genetically identical cells
+D. To create gametes
+  
+    Correct Answer: C. To create genetically identical cells
 
-3. Which process results in the creation of four genetically identical cells?
-A. Mitosis
-B. Meiosis
-C. Binary fission
-D. Budding
-   > Answer: A
+2. How many phases does mitosis have?
+A. 4
+B. 5
+C. 6
+D. 7
+  
+    Correct Answer: A. 4 (prophase, metaphase, anaphase, telophase)
 
-4. Which type of cell division results in the production of gametes or sex cells?
-A. Mitosis
-B. Meiosis
-C. Binary fission
-D. Budding
-   > Answer: B
+3. What is the biggest difference between mitosis and meiosis?
+A. Number of daughter cells
+B. Purpose
+C. Phases
+D. Mechanism
+  
+    Correct Answer: A. Number of daughter cells (mitosis - 2, meiosis - 4)
 
-5. How many daughter cells does meiosis produce?
-A. One
-B. Two
-C. Four
-D. Eight
-   > Answer: C
+4. What is the purpose of meiosis?
+A. To create new haploid cells
+B. To replace damaged cells
+C. To create genetically identical cells
+D. To create gametes
+  
+    Correct Answer: D. To create gametes
 
-Fiszki
+5. How many stages does meiosis have?
+A. 2
+B. 4
+C. 6
+D. 8
+  
+    Correct Answer: B. 4 (meiosis I, cytokinesis I, meiosis II, cytokinesis II)
+
+Flashcards
+----------
+
+| Term                  | Description                                                                                           |
+|-----------------------|-------------------------------------------------------------------------------------------------------|
+| **Mitosis**           | A type of cell division that results in two genetically identical daughter cells.                      |
+| **Meiosis**           | A type of cell division that results in four non-identical daughter cells.                          |
+| **Cell Cycle**        | A series of events that take place in a cell leading to its division and duplication.                  |
+| **Prophase**          | The first phase of mitosis characterized by chromosome condensation and nuclear membrane breakdown.   |
+| **Metaphase**         | The second phase of mitosis where chromosomes align at the metaphase plate.                            |
+| **Anaphase**          | The third phase of mitosis where sister chromatids separate.                                          |
+| **Telophase**         | The fourth phase of mitosis where new nuclear membranes form around the separated chromosomes.       |
+| **Cytokinesis**       | The division of the cytoplasm that follows mitosis or meiosis.                                          |
+| **Homologous Chromosomes** | Chromosomes of the same type, one inherited from each parent in diploid cells.                          |
+| **Crossing Over**     | The exchange of genetic material between homologous chromosomes during meiosis.                        |
+
+Notes
 -----
 
-1. Mitosis
-   - The process of cell division that results in two daughter cells each having the same number and kind of chromosomes as the parent nucleus.
-2. Meiosis
-   - The process of cell division that results in the production of four genetically unique daughter cells.
-3. Gametes
-   - Sex cells, such as sperm and egg cells, that are produced by meiosis.
-4. Diploid
-   - A cell that contains two sets of chromosomes, one from each parent.
-5. Haploid
-   - A cell that contains one set of chromosomes.
+**Mitosis** and **meiosis** are two types of cell division that are essential for growth, development, and reproduction. The main goal of mitosis is to create genetically identical cells, while the purpose of meiosis is to create gametes, or sex cells, that can combine during fertilization to create a new organism with a unique genetic makeup.
 
-Notatki
-------
+Mitosis is a part of the cell cycle and consists of four main phases: prophase, metaphase, anaphase, and telophase. In prophase, chromosomes condense and become visible, and the nuclear membrane begins to break down. During metaphase, chromosomes align at the metaphase plate, an imaginary line that runs through the center of the cell. In anaphase, sister chromatids separate and move to opposite ends of the cell. Finally, in telophase, nuclear membranes reform around the separated chromosomes, and the cell begins to divide.
 
-Mitosis is the process of cell division that results in two daughter cells each having the same number and kind of chromosomes as the parent nucleus. It is a fundamental process for growth, development, and repair in multicellular organisms. The stages of mitosis include prophase, prometaphase, metaphase, anaphase, and telophase, followed by cytokinesis, which divides the cytoplasm.
+Meiosis is a more complex process that consists of two rounds of cell division. During meiosis I, homologous chromosomes pair up and cross over, exchanging genetic material. The cell then divides into two daughter cells, each containing a set of 23 chromosomes. During meiosis II, the sister chromatids separate, forming four haploid gametes, or sex cells. Crossing over allows for genetic diversity, which is essential for the survival and evolution of a species.
 
-Meiosis, on the other hand, is the process of cell division that results in the production of four genetically unique daughter cells. This type of cell division is necessary for sexual reproduction, as it results in the creation of gametes or sex cells (sperm and egg cells). Meiosis consists of two rounds of cell division, meiosis I and meiosis II, each including the stages of prophase, metaphase, anaphase, and telophase. The critical difference between mitosis and meiosis is that meiosis results in cells with half the number of chromosomes as the parent cell, allowing for genetic diversity in offspring.
-
-The stages of mitosis and meiosis are similar, but there are some critical differences. For example, in mitosis, the cell divides once, creating two genetically identical daughter cells. In meiosis, the cell divides twice, creating four genetically unique daughter cells. Additionally, during meiosis, the homologous chromosomes pair up and exchange genetic material through a process called crossing over, which further increases genetic diversity.
-
-In summary, mitosis and meiosis are essential processes for growth, development, and reproduction. While mitosis results in genetically identical daughter cells, meiosis creates genetically unique gametes, allowing for genetic diversity in offspring. Understanding these processes is critical to understanding how organisms grow, develop, and reproduce.
+Both mitosis and meiosis are critical for the survival of organisms. Mitosis allows for the growth and repair of tissues, while meiosis enables sexual reproduction and genetic diversity. Understanding the differences and similarities between these two processes is essential for a comprehensive understanding of cell biology.
