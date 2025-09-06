@@ -1,54 +1,58 @@
  # Quiz - Graniastosłupy
-1. Jakie wymiarowe wymagania musi spełnić baza graniastosłupa?
-   a) Musi być trójkątem
-   b) Musi być wielokątem z nieparzystą liczbą boków
-   c) Może być dowolnym wielokątem
-   d) Musi być prostokątem
-   *d) Musi być poligonom, ale może to być dowolny wielokąt, nie tylko prostokąt*
+1. Czym różni się graniastosłup foremny od graniastosłupa o podstawie nieforemnej?
+   A. Wszystkie krawędzie foremnego graniastosłupa są równe.
+   B. Wszystkie krawędzie graniastosłupa o podstawie nieforemnej są równe.
+   C. Wszystkie ściany foremnego graniastosłupa są równe.
+   D. Wszystkie ściany graniastosłupa o podstawie nieforemnej są równe.
 
-2. Ile ścian ma graniastosłup pryzmatoidalny?
-   a) Tyle samo ile boków ma baza
-   b) Tyle samo ile wierzchołków ma baza
-   c) Tyle samo ile krawędzi ma baza
-   d) Dwa więcej niż ilość boków ma baza
-   *a) Tyle samo ile boków ma baza*
+   Poprawna odpowiedź: C. Wszystkie ściany foremnego graniastosłupa są równe.
 
-3. Jakie kryterium musi spełniać wysokość graniastosłupa?
-   a) Musi być prostopadła do płaszczyzny podstawy
-   b) Musi być równoległa do płaszczyzny podstawy
-   c) Może być dowolnym wektorem
-   d) Może być prostopadła lub równoległa do płaszczyzny podstawy
-   *d) Może być prostopadła lub równoległa do płaszczyzny podstawy*
+2. Ile boków ma w przestrzeni wielościan, którego podstawą jest wielokąt foremny o `n` bokach?
+   A. `n`
+   B. `n + 1`
+   C. `2n`
+   D. `2n + 2`
 
-4. Jakie wymagania muszą być spełnione aby figura była graniastosłupem?
-   a) Musi mieć dwie równoległe podstawy
-   b) Musi mieć dwie lub więcej równoległych ścian
-   c) Musi mieć dwie równoległe krawędzi
-   d) Musi mieć dwie równoległe podstawy oraz odpowiednią wysokość
-   *d) Musi mieć dwie równoległe podstawy oraz odpowiednią wysokość*
+   Poprawna odpowiedź: C. `2n`
 
-5. Ile ma graniastosłup prostokątny krawędzi?
-   a) Tyle samo ile ma boków baza
-   b) Tyle samo ile ma krawędzi baza
-   c) Tyle samo ile ma boków i wysokości razy dwa
-   d) Tyle samo ile ma boków i krawędzi razy dwa
-   *c) Tyle samo ile ma boków i wysokości razy dwa*
+3. Jakie są rodzaje symetrii, które może mieć graniastosłup foremny?
+   A. Oś symetrii
+   B. Symetria osiowa i obrotowa
+   C. Symetria osiowa, obrotowa i pionowa
+   D. Symetria pionowa
+
+   Poprawna odpowiedź: B. Symetria osiowa i obrotowa
+
+4. Dla danego wielościanu w przestrzeni, jakiego rodzaju graniastosłup można stworzyć?
+   A. Foremny graniastosłup
+   B. Graniastosłup o podstawie nieforemnej
+   C. Można stworzyć oba rodzaje graniastosłupów
+   D. Nie da się stworzyć żadnego rodzaju graniastosłupa
+
+   Poprawna odpowiedź: C. Można stworzyć oba rodzaje graniastosłupów
+
+5. Jakie wymiary boków otrzymamy pozdjęc graniastosłup foremny o podstawie wielokąta foremnego o boku długości `a` i wysokości `h`?
+   A. Przekątna podstawy `a`, wysokość `h`
+   B. Wysokość `h`, bok podstawy `a`
+   C. Obwód podstawy `2na`, wysokość `h`
+   D. Przekątna podstawy `a`, obwód podstawy `2na`
+
+   Poprawna odpowiedź: A. Przekątna podstawy `a`, wysokość `h`
 
 # Fiszki - Graniastosłupy
-- Graniastosłup to wielościan, który ma dwie równoległe podstawy i odpowiednią wysokość
-- Podstawy graniastosłupa muszą być poligonami
-- Baza graniastosłupa może być dowolnym wielokątem
-- Graniastosłup pryzmatoidalny ma tyle samo ścian ile boków ma baza
-- Wysokość graniastosłupa może być prostopadła lub równoległa do płaszczyzny podstawy
+- Przekątna podstawy graniastosłupa foremnego jest $\sqrt{a^2+\left(\frac{a}{2\tan\frac{180^\circ}{n}}\right)^2}$ gdzie $a$ to bok podstawy.
+- Pole podstawy graniastosłupa foremnego jest $\frac{1}{4}na^2\cot\frac{180^\circ}{n}$.
+- Objętość graniastosłupa foremnego jest $\frac{1}{3}ah\cot\frac{180^\circ}{n}$.
+- Graniastosłup foremny o podstawie trójkąta równobocznego jest foremnym ostrosłupem sześciennym.
+- Wszystkie krawędzie graniastosłupa o podstawie nieforemnej mogą być równe, ale nie wszystkie ściany.
 
 # Notatki - Graniastosłupy
-Graniastosłup to wielościan, który posiada dwie równoległe podstawy i odpowiednią wysokość. Podstawy graniastosłupa muszą być wielokątami – mogą to być dowolne wielokąty, nie tylko trójkąty czy prostokąty. Różne rodzaje graniastosłupów różni ilość ścian, a ta jest równa ilości boków podstawy.
+Graniastosłup to wielościan o bokach tworzących $n$ równoległych par równoległych boków (nazywanych ściankami). Graniastosłup składa się z $n$ wielokątów, które tworzą jego podstawę i położonych powyżej nich wierzchołków. Istnieją dwa rodzaje graniastosłupów: foremny i o podstawie nieforemnej.
 
-Istnieje kilka rodzajów graniastosłupów, wśród których można wyróżnić m.in.:
+Foremny graniastosłup to wielościan, w którym wszystkie boki mają taką samą długość i wszystkie wielokąty na jego podstawie są takie same. Te własności powodują, że wszystkie kąty w graniastosłupie foremnym są też jednakowe. Gdy podstawą jest trójkąt równoboczny to graniastosłup foremny jest równowątykowym ostrosłupem sześciennym.
 
-- graniastosłup prostokątny – gdzie podstawy są prostokątami,
-- graniastosłup prawidłowy – gdzie podstawy są wypukłymi wielokątami o tej samej liczbie boków i krawędzi są równej długości.
+Graniastosłup o podstawie nieforemnej nie musi mieć równych boków ani wielokątów. Mogą być od siebie różnić i opisywać nieregularny wielokąt. Gdy dane są wymiary boków i wysokości takiego graniastosłupa, to boków jest łatwiej obliczyć, podczas gdy obliczenie wysokości graniastosłupa z wymiarów boków jest trudniejsze.
 
-Graniastosłupy mogą być sklasyfikowane również ze względu na położenie jego wysokości. Może ona być zarówno prostopadła, jak i równoległa do płaszczyzny podstawy. Sama wysokość graniastosłupa to wektor łączący dwie równoległe podstawy.
+Aby policzyć obliczyć objętość graniastosłupa, warto znać pojęcia objętości piramidy oraz stosunku objętości piramidy do objętości przedłużonej o pewną z góry długość (wyróżniki). Przykładowo, objętość graniastosłupa foremnego jest równa $\frac{1}{3}$ wysokości (wyróżnika) $\times$ pole podstawy.
 
-Warto też zwrócić uwagę, że graniastosłup pryzmatoidalny to wielościan o ścianach równoległych do podstaw, który nie jest ani paralelopipedem, ani bryłą dwuścianową.
+Pole podstawy graniastosłupa foremnego można policzyć wzorem $\frac{1}{4}na^2\cot\frac{180^\circ}{n}$, gdzie $n$ to liczba boków graniastosłupa, a $a$ to jego bok. Objętość graniastosłupa foremnego wyraża się wzorem $\frac{1}{3}ah\cot\frac{180^\circ}{n}$, gdzie $a$ to przekątna podstawy, $h$ górny wyróżnik.

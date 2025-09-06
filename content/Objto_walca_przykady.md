@@ -1,70 +1,63 @@
- # Quiz - Objętość walca (przykłady)
+ # Quiz: Objętość Walca - Przykłady
 
-1. Jak obliczyć objętość pionowego walca z górną podstawą o promieniu r = 3 cm i wysokości h = 5 cm?
-A. 30 cm³
-B. 45 cm³
-C. 60 cm³
-D. 75 cm³
+1. Jak obliczyć objętość pionowego walca o wysokości 7 cm i dnie kołowym o promieniu 3 cm?
+A. 66 cm³
+B. 154 cm³
+C. 308 cm³
+D. 616 cm³
 
-Correct answer: C. 60 cm³
+   Poprawna odpowiedź: D. 616 cm³
 
-2. Jakie jest objętość prostopadłościanu o podstawie kwadratu o boku a = 4 cm i wysokości h = 6 cm?
-A. 96 cm³
-B. 108 cm³
-C. 120 cm³
-D. 144 cm³
+2. Podano dwie miary walca: promień podstawy to 4 cm, a wysokość 12 cm. Oblicz jego objętość.
+A. 150,79 cm³
+B. 603,18 cm³
+C. 753,98 cm³
+D. 1207,52 cm³
 
-Correct answer: D. 144 cm³
+   Poprawna odpowiedź: D. 1207,52 cm³
 
-3. Jak obliczyć objętość połowy cylindra o promieniu podstawy r = 5 cm i wysokości h = 8 cm?
-A. 200π cm³
-B. 250π cm³
-C. 300π cm³
-D. 350π cm³
+3. Znany jest promień podstawy walca - równy 6 cm, a także jego objętość - 1570 cm³. Oblicz wysokość walca.
+A. 10 cm
+B. 15 cm
+C. 20 cm
+D. 30 cm
 
-Correct answer: B. 250π cm³
+   Poprawna odpowiedź: A. 10 cm
 
-4. Jakie jest stosunek objętości walca do objętości prostopadłościana, jeśli promień podstawy walca r = 3 cm a bok prostopadłościanu a = 4 cm?
-A. 3:4
-B. 4:3
-C. 9:16
-D. 16:9
+4. Oblicz objętość połowy cylindra o promieniu 5 cm i wysokości 8 cm.
+A. 200,96 cm³
+B. 401,92 cm³
+C. 602,88 cm³
+D. 803,84 cm³
 
-Correct answer: C. 9:16
+   Poprawna odpowiedź: B. 401,92 cm³
 
-5. Jakie jest różnica objętości walca i stożka, jeśli promień podstawy obu figur r = 2 cm, wysokość walca h = 6 cm, a wysokość stożka h' = 4 cm?
-A. 4π cm³
-B. 6π cm³
-C. 8π cm³
-D. 10π cm³
+5. Dwie miary walca to promień 9 cm i objętość 942 cm³. Oblicz wysokość.
+A. 5 cm
+B. 10 cm
+C. 15 cm
+D. 20 cm
 
-Correct answer: B. 6π cm³
+   Poprawna odpowiedź: B. 10 cm
 
-# Fiszki - Objętość walca
+# Fiszki: Objętość Walca - Przykłady
 
-1. Objętość walca jest dana wzorem: V = π \* r² \* h, gdzie r - promień podstawy, h - wysokość.
-2. Jeśli promień równa się wysokości walca, wówczas mamy do czynienia z pionowym walcem (obłożonym od góry i dołu).
-3. Pole podstawy walca (płaszczyzny kołowej) jest równe: P = π \* r².
-4. Objętość stożka jest dana wzorem: V' = (1/3) \* π \* r² \* h', gdzie h' - wysokość stożka.
-5. Objętość walca jest 3 razy większa od objętości stożka, jeśli promień i wysokość obu figur są takie same (ściślej mówiąc, jeśli h = h', to V = 3 \* V').
+- Objętość walca można wyrazić wzorem: **V = π \* r² \* h**, gdzie **r** to promień podstawy, **h** - wysokość a π (pi) to liczba pi o wartości ok. 3,14159
+- Podstawa walca to okrąg, a objętość takiego kształtu obliczamy za pomocą wzoru: **V = π \* r² \* h**. Mamy dwa takie obszary w walcu: dolny i górny.
+- Aby wyliczyć obwód koła w definicji walca, użyjemy wzoru: **P = 2 \* π \* r**, gdzie **P** to obwód, **π** to liczba pi a **r** - promień koła.
+- Wysokość walca, podana w pionie, wyznaczamy z równania: **h = V / (π \* r²)**, gdzie **h** to wysokość, **V** to objętość, **π** to liczba pi a **r** - promień koła.
 
-# Notatki - Objętość walca (przykłady)
+# Notatki: Objętość Walca - Przykłady
 
-Objętość figury krzywej oclosed, takiej jak walec, możemy obliczyć poprzez wzór geometryczny. Dla walca wiemy, że jest on figurą przestrzenną o stałym przekroju wzdłuż osi zorientowanej pionowo. Objętość takiej figury możemy wyrazić przez iloczyn pola podstawy, wysokości i mnożnika π, co daje w efekcie: V = π \* r² \* h.
+Walec to bryła obrotowa generowana przez obrót prostokąta wokół jednej z boków prostopadłych do osi obrotu. W naszych przykładach promień **r** oraz wysokość **h** definiują właściwości walca. Podstawe będą okręgami pokrywającymi się z końcami prostokąta.
 
-Są pewne specjalne przypadki, w których wzór ten może być zastosowany do obliczenia objętości:
+Jeśli mamy dane dwie wymiary (promień i objętość), możemy użyć odpowiednich wzorów, żeby obliczyć brakującą wartość.
 
-* Jeśli promień kręgu bazy przekroju wzdłuż osi zorientowanej pionowo dochodzi do wierzchołka figury przestrzennej, mamy do czynienia z pionowym walcem (obłożonym od góry i dołu).
-* Jeśli obcięta jest tylko połowa takiego walca, objętość będzie równa połowie pełnego wzoru: V = (1/2) \* π \* r² \* h.
+- Aby policzyć wysokość **h**, wykorzystamy wzór: **h = V / (π \* r²)**
+- Aby policzyć promień **r**, użyjemy wzoru: **r = sqrt(V / (π \* h))**
 
-Warunek ten dotyczy również innych figur krzywoliniowych, w tym stożka, którego objętość jest równa: V' = (1/3) \* π \* r² \* h'. Zwróćmy uwagę, że objętość walca jest większa o 3 razy od objętości stożka, jeśli promień i wysokość obu figur są takie same.
+Poprawnie zdefiniowane wartości **r** i **h** pozwolą nam na obliczenie szerokości (obwodu bądź średnicy) podstawy, za pomocą wzoru: **Obwód = 2 \* π \* r**, albo **Średnica = 2 \* r**
 
-To znaczy, że:
+Oprócz wcześniej wspomnianego wzoru **V = π \* r² \* h**, można się spotkać również z wzorem zapisanym w postaci: **V = h \* π \* (przekrój poprzeczny)^2**.
 
-* Jeśli h = h', to V = 3 \* V'.
-
-Aby ujawnić różnicę pomiędzy tymi figurami, musimy odjąć objętość stożka od objętości walca, co daje:
-
-* V - V' = 2 \* (1/3) \* π \* r² \* h' = (2/3) \* π \* r² \* h'.
-
-Warto zauważyć, że może być to odpowiednie rozwiązanie dla niektórych zadań.
+Mając podany przekrój poprzeczny ułatwi to nam policzenie obszaru podstaw, potrzebnego do obliczenia objętości.

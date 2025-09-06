@@ -1,59 +1,58 @@
- # Quiz - Funkcja kwadratowa wykresy
+ # Quiz (Funckja kwadratowa i wykresy)
+1. Co to jest funkcja kwadratowa?
+A. Funkcja liniowa
+B. Funkcja kwadratowa
+C. Funkcja wykładnicza
+D. Funkcja uwrotna
 
-1. Jaka jest prawidłowa postać równania funkcji kwadratowej?
-   a) y = ax + b
-   b) y = ax^2 + bx + c
-   c) y = a(x-h)^2 + k
-   d) y = ax^2 + c
-   **Poprawna odpowiedź:** b i d
+Correct answer: B. Funkcja kwadratowa
 
-2. Co oznaczają współczynniki a, b i c w równaniu funkcji kwadratowej?
-   a) a - współczynnik wiodący, określa rozszerzenie i zwrot paraboli
-   b) b - współczynnik liniowy, określa przesunięcie paraboli wzdłuż osi x
-   c) c - stała, określa zmianę wyrazu stałego w równaniu funkcji kwadratowej
-   d) Niemiecki matematyk
-   **Poprawna odpowiedź:** a, b i c
+2. Jaka jest postać wzoru funkcji kwadratowej?
+A. f(x) = ax + b
+B. f(x) = ax^2 + bx + c
+C. f(x) = a(x-h)^2 + k
+D. f(x) = ae^(bx)
 
-3. Jakie są własności maksimum i mininum funkcji kwadratowej?
-   a) Mogą występować tylko jedno maksimum lub minimum
-   b) Mogą występować zarówno maksimum, jak i minimum
-   c) Nigdy nie występują maksimum i minimum jednocześnie
-   d) Funkcja kwadratowa nigdy nie ma ekstremów
-   **Poprawna odpowiedź:** a i c
+Correct answer: B. Funkcja kwadratowa ma postać wzoru f(x) = ax^2 + bx + c.
 
-4. Gdzie znajduje się wierzchołek paraboli funkcji kwadratowej y = ax^2 + bx + c?
-   a) Przy x = -b/2a
-   b) Przy x = 0
-   c) Przy y = 0
-   d) Przy y = a(x-h)^2 + k
-   **Poprawna odpowiedź:** a
+3. Co to jest maksimum/minimum funkcji kwadratowej?
+A. Punkty, w których funkcja osiąga największą/najmniejszą wartość
+B. Punkty, w których funkcja przecina osie układu współrzędnych
+C. Punkt, w którym funkcja ma zerową wartość
+D. Punkty, w których funkcja ma rozgałęzienie
 
-5. Jakie jest wyróżniki funkcji kwadratowej?
-   a) Wyróżnik określa czy funkcja ma 2 pierwiastki rzeczywiste, 1 pierwiastek zespolony lub żaden
-   b) Wyróżnik służy do obliczenia położenia wierzchołka paraboli
-   c) Wyróżnik jest równy zero gdy funkcja ma jeden pierwiastek rzeczywisty
-   d) Wyróżnik nie istnieje przy funkcji kwadratowej
-   **Poprawna odpowiedź:** a
+Correct answer: A. Maksimum lub minimum funkcji kwadratowej to punkty, w których funkcja osiąga największą lub najmniejszą wartość.
 
-# Fiszki - Funkcja kwadratowa wykresy
+4. Co nazywamy symbolem związanym z funkcją kwadratową?
+A. Współczynnikiem przy x^2
+B. Współczynnikiem przy x
+C. Wartością stałą
+D. Liczbą zespoloną
 
-1. **Postać kanoniczna** - y = a(x-h)^2 + k
-   Definicja: Postać kanoniczna funkcji kwadratowej
-2. **Współczynnik a** - określa rozszerzenie i zwrot paraboli
-   Definicja: Współczynnik a określa rozszerzenie i zwrot paraboli
-3. **Przesunięcie** - funkcja kwadratowa może być przesunięta wzdłuż osi x oraz y
-   Definicja: Funkcja kwadratowa może być przesunięta wzdłuż osi x oraz y
-4. **Wierzchołek** - wierzchołek paraboli określa maksimum lub minimum funkcji kwadratowej
-   Definicja: Wierzchołek to najwyższy lub najniższy punkt na krzywej funkcji
-5. **Wyróżnik** - wyróżnik określa liczbę pierwiastków rzeczywistych funkcji kwadratowej
-   Definicja: Wyróżnik służy do obliczenia liczby pierwiastków rzeczywistych funkcji
+Correct answer: A, B, C. Symbolem związanym z funkcją kwadratową jest współczynnik przy x^2 (a), współczynnik przy x (b) i wartość stałej (c).
 
-# Notatki - Funkcja kwadratowa wykresy
+5. Jak określić kierunek otwarcia wykresu funkcji kwadratowej?
+A. Zależy to tylko od wartości współczynnika "a"
+B. Zależy tylko od wartości współczynnika "b"
+C. Zależy tylko od wartości stałej "c"
+D. Zależy od wartości wszystkich współczynników
 
-Funkcja kwadratowa jest to funkcja postaci y = ax^2 + bx + c, gdzie a, b, c są współczynnikami, a niezerowy jest tylko a. Funkcja kwadratowa charakteryzuje się tym, że jej wykresem jest parabola, która może być rozpostarta do góry lub do dołu. Współczynnik a określa rozszerzenie i zwrot paraboli, przy czym a > 0 oznacza parabolę rozpostartą do góry, a a < 0 oznacza parabolę rozpostartą do dołu.
+Correct answer: A. Kierunek otwarcia wykresu funkcji kwadratowej zależy tylko od wartości współczynnika "a". Jeśli "a" jest dodatnim, to funkcja otwiera się ku górze, a jeśli "a" jest ujemnym, to funkcja otwiera się ku dołowi.
 
-Funkcja kwadratowa może być zapisana w postaci kanonicznej y = a(x-h)^2 + k, co pozwala na łatwiejsze określenie jej własności. Wartości h i k odpowiadają przesunięciu paraboli wzdłuż osi x oraz y. Przesunięcie wzdłuż osi x następuje, gdy h ≠ 0, natomiast przesunięcie wzdłuż osi y jest równe c.
+# Fiszki (Funckja kwadratowa i wykresy)
 
-Wierzchołek paraboli określa maksimum lub minimum funkcji kwadratowej. W przypadku, gdy współczynnik a jest dodatni, maksimum lub minimum są punktami minimalnymi, a w przypadku, gdy współczynnik a jest ujemny, maksimum lub minimum są punktami maksymalnymi.
+1. **Funkcja kwadratowa** - funkcja matematyczna postaci f(x) = ax^2 + bx + c, gdzie "a", "b" i "c" są stałymi liczbami a "a" nie jest równe zero.
+2. **Współczynnik „a”** - wartość, która determinuje kierunek otwarcia wykresu funkcji kwadratowej. Jeśli "a" jest dodatnim, to wykres otwiera się ku górze, a jeśli "a" jest ujemnym, to wykres otwiera się ku dołowi.
+3. **Współczynnik „b”** - określa położenie przecięcia wykresu z osią odciętych. Jeśli "b" jest równe zero, to wykres
+przecina osią odciętą w punkcie (0,0).
+4. **Wartość stałą „c”** - wartość, która jest przesunięciem wykresu wzdłuż osi odciętych. Jeśli "c" jest dodatnim, to wykres jest przesunięty w górę, a jeśli "c" jest ujemne, to wykres jest przesunięty w dół.
+5. **Maksimum/Minimum** - punkt, w którym funkcja ma największą/najmniejszą wartość. W przypadku funkcji kwadratowej jest to punkt przegięcia, a wartość maksimum/minimum
+określona jest przez wartość współczynnika "a".
 
-Wyróżnik funkcji kwadratowej określa liczbę pierwiastków rzeczywistych funkcji. Wyróżnik jest równy b^2 - 4ac, gdzie a, b, c są współczynnikami funkcji kwadratowej. Gdy wyróżnik jest większy od zera, funkcja ma dwa pierwiastki rzeczywiste. Gdy wyróżnik jest równy zera, funkcja ma jeden pierwiastek rzeczywisty, a gdy wyróżnik jest mniejszy od zera, funkcja nie ma pierwiastków rzeczywistych.
+# Notatki (Funckja kwadratowa i wykresy)
+
+Funkcja kwadratowa to funkcja matematyczna, która ma postać wzoru f(x) = ax^2 + bx + c, gdzie "a", "b" i "c" są stałymi liczbami a "a" nie jest równe zero. Współczynnik "a" determinuje kierunek otwarcia wykresu funkcji kwadratowej - jeśli "a" jest dodatnim, to wykres otwiera się ku górze, a jeśli "a" jest ujemnym, to wykres otwiera się ku dołowi. Współczynnik "b" określa położenie przecięcia wykresu z osią odciętych - jeśli "b" jest równe zero, to wykres przecina osią odciętą w punkcie (0,0). Wartość stałą "c" jest przesunięciem wykresu wzdłuż osi odciętych - jeśli "c" jest dodatnim, to wykres jest przesunięty w górę, a jeśli "c" jest ujemne, to wykres jest przesunięty w dół.
+
+Punkt maksimum lub minimum funkcji kwadratowej to punkt przegięcia, w którym funkcja ma największą lub najmniejszą wartość. Wartość maksimum lub minimum jest określona przez wartość współczynnika "a". Gdy "a" jest dodatnim, maksimum/minimum jest punktem przegięcia w kształcie paraboli otwartej ku górze. Gdy "a" jest ujemnym, maksimum/minimum jest punktem przegięcia w kształcie paraboli otwartej ku dołowi.
+
+Funkcja kwadratowa ma zastosowanie w różnych dziedzinach matematyki i inżynierii, np. w fizyce do opisu ruchu ciał w przestrzeni, w statystyce do szukania ekstremów, w geometrii do opisu krzywych i powierzchni, a nawet w informatyce do zaprojektowania algorytmów i algorytmów sortowania. Znajomość funkcji kwadratowej i jej wykresów pozwala studentom lepiej zrozumieć zależności matematyczne i fizyczne oraz rozwiązywać zadania z użyciem narzędzi matematycznych.
