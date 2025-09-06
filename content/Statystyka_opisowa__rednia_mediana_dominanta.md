@@ -1,56 +1,61 @@
- # Quiz - Statystyka opisowa - średnia, mediana, dominanta
+ # Quiz
 
-1. Jaka jest główna różnica między średnią arytmetyczną a medianą?
-   a) Średnia arytmetyczna jest obliczana dla grupy liczb, podczas gdy mediана dla dwóch podgrup.
-   b) Średnia arytmetyczna jest bardziej wrażliwa na wartości odstające.
-   c) Mediana jest zawsze liczbą całkowitą.
-   d) Różnica zależy od rozkładu danych.
-   **Poprawna odpowiedź: d) Różnica zależy od rozkładu danych.**
+1. Jaka wartość jest często używana jako miara tendencji centralnej dla zmiennych nominalnych?
+A. Średnia
+B. Mediana
+C. Dominanta
+D. Wariancja
 
-2. Kiedy średnia arytmetyczna nie jest dobrym opisem danych?
-   a) Gdy dane są normalnie rozkładane.
-   b) Gdy dane są zbyt małe do przetworzenia.
-   c) Gdy dane zawierają wartości odstające.
-   d) Gdy dane są chaotyczne i nieo regularne.
-   **Poprawna odpowiedź: c) Gdy dane zawierają wartości odstające.**
+ Answer: C. Dominanta
 
-3. Co reprezentuje moda w zbiorze danych?
-   a) Najbardziej prawdopodobne wartości.
-   b) Współczynnik rozrzutu.
-   c) Średnia arytmetyczna.
-   d) Mediana.
-   **Poprawna odpowiedź: a) Najbardziej prawdopodobne wartości.**
+2. Jaką wartość średnią wybierzesz, jeśli masz następujący zestaw wyników: 10, 20, 20, 20, 30?
+A. 20
+B. 22
+C. 24
+D. 25
 
-4. Kiedy moda nie jest przydatna w analizie danych?
-   a) Gdy dane są normalnie rozkładane.
-   b) Gdy w zbiorze danych występuje wiele kategorii.
-   c) Gdy zbiór danych jest mały.
-   d) Gdy zbiór danych jest asymetryczny.
-   **Poprawna odpowiedź: b) Gdy w zbiorze danych występuje wiele kategorii.**
+ Answer: C. 24
 
-5. Co występuje, gdy wszystkie trzy średnie (średnia arytmetyczna, mediana i moda) są równe?
-   a) Zbiór danych jest normalnie rozkładany.
-   b) Zbiór danych jest symmetryczny.
-   c) Zbiór danych jest ciągły.
-   d) Wszystze z powyższego.
-   **Poprawna odpowiedź: b) Zbiór danych jest symetryczny.**
+3. Co oznacza, że dana zmienna ma asymetrię w kierunku prawej?
+A. Większość wartości jest większa od wartości średniej.
+B. Większość wartości jest mniejsza od wartości mediana.
+C. Większość wartości jest większa od wartości dominanta.
+D. Większość wartości znajduje się po lewej stronie dystrybucji.
 
-# Fiszki - Statystyka opisowa - średnia, mediana, dominanta
+ Answer: A. Większość wartości jest większa od wartości średniej.
 
-1. **Średnia arytmetyczna** - Typowa wartość dla zbioru liczb, wyrażająca się jako suma wszystkich wartości podzielona przez ich liczbę.
-2. **Mediana** - Wartość położona w połowie zbioru posortowanych danych, dzieląca go na dwie równe części.
-3. **Moda** - Najczęściej występująca wartość w zbiorze danych.
-4. **Wykorzystanie mediany** - Przydatne przy analizie danych asymetrycznych lub zawierających wartości odstające.
-5. **Wykorzystanie mody** - Przydatne przy analizie danych kategorycznych lub nominalnych.
+4. Dla jakiego typu danych statystycznych nie można obliczyć mediany?
+A. Zmienne nominalne
+B. Zmienne porządkowe
+C. Zmienne ilościowe
+D. Żadne z powyższych
 
-# Notatki - Statystyka opisowa - średnia, mediana, dominanta
+ Answer: A. Zmienne nominalne
 
-Statystyka opisowa to dział statystyki, który zajmuje się opisywaniem cech zbiorów danych poprzez liczby kardynalne. Istnieje wiele sposobów opisu zbiorów danych, ale trzy najczęściej stosowane to **średnia arytmetyczna, mediana i moda**.
+5. Jaka jest wartość mediany dla następującego zestawu wyników: 1, 1, 3, 5, 9, 9, 9?
+A. 3
+B. 5
+C. 6
+D. 9
 
-**Średnia arytmetyczna** jest najpopularniejszym i najbardziej rozpoznawalnym indeksem centralnej tendencji. Jest to suma wszystkich wartości w zbiorze danych podzielona przez liczbę tych wartości. Średnia arytmetyczna ma jednak swoje ograniczenia - jest wrażliwa na wartości odstające i mało przydatna w przypadku danych asymetrycznych lub danych zawierających dużo wartości odstających.
+ Answer: B. 5
 
-**Mediana** jest wartością, która dzieli zbiór danych posortowanych na dwie równe części. Jeśli zbiór danych ma dokładnie jedną medianę, to jest ona położona w połowie rozmiaru zbioru danych. Mediana jest przydatna przy analizie danych asymetrycznych lub zawierających wartości odstające, gdyż nie jest tak wrażliwa na nie, jak średnia arytmetyczna.
+# Fiszki
 
-**Moda** to najczęściej występująca wartość w zbiorze danych. W zbiorze danych mogą wystąpić wiele mod, w zależności od tego, jakie wartości występują najczęściej. Moda ma zastosowanie w przypadku danych kategorycznych, gdy nie ma sensu liczyć sumę wartości czy dzielić przez liczbę wartości. Moda również może być przydatna, gdy chcemy zwrócić uwagę na najczęściej występujące wartości, niezależnie od ich położenia w zbiorze danych.
+- **Średnia** (mean): Obliczana poprzez dodanie wszystkich wartości i podzielenie przez ilość wartości.
+- **Mediana**: Wartość znajdująca się dokładnie w środku zestawu wartości uporządkowanych.
+- **Dominanta**: Najczęściej występująca wartość w zestawie danych.
+- **Asymetria**: Odchylenie danych statystycznych ze średniej. Może być dodatnia lub ujemna.
+- **Zmienne nominalne**: Typ danych, gdzie wartości reprezentują nazwy kategorii lub etykiety, bez porządku ani liczby.
 
-W zależności od rodzaju danych i celu analizy, mogą być stosowane pojedynczo lub w połączeniu ze sobą. Jeśli dane są normalnie rozkładane, to wszystkie trzy średnie będą równe i można je stosować w zależności od preferencji. Jeśli dane są asymetryczne lub zawierają wartości odstające, to lepszym wyborem będą mediana lub moda. Gdy dane są kategoryczne, to najlepszym wyborem będzie moda.
+# Notatki
+
+Statystyka opisowa to dział statystyki zajmujący się opisem i charakteryzacją cech zbiorów danych. Charakteryzuje on dane statystyczne przy użyciu trzech podstawowych miar: średniej, mediany i dominaty.
+
+**Średnia** (mean) jest metodą wyliczania centralnej tendencji, obliczana poprzez dodanie wszystkich wartości i podzielenie przez ilość wartości (zwykle oznaczana przez $\bar{x}$ lub $x_{średnia}$). Istnieją różne typy średnich, w tym średnia arytmetyczna i średnia geometryczna, ale najbardziej powszechnym typem średniej jest średnia arytmetyczna.
+
+**Mediana** jest wartością umieszczoną w środku zestawu wartości uporządkowanych. Połowa wartości jest większa, a połowa jest mniejsza od wartości mediany. Mediana jest używana w szczególności w przypadku analyzowania danych, które są niesymetryczne lub która zawiera wartości wyraźnie odstające i/lub musi być obrobiona jako dane rangowe.
+
+**Dominanta** to najczęściej występująca wartość w zestawie danych. To najbardziej typowe wartości w zbiorze danych. Istnieją różne typy dominat, zależnie od typu zmiennej, np. dominanta nominalna lub dominanta ilościowa.
+
+Statystyka opisowa ma również wiele innych miar, takich jak **asymetria** (ang. skewness) i **kurtoza** (ang. kurtosis). Skewness oznacza, ile dane są rozłożone po prawej lub lewej stronie dystrybucji względem wartości średniej. Skewness na prawo oznacza, że dane są większe od wartości średniej (asymetria dodatnia). Skewness na lewo oznacza, że dane są mniejsze od wartości średniej (asymetria ujemna). Kurtosis mierzy **wygładzanie i płaskość dystrybucji**. Kurtosis dużo wyższa od trzeciego stopnia oznacza, że dane są bardziej skupione wokół średniej (leptokurtyczne).

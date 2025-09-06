@@ -1,61 +1,46 @@
- # Quiz
-
+ # Quiz - Zbiory i diagramy Venna
 1. Co to są zbiory?
-A. Zbiory to kolejne liczby naturalne.
-B. Zbiory to liczby całkowite dodatnie i ujemne.
-C. Zbiory to zorganizowane grupy elementów o określonych własnościach.
-D. Zbiory to zbiór wszystkich zbiorów.
-Poprawna odpowiedź: C.
+   A. Zbiory to kolekcje elementów o charakterze losowym.
+   B. Zbiory to kolekcje elementów, które można jednoznacznie określić i odgraniczyć od innych elementów. *(poprawna odpowiedź)*
+   C. Zbiory to kolekcje elementów, które występują zawsze w parzystej liczbie.
+   D. Zbiory to kolekcje elementów, które nie mogą się powtarzać.
 
-2. Co to jest diagram Venn'a?
-A. Jest to metoda szybkiego zapisu danych.
-B. Jest to sposób porównywania dwóch lub więcej zbiorów.
-C. Jest to rodzaj wykresu umożliwiającego przedstawienie relacji między zbiorami.
-D. Jest to forma zapisu algebraicznego zbiorów.
-Poprawna odpowiedź: C.
+2. Co to jest przecięcie zbiorów?
+   A. Przecięcie zbiorów to zbiór, który zawiera elementy wspólne dla dwóch zbiorów. *(poprawna odpowiedź)*
+   B. Przecięcie zbiorów to zbiór, który zawiera wszystkie elementy obu zbiorów razem z powtórzeniami.
+   C. Przecięcie zbiorów to zbiór, który zawiera wszystkie elementy obu zbiorów, ale bez powtórzeń.
+   D. Przecięcie zbiorów to zbiór, który zawiera elementy, które występują tylko w jednym z zbiorów.
 
-3. Ile najwyżej może mieć krzywe w diagramie Venn'a?
-A. Dwa.
-B. Trzy.
-C. Cztery.
-D. Nie ma limitu ilości krzywych w diagramie Venn'a.
-Poprawna odpowiedź: B.
+3. Co to jest suma zbiorów?
+   A. Suma zbiorów to zbiór, który zawiera wszystkie elementy obu zbiorów razem z powtórzeniami. *(poprawna odpowiedź)*
+   B. Suma zbiorów to zbiór, który zawiera elementy wspólne dla dwóch zbiorów.
+   C. Suma zbiorów to zbiór, który zawiera wszystkie elementy obu zbiorów, ale bez powtórzeń.
+   D. Suma zbiorów to zbiór, który zawiera elementy, które występują tylko w jednym z zbiorów.
 
-4. Jakie informacje nie można uzyskać z diagramu Venn'a?
-A. Cardinalność zbiorów.
-B. Wspólne i rozłączne elementy zbiorów.
-C. Liczbę elementów zbioru unii.
-D. Domenę i zakres funkcji.
-Poprawna odpowiedź: D.
+4. Co to jest różnica zbiorów A \ B?
+   A. Różnica zbiorów A \ B to zbiór, który zawiera wszystkie elementy zbioru A, które nie występują w zbiorze B. *(poprawna odpowiedź)*
+   B. Różnica zbiorów A \ B to zbiór, który zawiera wszystkie elementy zbioru B, które nie występują w zbiorze A.
+   C. Różnica zbiorów A \ B to zbiór, który zawiera elementy wspólne dla zbiorów A i B.
+   D. Różnica zbiorów A \ B to zbiór, który zawiera wszystkie elementy zbiorów A i B razem z powtórzeniami.
 
-5. Który zbiór w poniższym diagramie Venn'a jest zbiorem wszystkich elementów?
-[Diagram Venn'a ze zbiorami A, B i ich częściami wspólnymi i rozłącznymi]
-A. A.
-B. A ∩ B.
-C. A ∪ B.
-D. Brak takiego zbioru w danym diagramie Venn'a.
-Poprawna odpowiedź: C.
+5. Co to jest zbiór pusty?
+   A. Zbiór pusty to zbiór, który nie ma żadnych elementów. *(poprawna odpowiedź)*
+   B. Zbiór pusty to zbiór, który zawiera tylko jeden element.
+   C. Zbiór pusty to zbiór, który zawiera tylko elementy liczb całkowitych.
+   D. Zbiór pusty to zbiór, który zawiera tylko elementy logiczne.
 
-# Fiszki
+# Fiszki - Zbiory i diagramy Venna
+- Zbiory to kolekcje elementów, które można jednoznacznie określić i odgraniczyć od innych elementów.
+- Przecięcie zbiorów to zbiór, który zawiera elementy wspólne dla dwóch zbiorów.
+- Suma zbiorów to zbiór, który zawiera wszystkie elementy obu zbiorów razem z powtórzeniami.
+- Różnica zbiorów A \ B to zbiór, który zawiera wszystkie elementy zbioru A, które nie występują w zbiorze B.
+- Zbiór pusty to zbiór, który nie ma żadnych elementów.
 
-1. Zbiór A jest podzbiorem zbioru B, jeśli każdy element zbioru A jest też elementem zbioru B.
-2. Cardinalność zbioru to ilość unikalnych elementów w zbiorze.
-3. Diagram Venn'a to wykres dwóch lub więcej krzywych tworzących enklawy dla przedstawienia relacji między zbiorami.
-4. Zbiór unii dwóch zbiorów A i B zawiera wszystkie elementy obu zbiorów A i B.
-5. Zbiór przecięcia dwóch zbiorów A i B zawiera wszystkie elementy wspólne dla obu zbiorów A i B.
+# Notatki - Zbiory i diagramy Venna
+Zbiory to kolekcje elementów, które można zdefiniować i odgraniczyć od innych elementów. Każdy element należy do zbioru lub nie należy do niego. Zbiory można porównywać i operować na nich, wykonując operacje matematyczne, takie jak przecięcie, suma, różnica i dopełnienie.
 
-# Notatki
+Przecięcie zbiorów to zbiór, który zawiera elementy wspólne dla dwóch zbiorów. Suma zbiorów to zbiór, który zawiera wszystkie elementy obu zbiorów razem z powtórzeniami. Różnica zbiorów A \ B to zbiór, który zawiera wszystkie elementy zbioru A, które nie występują w zbiorze B. Zbiór pusty to zbiór, który nie ma żadnych elementów.
 
-Zbiory to grupy elementów, które są zorganizowane na podstawie pewnej cechy, własności, bądź węzłów charakterystycznych. Można je zapisać za pomocą list opisowych lub zbioru unii.
+Diagramy Venna to graficzne reprezentacje zbiorów. Są one szczególnie przydatne do ilustrowania relacji między zbiorami. Diagramy Venna składają się z okręgów, które reprezentują poszczególne zbiory, a przestrzenie między nimi ilustrują relacje między zbiorami.
 
-Diagramy Venn'a to graficzne przedstawienie jednego albo dwóch i więcej zbiorów na dwóch lub więcej zamkniętych krzywych, które tworzą enklawy. Są one używane do przedstawiania relacji między zbiorami, takich jak zbiór unii, przecięcia lub różnicy. Krzywe w diagramie Venn'a mogą być kołami lub elipsami.
-
-Własności zbiorów to:
-
-* Zbiorami elementami bywają inne zbiory.
-* Dwa zbiory mogą być równe, co oznacza, że mają takie same elementy.
-* Jeśli każdy element zbioru A jest również elementem zbioru B, to mówimy, że A jest podzbiorem zbioru B.
-* Jeśli A jest podzbiorem zbioru B, ale istnieją elementy w B, które nie są elementami A, to B jest nadzbiorem A.
-* Cardinalność zbioru to liczba unikalnych elementów w zbiorze.
-
-Zbiory A i B nazywamy rozłącznymi, jeśli nie mają żadnych elementów wspólnych. W przeciwnym wypadku są to zbiory ze wspólnymi elementami. Sumą lub zbiorem unii dwóch zbiorów A i B jest zbiór, który zawiera wszystkie elementy obu zbiorów. Różnicę lub zbiorem różnicy dwóch zbiorów A i B nazywamy zbiorem A, którego elementy nie należą do zbioru B. Diagramy Venn'a są niekiedy nazywane łącznikami, ponieważ łączą ich elementy.
+Warto wspomnieć również o zbiorach uporządkowanych, które są zbiorem elementów, w którym każdy element ma przypisaną określoną pozycję, oraz zbiorach niejednorodnych, w których elementy różnią się od siebie co najmniej jedną cechą.

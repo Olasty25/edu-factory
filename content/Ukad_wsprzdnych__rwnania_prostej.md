@@ -1,59 +1,56 @@
  # Quiz - Układ współrzędnych – równania prostej
 
-1. Jaka jest równania prostej przechodzącej przez dwa punkty A(2,3) i B(6,5)?
-A) y = x + 1
-B) y = 2x + 1
-C) y = (1/2)x + 2
-D) y = x + 2
+1/ Which of the following points lies on the line y = 2x - 1?
+A. (1, 0)
+B. (2, 3)
+C. (3, 5)
+D. (4, 7)
+Answer: C. (3, 5)
 
-   Poprawna odpowiedź: C) y = (1/2)x + 2
+2/ What is the slope of the line given by the equation y = 3/4x + 2?
+A. 4
+B. 3
+C. 3/4
+D. 1/4
+Answer: C. 3/4
 
-2. Czy prosta y = 2x - 3 ma przecięcie z osią y?
-A) Tak
-B) Nie
+3/ Find the equation of the line that passes through points (1, 2) and (4, 6).
+A. y = 2x + 0
+B. y = 1/2x + 3/2
+C. y = 2x + 1
+D. y = 1/2x + 1/2
+Answer: B. y = 1/2x + 3/2
 
-   Poprawna odpowiedź: B) Nie
+4/ Determine the x-intercept of the line described by the equation y = -1/3x + 2.
+A. 3
+B. -3
+C. 6
+D. -6
+Answer: B. -3
 
-3. Jakie są współrzędne punktu przecięcia prostej y = x + 2 z osią y?
-A) (0,2)
-B) (2,0)
-C) (1,1)
-D) (0,0)
-
-   Poprawna odpowiedź: A) (0,2)
-
-4. Znajdź współczynnik k pozwalający określić, czy prosta o równaniu y = kx + b jest rosnąca, mówiąc że k > 0?
-
-   Poprawna odpowiedź: Tak
-
-5. Jakie są równania pionowej i poziomej prostej przecinającej siebie?
-A) pionowa: x = 3; pozioma: y = 2
-B) pionowa: x = 2; pozioma: y = 3
-C) pionowa: x = 0; pozioma: y = 0
-D) pionowa: x = 1; pozioma: y = 1
-
-   Poprawna odpowiedź: Wszystkie możliwe odpowiedzi są poprawne.
-
+5/ Rewrite the following linear equation in slope-intercept form: 2x - 3y = 6.
+A. y = 2x/3 - 2
+B. y = 3x/2 - 1
+C. y = -3x/2 + 1
+D. y = -2x/3 + 2
+Answer: A. y = 2x/3 - 2
 
 # Fiszki - Układ współrzędnych – równania prostej
 
-1. Równanie prostej w postaci kanonicznej: `y = kx + q`
-2. Równanie pionowej prostej: `x = a`
-3. Równanie poziomej prostej: `y = b`
-4. Punkt przecięcia prostej z osią y: `(0,b)`
-5. Warunek na rosnącą prostą: `k > 0`
-
+1. Slope-intercept form: y = mx + b
+2. x-intercept: the x-value of the point where a line crosses the x-axis
+3. y-intercept: the y-value of the point where a line crosses the y-axis
+4. Parallel lines have the same slope.
+5. Perpendicular lines have slopes that are negative reciprocals of each other.
 
 # Notatki - Układ współrzędnych – równania prostej
 
-Współrzędne punktów na płaszczyźnie są wyrażane za pomocą dwóch liczb: x oraz y. Rozpatrujmy tzw. równanie prostej. Prosta jest zbiorem wszystkich punktów o współrzędnych spełniających dane równanie.
+Układ współrzędnych jest podstawowym konceptem w geometrii analitycznej. Nadaje on możliwość przełożenia geometrii na język algebraiki, umożliwiając rozwiązywanie problemów geometrycznych poprzez wykonywanie obliczeń algebraicznych.
 
-Równanie prostej można zapisać w postaci kanonicznej: y = kx + q. Współczynnik k określa nachylenie prostej, natomiast q umiejscawia prostą (przesunięcie względem osi y).
+Równanie prostej w układzie współrzędnych jest zwykle zapisywane w jednej z trzech postaci: generalnej, canonicalis (wykańczam to później) i slope-intercept. Forma y = mx + b jest najczęściej używana, gdyż jest najprostsza i najłatwiejsza do zinterpretowania. Ma ona taki wzór, ponieważ każdy punkt na prostej można zapisać jako (x, y), a prosta może być opisana przez zależność y od x.
 
-Istnieją pewne szczególne rodzaje prostych:
-- Pionowa prosta - ma ona postać x = a, a więc wszystkie jej punkty mają taką samą wartość współrzędnej x.
-- Pozioma prosta - o równaniu y = b, czyli wszystkie jej punkty mają taką samą wartość współrzędnej y.
+Mianownik m w równaniu y = mx + b jest nazywany nachyleniem prostej, które mówi nam o kierunku i stromości prostej. Jeśli m jest dodatnie, prosta wznosi się z lewej do prawej, zwiększając się w górę; jeśli m jest ujemne, prosta opada z lewej do prawej, zmniejszając wartość y. Wartość b reprezentuje przecięcie z osią y (lub y-intercept).
 
-Zauważ, że punkt przecięcia prostej z osią y można zapisać w postaci (0,b), co jest jednocześnie wartością współczynnika q w tym przypadku.
+Innym ważnym pojęciem związanym z równaniami prostych jest przecięcie z osią x (lub x-intercept). Można go wyznaczyć ustawiając y równym zero, a następnie rozwiązując równanie za x.
 
-Kryterium wzrostu prostej: k > 0 oznacza rosnącą prostą. Analogicznie, k < 0 oznacza opadającą prostą. Kiedy k = 0, mamy do czynienia z poziomą prosto
+Równania prostych mogą być używane do rozwiązywania różnorodnych problemów, takich jak obliczanie odległości, prędkości, ceny itp.
