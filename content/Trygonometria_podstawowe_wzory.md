@@ -1,55 +1,59 @@
  # Quiz
 
-1. Jakobiana funkcji y = sin(x) wyrazić za pomocą funkcji podstawowych?
-A. sin(x)
-B. cos(x)
-C. tan(x)
-D. cot(x)
+1. Jaka wartość funkcji trygonometrycznej reprezentuje kąt ostry o hipotenuzie długości 5 i przeciwprostym długości 3?
+A) sin(x) = 3/5
+B) cos(x) = 3/5
+C) tan(x) = 3/5
+D) cot(x) = 3/5
+Poprawna odpowiedź: B) cos(x) = 3/5
 
-Odpowiedź: B. cos(x)
+2. Podaj tożsamość trygonometryczną dla sin(x + y):
+A) sin(x + y) = sin(x) + sin(y)
+B) cos(x + y) = cos(x) + cos(y)
+C) sin(x + y) = sin(x) * cos(y) + cos(x) * sin(y)
+D) cos(x + y) = cos(x) * cos(y) - sin(x) * sin(y)
+Poprawna odpowiedź: C) sin(x + y) = sin(x) * cos(y) + cos(x) * sin(y)
 
-2. Iloczyn sin(a)sin(b) wyrazić za pomocą iloczynów sum i różnic trigonometrycznych.
-A. 0.5(cos(a-b) - cos(a+b))
-B. 0.5(sin(a-b) + sin(a+b))
-C. 0.5(sin(a-b) - sin(a+b))
-D. 0.5(cos(a-b) + cos(a+b))
+3. Co oznacza wyrażenie "arcsin(x)"?
+A) sinus odwrotny
+B) tangens odwrotny
+C) sinus funkcji odwrotnej
+D) cosinus odwrotny
+Poprawna odpowiedź: C) sinus funkcji odwrotnej
 
-Odpowiedź: A. 0.5(cos(a-b) - cos(a+b))
+4. Jaka jest wartość funkcji sin(x) dla kąta prostego x?
+A) 0
+B) 1
+C) -1
+D) Nie można określić
+Poprawna odpowiedź: A) 0
 
-3. Co oznaczają symbole: sin²(x), cos²(x), tan²(x)?
-A. sin(x) do drugiej potęgi
-B. sin(x^2)
-C. sin(x) na kwadracie
-D. sin(x) na potęgę 2
-
-Odpowiedź: C. sin(x) na kwadracie
-
-4. Funkcja arkusinusa (arcsin) to
-A. funkcja odwrotna do funkcji sinusa
-B. funkcja potęgowa sinusa
-C. funkcja logarytmiczna sinusa
-D. funkcja eksponencjalna sinusa
-
-Odpowiedź: A. funkcja odwrotna do funkcji sinusa
-
-5. Co oznaczają symbole: sinh(x), cosh(x), tanh(x)?
-A. funkcje hiperboliczne
-B. funkcje potęgowe
-C. funkcje logarytmiczne
-D. funkcje eksponencjalne
-
-Odpowiedź: A. funkcje hiperboliczne
+5. Jaka jest tożsamość trygonometryczna dla cos²(x) + sin²(x):
+A) 1
+B) -1
+C) 0
+D) 2
+Poprawna odpowiedź: A) 1
 
 # Fiszki
 
-1. Sinus, cosinus, tangens są względem siebie funkcjami wzajemnie związanymi. Przykładem tego jest wzór sin(x) = 1/sec(x), gdzie 1/sec(x) to cos(x).
-2. Iloczyn sin(a)sin(b) można wyrazić za pomocą iloczynów sum i różnic trigonometrycznych: 0.5(cos(a-b) - cos(a+b))
-3. W zastosowaniach powszechnych powszechnie stosowane jest określenie sin²(x), cos²(x), tan²(x), które oznaczają sin(x) do drugiej potęgi, cos(x) do drugiej potęgi, tangens(x) do drugiej potęgi.
-4. Funkcja arkusinusa (arcsin) to funkcja odwrotna do funkcji sinusa. Arcsin jest zdefiniowany w zakresie -π/2 ≤ y ≤ π/2.
-5. W funkcjach hiperbolicznych stosuje się takie same oznaczenia jak w funkcjach trygonometrycznych, między innymi sinh(x), cosh(x), tanh(x), gdzie sinh oznacza sinus hiperboliczny, cosh oznacza cosinus hiperboliczny, a tanh oznacza tangens hiperboliczny.
+1. Sinus, cosinus, tangens, cotangens
+2. Wyrażenia: arcsin, arccos, arctan, arc cot
+3. Tożsamości trygonometryczne: sin(x + y), cos(x + y), cos²(x) + sin²(x)
+4. Wartości funkcji trygonometrycznych dla kątów specjalnych: 0, π/6, π/4, π/3, π/2.
+5. Definicja funkcji trygonometrycznych za pomocą okręgu jednostkowego.
 
 # Notatki
 
-Trigonometria to dział matematyki, który zajmuje się badaniem związków między bokami i kątami trójkątów prostokątnych. Została stworzona przez starożytnych Greków, jednakże została rozwinięta przez matematyków arabskich i europejskich. Dziś stosujemy ją głównie w fizyce, geometrii i inżynierii.
+Funkcje trygonometryczne to funkcje określone na zbiorze liczb rzeczywistych lub zespolonych, które przypisują wartości kątom prostemu lub ułamkom ćwiartki koła. Popularne funkcje trygonometryczne obejmują sinus (sin), cosinus (cos), tangens (tan) i cotangens (cot).
 
-Podstawowe funkcje trigonometryczne to sinus, cosinus i tangens. Sinus to stosunek przeciwprostokątnego do hipotenuz
+Przykładowo, sin(x) reprezentuje długość przeciwprostą odległości od гипоtenuzy do końca przeciwprostej naciągniętej na kąt o miarze x w radianach. Innymi słowy, sin(x) to długość odcinka między końcem przeciwprostej a oryginałem w układzie współrzędnych kartezjańskich.
+
+Tożsamości trygonometryczne są wzorami związanymi z obliczeniami funkcji trygonometrycznych. Na przykład sin(x + y) = sin(x) * cos(y) + cos(x) * sin(y). Inne tożsamości obejmują cos(x + y) = cos(x) * cos(y) - sin(x) * sin(y) oraz cos²(x) + sin²(x) =
+1.
+
+Wiele funkcji trygonometrycznych można odwrócić, tworząc nowe funkcje, takie jak arcsin(x) (sinus funkcji odwrotnej), arccos(x), arctan(x) i arccot(x).
+
+Dla niektórych wartości kątów specjalnych można łatwo obliczyć wartości funkcji trygonometrycznych, na przykład sin(π/2) = 1 i cos(0) = 1.
+
+Definicję funkcji trygonometrycznych można również wyrazić za pomocą okręgu jednostkowego. Okrąg jednostkowy to okrąg o promieniu równym 1, który leży w płaszczyźnie kartezjańskiej z centro na oryginalne współrzędne (0,0). Funkcje trygonometryczne można wyznaczyć dla dowolnych kątów za pomocą tego okręgu. Na przykład sin(x) to długość odcinka pomiędzy punktem (1,0) a końcem przeciwprostej naciągniętej na kąt o miarze x w radianach wokół okręgu jednostkowego.

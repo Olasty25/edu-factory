@@ -1,59 +1,50 @@
- # Quiz - Delta of Computation
-
-1. What is the definition of Delta of Computation?
-   A. The extra time required to execute a program on a given input
-   B. The number of lines of code written by a developer
-   C. The efficiency of a program measured in seconds per input
-   D. The ratio of time spent on I/O to time spent on computation
-
-   Answer: A
-
-2. Which of the following factors can contribute to a large Delta of Computation?
-   A. Inefficient algorithms
-   B. Large input size
-   C. Slow hardware
-   D. All of the above
-
-   Answer: D
-
-3. Which of the following techniques can help reduce Delta of Computation?
-   A. Memoization
-   B. Divide and conquer
-   C. Exponential time algorithms
-   D. None of the above
-
-   Answer: A
-
-4. What is Memoization?
-   A. A technique for reducing Delta of Computation
-   B. The time it takes to write a program
-   C. The time it takes to compile a program
-   D. The time it takes to run a program on a specific input
-
-   Answer: A
-
-5. Which of the following statements is true about Divide and Conquer algorithms?
-   A. They are always faster than dynamic programming
-   B. They are always slower than dynamic programming
-   C. They are sometimes faster and sometimes slower than dynamic programming
-   D. They are never used to reduce Delta of Computation
+ # Quiz: Delta of Computation
+1. What is the definition of delta of computation?
+   A. The difference in performance between two computer systems
+   B. The amount of memory used to run a program
+   C. The variation in compute time with changes in input size
+   D. The difference in output produced by two different algorithms
 
    Answer: C
 
-# Fiszki - Delta of Computation
+2. Which of the following factors can contribute to an increase in delta of computation?
+   A. Performing more floating-point operations
+   B. Reducing the number of cache misses
+   C. Parallelizing the computation
+   D. Decreasing the number of input elements
 
-1. Delta of Computation is the extra time required to execute a program on a given input.
-2. Large input size and inefficient algorithms can contribute to a large Delta of Computation.
-3. Memoization and Divide and Conquer are techniques used to reduce Delta of Computation.
-4. Memoization is the technique of storing the results of expensive function calls and reusing them when the same inputs occur again.
-5. Divide and Conquer algorithms are sometimes faster and sometimes slower than dynamic programming algorithms.
+   Answer: A
 
-# Notes - Delta of Computation
+3. How does input size affect the delta of computation?
+   A. Larger inputs lead to a lower delta
+   B. Larger inputs lead to a higher delta
+   C. Input size does not affect the delta
+   D. The relationship between input size and delta depends on the algorithm
 
-Delta of Computation is a concept used in computer science to measure the performance of algorithms. It refers to the extra time required to execute a program on a given input, compared to the time required to execute the same program on a smaller input. The Delta of Computation can be influenced by a variety of factors, including the size of the input, the efficiency of the algorithms used, and the speed of the hardware on which the program is run.
+   Answer: B
 
-To reduce the Delta of Computation, several techniques can be employed. Memoization, for example, involves storing the results of expensive function calls and reusing them when the same inputs occur again. This can significantly reduce the time required to execute a program, particularly when the same inputs are used multiple times.
+4. What is an example of a problem with a high delta of computation?
+   A. Matrix multiplication
+   B. Sorting an array
+   C. Finding the shortest path in a graph
+   D. Evaluating a polynomial
 
-Another technique for reducing Delta of Computation is Divide and Conquer. This approach involves breaking a problem down into smaller sub-problems, solving each sub-problem independently, and then combining the solutions to solve the original problem. Divide and Conquer algorithms can be very efficient, particularly for problems that can be solved in linear time.
+   Answer: A
 
-It is important to note, however, that not all algorithms are created equal. Some algorithms are inherently more efficient than others, and may be better suited to certain types of problems. When selecting an algorithm for a particular task, it is important to consider the nature of the problem, the size of the input, and the desired level of performance. By making informed decisions about algorithm selection, developers can help ensure that their programs run as efficiently as possible, and that the Delta of Computation is kept to a minimum.
+5. What is a possible consequence of a high delta of computation?
+   A. Increased program reliability
+   B. Improved scalability
+   C. Higher power consumption
+   D. Increased maintainability
+
+   Answer: C
+
+# Fiszki: Delta of Computation
+1. Delta of computation refers to the change in compute time with changes in input size
+2. Larger inputs generally lead to a higher delta of computation
+3. Problems with a high delta of computation may require a large amount of resources for large inputs
+4. Floating-point operations tend to increase the delta of computation
+5. Delta of computation is an important consideration for designing scalable algorithms
+
+# Notatki: Delta of Computation
+Delta of computation is a key concept in understanding the scalability of algorithms. It refers to the change in compute time as the size of the input changes. Generally, a higher input size leads to a higher delta of computation. Problems with a high delta of computation, such as matrix multiplication, can require a large amount of resources for large inputs. This can lead to increased power consumption and can be a major limitation for high-performance computing. To improve the scalability of algorithms, it is important to consider the delta of computation and design algorithms that have a lower delta for larger inputs. Additionally, avoiding or minimizing floating-point operations, which tend to increase the delta of computation, can help improve scalability. By being aware of the delta of computation and designing algorithms with scalability in mind, it is possible to create more efficient and resource-friendly algorithms that perform well for large inputs.
