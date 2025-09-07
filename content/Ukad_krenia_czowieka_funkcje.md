@@ -1,30 +1,25 @@
  ### Quiz
 
-1. Ile składowych liczymy w ogólnie mówiąc w układzie krążenia człowieka?
-A. 2
-B. 3
-C. 4
-D. 5
-**Poprawna odpowiedź: C. 4**
+1. Ile składowych liczymy w ogólnej cirkulacji krwi człowieka?
+A. Dwie
+B. Cztery
+C. Pięć
+D. Szesnaście
 
-2. Kiedy mówimy o sercu jako pompie w obiegu krwi, to jakie funkcje wykonuje ono?
-A. Pobiera, tlenuje i rozprowadza krew
-B. Pobiera, tlenuje, rozprowadza i odprowadza krew
-C. Tlenuje, rozprowadza i odprowadza krew
-D. Pobiera i rozprowadza krew
-**Poprawna odpowiedź: B. Pobiera, tlenuje, rozprowadza i odprowadza krew**
+   **Poprawna odpowiedź: B**
 
-3. Czym różni się tętnicza część układu krążenia od żylnej?
-A. Przewodnictwo, średnica i naczynia
-B. Przewodnictwo, tętnice i naczynia
-C. Średnica, tętnice i żyły
-D. Przewodnictwo, średnica i kapilary
-**Poprawna odpowiedź: A. Przewodnictwo, średnica i naczynia**
+2. Która z komór czerwonych zawiera hemoglobinę?
+A. Monocyty
+B. Basofile
+C. Eritrocyty
+D. Neutrofile
 
-4. Gdzie znajdują się kapilary w całym organizmie człowieka?
-A. Tylko w płucach
-B. W płucach, skórze i narządach wewnętrznych
-C. W płucach, mięśniach i wątrobie
-D. Wszędzie w organizmie
-**Poprawna odpowiedź: D. Wszędzie w organizmie**
+   **Poprawna odpowiedź: C**
 
+3. Jaki hormon uwalniany jest przez tkankę troubcyznową, w celu zwężenia naczyń krwionych?
+A. Insulin
+B. Aldosteron
+C. Adrenalina
+D. Serotonina
+
+   **Poprawna odpowiedź: C**

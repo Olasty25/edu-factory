@@ -1,53 +1,60 @@
- Ucho - budowa i funkcje
-=====================
+ # Quiz - Ucho: Budowa i Funkcje
 
-Quiz
----
+1. Ile mają wewnątrz ucha środkowego małe kości słyszenia?
+   A. 2
+   B. 3
+   C. 4
+   D. 5
+   Correct answer: C. 3
 
-1. Ile ma kosteczek słuchowych ucha środkowego?
-A. 1
-B. 2
-**C. 3**
-D. 4
-2. Dla czego odpowiedzialne jest ucho wewnętrzne?
-A. Odbiór dźwięków
-B. Przenoszenie dźwięków do mózgu
-**C. Oba poprzednie**
-D. Brak jakiejś z tych funkcji
-3. Gdzie znajduje się błona bębenkowa?
-A. W uchu zewnętrznym
-B. W uchu środkowym
-**C. Między uchem zewnętrznym a środkowym**
-D. W uchu wewnętrznym
-4. Które słowa dotyczą ucha zewnętrznego?
-A. Kości słuchowe
-B. Stalaktyty i stalagmity
-**C. Uszek i małżowina uszna**
-D. Szczelina ślimakowa
-5. Dla czego odpowiedzialna jest ślimakowa muszla w uchu wewnętrznym?
-A. Rolna ochrona
-B. Przyspieszenie drgań dźwiękowych
-**C. Przyspieszenie drgań dźwiękowych i kierowanie ich do móżdżka**
-D. Zapobieganie uszkodzeniom
+2. Dlaczego układ słuchowy człowieka jest doskonalszy niż innych kręgowców?
+   A. Posiada on więcej typów komórek słuchowych
+   B. Ma on lepszy zmysł rozróżniania kierunku dźwięku
+   C. Jego narząd słuchu jest lepiej chroniony
+   D. Posiada on błędnikatorsłuchowy
+   Correct answer: D. Posiada on błędnikatorsłuchowy
 
-Fiszki
-------
+3. Która z poniższych struktur nie należy do ucha wewnętrznego?
+   A. Kość skalista
+   B. Kość krucza
+   C. Kość słoniowa
+   D. Błędnik
+   Correct answer: C. Kość słoniowa
 
-1. **Ucho** - narząd słuchu i równowagi.
-2. **Ucho zewnętrzne** - uszko i małżowina uszna.
-3. **Ucho środkowe** - błona bębenkowa, kosteczki słuchowe i okienko słuchowe.
-4. **Ucho wewnętrzne** - ślimak i ślimakowa muszla, wrażliwe na ruch komórki ciliowane, komora przedsionkowa i kanały półkoliste.
-5. **Kosteczki słuchowe** - młoteczek, kowadełko i strzemiączko.
+4. Czym się zajmują komórki włoskowate w uchu wewnętrznym?
+   A. Odbierają wibracje dźwiękowe i przekształcają je w impulsy nerwowe
+   B. Są one odpowiedzialne za owiewanie uszu
+   C. Secernują wosk słuchowy
+   D. Regulują ciśnienie w ślimaku
+   Correct answer: A. Odbierają wibracje dźwiękowe i przekształcają je w impulsy nerwowe
 
-Notatki
-------
+5. Co robi mięsień słuchowy?
+   A. Zapewnia równowagę głowy
+   B. Ochrona błędnika przed urazami
+   C. Zmniejszenie stresu wywoływanego przez głośne dźwięki
+   D. Pomaga w orientacji w przestrzeni
+   Correct answer: C. Zmniejszenie stresu wywoływanego przez głośne dźwięki
 
-Ucho jest najważniejszym narządem słuchu i równowagi. Składa się z trzech części: ucha zewnętrznego, ucha środkowego i ucha wewnętrznego.
+# Fiszki - Ucho: Budowa i Funkcje
 
-Ucho zewnętrzne składa się z uszka i małżowiny usznej, które mają za zadanie zbierać i kierować dźwięki do ucha środkowego.
+1. Ucho zewnętrzne składa się z małżowiny usznej i kanału słuchowego zewnętrznego
+2. Ucho środkowe zawiera trzy kości słyszenia: młoteczek, kowadło i strzałka
+3. Ucho wewnętrzne składa się ze ślimaka, woreczka i  macicy
+4. Komórki włoskowate w uchu wewnętrznym odbierają wibracje dźwiękowe i przekształcają je w impulsy nerwowe
+5. Błędnik dotyka стенки kostnej przewód półkolisty błędnikowy
 
-Ucho środkowe jest oddzielone od zewnętrznego błoną bębenkową. Za jego pośrednictwem dźwięki są przenoszone na kosteczki słuchowe, które następnie przekazują je do ucha wewnętrznego.
+# Notatki - Ucho: Budowa i Funkcje
 
-Ucho wewnętrzne jest zamkniętym w kości skrzydłowej przewodem słuchowym, w którym znajduje się ślimak - zwinięty przewód zakończony kalurą. W ślimaku znajdują się komórki ciliowane, które reagują na dźwięki, odpowiadają za nasze poczucie słuchu. W uchu wewnętrznym znajdują się również kanały półkoliste, odpowiedzialne za nasze poczucie równowagi.
+Ucho człowieka jest złożonym narządem zbudowanym z trzech części: ucha zewnętrznego, ucha środkowego i ucha wewnętrznego.
 
-Dźwięki docierają do ucha zewnętrznego, a następnie są przewodzone przez ucho środkowe do ucha wewnętrznego. Dźwięki są w nim amplifikowane i odbierane przez komórki ciliowane w ślimaku, które następnie przekazują informacje do mózgu.
+Ucho zewnętrzne składa się z małżowiny usznej i kanału słuchowego zewnętrznego. Małżowina uszna ma funkcję ochronną i pomaga w lokalizacji źródła dźwięku. Kanał słuchowy zewnętrzny przewodzi falę dźwiękową do błony bębenkowej.
+
+Ucho środkowe zawiera trzy kości słyszenia: młoteczek, kowadło i strzałka. Te małe kości pomagają przekazywać wibracje błony bębenkowej do płynu w uchu wewnętrznym.
+
+Ucho wewnętrzne składa się ze ślimaka, woreczka i  macicy. Komórki włoskowate w ślimaku odbierają wibracje dźwiękowe i przekształcają je w impulsy nerwowe, które są przekazywane do mózgu przez nerw słuchowy. Woreczek i macica są częścią aparatu równowagi i pomagają w utrzymaniu równowagi ciała.
+
+Błędnik błędnikowy jest wypełniony płynem i ma kształt podkowy. Jest on połączony z przewodem półkolistym błędnikowym, który jest otoczony przez kostne stenozy. Błędnik błędnikowy jest odpowiedzialny za detekcję przyspieszenia liniowego w kierunku przód-tył, a przewód półkolisty błędnikowy za detekcję obrotów głowy.
+
+Mięsień słuchowy pomaga w ochronie błędnika przed urazami i zmniejszeniu stresu wywoływanego przez głośne dźwięki poprzez ograniczanie ruchu błędnika.
+
+Układ słuchowy człowieka jest bardzo wrażliwy na dźwięki, może wykryć dźwięki o natężeniu od 0 do 120 decybeli (dB). Najmniejsze wykrywalne natężenie dźwięku to 0 dB, co odpowiada przeciętnemu poziomowi hałasu w cichym pokoju.
