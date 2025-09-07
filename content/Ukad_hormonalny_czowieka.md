@@ -1,61 +1,66 @@
- # Quiz: Układ Hormonalny Człowieka
+ # Quiz - Układ Hormonalny Człowieka
 
-1. Jaki hormon wytwarzany jest przez przytarczyce i odpowiada za podnoszenie poziomu glukozy we krwi?
-A. Insulin
-B. Glukagon
-C. Parathormon
-D. Kortyzol
+1. Jaki hormon produkowany jest przez grasicze podprzyszlościowe i odpowiada za regulację wzrostu cukru we krwi?
+   A. Insulin
+   B. Glukagon
+   C. Kortyzol
+   D. Aldosteron
+   &nbsp;
+   Poprawna odpowiedź: A. Insulin
 
- Answer: B. Glukagon
+2. Jaki hormon produkowany jest przez grasicze kory надnerczowej i odpowiada za regulację stężenia elektrolitów w organizmie?
+   A. Adrenalina
+   B. Noradrenalina
+   C. Aldosteron
+   D. Kortyzol
+   &nbsp;
+   Poprawna odpowiedź: C. Aldosteron
 
-2. Które z glandular/gruczołów należy do narządów płciowych zewnętrznych kobiety?
-A. Owari
-B. Przysadka mózgowa
-C. Komórki insulinozyntetyczne trzustki
-D. Gruczoł krokowy
+3. Które z wymienionych nie jest grupą hormonalną ?
+   A. Tyroidne
+   B. Gonadotropiny
+   C. Wzrostu
+   D. Estrogeny i androgeny
+   &nbsp;
+   Poprawna odpowiedź: D. Estrogeny i androgeny
 
- Answer: A. Owari
+4. Jaki hormon produkowany jest przez przysadkę i odpowiada za wzrost organizmu oraz rozwój płciowy?
+   A. Hormon wzrostu
+   B. Prolaktyna
+   C. TSH
+   D. LH
+   &nbsp;
+   Poprawna odpowiedź: A. Hormon wzrostu
 
-3. Jaki hormon wytwarzany jest przez grasicę i mieć wpływ na samopoczucie, siłę i rozrost mięśni?
-A. Aldosteron
-B. Testosteron
-C. Adrenalina
-D. Melatonina
+5. Który z wymienionych hormonów produkowany jest przez jajniki i jest odpowiedzialny za rozwój piersi oraz rozwój wewnętrzny narządów płciowych u płci żeńskiej ?
+   A. Estradiol
+   B. Progesteron
+   C. Testosteron
+   D. DHEA
+   &nbsp;
+   Poprawna odpowiedź: A. Estradiol
 
- Answer: B. Testosteron
+# Fiszki - Układ Hormonalny Człowieka
 
-4. Co to jest hormon cortisol, i czym się ocupuje?
-A. Hormon stresu, reguluje poziom cukru we krwi
-B. Hormon wzrostu, odpowiedzialny za wzrost i rozwój
-C. Hormon płciowy, odpowiedzialny za właściwości płciowe
-D. Hormon szoku, przygotowuje ciało do szybkiej reakcji
+1. **Insulin** - hormon wytwarzany i wypuszczany do krwiobiegu przez komórki beta trzonu wyspowań Langerhansa w trzustce, który obniża stężenie glukozy we krwi poprzez zwiększenie jej wchłaniania przez komórki i zmniejszenie syntezy glukozy w wątrobie.
+2. **Aldosteron** - hormon steroidowy wytwarzany i wypuszczany przez kora nadnercza, który powoduje wchłanianie sodu i wypieranie potasu z komórek kanalika dalszych nefronów, co prowadzi do zachowania prawidłowego stężenia sodu i potasu we krwi.
+3. **Hormon wzrostu (GH)** - hormon polipeptidowy wytwarzany i wypuszczany przez komórki aktywne kształtkujące przedni płat przysadki mózgowej, który pobudza wzrost komórek organizmu i rozwój narządów, wpływa na metabolizm białek, węglowodanów i lipidów.
+4. **Estradiol** - żeński hormon steroidowy wytwarzany przez jajniki, który odgrywa kluczową rolę w rozwoju płciowym, rozwoju piersi, rozwoju narządów płciowych wewnętrznych i tworzeniu kości płciowych.
+5. **Melatonina** - hormon wytwarzany i wypuszczany przez szyszynkę mózgu, który reguluje cykl snu i czuwania, wpływając na homeostazę organizmu.
 
- Answer: A. Hormon stresu, reguluje poziom cukru we krwi
+# Notatki - Układ Hormonalny Człowieka
 
-5. Jaki hormon wytwarzany jest przez ślinianki i jest odpowiedzialny za stymulowanie apetytu?
-A. Gastryna
-B. Ghrelin
-C. Leptyna
-D. Colecystokinina
+Układ hormonalny składa się z grup komórek, zlokalizowanych w różnych narządach, które produkują i wypuszczają hormony do krwiobiegu. Hormony to substancje chemiczne, które pełnią rolę posłańców w organizmie, przenosząc informacje z komórki produkującej je do komórek docelowych.
 
- Answer: B. Ghrelin
+W organizmie ludzkim możemy wyróżnić kilka grup grup hormonalnych:
 
-# Fiszki: Układ Hormonalny Człowieka
+* Hormony tireoidalne: tyroksyna (T4), trójjodotyronina (T3), tyronina, kalcytonina
+* Hormony nadnerczy: adrenalina, noradrenalina, kortyzol, aldosteron, androgeny, estrogeny
+* Hormony przysadki mózgowej: hormon wzrostu, somatoliberyna, somatostatyna, prolaktyna, tyreoliberyna, melanotropina, oksytocyna, wazopresyna
+* Hormony jajników: estrogeny, progesteron, relaxyna
+* Hormony jąder: androgeny, testosteron
+* Hormony wyspy trzustkowej: insulin, glukagon, somatostatyna, polipeptyd trzustkowy, inhibina
 
-1. Przysadka mózgowa - glándula pinealis
-2. Owary - gonady kobiety
-3. Testosteron - gruczoł krokowy
-4. Hormony tarczycy - tyroksyna i trójjodotyronina
-5. Insulina - komórki beta trzustki
+Hormony wpływają na wiele aspektów fizjologii organizmu ludzkiego, m.in. regulują wzrost organizmu i rozwój płciowy, regulują metabolizm białek, węglowodanów i lipidów, wpływają na ciśnienie krwi i równowagę elektrolitową, regulują przemianę materii, wzrost mas mięśniowych, obrzmienie stawów, trądzik i wiele innych zjawisk zachodzących w organizmie ludzkim.
 
-# Notatki: Układ Hormonalny Człowieka
-
-Układ hormonalny człowieka odgrywa kluczową rolę w regulowaniu wielu funkcji ciała. Hormony to substancje chemiczne wytwarzane przez gruczoły endokrynne i wydzielane do krwiobiegu. Działają one na inne komórki i narządy, wpływając m.in. na wzrost, przerób kaloryczny, funkcje reproduccyjne, zachowania i samopoczucie.
-
-Przysadka mózgowa, położona w mózgu, jest uważana za regulator hormonalny całego ciała. Wytwarza m.in. hormon wzrostu i prolaktynę. Hormon wzrostu jest odpowiedzialny za wzrost i rozwój, a także ma wpływ na przyrost masy mięśniowej i kościowej. Prolaktyna z kolei odgrywa kluczową rolę w laktacji.
-
-Układ rozrodczo-płciowy składa się z gruczołów płciowych (gonad) i innych narządów, takich jak jajniki i jądra, produkujących hormony płciowe. U kobiet owary wytwarzają m.in. estrogeny, które odgrywają kluczową rolę w procesach menstruacyjnych, a także progesteron, który jest głównym hormonem ciąży. U mężczyzn grasica wytwarza testosteron, który odpowiada za regulację wzrostu i rozwoju męskich cech płciowych, a także wpływa na rozwój mięśni i kości.
-
-Układ pokarmowy, a dokładnie trzustka, odpowiada za wytwarzanie hormonów insuliny i glukagonu, które regulują poziom cukru we krwi. Jednocześnie w częściach jelitowych wytwarzane są inne hormony przyswajania, takie jak grelina, która stymuluje apetyt, czy leptyna, która hamuje apetyt.
-
-Innym ważnym gruczołem endokrynnym jest tarczyca, odpowiedzialna m.in. za produkcję tyroksyny i trójjodotyroniny, które regulują metabolizm. Natomiast grasica wytwarza hormon cortisol, znany również jako hormon stresu, który reguluje poziom cukru we krwi. W końcu grasica nadnerczy wytwarza adrenalinę, która przygotowuje ciało do szybkiej reakcji w sytuacji stresu.
+Sam układ hormonalny jest podporządkowany sterowaniu przez część ośrodkowego układu nerwowego, tj. mózg i rdzeń kręgowy, a także reaguje na informacje z zewnątrz przekazywane poprzez zmysły i odbierane poprzez receptory hormonalne.

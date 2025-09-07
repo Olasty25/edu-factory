@@ -1,50 +1,61 @@
- # Quiz
-1. Co to są chloroplasty?
-A. Membrana komórkowa
-B. Struktury otoczone dwiema błonami biologicznymi
-C. Mikroskopy elektronowe
-D. Organelle zielone w komórkach roślinnych
-**Poprawna odpowiedź: D. Organelle zielone w komórkach roślinnych**
+ # Quiz: Chloroplasty Functions
 
-2. Jakie zadania spełniają chloroplasty w komórkach roślinnych?
-A. Produkcja oxygenu i asymilacja węgla
-B. Podział komórki i tworzenie nowych tkanek
-C. Transport substancji pomiędzy wnętrzem komórki a środowiskiem zewnętrznym
-D. Odpowiedź na bodźce zewnętrzne takie jako światło czy ciepło
-**Poprawna odpowiedź: A. Produkcja oxygenu i asymilacja węgla**
+1. What is the main function of chloroplasts in plants?
+A. Nucleic acid replication
+B. Protein synthesis
+C. Photosynthesis
+D) Lipid metabolism
+Answer: C. Photosynthesis
 
-3. Co to jest fotosynteza?
-A. Proces otrzymywania energii z pożywienia
-B. Proces wytwarzania glukozy z węglowodorów
-C. Proces wytwarzania tlenu i asymilacji węgla za pomocą energii świetlnej
-D. Proces degradacji materii organicznej w celu uzyskania pożywnej substancji
-**Poprawna odpowiedź: C. Proces wytwarzania tlenu i asymilacji węgla za pomocą energii świetlnej**
+2. Which of the following structures is not present in chloroplasts?
+A. Inner membrane
+B. Thylakoids
+C) Stroma
+D) Central vacuole
+Answer: D. Central vacuole
 
-4. Ile typów chlorofilu występuje w chloroplastach?
-A. 1
-B. 2
-C. 3
-D. 4
-**Poprawna odpowiedź: B. 2**
+3. What type of photosynthetic pigments are primarily responsible for harvesting light energy during photosynthesis?
+A. Carotenoids
+B. Chlorophyll
+C) Phycobilins
+D) Xanthophylls
+Answer: B. Chlorophyll
 
-5. Co to jest grana thylakoidalna w chloroplastach?
-A. Gęsta, zielona warstwa materiału chlorofilowego, w której następuje fotosynteza
-B. Matryca wykonana z DNA chloroplastowego, zawierająca geny kodujące białka chloroplastowe
-C. Obłok białkowy otaczający chloroplast, pełniący funkcję ochronną
-D. Płaskie, stosowane ciała otoczone przez błony thylakoidalne, w których następuje fotosynteza
-**Poprawna odpowiedź: D. Płaskie, stosowane ciała otoczone przez błony thylakoidalne, w których następuje fotosynteza**
+4. Which of the following processes occurs in the thylakoid membrane of chloroplasts?
+A. ATP synthesis
+B. Calvin cycle
+C) Light-dependent reactions
+D. Lipid synthesis
+Answer: C. Light-dependent reactions
 
-# Fiszki
+5. What is the end product of the Calvin cycle during photosynthesis?
+A. Oxygen
+B. Glucose
+C. ATP
+D) NADPH
+Answer: B. Glucose
 
-1. Chloroplasty to organella znajdujące się w komórkach roślinnych. Są one odpowiedzialne za przeprowadzanie fotosyntezy.
+# Flashcards: Chloroplasts Functions
 
-2. Fotosynteza to proces, w którym z energii świetlnej i związków węgla tworzone są węglowodany oraz uwalniany tlen.
+1. **Chloroplast**
+   - Definition: Organelle where photosynthesis occurs in eukaryotic organisms
+2. **Photosynthesis**
+   - Definition: Process of converting light energy into chemical energy using water, carbon dioxide, and sunlight
+3. **Thylakoids**
+   - Definition: Membranous structures in chloroplasts where light-dependent reactions occur
+4. **Stroma**
+   - Definition: Matrix inside chloroplasts where light-independent reactions take place
+5. **Photosynthetic Pigments**
+   - Definition: Molecules including chlorophyll responsible for capturing light energy in photosynthesis
 
-3. W chloroplastach występuje dwóch różnych typów chlorofilu. Chlorofil A jest głównym pigmentem przeprowadzającym fotosyntezę, a chlorofil B pomaga w absorbowaniu światła do procesu fotosyntetycznego.
+# Notes: Chloroplasts Functions
 
-4. Grana thylakoidalna to płaskie, pofałdowane ciała otoczone przez błony thylakoidalne, w których odbywa się proces fotosyntezy.
+Chloroplasts are key organelles in eukaryotic cells that play a vital role in photosynthesis, a process that converts light energy into chemical energy, producing glucose and oxygen. They are typically found in plant cells, algae, and some prokaryotic organisms. Chloroplasts are membrane-bound and have a unique layered structure, with an outer and inner membrane, as well as an inner compartment called the stroma.
 
-5. Matryca chloroplastowa to gęsta, zielona warstwa materiału chlorofilowego, w której przeprowadzane są reakcje fotosyntezy. Odpowiada również za syntezę białek chloroplastowych i zawiera DNA chloroplastowe.
+One of the most important functions of chloroplasts is to house the photosynthetic pigments, such as chlorophyll, carotenoids, and xanthophylls. These pigments capture light energy from the sun and transfer it to other molecules to initiate the photosynthetic process. The thylakoids, which are membranous structures within the chloroplast, are responsible for housing the light-dependent reactions.
 
-# Notatki
-Chloroplasty to organella występujące w komórkach roślinnych, a także w niektórych grupach glonów i protistów. Są one odpowiedzialne za przeprowadzanie fotosyntezy, czyli procesu wytwarzania związków organicznych z węglowodorów przy użyciu energii świetlnej. W tym procesie przetwarzany jest dwutlenek węgla (CO2) z powietrza w tlen (O2), co jest niezwykle ważne dla klimatu i cyklu węglowego na Ziemi. Chloroplasty zawierają kilka ważnych elementów, w tym dwie błony, grana thylakoidalna, wspomnianą wyżej matrycę chloroplastową i dekstrynę chloroplastową. W grana thylakoidalnej przeprowadzają się główne reakcje fotosyntezy, natomiast matryca chloroplastowa odpowiada za syntezę białek chloroplastowych i zawiera DNA chloroplastowe. W sumie, chloroplasty to niezwykle ważne organelle, które umożliwiają życie na Ziemi poprzez umożliwienie asymilacji węgla, w wyniku czego powstają węglowodany, a tym samym energia w postaci glukozy.
+The light-dependent reactions take place in the thylakoid membrane and are responsible for converting light energy into chemical energy in the form of ATP, a molecule that stores energy. The Calvin cycle, also known as light-independent reactions, occurs in the stroma and is responsible for converting carbon dioxide from the atmosphere into glucose.
+
+Chloroplasts also have a role in nitrogen metabolism, as they contain enzymes that help convert inorganic forms of nitrogen into ammonia and other organic compounds. Additionally, chloroplasts may also be involved in the biosynthesis of certain molecules, such as lipids, amino acids, and vitamins.
+
+In summary, chloroplasts are essential organelles for photosynthesis in eukaryotic cells. They contain photosynthetic pigments and have unique structures that facilitate the conversion of light energy into chemical energy, produce glucose, oxygen, and store energy in the form of ATP.

@@ -1,66 +1,64 @@
- # Fotosynteza - Równanie Chemiczne
+ # Quiz - Fotosynthesis Chemical Equation
+1. What is the overall chemical equation for photosynthesis?
+A. 6CO2 + 6H2O + light energy → C6H12O6 + 6O2
+B. 6CO2 + 6H2O - light energy → C6H12O6 + 6O2
+C. 6CO2 + 6H2O + light energy → C6H12O6 + 5O2
+D. 6CO2 + 6H2O + light energy → C6H12O6 + 6O2
+Answer: D
 
-## Quiz
+2. Which of the following is not part of the reactant side of the photosynthesis equation?
+A. CO2
+B. H2O
+C. Light energy
+D. O2
+Answer: D
 
-1. Jaka jest ogólna reakcja chemiczna fotosyntezy?
-   A. 6CO<sub>2</sub> + 6H<sub>2</sub>O + światło ➔ C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub>
-   B. 6CO<sub>2</sub> + H<sub>2</sub>O + światło ➔ C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub>
-   C. 6CO<sub>2</sub> + 6H<sub>2</sub>O + światło ➔ C<sub>6</sub>H<sub>10</sub>O<sub>5</sub> + 6O<sub>2</sub>
-   D. C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub> ➔ 6CO<sub>2</sub> + 6H<sub>2</sub>O + światło
-   **Odpowiedź: A**
+3. Which molecule is produced during photosynthesis?
+A. Glucose
+B. Oxygen
+C. Carbon dioxide
+D. Water
+Answer: A
 
-2. Co to jest glukoza w reakcji fotosyntezy?
-   A. C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>
-   B. C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>
-   C. CO<sub>2</sub>
-   D. H<sub>2</sub>O
-   **Odpowiedź: A**
+4. What is the function of light energy during photosynthesis?
+A. To convert carbon dioxide and water into glucose and oxygen
+B. To convert glucose and oxygen into carbon dioxide and water
+C. To convert water into hydrogen and oxygen
+D. To convert carbon dioxide and hydrogen into glucose and water
+Answer: A
 
-3. Co to jest produktem ubytek gazowego w fotosyntezie?
-   A. CO<sub>2</sub>
-   B. O<sub>2</sub>
-   C. H<sub>2</sub>O
-   D. C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>
-   **Odpowiedź: B**
+5. Which of the following best explains the importance of photosynthesis to living organisms?
+A. It is the primary source of energy for all living organisms
+B. It is the primary source of oxygen for all living organisms
+C. It is the process of breaking down glucose into carbon dioxide and water
+D. It is the process of converting light energy into chemical energy
+Answer: A
 
-4. Czy woda jest substratem w fotosyntezie?
-   A. Tak
-   B. Nie
-   C. Tylko w niektórych grupach organizmów
-   D. Tylko w wodach głębokich
-   **Odpowiedź: A**
+# Flashcards - Fotosynthesis Chemical Equation
+1. What is the overall chemical equation for photosynthesis?
+Answer: 6CO2 + 6H2O + light energy → C6H12O6 + 6O2
 
-5. Czy potrzebne jest światło do fotosyntezy?
-   A. Tak
-   B. Nie
-   C. Tylko w chłodnych temperaturach
-   D. Tylko w ciepłych temperaturach
-   **Odpowiedź: A**
+2. What is the role of light energy in the photosynthesis equation?
+Answer: To convert carbon dioxide and water into glucose and oxygen
 
-## Fiszki
+3. What is the function of CO2 in the photosynthesis equation?
+Answer: To be converted into glucose in the process of photosynthesis
 
-- **Fotosynteza** - proces wytwarzania cukrów proстиch z dwutlenku węgla i wody przy udziale energii świetlnej.
-- **Glukoza (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)** - cukier prości, produkt fotosyntezy.
-- **Dwutlenek węgla (CO<sub>2</sub>)** - gaz szkodliwy dla organizmów żywych, w fotosyntezie jest surowcem.
-- **Woda (H<sub>2</sub>O)** - surowiec w fotosyntezie, z którego powstaje tlen.
-- **Tlen (O<sub>2</sub>)** - produkt ubytek gazowy w fotosyntezie, niezbędny do oddychania komórkowego.
+4. What is the function of H2O in the photosynthesis equation?
+Answer: To be converted into oxygen and glucose in the process of photosynthesis
 
-## Notatki
+5. What is the product of photosynthesis?
+Answer: Glucose, oxygen and ATP.
 
-Fotosynteza to proces wytwarzania cukrów proстиch (zwykle glukozy) z dwutlenku węgla (CO<sub>2</sub>) i wody (H<sub>2</sub>O), z udziałem energii świetlnej. Jest ona przeprowadzana przez rośliny, glony i niektóre bakterie. Wytwarzana w ten sposób glukoza jest używana do produkcji innych związków organicznych, takich
+# Notes - Fotosynthesis Chemical Equation
+Fotosynthesis is the process by which green plants, algae and some bacteria convert light energy into chemical energy. This process occurs in the chloroplasts of plant cells and is a vital part of the carbon cycle.
 
-...
+The overall chemical equation for photosynthesis is 6CO2 + 6H2O + light energy → C6H12O6 + 6O2. This equation shows that carbon dioxide and water are converted into glucose and oxygen in the presence of light energy.
 
-Fotosynteza to proces wytwarzania cukrów prościch z dwutlenku węgla i wody, z udziałem energii świetlnej. Powyższe równanie chemiczne reprezentuje proces w sposób skrócony. Podstawowym surowcem w fotosyntezie jest dwutlenek węgla (CO<sub>2</sub>), który po połączeniu z wodą (H<sub>2</sub>O), energii świetlnej i enzymów, daje jako produkt glukozę (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) oraz tlen (O<sub>2</sub>).
+The reactant side of the equation shows the starting materials for photosynthesis: carbon dioxide (CO2), water (H2O), and light energy. The product side of the equation shows the end result of photosynthesis: glucose (C6H12O6) and oxygen (O2).
 
-W fotosyntezie uczestniczą dwa główne typy reakcji: reakcje jasne, w których zużywana jest energia świetlna, i reakcje ciemne, w których energia zgromadzona w postaci związków organicznych jest wykorzystywana do przeprowadzenia dalszych reakcji.
+The importance of photosynthesis to living organisms cannot be overstated. Photosynthesis is the primary source of energy for all living organisms, as the energy trapped in glucose and other organic molecules is passed from organism to organism through the food chain. Additionally, photosynthesis is the primary source of oxygen for all living organisms, making it essential for the survival of animals and other organisms that breathe oxygen.
 
-Reakcje jasne zachodzą w obecności światła słonecznego, które pobudza cząsteczki chlorofilu, pigmentu dominującego w fotosyntetycznych aparatach antenowych. Związki wapnia i magnezu mają istotne znaczenie przy absorpcji fotonów i przenoszeniu ich na cząsteczki chlorofilu.
+Photosynthesis also plays a crucial role in the global carbon cycle, as it is responsible for removing carbon dioxide from the atmosphere and converting it into organic matter. This process helps to regulate the amount of carbon dioxide in the atmosphere, which has important implications for climate change.
 
-Reakcje ciemne zachodzą w całodobowej ciemności, w obecności energii zgromadzonej w postaci ATP i NADPH (redukowanej formy nikotynamidoadenininukleotydu), które są produktami reakcji jasnych. W reakcjach ciemnych glukoza jest syntezowana z CO<sub>2</sub> i H<sub>2</sub>O przy udziale enzymów, głównie węglanówki i szczawianki.
-
-Warto odnotować, że proces fotosyntezy zachodzi w fotosyntetycznych chloroplastach w komórkach roślin, glonów i niektórych bakterii. Fotosyntetyczne chloroplasty zawierają błonki fotosyntetyczne, na których znajdują się fotosyntetyczne aparaty antenowe, które zawierają chlorofil. Fotosyntetyczne aparaty antenowe absorbują i przekazują energię fotonów do centrów reakcji, które przeprowadzają reakcje jasne.
-
-Fotosynteza odgrywa kluczową rolę w cyklu węglowym, procesie, w którym dwutlenek węgla jest wprowadzany do ekosystemów przez fotosyntezę, a wyeliminowany z nich przez oddychanie komórkowe organizmów żywych. Poprzez fotosyntezę organizmy roślinne wzbogacają powietrze w tlen, który jest niezbędny do oddechu zwierząt i innych organizmów żywych.
-
-Wreszcie należy wspomnieć, że niektóre bakterie również wykorzystują procesy podobne do fotosyntezy do wytwarzania energii, ale nie produkują tlenu, co odróżnia je od tradycyjnej fotosyntezy opisanej powyżej.
+In summary, photosynthesis is a vital process that allows plants, algae and some bacteria to convert light energy into chemical energy and plays a crucial role in the carbon cycle. Understanding the chemical equation for photosynthesis and its implications is essential for understanding the role of photosynthesis in the natural world.

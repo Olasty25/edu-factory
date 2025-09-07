@@ -1,62 +1,44 @@
- # Quiz - Immunologia: Odporność swoista i nieswoista
+ # Immunologia - odporność swoista i nieswoista
+
+## Quiz
 
 1. Co odróżnia odporność swoistą od nieswoistej?
-   A. Swoista reaguje tylko na konkretne patogeny
-   B. Nieswoista reaguje na szeroki wachlarz patogenów
-   C. Swoista jest szybsza od nieswoistej
-   D. Nieswoista jest szybsza od swoistej
-   **Poprawna odpowiedź: A**
+   A. Odpowiedź: Odporność swoista jest specyficzna i immunologicznie pamięta swoje patogeny, podczas gdy odporność nieswoista nie jest specyficzna i nie pamięta swoich patogenów.
 
-2. Jak nazywa się mechanizm odporności swoistej, w którym komórki prezentujące antygen presented al antigen to komórki tkanki limfatycznej?
-   A. Niezależna odporność
-   B. Zależna od antygenu prezentacji
-   C. Humoralna odporność
-   D. Odporność komórkowa
-   **Poprawna odpowiedź: B**
+2. Które z komórek odporności należą do odporności nieswoistej?
+   A) Limfocyty T i B, B) Makrofagi, C) Komórki dendrytyczne, D) Neutrofile. Wybierz dwie poprawne odpowiedzi.
+   B. Poprawna odpowiedź: Makrofagi, Komórki dendrytyczne, Neutrofile.
 
-3. Czym się charakteryzuje odporność komórkowa?
-   A. Produkcja przeciwciał
-   B. Aktywacja makrofagów
-   C. Aktywacja limfocytów T cytotoksycznych
-   D. Aktywacja komórek NK
-   **Poprawna odpowiedź: C i D**
+3. Czym się zajmuje immunologia?
+   A) Związki chemiczne, B) System nerwowy, C) Odporność na choroby, D) Oddychanie. Wybierz poprawną odpowiedź.
+   C. Poprawna odpowiedź: Odporność na choroby.
 
-4. Jakie komórki odgrywają najważniejszą rolę w odpowiedzi humoralnej?
-   A. Limfocyty T
-   B. Limfocyty B
-   C. Komórki dendrytyczne
-   D. Makrofagi
-   **Poprawna odpowiedź: B**
+4. Jakie rodzaje limfocytów B są wytwarzane podczas pierwszego kontaktu z patogenem?
+   A) Limfocyty B pamięci, B) Limfocyty B efektorowe, C) Plasmacella. Wybierz poprawną odpowiedź.
+   B) Poprawna odpowiedź: Limfocyty B efektorowe.
 
-5. Czy nieswoista odporność może samodzielnie zapewnić ochronę przed chorobami infekcyjnymi?
-   A. Tak
-   B. Nie
-   C. Zależy od rodzaju infekcji
-   D. Zależy od indywidualnych cech organizmu
-   **Poprawna odpowiedź: B**
+5. Czy odpowiedź odpornościowa swoista może być wywołana przez szczepionkę?
+   A) Tak, B) Nie. Wybierz poprawną odpowiedź.
+   A) Poprawna odpowiedź: Tak.
 
-# Fiszki - Immunologia: Odporność swoista i nieswoista
+## Fiszki
 
-1. **Odporność swoista** - odpowiedź precyzyjna na konkretny patogen
-2. **Odporność nieswoista** - odpowiedź szybka i szeroka na różne patogeny
-3. **Prezentacja antygenu** - proces prezentacji antygenu przez komórkę prezentującą antygen komórce T
-4. **Odpowiedź humoralna** - odpowiedź swoista z udziałem przeciwciał
-5. **Odpowiedź komórkowa** - odpowiedź swoista z udziałem komórek
+1. **Odporność swoista** to rodzaj odporności, który jest specyficzny wobec określonego patogenu i pamięta swoje patogeny.
 
-# Notatki - Immunologia: Odporność swoista i nieswoista
+2. **Limfocyty T** to rodzaj leukocytów, które pełnią kluczową rolę w odpowiedzi odpornościowej swoistej, głównie poprzez bezpośrednią cytotoksyczność komórek zainfekowanych.
 
-W immunologii wyróżniamy dwa rodzaje odporności: swoistą i nieswoistą.
+3. **Lipopolisacharydy (LPS)** to często występujące w bakteriach endotoksynami, które mogą wywołać odpowiedź odpornościową nieswoistą poprzez swoją właściwość immunogennej.
 
-Odporność swoista to wyspecjalizowana odpowiedź organizmu na konkretny patogen lub toksynę. Jest to reakcja precyzyjna, która może zapewnić ochronę przed chorobami infekcyjnymi. W odpowiedzi swoistej biorą udział przeciwciała i komórki efektorowe (limfocyty B i T).
+4. **Komórki dendrytyczne** są rodzajem komórek odporności nieswoistej, które są odpowiedzialne za prezentację antygenów wobec limfocytów T.
 
-Limfocyty B są odpowiedzialne za produkcję przeciwciał, które wiążą się z patogenami lub toksynami i inaktywują je.
+5. **Limfocyty B** to rodzaj leukocytów, które pełnią funkcję główną w odpowiedzi odpornościowej swoistej poprzez produkcję przeciwciał.
 
-Limfocyty T są dodatkowo dzielone na limfocyty T cytotoksyczne, które mogą niszczyć infekowane komórki, oraz limfocyty T pomocnicze, które aktywują komórki prezentujące antygen oraz inne komórki odpornościowe.
+## Notatki
 
-Odporność nieswoista to szybka i szeroka reakcja organizmu na różne patogeny. Jest ona nieprecyzyjna, gdyż nie jest zwrócona przeciwko konkretnym patogenom. Odporność nieswoista jest związana z zabezpieczeniem fizycznym, barierą śluzową i funkcjami hematopoetycznymi. W odpowiedzi nieswoistej biorą udział m.in. makrofagi, komórki dendrytyczne, komórki NK irujujące komórki tuczne oraz siły biochemiczne, takie jak produkcyjnancytotoksycznych komórek i cytokin.
+Immunologia to nauka o odporności na choroby. Zajmuje się ona badaniem sposobów, w jaki organizm może chronić się przed infekcjami i chorobami. Odporność na choroby może być podzielona na dwa główne rodzaje: odporność swoista i nieswoista.
 
-Obydwa rodzaje odporności współpracują ze sobą, tworząc skomplikowaną sieć ochronną organizmu przed chorobami infekcyjnymi.
+Odporność swoista to rodzaj odporności, który jest specyficzny wobec określonego patogenu i pamięta swoje patogeny. Tak jest na przykład w przypadku odpowiedzi immunologicznej wywoływanej przez szczepionkę, która chroni przed zakażeniem tym samym patogenem. Odporność swoista może być wywoływana przez limfocyty T i B, które rozpoznają i niszczą patogeny na wiele sposobów, m.in. poprzez bezpośrednią cytotoksyczność komórek zainfekowanych i produkcję przeciwciał.
 
-Odporność swoista jest wolna w aktywacji (niekiedy trwa kilka dni), ale jest bardziej efektywna i daje długotrwałe immunizacje.
+Odporność nieswoista to rodzaj odporności, który nie jest specyficzny wobec określonego patogenu, ale reaguje na szeroki zakres patogenów poprzez wiele mechanizmów. Tak jest na przykład w przypadku reakcji zapalnej, w której komórki odporności nieswoistej, takie jak makrofagi, komórki dendrytyczne i neutrofile, rozpoznają i niszczą patogeny poprzez swoją właściwość fagocytarną.
 
-Odporność nieswoista jest szybka, ale niespecyficzna, ale także daje krótkotrwałe immunizację.
+Razem, odporność swoista i nieswoista tworzą kompleksowy system odpornościowy, który chroni organizm przed infekcjami i chorobami.
