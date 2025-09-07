@@ -1,71 +1,67 @@
- Lipidy: Typy i Funkcje
-====================
+ Lipidy: Rodzaje i Funkcje
+======================
 
 Quiz
 ----
 
-1. Jaka jest główna funkcja triacylogliceroli (tłuszczów)?
-A. Składników strukturalnych błon komórkowych
-B. Energii zapasowej
-C. Hormonów
-D. Składników genetycznych
+1. Jaki rodzaj lipidów stanowi materiał zapasowy w organizmach żywych?
 
-Poprawna odpowiedź: B. Energii zapasowej
-
-2. Jaki typ lipidów znajduje się w błonach komórkowych w roli molekuł sygnałowych?
 A. Fosfolipidy
 B. Sterole
-C. Triacyglceroli
-D. Woski
+C. Woski
+**D. Tłuszcze**
 
-Poprawna odpowiedź: A. Fosfolipidy
+2. Gdzie w komórce mogą się znaleźć sterole?
 
-3. Dlaczego oleje i tłuszcze są przydatne do smażenia?
-A. Są źródłem witamin
-B. Są łatwe do przechowywania
-C. Mają wysokie temperatury kwaśne
-D. Są taniejenie dostępne niż inne oleje
+A. W cytoplazmie
+B. W jądrze komórkowym
+**D. W błonach komórkowych**
 
-Poprawna odpowiedź: C. Mają wysokie temperatury kwaśne
+3. Składają się na błony komórkowe, tworząc dwuwarstwę i umożliwiając transport poprzez błonę. Jaki rodzaj lipidów jest to?
 
-4. Jaki jest główny składnik kolesterolu?
-A. Węglowodany
-B. Białko
-C. Tłuszcz
-D. Nukleotydy
+A. Fosfolipidy
+**B. Sterole**
+C. Woski
+D. Tłuszcze
 
-Poprawna odpowiedź: C. Tłuszcz
+4. Jaki rodzaj lipidu jest to, które jest niezbędne do syntezy hormonów sterydowych, cholesterolu i witaminy D w organizmie człowieka?
 
-5. W jaki sposób lipidy pełnią funkcję izolacyjną w organizmach żywych?
-A. Chronią one ciepło przez zmniejszenie przewodności cieplnej
-B. Chronią przed utratą wody
-C. Chronią przed chłodem przez zwiększenie przewodności cieplnej
-D. Chronią przed chłodem przez zmniejszenie powierzchni ciała
+A. Fosfolipidy
+B. Sterole
+**C. Cholesterol**
+D. Tłuszcze
 
-Poprawna odpowiedź: A. Chronią one ciepło przez zmniejszenie przewodności cieplnej
+5. Jaki rodzaj tłuszczów stanowi obronę mechaniczną w organizmach żywych?
+
+A. Tłuszcze nasycone
+B. Tłuszcze nienasycone
+C. Woski
+**D. Tłuszcze wiertłowcowe**
 
 Fiszki
------
-
-1. Triacyloglicerole
-2. Fosfolipidy
-3. Sterole
-4. Woski
-5. Terpeny
-
-Notatki
 ------
 
-Lipidy to szeroka klasa organicznych związków chemicznych, które są hydrofobowe lub amfifilowe, zawierające węglowodory lub pochodne węglowodorów. Są one kluczowym składnikiem wszystkich komórek żywych i pełnią wiele ważnych funkcji, w tym energetyczną, strukturalną, komunikacyjną i ochronną.
+1. **Fosfolipidy** - tworzą błony komórkowe, tworząc dwuwarstwę i umożliwiając transport poprzez błonę.
+2. **Sterole** - obecne w błonach komórkowych, w tym cholesterol, który jest niezbędny do syntezy hormonów sterydowych, cholesterolu i witaminy D.
+3. **Woski** - chronią komórki przed wys Uszkodzeniami i utratą wody.
+4. **Tłuszcze nasycone** - pewna ilość jest niezbędna do budowy i funkcjonowania komórek, ale nadmierna ilość jest szkodliwa dla zdrowia.
+5. **Tłuszcze nienasycone** - pomagają obniżyć poziom cholesterolu całkowitego poprzez zmniejszenie poziomu cholesterolu LDL (złego) cholesterolu.
 
-Triacyloglicerole (tłuszcze) są głównym rodzajem lipidów. Są one zbudowane z trzech kwasów tłuszczowych połączonych z glicerolem. Są one pochłaniane przez organizm w procesie trawienia i stanowią główne źródło energii w organizmie. Tłuszcze są także niezbędne do budowy błon komórkowych i tworzenia hormonów. Triacyloglicerole są stosowane w przemyśle spożywczym jako składniki smażalne, ze względu na ich wysokie temperatury kwaśne.
+Notatki
+-------
 
-Fosfolipidy to inny rodzaj lipidów, które są głównymi składnikami błon komórkowych. Są one zbudowane z glicerolu, dwóch kwasów tłuszczowych i grupy fosforanowej. Fosforanowa głowa zapewnia hydrofilowość, podczas gdy dwie ogony tłuszczowe są hydrofobowe. Ta amfifilowość pozwala im tworzyć dwuwarstwy błon, które chronią komórki i organelle przed środowiskiem zewnętrznym.
+Lipidy to duża i zróżnicowana klasa związków organicznych, które są nierozpuszczalne w wodzie, ale rozpuszczalne w rozpuszczalnikach organicznych. Lipidy pełnią wiele istotnych funkcji w organizmach żywych, w tym stanowią materiał zapasowy, chronią komórki, stanowią materiał konstrukcyjny dla błon komórkowych, są konieczne do wytwarzania hormonów, witamin i innych substancji w organizmie człowieka.
 
-Sterole są jednymi z najważniejszych lipidów, które pełnią funkcję strukturalną. Kolesterol jest najbardziej znanym sterolem i pełni istotną rolę w regulacji płynności błon komórkowych oraz w syntezie hormonów steroidowych.
+Najważniejszymi rodzajami lipidów są: fosfolipidy, sterole, woski i tłuszcze.
 
-Woski to trwałe, bezwodne estry wyższych alkoholi i kwasów tłuszczowych. Znajdują się one w rogach zwierząt, w roślinach, w zatartych przez oleje i woski mineralne. Woski organizmów żywych pełnią funkcje ochronne,chroniąc organizmy przed wysuszeniem.
+**Fosfolipidy** to główne składniki błon komórkowych, gdzie tworzą dwuwarstwę i umożliwiają transport poprzez błonę.
 
-Terpeny to naturalne związki chemiczne, które zawierają węgiel i wodór, które stanowią składnik wiele naturalnych olejków aromatycznych, np. cytrusy, mięta i innych roślin. Terpeny mają szerokie zastosowanie w przemyśle perfumeryjnym, farmaceutycznym, kosmetycznym i spożywczym.
+**Sterole** występują w błonach komórkowych i pełnią wiele istotnych funkcji w organizmach żywych. Najważniejszym sterolem jest cholesterol, który jest niezbędny do syntezy hormonów sterydowych, cholesterolu i witaminy D.
 
-Lipidy pełnią także kluczową rolę w funkcjonowaniu organizmów żywych poprzez regulację procesów metabolicznych, regulację temperatury ciała i ochronę przed chłodem przez zmniejszenie przewodności cieplnej. Łatwo dostępne źródła lipidów to oleje roślinne, olej z ryb, nasiona, orzechy, jaja i mięso.
+**Woski** chronią komórki przed uszkodzeniami i utratą wody.
+
+**Tłuszcze** to forma lipidu, która stanowi materiał zapasowy w organizmach żywych. Znajduje się w postaci trójglicerydów, które składają się z związków chemicznych zwanych kwasami tłuszczowymi i glikolu.
+
+Ze względu na występowanie węglowodorów w cząsteczkach, tłuszcze dzielą się na nasycone i nienasycone. Tłuszcze nasycone są w pełni nasycone atomami wodoru, w odróżnieniu od tłuszczów nienasyconych, które mają jedno lub więcej wiązań podwójnych pomiędzy atomami węgla.
+
+Tłuszcze nasycone są uważane za mniej pożądane niż tłuszcze nienasycone, ze względu na to, że tłuszcze nasycone są często powiązane z chorobami sercowo-naczyniowymi, ciśnieniem tętniczym i chorobami wieńcowymi. Tłuszcze nienasycone pomagają obniżyć poziom cholesterolu całkowitego poprzez zmniejszenie poziomu cholesterolu LDL (złego) cholesterolu.
