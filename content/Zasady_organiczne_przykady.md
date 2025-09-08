@@ -1,59 +1,66 @@
- # Quiz - Zasady Organiczne Przykłady
-1. Jaka jest główna różnica między zasadą elektrofilową a nukleofilową w chemii organicznej?
-A. Elektrofil przyjmuje parę elektronową, nukleofil ją daje.
-B. Elektrofil ma więcej elektronów, nukleofil mniej.
-C. Elektrofil jest bazą, nukleofil jest kwasem.
-D. Elektrofil jest negatywnie naładowany, nukleofil dodatnio.
+ # Quiz
+1. Co to są zasady organiczne?
+   A. Zbiór reguł rządzących tworzeniem wiązań chemicznych w chemii nieorganicznej
+   B. Zbiór fundamentalnych zasad determinujących strukturę i właściwości związków organicznych
+   C. Zasady odpowiedzialne za wszystkie reakcje w przyrodzie
+   D. Zasady stosowane wyłącznie w biologii
+   **B. Zasady odpowiedzialne za strukturę i właściwości związków organicznych**
 
-Poprawna odpowiedź: A. Elektrofil przyjmuje parę elektronową, nukleofil ją daje.
+2. Ile wiązań potrafi zrobić atom węgla w związkach organicznych?
+   A. 1
+   B. 2
+   C. 3
+   D. 4
+   **D. 4**
 
-2. Czym jest grupa funkcyjna w chemii organicznej?
-A. To atomy o najwyższej elektronegatywności.
-B. To atomy będące centrum reakcji chemicznej.
-C. To fragment cząsteczki odpowiedzialny za typową reaktywność.
-D. To atomy o najniższej elektronegatywności.
+3. Która z grup funkcyjnych ma w swoim składzie grupę hydroksylową?
+   A. Aldehydy
+   B. Alkohole
+   C. Ketony
+   D. Etery
+   **B. Alkohole**
 
-Poprawna odpowiedź: C. To fragment cząsteczki odpowiedzialny za typową reaktywność.
+4. Co odróżnia izomery konstytucyjne od izomery konformacyjnych?
+   A. W izomerii konformacyjnej zmienia się formula sumaryczna, w konstytucyjnej nie
+   B. W izomerii konformacyjnej zmienia się sposób arranżacji atomów w cząsteczce, w konstytucyjnej nie
+   C. W izomerii konformacyjnej zmieniają się właściwości fizyczne i chemiczne, w konstytucyjnej nie
+   D. W izomerii konstytucyjnej zmienia się liczba atomów w cząsteczce, w konformacyjnej nie
+   **B. W izomerii konformacyjnej zmienia się sposób arranżacji atomów w cząsteczce, w konstytucyjnej nie**
 
-3. Która z wymienionych reakcji jest reakcją substytucji nukleofilowej?
-A. CH3Cl + NaOH → CH3OH + NaCl
-B. CH3CH=CH2 + Br2 + FeBr3 → CH3CHBrCH2Br
-C. CH3CH2OH + H2SO4 → CH3CHO + H2O
-D. CH3CH2CH2CH3 + Cl2 + PCl5 → CH3CH2CH2CH2Cl + PCl3 + HCl
+5. Czym można objąć klasę węglowodorów aromatycznych?
+   A. Związki o zapachu różnym od benzyny
+   B. Związki o budowie imitującej benzen
+   C. Związki o budowie imitującej metan
+   D. Związki aromatyczne są całkowicie acykliczne
+   **B. Związki o budowie imitującej benzen**
 
-Poprawna odpowiedź: A. CH3Cl + NaOH → CH3OH + NaCl
+# Fiszki
 
-4. Jaka jest różnica między węglem sp³ a sp² w chemii organicznej?
-A. Liczba wiązań σ jest różna.
-B. Liczba wiązań π jest różna.
-C. Kształt geometrii ma inny kąt więzi.
-D. Są to różne stany hybrydyzacji.
+1. Zasada kowalentyczna
+   Zasada sterowania kątami wiązań przy powstawaniu związków przez wiązania kowalencyjne
 
-Poprawna odpowiedź: B. Liczba wiązań π jest różna.
+2. Wodór aktywny
+   Atom wodoru o częściowo nienasyconym elektronowym płaszczu zewnętrznym, zdolny do tworzenia więcej niż jednego wiązania kowalencyjnego
 
-5. Czym jest w chemii organicznej węzeł biradikalowy?
-A. To węzeł z dwoma wolnymi parami elektronów.
-B. To węzeł z dwoma elektronami niedostatecznie nawiązanymi.
-C. To węzeł bez wolnych elektronów.
-D. To węzeł z dwoma dodatnimi ładunkami.
+3. Izomeria konstytucyjna
+   Różnice w sposobie uporządkowania atomów w cząsteczce
 
-Poprawna odpowiedź: B. To węzeł z dwoma elektronami niedostatecznie nawiązanymi.
+4. Podstawowe grupy funkcyjne
+   Główne grupy funkcjonalne to: alkohol, eter, aldehyd, keton, karboksyl, amin, amid, cyjanian, tiol, azyd
 
-# Fiszki - Zasady Organiczne Przykłady
-1. Alfa-węgiel (sp³) vs. beta-węgiel (sp²)
-2. Reakcja substytucji nukleofilowej
-3. Przykład reakcji substytucji nukleofilowej: CH3Cl + NaOH → CH3OH + NaCl
-4. Zasada elektrofilowa vs. zasada nukleofilowa
-5. Przykład węzła biradikalowego: ••CH2••
+5. Aromatyczność
+   Właściwość chemiczna związków zawierających pierścień benzenowy lub analogiczny
 
-# Notatki - Zasady Organiczne Przykłady
+# Notatki
 
-W chemii organicznej istnieje szereg podstawowych koncepcji, które są niezbędne do zrozumienia zjawisk zachodzących w tej dziedzinie. Jedną z nich jest pojęcie grupy funkcyjnej, która jest to fragment cząsteczki organicza odpowiedzialny za typową reaktywność. Przykładem grup funkcyjnych są: alkoholowa (-OH), aminowa (-NH2), halogenowa (-X) i inne.
+Zasady organiczne to podstawowe zasady rządzące budową strukturalną i właściwościami związków organicznych, takimi jak węglowodory, związki heteroatomowe lub ich połączenia. Najważniejsze z nich to: kowalencyjność, tautomeryzm, izomeryzm, aromatyczność i reaktywność wodoru.
 
-Inną kluczową koncepcją jest zasada elektrofilowa i nukleofilowa. Zasada elektrofilowa dotyczy ataków na centra bogate w elektrony, podczas gdy zasada nukleofilowa dotyczy ataków na centra ubogie w elektrony.
+Kowalencyjność odnosi się do zdolności atomów do dzielenia się swych elektronów, w wyniku czego tworzą się wiązania covalentne. Zasada ta reguluje liczbę wiązań, jakie może utworzyć atom węgla, która wynosi cztery.
 
-Węgiel w chemii organicznej może przyjmować różne hybrydyzacje, które mają wpływ na jego własności. Alfa-węgiel (sp³) ma tendencję do tworzenia trzech wiązań σ i jednego wolnego parametru elektronowego wokół siebie, tworząc geometrię tetraedryczną. Beta-węgiel (sp²) ma tendencję do tworzenia dwóch wiązań σ i jednego wiązania π oraz jednego wolnego parametru elektronowego, tworząc kształt trójkąta z kątem 120 stopni.
+Tautomeryzm to spontaniczna konwersja izomerów strukturalnych w roztworze lub w fazie gazowej. Związki te są w stanie istnieć pomiędzy dwiema postaciami w obecności cząsteczek rozpuszczalnika lub benzenu.
 
-Istnieje również pojęcie węzła biradikalowego, które jest to węzeł z dwoma elektronami niedostatecznie nawiązanymi. Takie węzły są niestabilne i mają tendencję do rozpadu na dwa wolne rodniki lub do przyłączenia dodatkowych elektronów.
+Izomeryzm to różnice w sposobie uporządkowania atomów w cząsteczkach o tej samej formule sumarycznej. Rozróżniamy dwa rodzaje izomeryzmu: konstytucyjny i konformacyjny. W pierwszym wypadku cząsteczki różnią się połączeniami atomów, natomiast w drugim - położeniem atomów w przestrzeni.
 
-Przykładem reakcji substytucji nukleofilowej jest: CH3Cl + NaOH → CH3OH + NaCl. W tej reakcji chlor jest zastępowany wodorotlenkiem sodu, tworząc związek alkoholowy i siarczan sodu.
+Aromatyczność jest właściwością chemiczną związków, które zawierają pierścień benzenowy lub analogiczny. Związki te są reaktywne i biorą udział w różnych reakcjach chemicznych. Właściwość ta została opisana przez Ericha Hückela, który stworzył regułę opisującą strukturę aromatyczną.
+
+Wodór aktywny to atomy wodoru o częściowo nienasyconym elektronowym płaszczu zewnętrznym, zdolne do tworzenia więcej niż jednego wiązania kowalencyjnego. W związkach organicznych atomy wodoru mogą tworzyć maksymalnie jedno wiązanie kowalencyjne.
