@@ -1,56 +1,59 @@
- # Benzyna - skład i właściwości
+ # Benzyna: Skład i Właściwości
 
 ## Quiz
 
-1. Jaka frakcja destylacji ropy naftowej odpowiada benzynie? <br>
-A. 50-100 °C <br>
-B. 100-200 °C <br>
-**C. 150-200 °C** <br>
-D. 200-250 °C
+1. Jakie związki wchodzą w skład benzyny?
+   A. Tlenki
+   B. Węglowodory
+   C. Alkohole
+   D. Siarczki
+   **Poprawna odpowiedź: B. Węglowodory**
 
-2. Składem benzyny jest wiele związków węglowodorowych, z czego najwięcej to? <br>
-A. Węglowodory aromatyczne <br>
-**B. Alkany** <br>
-C. Alkiny <br>
-D. Alkohole
+2. Jaka jest spalana benzyna w silnikach benzynowych?
+   A. Bezpośrednio
+   B. Po uprzednim sprasowaniu
+   C. Po rozkładzie na wodór i tlen
+   D. Po utlenieniu
+   **Poprawna odpowiedź: A. Bezpośrednio**
 
-3. Jaki parametr określa liczbę oktanową benzyny? <br>
-A. Współczynnik zapalności <br>
-B. Prężność par <br>
-**C. Liczba oktanowa** <br>
-D. Ciśnienie lotne
+3. Ilość oktańskiej benzyny w tankowaniach benzynowych w Polsce wynosi:
+   A. 90-93
+   B. 95
+   C. 98
+   D. 100 lub więcej
+   **Poprawna odpowiedź: B. 95**
 
-4. Dla czego służy dodatek do benzyny metylortoheksan? <br>
-A. Aby zwiększyć moc silnika <br>
-B. Aby obniżyć temperaturę zapłonu <br>
-C. Aby podwyższyć liczbę oktanową <br>
-**D. Aby zmniejszyć ilość dźwięku podczas jazdy**
+4. Dlaczego stosuje się dodatki do benzyny?
+   A. Aby obniżyć liczbę oktanową
+   B. Aby podwyższyć liczbę oktanową
+   C. Aby zmniejszyć zużycie paliwa
+   D. Aby zwiększyć zużycie paliwa
+   **Poprawna odpowiedź: B. Aby podwyższyć liczbę oktanową**
 
-5. Czym jest benzyna bezołowiowa? <br>
-A. Rodzaj benzyny bez dodatku ołowiu <br>
-B. Benzyna syntetyczna <br>
-C. Rodzaj benzyny o bardzo wysokiej liczbie oktanowej <br>
-**D. Benzyna o niskiej zawartości alkoholi**
+5. Czym jest liczba oktanowa?
+   A. Pomiar ilości energii w jednostce objętości
+   B. Miara ilości zanieczyszczeń w paliwie
+   C. Współczynnik pomiaru oporu względem spontanicznego zapłonu
+   D. Wskaźnik ilości dodatków w benzynie
+   **Poprawna odpowiedź: C. Współczynnik pomiaru oporu względem spontanicznego zapłonu**
 
 ## Fiszki
 
-1. **Frakcja destylacji ropy naftowej**
-   - Benzyna znajduje się w frakcji destylacji 150-200 °C
+1. **Węglowodory** - związki organiczne, zbudowane z atomów węgla i wodoru. W zależności od ilości węgli wyróżnia się alifatyczne (otwarte łańcuchy węglowe) i cykliczne (zamknięte łańcuchy węglowe).
 
-2. **Skład benzyny**
-   - Benzyna składa się głównie z alkanów
+2. **Liczba oktanowa** - wartość liczbowa, określająca opór benzyny do wybuchowego zapłonu. Im wyższa liczba oktanowa, tym wyższy opór benzyny do wybuchowego zapłonu.
 
-3. **Liczba oktanowa**
-   - Liczba określająca opór benzyny do spalania ze sprężaniem, im wyższa, tym lepsze właściwości
+3. **Dodatki do benzyny** - substancje, dodawane do benzyny w celu podwyższenia liczby oktanowej, poprawy smaku i zapachu, a także do zmniejszenia ilości zanieczyszczeń.
 
-4. **Dodatek metylortoheksan**
-   - Dodatek zmniejszający ilość dźwięku podczas jazdy
+4. **Benzyna bezoctanowa** - nazwa benzyny, w której brak dodatków zwiększających liczbę oktanową. Zwykle jest to benzyna o niższej liczbie oktanowej.
 
-5. **Benzyna bezołowiowa**
-   - Benzyna o ograniczonej ilości alkoholi, poprawiająca efektywność spalania
+5. **Benzyna o niskiej zawartości siarki** - benzyna, w której ilość siarki jest ograniczona do 10 ppm (parts per million), a w niektórych krajach do 50 ppm.
 
 ## Notatki
 
-Benzyna to mieszanina węglowodorów, głównie alkanów, otrzymywana z ropy naftowej. Składa się z węglowodorów o długości łańcucha atomów węgla z zakresu C4-C12. Głównym parametrem charakteryzującym benzynę jest liczba oktanowa. Od niej zależy opór paliwa do samozapłonu przy dużych ciśnieniach panujących w silnikach spalinowych. Im wyższa liczba oktanowa, tym lepsze właściwości benzyny.
+Benzyna to paliwo płynne, składa się głównie z węglowodorów. W zależności od pochodzenia i metody destylacji otrzymuje się benzynę o różnych cechach i właściwościach. W skład benzyny wchodzą węglowodory nasycone (alkany), nienasycone (alkeny) i aromatyczne (cykliczne). W zależności od ilości węgla w składzie węglowodorów wyróżnia się benzynę o krótkim, średnim i długim łańcuchu węglowym.
 
-Benzyna ma szeroki zakres zastosowań. Najczęściej jest stosowana jako paliwo do samochodów osobowych, dlatego też jest dostępna w wielu odmianach i markach. Dodatki do benzyny, takie jak metylortoheksan, są stosowane, aby poprawić jej jakość i właściwości, m.in. przez zmniejszenie ilości dźwięku podczas jazdy. Wybrane rodzaje benzyn to np. benzyna bezołowiowa (dostępna również w wersji E10, czyli benzyna z 10% zawartością biopaliwa roślinnego), benzyna premium, czy też benzyna super plus – o najwyższej wartości liczby oktanowej.
+Dodatki do benzyny to substancje służące do podwyższenia liczby oktanowej i poprawy smaku oraz zapachu paliwa. Dodatki te powinny być dobrane tak, aby minimizować ilość zanieczyszczeń. Dodatki do benzyny są stosowane od lat 20. XX wieku.
+
+Liczba oktanowa to wskaźnik pomiaru oporu benzyny do spontanicznego zapłonu. Im wyższa liczba oktanowa, tym większy opór benzyny do zapłonu. Liczba oktanowa podawana jest w % i zmienia się w zależności od pochodzenia benzyny. W Polsce najczęściej sprzedawana jest benzyna o liczbie oktanowej 95 i 98. W niektórych
+(...)

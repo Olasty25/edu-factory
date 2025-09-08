@@ -1,56 +1,66 @@
- # Quiz - Glukoza: Budowa i Reakcje
-1. Ile atomów wchodzi w skład cząsteczki glukozy?
-A. 5
-B. 6
-C. 7
-D. 8
+ Quiz:
+1. Jaka jest chemiczna formula glukozy?
+A. C~6~H~12~O~6~
+B. C~12~H~22~O~11~
+C. C~6~H~10~O~5~
+D. C~6~H~14~O~6~
 
-Poprawna odpowiedź: B. 6
+Correct answer: A. C~6~H~12~O~6~
 
-2. Cząsteczka glukozy jest zbudowana z how many pierścieni?
-A. 1
-B. 2
-C. 3
-D. 4
+2. Jaka z reakcji jest typową reakcją glukozy?
+A. Estryfikacja
+B. Fermentacja
+C. Hydrolyza
+D. Zestalanie
 
-Poprawna odpowiedź: B. 2
+Correct answer: B. Fermentacja
 
-3. Cukry, takie jak glukoza, są ________ w większości żywych organizmów.
-A. niezbędne
-B. toksyczne
-C. obce
-D. żadna z powyższych
+3. Ile atomów węgla znajduje się w cząsteczce glukozy?
+A. 4
+B. 5
+C. 6
+D. 7
 
-Poprawna odpowiedź: A. niezbędne
+Correct answer: C. 6
 
-4. Glycolysis, a process that breaks down glucose, occurs in the ________.
-A. cytoplasm of the cell
-B. mitochondria
-C. nucleus of the cell
-D. endoplasmic reticulum
+4. Jakie związki chemiczne są produktami rozkładu glukozy w organizmie?
+A. Pyruwat
+B. Glikogen
+C. Aldehydy
+D. Tłuszcze
 
-Poprawna odpowiedź: A. cytoplasm of the cell
+Correct answer: A. Pyruwat; C. Aldehydy
 
-5. Which of the following is NOT a product of glycolysis?
-A. Pyruvate
-B. ATP
-C. NADH
-D. Oxygen
+5. Gdzie w komórce glukoza jest przetwarzana?
+A. W jądrze komórkowym
+B. W mitochondrium
+C. W cytoplazmie
+D. W retikulum endoplazmatycznym
 
-Poprawna odpowiedź: D. Oxygen
+Correct answer: C. W cytoplazmie
 
-# Fiszki - Glukoza: Budowa i Reakcje
-1. Glukoza jest cukrem Monosacharydowym, który składa się z 6 atomów: węgiel, wodór i tlen.
-2. Cząsteczka glukozy składa się z pięciocentrowego pierścienia hesosy oraz szóstocentrowego pierścienia furanosy.
-3. Glycolysis to proces metaboliczny, w którym glukoza jest rozkładana na mniejsze cząsteczki, zwykle w celu wytworzenia energii.
-4. Pierwszy etap glycolysis, znany jako activation of glucose, zachodzi w wątrobie i nerkach.
-5. Produktami glycolysis są: dwie cząsteczki pyruvate, dwie cząsteczki ATP, i dwie cząsteczki NADH.
+Fiszki:
 
-# Notatki - Glukoza: Budowa i Reakcje
-Glukoza jest rodzajem cukru, który wchodzi w skład większości diety człowieka. Jest ona cukrem monosacharydowym, co oznacza, że składa się z jednej cząsteczki, która zawiera 6 atomów węgla, wodoru i tlenu. Cząsteczka glukozy, zarówno w formie heptozowej (pięciocentrowej) jak i fruktozowej (szóstocentrowej), posiada aldehydową grupę funkcyjną (-CHO) zlokalizowaną przy drugim atomie węgla.
+1. Glukoza (C~6~H~12~O~6~) jest prostym cukrem monosacharydowym, najczęściej występującym w organizmach żywych.
+2. Glukoza pełni kluczową rolę w procesie oddychania komórkowego, produkując energię w postaci ATP.
+3. Glukoza jest zawarta w wielu pokarmach, w tym w cukrze buraczanym i cukrze płynnym.
+4. Fermentacja alkoholowa to proces, podczas którego glukoza jest rozkładana na alkohol etylowy, dwutlenek węgla i wodę.
+5. Glicemia jest to stężenie glukozy we krwi, a zbyt wysoka wartość może być objawem cukrzycy.
 
-Glukoza odgrywa kluczową rolę w organizmach żywych jako główne źródło energii, poprzez proces glycolysis, który zachodzi w cytoplazmie komórkowej. W tym procesie, glukoza jest przekształcana w mniejsze cząsteczki, zwykle w celu wytworzenia energii w postaci ATP (adenozynotrifosforanu) oraz innych związków chemicznych, takich jak NADH i pyruvate.
+Notatki:
 
-Pierwszy etap glycolysis, znany jako activation of glucose, zachodzi w wątrobie i nerkach. Polega on na przekształcaniu glukozy w glukozo-6-fosforan, dzięki czemu uniemożliwi się jej wydalenie z organizmu. Następnie, glukozo-6-fosforan jest przekształcany w fruktozo-6-fosforan, który z kolei jest przekształcany w fruktozo-1,6-bisfosforan.
+Glukoza (C~6~H~12~O~6~) jest prostym cukrem monosacharydowym, najczęściej występującym w organizmach żywych. Jest podstawowym źródłem energii dla komórek zwierzęcych i roślinnych. Glukoza pełni kluczową rolę w procesie oddychania komórkowego, produkując energię w postaci ATP.
 
-Glycolysis składa się z dwóch faz: w pierwszej fazie, glukoza jest rozkładana i energia jest magazynowana w postaci cząsteczek ATP i NADH. Druga faza glycolysis skupia się na przekształcaniu cząsteczek pyruvate w moczan i generowaniu dalszej ilości ATP. Podsumowując, glycolysis to proces, w którym glukoza jest rozkładana na mniejsze cząsteczki, a energia jest generowana jako ATP i NADH, przy użyciu dwóch cząsteczek glukozy. Cały proces zachodzi w cytoplazmie komórkowej i nie wymaga udziału mitochondriów lub innych organell komórkowych.
+Glukoza jest rozpuszczalna w wodzie i ma słodki smak. Może być otrzymywana z wielu źródeł, w tym z wielu pokarmów, w tym cukru buraczanego i cukru płynnego. Została odkryta w roku 1747 przez Andreasa Sigismunda Marggrafa.
+
+Glukoza jest również produktem fermentacji glukozy, która jest typową reakcją związaną z glukozą. Fermentacja jest procesem anaerobowym, w którym glukoza zostaje rozłożona na alkohol etylowy, dwutlenek węgla i wodę. Fermentacja alkoholowa jest procesem wykorzystywanym do produkcji piwa, wina i pieczywa.
+
+Zbyt wysokie stężenie glukozy we krwi, czyli hiperglikemia, może być objawem cukrzycy. Stężenie glukozy we krwi jest monitorowane przez pomiary glicemii.
+
+Cząsteczka glukozy składa się z sześciu atomów węgla, dwunastu atomów wodoru i sześciu atomów tlenu. Glukoza jest cukrem redukującym, co oznacza, że jej cząsteczka zawiera aldehydową grupę funkcyjną, która może być zredukowana do alkoholu podczas fermentacji.
+
+W organizmie człowieka glukoza jest magazynowana w wątrobie i mięśniach w postaci glikogenu. Glikogen jest poddawany rozkładowi w sytuacji, gdy organizm potrzebuje dodatkowej energii. Glikogenoliza, czyli rozkład glikogenu, prowadzi do powstawania glukozy, która może zostać uwolniona do krwi.
+
+W komórce glukoza jest przetwarzana w cytoplazmie. W mitochondriach glukoza zostaje rozkładana na dwutlenek węgla i wodę w procesie nazywanym oddychaniem komórkowym. W tym procesie energia jest uwalniana, a ostatecznie przechowywana w postaci ATP. Oprócz tego glukoza może być również przekształcana w inne związki chemiczne, w tym w pirwat, laktozę lub galaktozę.
+
+Stosowanie glukozy w lecznictwie obejmuje także terapię przełomu cukrzycowego, w którym podawana jest doustnie lub dożylnie wraz z insuliną w celu szybkiego podniesienia stężenia glukozy we krwi. W leczeniu oparzeń stosuje się roztwory glukozy, aby uzupełnić stratę wody i elektrolity. Glukoza również może być stosowana w terapii odmiedniczkowych zapaleń nerek oraz w prewencji i leczeniu niedoboru glicogenu.
