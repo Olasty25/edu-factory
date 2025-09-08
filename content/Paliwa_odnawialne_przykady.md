@@ -1,78 +1,61 @@
- Renewable Fuels Example: Education Materials
-=====================================
+ ## Quiz
 
-Quiz
-----
+1. Jaka roślina jest najczęściej wybieraną surowcem do produkcji biopaliw?
+   A. Słonecznik
+   B. Kukurydza
+   C. Rapsod
+   D. Soja
 
-1. What is biodiesel made from?
-   A. Coal
-   B. Corn
-   C. Natural Gas
-   D. Animal Fat
-   **Answer: D. Animal Fat**
+   Poprawna odpowiedź: C. Rapsod
 
-2. What is the name of the plant that produces ethanol?
-   A. Cotton
-   B. Corn
-   C. Wheat
-   D. Soybean
-   **Answer: B. Corn**
+2. Jakie paliwo odnawialne jest produkowane ze zwierzęcych odchodów?
+   A. Biodiesel
+   B. Bioetanol
+   C. Biogaz
+   D. Hydrogen
 
-3. Which type of renewable fuel can be used in a standard gasoline engine?
-   A. Hydrogen
-   B. Methanol
-   C. Ethanol
-   D. Biodiesel
-   **Answer: C. Ethanol**
+   Poprawna odpowiedź: C. Biogaz
 
-4. Which country is the world's largest producer of biodiesel?
-   A. Brazil
-   B. Germany
-   C. United States
-   D. France
-   **Answer: B. Germany**
+3. Jaka maszyna wymaga użycia dodatkowego startera w celu uruchomienia silnika na paliwo odnawialne?
+   A. Samochód
+   B. Łódź
+   C. Samolot
+   D. Helikopter
 
-5. What is the byproduct of producing biodiesel?
-   A. Methane
-   B. Carbon Dioxide
-   C. Glycerin
-   D. Nitrogen Oxide
-   **Answer: C. Glycerin**
+   Poprawna odpowiedź: D. Helikopter
 
-Flashcards
-----------
+4. Jaka roślina nie nadaje się do produkcji bioetanolu?
+   A. Trzcina cukrowa
+   B. Ziemniaki
+   C. Sorgo
+   D. Świniec
 
-1. Biodiesel
-   - Made from animal fat or vegetable oil
-   - Can be used in a standard diesel engine
+   Poprawna odpowiedź: D. Świniec
 
-2. Ethanol
-   - Made from corn, sugarcane, or other plants
-   - Commonly used as a gasoline additive
+5. Jaka organizacja promuje używanie biopaliw na całym świecie?
+   A. Global Environment Facility
+   B. Global Gas Flaring Reduction Partnership
+   C. Renewable Energy and Energy Efficiency Partnership
+   D. Global Bioenergy Partnership
 
-3. Hydrogen
-   - Can be used in a fuel cell to produce electricity
-   - Colorless, odorless gas
+   Poprawna odpowiedź: D. Global Bioenergy Partnership
 
-4. Methanol
-   - Made from wood, natural gas, or coal
-   - Can be used as a fuel in some internal combustion engines
+## Fiszki
 
-5. Biogas
-   - Made from the anaerobic digestion of organic matter
-   - Consists mainly of methane and carbon dioxide
+1. **Biopaliwa** - paliwa wyprodukowane z biomasy, która może być odnawialna dzięki zdolności fotosyntezy roślin zwiększających biomasę w krótkim czasie.
+2. **Biodiesel** - rodzaj biopaliwa mogącego zostać użyte w silniku zasilanym olejem napędowym. Najczęściej wytwarzany z oleju rzepakowego lub roślinnej olejiny.
+3. **Bioetanol** - alkohol etylowy otrzymywany z biomasy, który jest mieszany z benzyną w różnym stosunku (E5 - 5% bioetanolu, E10 - 10% bioetanolu) jako benzyna E85 zawiera 85% bioetanolu.
+4. **Biogaz** - mieszanina dwutlenku węgla (CO2) oraz metanu (CH4), która powstaje w procesie fermentacji beztlenowej - najczęściej z zielonych części roślin, odchodów zwierzęcych lub opadków.
+5. **Hydrogen** - paliwo odnawialne otrzymywane z wody za pomocą elektrolizy lub z biomasy w procesie fermentacji.
 
-Notes
------
+## Notatki
 
-Renewable fuels, also known as alternative fuels, are energy sources that can be replenished naturally and used in place of fossil fuels. There are many types of renewable fuels, but some of the most common are biodiesel, ethanol, hydrogen, methanol, and biogas.
+Biopaliwa przykłady to: biodiesel, bioetanol, biogaz i hydrogen. Każdy z powyższych rodzajów paliw pochodzi z biomasy, która jest odnawialna poprzez zdolność roślin do fotosyntezy oraz tworzenia nowych komórek w krótkim czasie.
 
-Biodiesel is a fuel made from animal fat or vegetable oil. It can be used in a standard diesel engine, but it must be mixed with petroleum diesel to prevent it from solidifying in cold temperatures. Biodiesel can be made from a variety of feedstocks, including soybean oil, recycled cooking oil, and waste vegetable oil.
+Biodiesel jest rodzajem biopaliwa podobnego do oleju napędowego, który istnieje w stanie stałym, co upraszcza jego stosowanie w silnikach Diesla. Jest on zazwyczaj otrzymywany z oleju rzepakowego lub roślinnej olejiny. Wynalezienie biodiesla pozwala zmniejszyć zużycie paliw kopalnych, a także zredukować negatywne emisje CO2 z ich spalania w komorze spalania w stosunku do dawnego spalania oleju napędowego.
 
-Ethanol is a fuel made from corn, sugarcane, or other plants. It is commonly used as a gasoline additive to increase the octane rating of gasoline and reduce carbon monoxide emissions. Ethanol can also be used as a fuel in its own right, but it must be used in a modified engine to prevent damage caused by its corrosiveness.
+Bioetanol to odnowialne paliwo, które jest otrzymywane z biomasy za pomocą procesu fermentacji i destylacji. Jest on wykorzystywany w spalarkach i pojazdach samochodowych. Bioetanol mieszany jest z benzyną w różnych proporcjach, a najczęściej używane są proporcje E5 (5% bioetanolu + 95% benzyny) lub E10 (10% bioetanolu + 90% benzyny). Natomiast wytwarzana w bardziej nowoczesnych instalacjach benzyna E85 zawiera 85% bioetanolu.
 
-Hydrogen is a fuel that can be used in a fuel cell to produce electricity. Hydrogen is a clean-burning fuel, producing only water as a byproduct, but it is not found in its pure form in nature. Hydrogen can be produced from a variety of sources, including natural gas, water, and biomass.
+Biogaz jest stabilną mieszaniną gazów (CO2, CH4) otrzymywaną w trakcie fermentacji beztlenowej, która najczęściej odbywa się w specjalnych zbiornikach z materiałami organicznymi (zielone części roślin, odchody zwierząt lub opady). Biogaz może być używany do ogrzewania, przemysłu i produkcji energii elektrycznej.
 
-Methanol is a fuel made from wood, natural gas, or coal. It can be used as a fuel in some internal combustion engines, but it is not as commonly used as other renewable fuels. Methanol is toxic and can be fatal if ingested, and it must be handled with care.
-
-Biogas is a fuel made from the anaerobic digestion of organic matter, such as food waste, sewage, or manure. Biogas consists mainly of methane and carbon dioxide, and it can be used as a fuel in its own right or converted into biomethane, which can be used as a substitute for natural gas. Biogas is a renewable and sustainable energy source, and it can help to reduce greenhouse gas emissions.
+Hydrogen jest paliwem odnawialnym uzyskiwanym z biomasy lub wodoru z wody poprzez elektrolizę. Hydrogen może być przenoszony, przechowywany i używany w instalacjach infrastruktury, które zostały zaprojektowane do użycia z paliwem wodorowym. Waga tej substancji jest mniejsza niż paliw tradycyjnych, co zmniejsza zużycie paliwa i emisję CO2.
