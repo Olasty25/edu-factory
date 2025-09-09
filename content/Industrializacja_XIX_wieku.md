@@ -1,6 +1,6 @@
  # Quiz: Industrializacja XIX wieku
-1. Kiedy datujemy początek rewolucji przemysłowej w Wielkiej Brytanii?
-   - A. Koniec XVIII wieku
-   - B. Połowa XIX wieku
-   - C. Lata 30. XIX wieku
-   - D. Koniec XIX wieku
+1. Która z wymienionych wczesnych industrializujących się państw wyróżniała się najszybszą industrializacją w XIX wieku?
+   A. Francja
+   B. Niemcy
+   C. Wielka Brytania
+   D. Rosja

@@ -1,63 +1,77 @@
- ### Quiz
+ # Quiz: Przyczyny i Skutki II Wojny Światowej
 
 1. Co było główną przyczyną wybuchu II wojny światowej?
-A. Zamach na cara Aleksandra II
-B. Brak ustaleń pokojowych po I wojnie światowej
-C. Upadek Muru Berlińskiego
-D. Zabójstwo arcyksięcia Franciszka Ferdynanda
+   A. Zimna wojna
+   B. Traktat wersalski
+   C. Rewolucja komunistyczna w Rosji
+   D. Kryzys gospodarczy w latach 30. XX wieku
+   * Poprawna odpowiedź: B. Traktat wersalski
 
-Correct answer: D. Zabójstwo arcyksięcia Franciszka Ferdynanda
+2. Który dyktator niemiecki doprowadził do wybuchu wojny w 1939 roku?
+   A. Wilhelm II
+   B. Adolf Hitler
+   C. Friedrich Ebert
+   D. Erich Ludendorff
+   * Poprawna odpowiedź: B. Adolf Hitler
 
-2. Która z państw była głównym sponsoredem Niemiec w czasie II wojny światowej?
-A. Włochy
-B. Związek Socjalistycznych Republik Radzieckich
-C. Stany Zjednoczone
-D. Japonia
+3. Który z wymienionych krajów był sojusznikiem Niemiec w czasie II wojny światowej?
+   A. Francja
+   B. Wielka Brytania
+   C. ZSRR (od 1939 do 1941 roku)
+   D. Stany Zjednoczone
+   * Poprawna odpowiedź: C. ZSRR (od 1939 do 1941 roku)
 
-Correct answer: D. Japonia
+4. Który z wymienionych wydarzeń jest skutkiem II wojny światowej?
+   A. Upadek Muru Berlińskiego
+   B. Rozpad ZSRR
+   C. Konferencja w Poczdamie
+   D. Powstanie ONZ
+   * Poprawna odpowiedź: D. Powstanie ONZ
 
-3. Kiedy miała miejsce bitwa pod Stalingradem?
-A. Sierpień 1942 - luty 1943
-B. Czerwiec 1944 - styczeń 1945
-C. Grudzień 1941 - luty 1942
-D. Wrzesień 1939 - październik 1940
+5. Ile ofiar wojennych spowodowała II wojna światowa?
+   A. 20 milionów
+   B. 35 milionów
+   C. 50 milionów
+   D. 60 milionów
+   * Poprawna odpowiedź: C. 50 milionów
 
-Correct answer: A. Sierpień 1942 - luty 1943
+# Fiszki: Przyczyny i Skutki II Wojny Światowej
 
-4. Które z państw było członkiem sił Osi?
-A. Kanada
-B. Francja
-C. Niemcy
-D. Australia
+1. Traktat wersalski (1919)
+   * Ustanowił wysokie kontrybucje wojenne dla Niemiec, co spowodowało gospodarcząniemożnosci jej spełnienia
+2. Wielki kryzys (lata 30. XX wieku)
+   * Zwiększył bezrobocie i nastroje nacjonalistyczne w Europie
+3. Adolf Hitler
+   * Niemiecki dyktator, który dążył do rozszerzenia terytorium Niemiec poprzez podboje
+4. Powstanie Osi (1936)
+   * Sojusz Niemiec z Włochami, Japonią i innymi krajami
+5. Lata 1939-1945
+   * Okres trwania II wojny światowej, której przyczyny i skutki są przedmiotem tego materiału
 
-Correct answer: C. Niemcy
+# Notatki: Przyczyny i Skutki II Wojny Światowej
 
-5. Kiedy wojska alianckie wylądowały w Normandii?
-A. 7 czerwca 1944
-B. 6 czerwca 1941
-C. 15 sierpnia 1942
-D. 8 maja 1945
+II wojna światowa była największym konfliktem zbrojnym w historii ludzkości, trwającym od 1 września 1939 roku do 2 września 1945 roku. Została wywołana przez ekspansjonistyczne dążenia państw Osi (Niemcy, Włochy, Japonia) oraz nieudolność Ligi Narodów w zapobieganiu agresji.
 
-Correct answer: A. 6 czerwca 1944
+Przyczyny II wojny światowej:
 
-### Fiszki
+1. Traktat wersalski (1919)
+   * W wyniku I wojny światowej Niemcy musiały zapłacić ogromne kontrybucje wojenne, co doprowadziło do ich bankructwa i pozbawiło prestiżu na arenie międzynarodowej.
+2. Wielki kryzys (lata 30. XX wieku)
+   * Kryzys gospodarczy w latach 30. XX wieku doprowadził do wzrostu bezrobocia i zwiększył nastroje nacjonalistyczne w Europie.
+3. Dążenia ekspansjonistyczne państw Osi
+   * Niemcy, Włochy i Japonia dążyły do rozszerzenia swoich granic, cechując się nastrojami nacjonalistycznymi i rasistowskimi.
+4. Liderzy dyktatorscy
+   * Adolf Hitler (Niemcy), Benito Mussolini (Włochy) i Hideki Tojo (Japonia) byli przywódcami autorytarnymi, którzy prowadzili swe kraje do wojny.
 
-1. Holokaust - system nienawiści i utraconego humanizmu, który doprowadził do ludobójstwa 6 milionów Żydów.
-2. Blitzkrieg - szybka wojna błyskawiczna, która była taktyką militarną używaną przez Niemcy w trakcie II wojny światowej..
-3. Kryptonim Operation Barbarossa - niemiecka inwazja na ZSRR rozpoczęta 22 czerwca 1941 roku.
-4. Pakt Ribbentrop-Mołotow - tajny pakt między Niemcami a ZSRR, który zawarto w sierpniu 1939 roku i był układem niedziałania.
-5. Konferencja jaltańska - konferencja międzynarodowa w lutym 1945 roku, która odbyła się w Jałcie na Krymie, w czasie której przywódcy trzech potęg alianckich omówili plan pokojowy po wojnie.
+Skutki II wojny światowej:
 
-### Notatki
+1. Liczba ofiar
+   * W wyniku działań wojennych zginęło około 50 milionów ludzi.
+2. Zmiana podziału politycznego świata
+   * Zaowocowała utworzeniem nowych organizacji międzynarodowych, takich jak ONZ (Organizacja Narodów Zjednoczonych), w celu zapobieżenia podobnym konfliktom w przyszłości.
+3. Powojenne oszacowania kosztów
+   * W wyniku wojny wiele państw cierpiało na szkody gospodarcze i infrastrukturalne.
+4. Okres zimnej wojny
+   * Wirus napięcia i rywalizacji między dwoma supermocarstwami – USA i ZSRR – doprowadził do zimnej wojny, która trwała do 1991 roku.
 
-II wojna światowa była największym konfliktem zbrojnym w historii ludzkości, który trwał od 1 września 1939 roku do 2 września 1945 roku. Została wywołana przez narastającą agresję przeciwko pokojowi i naruszenia traktatów pokojowych po I wojnie światowej.
-
-Główną przyczyną wybuchu II wojny światowej było zabójstwo arcyksięcia Franciszka Ferdynanda, spiskowca serbskiego, Gavrilo Principa, w czerwcu 1914 roku, które doprowadziło do I wojny światowej. Po wojnie, traktat wersalski nakładał na Niemcy wysokie odszkodowania i ograniczenia militarne, co doprowadziło do wzrostu nacjonalizmu i militaryzmu w Niemczech.
-
-II wojna światowa została wypowiedziana przez Niemcy 1 września 1939 roku, kiedy najechaniu Polskę, rozpoczynając pakt Ribbentrop-Mołotow pomiędzy Niemcami a Związkiem Radzieckim. W rezultacie, w ciągu następnych kilku miesięcy, Wielka Brytania, Francja, Kanada, Australia i Nowa Zelandia wypowiedziały wojnę Niemcom.
-
-Kolejnym poważnym wydarzeniem była inwazja Niemiec na ZSRR, podczas kryptonimu Operacja Barbarossa, 22 czerwca 1941 roku. W tym samym czasie, Japonia zaatakowała Pearl Harbor w grudniu 1941 roku, co doprowadziło do przystąpienia Stanów Zjednoczonych do wojny.
-
-II wojna światowa charakteryzowała się nowoczesną taktyką wojskową, taką jak Blitzkrieg, która była taktyką militarną używaną przez Niemcy, która pozwalała im szybko przejmować terytorium. W 1941 roku Hitler podjął decyzję o zacząć realizować swój plan ludobójstwa Żydów, znany jako Holokaust.
-
-Walki wojenne miały miejsce na trzech kontynentach, w Europie, Afryce i Azji. Ostateczne zwycięstwo nad siłami Osi zostało osiągnięte po wyzwoleniu obozu koncentracyjnego Auschwitz przez Armię Czerwoną w styczniu 1945 roku i inwazji aliantów na Europę. Zakończenie wojny nastąpiło w Europie w maju 1945 roku, a w Azji w sierpniu 1945 roku, po zrzuceniu dwóch bomb atomowych na Hiroszimę i Nagasaki przez Stan
+Ważne będzie pamiętać o złożoności spraw i różnorodności opinii w tej kwestii, gdyż temat jest bardzo szeroki i składa się z wielu aspektów, które nie zostaną tutaj wyczerpująco omówione.
