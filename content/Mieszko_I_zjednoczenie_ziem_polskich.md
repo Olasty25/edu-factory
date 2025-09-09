@@ -1,29 +1,28 @@
  # Quiz - Mieszko I i zjednoczenie ziem polskich
-1. Kto był Mieszkiem I?
-   A. Księciem Polan
-   B. Królem Polski
-   C. Sławnego wodza plemiennego
-   D. Cesarzem Rzymu
-   Poprawna odpowiedź: A
+1. Kto był Mieszkiem I i w jakim okresie żył?
+    Wybierz poprawną odpowiedź:
+    A. legendarne plemienne władztwo z X wieku
+    B. władca Polan w IX wieku
+    C. zjednoczyciel Polski na przełomie X i XI wieku
+    D. książę Mazowsza w X wieku
 
-2. Kiedy żył Mieszko I?
-   A. W IX wieku
-   B. W X wieku
-   C. W XI wieku
-   D. W XII wieku
-   Poprawna odpowiedź: B
+    Poprawna odpowiedź: C
 
-3. Jakie ziemie objął Mieszko I w swym państwie?
-   A. Pomorze
-   B. Wielkopolskę
-   C. Mazowsze
-   D. Małopolskę
-   Poprawna odpowiedź: BD (Mieszko I zjednoczył Wielkopolskę, Małopolskę oraz ziemie pomorskie)
+2. Jakie plemiona były zjednoczone przez Mieszka I?
+    Wybierz poprawną odpowiedź:
+    A. Polanie, Wiślanie, Gdańszczanie
+    B. Polanie, Poznanianie, Ślężanie
+    C. Polanie, Mazowszanie, Pomeranianie
+    D. Polanie, Krakowianie, Slezanie
 
-4. Kiedy Mieszko I przyjął chrześcijaństwo?
-   A. W 963 roku
-   B. W 966 roku
-   C. W 983 roku
-   D. W 996 roku
-   Poprawna odpowiedź: B
+    Poprawna odpowiedź: B
+
+3. Kiedy Mieszko I przyjął chrzest?
+    Wybierz poprawną odpowiedź:
+    A. ok. 960 roku
+    B. ok. 986 roku
+    C. ok. 990 roku
+    D. ok. 970 roku
+
+    Poprawna odpowiedź: B
 

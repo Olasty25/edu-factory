@@ -1,20 +1,47 @@
  Chrzest Polski 966: Znaczenie
-=============================
+============================
 
 Quiz
 ----
 
-Odpowiedzi do quizu znajdują się na samym dole pod odpowiednią literą (A, B, C lub D).
+1. Kto ochrzcił Mieszka I i jego syna Bolesława?
 
-1. Kiedy dokładnie miała miejsce chrzest Polski?
-A. 955 rok
-B. 966 rok
-C. 977 rok
-D. 988 rok
+   A. Papież Jan XII
+   B. Święty Wojciech
+   C. Święty Metody
+   D. Biskup Brzeski Jordan
 
-2. Kto ochrzcił Mieszka I, władcę Pierwszego Państwa Polskiego?
-A. Arnulf, król Niemiec
-B. Otton I, cesarz rzymski
-C. Wiching, misjonarz norweski
-D. Jordan, biskup Polski
+   D. Biskup Brzeski Jordan
 
+2. Kiedy odbył się Chrzest Polski?
+
+   A. 885
+   B. 966
+   C. 1000
+   D. 1025
+
+   B. 966
+
+3. Gdzie odbył się Chrzest Polski?
+   A. Gniezno
+   B. Kraków
+   C. Poznań
+   D. Wrocław
+
+   C. Poznań
+
+4. Kto był inicjatorem Chrztu Polski?
+   A. Mieszko I
+   B. Bolesław I Chrobry
+   C. Otton III
+   D. Henryk I Prawy
+
+   C. Otton III
+
+5. Co było znakiem Chrztu Polski?
+   A. Krzyż
+   B. Korona
+   C. Węzeł Salicki
+   D. Monstrancja
+
+   A. Krzyż
