@@ -1,6 +1,6 @@
  ### Quiz
 
-1. Kiedy nastąpiło Powstanie Listopadowe?
-
-A. W 1830 roku
-B. W 184
+1. Kiedy rozpoczęło się Powstanie Listopadowe?
+    - A. 1820
+    - B. 1830
+   
