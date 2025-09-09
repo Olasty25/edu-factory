@@ -1,63 +1,61 @@
  # Quiz
 
-1. Kiedy rozegrała się Bitwa pod Grunwaldem?
-A. 1409
-B. 1410
-C. 1411
-D. 1412
+1. Kiedy i gdzie odbyła się Bitwa pod Grunwaldem?
+A. 1410, Wrocław
+B. 1525, Chocim
+C. 1410, Grunwald
+D. 1425, Tannenberg
 
-Poprawna odpowiedź: B. 1410
+Poprawna odpowiedź: C. 1410, Grunwald
 
-2. Jakie państwo prowadziło inwazję na Polskę, która doprowadziła do Bitwy pod Grunwaldem?
-A. Austria
-B. Węgry
-C. Zakon Krzyżacki
-D. Dania
+2. Które państwa były stronami konfliktu w Bitwie pod Grunwaldem?
+A. Polska, Krzyżacy
+B. Rosja, Szwecja
+C. Czechy, Węgry
+D. Niemcy, Francja
 
-Poprawna odpowiedź: C. Zakon Krzyżacki
+Poprawna odpowiedź: A. Polska, Krzyżacy
 
-3. Który władca polski dowodził armią polsko-litewską w Bitwie pod Grunwaldem?
+3. Który władca polski dowodził armią w Bitwie pod Grunwaldem?
 A. Kazimierz III Wielki
 B. Władysław II Jagiełło
-C. Władysław Łokietek
-D. Jadwiga Andegaweńska
+C. Władysław III Warneńczyk
+D. Jan III Sobieski
 
 Poprawna odpowiedź: B. Władysław II Jagiełło
 
-4. Ile żołnierzy brało udział w Bitwie pod Grunwaldem?
+4. Ile żołnierzy miała armia krzyżacka w Bitwie pod Grunwaldem?
 A. 15 000
-B. 25 000
-C. 35 000
-D. 45 000
+B. 27 000
+C. 36 000
+D. 50 000
 
-Poprawna odpowiedź: C. 35 000 (szacunkowo)
+Poprawna odpowiedź: B. 27 000
 
-5. Jaka była sytuacja po Bitwie pod Grunwaldem?
-A. Krzyżacy wygrali
-B. Polska i Litwa przegrały
-C. Polska i Litwa odniosły zwycięstwo
-D. Walki trwały dalej
+5. Jaka była przyczyna konfliktu pomiędzy Polską a Krzyżakami?
+A. Konflikt o tron polski
+B. Zajmowanie ziem przez Krzyżaków
+C. Konflikt o władztwo w Prusach
+D. Spór o handel bałtycki
 
-Poprawna odpowiedź: C. Polska i Litwa odniosły zwycięstwo
+Poprawna odpowiedź: B. Zajmowanie ziem przez Krzyżaków
 
 # Fiszki
 
-1. Zakon Krzyżacki - niemiecki zakon rycerski, którego zadaniem było szerzenie chrześcijaństwa i ochrona pielgrzymów w Ziemi Świętej. W XIV i XV wieku kontrolowali znaczne tereny w Prusach, inflanckiej Łotwie i Estonii, oraz w Królewcu (dziś obwód królewiecki w Rosji).
-2. Władysław II Jagiełło - wielki książę litewski i król polski, który rozpoczął unię personalną między Polską a Litwą. Był najważniejszym wodzem koalicji polsko-litewsko-rusko-czeskiej w Bitwie pod Grunwaldem.
-3. Grunwald - wieś w Polsce, w której w 1410 roku miała miejsce decydująca bitwa pomiędzy Polską a Litwą a Zakonem Krzyżackim. Dziś znajduje się tam pomnik upamiętniający tę bitwę.
-4. Ulrich von Jungingen - wielki mistrz Zakonu Krzyżackiego, który dowodził armią krzyżacką podczas Bitwy pod Grunwaldem.
-5. Hetman Witold Kiejstutowicz - litewski dowódca, zastępca Władysława II Jagiełły podczas Bitwy pod Grunwaldem.
+1. Bitwa pod Grunwaldem (niem. Schlacht bei Tannenberg, lit. Žalgirio mūšis)
+2. Władysław II Jagiełło (zm. 1386-1434), władca Polski i Litwy
+3. Krzyżacy (Zakon Niemiecki w Jerozolimie, Zakon Kawalerów Mieczowych, Zakon Braci Niemieckiego Zwierzchnictwa Pańskiego w Jerozolimie), zakon rycerski
+4. Ulrich von Jungingen (zm. ok. 1360-1410), wielki mistrz zakonu krzyżackiego
+5. Zygmunt Luksemburski (zm. 1368-1437), król Węgier i Czech
 
 # Notatki
 
-Bitwa pod Grunwaldem było jednym z największych i najbardziej znaczących zwycięstw w historii Polski i Litwy. Miała miejsce 15 lipca 1410 roku w pobliżu wsi Grunwald (dziś Polska).
+Bitwa pod Grunwaldem (1410) była jednym z największych i najważniejszych zwycięstw militarnych w historii Polski. Decydowała o przełomie w stosunkach między Królestwem Polskim, a zakonem krzyżackim.
 
-Przyczyną bitwy były wzrost napięcia i liczne starcia graniczne między Polską i Litwą a Zakonem Krzyżackim. W 1409 roku wybuchła wojna, a w 1410 roku król polski Władysław II Jagiełło i wielki książę litewski Witold Kiejstutowicz podjęli decyzję o podjęciu działań zbrojnych przeciwko Krzyżakom.
+Dowódcą armii polskiej był władca Polski i Litwy, Władysław II Jagiełło. Natomiast dowódcą armii krzyżackiej był Ulrich von Jungingen.
 
-Armia polsko-litewska liczyła około 35 000 żołnierzy i była dowodzona przez Władysława II Jagiełłę i Witolda Kiejstutowicza. Została podzielona na dwie części: prawe skrzydło dowodzone przez Witolda Kiejstutowicza i lewe skrzydło dowodzone przez Jakuba Skarbeka. Armia Zakonu Krzyżackiego liczyła około 27 000 żołnierzy i była dowodzona przez Ulricha von Jungingena i Friedricha von Wallenroda.
+Przyczyną sporu była ekspansja krzyżacka na tereny Mazowsza i próby narzucania przez Krzyżaków swoich decyzji w sprawach wielkiego księstwa litewskiego.
 
-Bitwa trwała od rana do południa i była bardzo krwawa. Walki toczyły się na trzech polach i były bardzo zacięte. Ostatecznie armia krzyżacka poniosła druzgocącą klęskę, a wielu jej dowódców zginęło lub dostało się do niewoli.
+Armia krzyżacka była dobrze wyszkolona, a wojsko polsko-litewskie posiadało przewagę liczebną - miało ok. 39 000 żołnierzy. 15 lipca 1410 roku armie starły się w bitwie, która trwała cały dzień. Główne uderzenie polsko-litewskie skierowano w stronę centrum armii krzyżackiej, gdzie zgromadzona była większość oddziałów wozów i konnych. W wyniku bitwy armia krzyżacka została pokonana, a jej dowódca Ulrich von Jungingen zginął.
 
-Bitwa pod Grunwaldem była bardzo ważnym wydarzeniem w historii Polski i Litwy, ponieważ doprowadziła do podporządkowania Zakonu Krzyżackiego przez Koronę Królestwa Polskiego i Wielkie Księstwo Litewskie. Jednak prawdziwe konsekwencje tej bitwy były widoczne dopiero po wielu latach.
-
-Dziś pomnik upamiętniający Bitwę pod Grunwaldem jest jednym z najpopularniejszych miejsc turystycznych w Polsce. Co roku odbywa się tu także rekonstrukcja bitwy, przyciągająca tysiące widzów z całego świata.
+Bitwa pod Grunwaldem miała ogromne znaczenie dla historii Polski. Przypieczętowała zwycięstwo Polski w konflikcie z zakonem krzyżackim, zapewniła jej dominację nad południową częścią Bałtyku i położyła kres rozszerzaniu się państwa krzyżackiego na wschód.

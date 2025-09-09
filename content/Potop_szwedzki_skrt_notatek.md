@@ -1,67 +1,69 @@
- # Quiz (5 pytań ABCD + poprawna odpowiedź)
+ # Quiz
 
-1. Kiedy wydarzył się Szwedzki Potop?
-A. 1655 r.
-B. 1656 r.
-C. 1657 r.
-D. 1658 r.
+1. Kiedy miał miejsce Szwedzki Potop?
+A. 1654-1655
+B. 1655-1660
+C. 1660-1661
+D. 1661-1662
 
-Poprawna odpowiedź: [B] 1656 r.
+Correct Answer: B. 1655-1660
 
-2. Który władca poprowadził wojska szwedzkie w czasie tego konfliktu?
-A. Gustaw II Adolf
-B. Karol X Gustaw
-C. Karol XII
-D. Gustaw IV Adolf
+2. Który król Rzeczypospolitej Obojga Narodów poprowadził wojska przeciw Szwedom?
+A. Jan III Sobieski
+B. Jan II Kazimierz
+C. Władysław IV
+D. Michał Korybut Wiśniowiecki
 
-Poprawna odpowiedź: [B] Karol X Gustaw
+Correct Answer: D. Michał Korybut Wiśniowiecki
 
-3. Jakie było przyczyną Szwedzkiego Potopu?
-A. Rywalizacja o tron polski
-B. Zwrot Polski na katolicyzm
-C. Chęć rozszerzenia wpływów Szwecji
-D. Konflikt o handel bałtycki
+3. Ile obronnych zamków i twierdz strawił potop szwedzki?
+A. ponad 100
+B. blisko 200
+C. ponad 200
+D. blisko 300
 
-Poprawna odpowiedź: [C] Chęć rozszerzenia wpływów Szwecji
+Correct Answer: C. ponad 200
 
-4. Ile lat Potop szwedzki trwał?
-A. 2 lata
-B. 4 lata
-C. 6 lat
-D. 8 lat
+4. Jak nazywał się pomysłodawca i dowódca wojsk szwedzkich podczas Szwedzkiego Potopu?
+A. Karol Gustaw
+B. Gustaw II Adolf
+C. Ferdynand I
+D. Jan III
 
-Poprawna odpowiedź: [C] 6 lat
+Correct Answer: A. Karol Gustaw
 
-5. Która z poniższych bitew odbyła się podczas szwedzkiego potopu?
-A. Bitwa pod Kluszynem
-B. Bitwa pod Gdańskiem
-C. Bitwa pod Wiedniem
-D. Bitwa pod Poitiers
+5. Ile obszaru znalazło się pod okupacją szwedzką?
+A. ok. 30%
+B. ok. 50%
+C. ok. 60%
+D. ok. 70%
 
-Poprawna odpowiedź: [B] Bitwa pod Gdańskiem
+Correct Answer: B. ok. 50%
 
-# Fiszki (5 sztuk)
+# Fiszki
 
-1. **Karol X Gustaw** - król Szwecji, który poprowadził armię szwedzką w trakcie Szwedzkiego Potopu.
+- Szwedzki Potop: wojna, która miała miejsce w latach 1655-1660 na ziemiach Rzeczypospolitej Obojga Narodów, w którą zaangażowane były wojska szwedzkie pod dowództwem Karola Gustawa.
+- Rozejm w Oliwie: traktat pokojowy podpisany 3 maja 1660 w Oliwie kończący wojnę pomiędzy Szwecją a Rzecząpospolitą Obojga Narodów.
+- Ziemie królestwa polsko-litewskiego zajęte przez Szwedów obejmowały obszary: Wielkopolski, Małopolski, Śląska, Pomorza, Mazowsza, Prus Królewskich, Kurlandii i Inflant.
+- Wojska szwedzkie spustoszyły i zniszczyły ponad 200 zamków i twierdz.
+- Szwedzki Potop spowodował zmiany w administracji kraju, rozwój kultury i decentralizację w Rzeczypospolitej Obojga Narodów.
 
-2. **1655 rok** - data rozpoczęcia potopu, kiedy wojska szwedzkie wkroczyły do Rzeczypospolitej.
+# Notatki
 
-3. ** influy** - intensywna chęć rozszerzenia wpływów, celem Karola X Gustaw było zwiększenie kontroli Szwecji nad państwami bałtyckimi, co doprowadziło do konfliktu z Polską.
+Szwedzki Potop to wojna, która miała miejsce w latach 1655-1660 na ziemiach Rzeczypospolitej Obojga Narodów, w której udział brały wojska szwedzkie pod dowództwem Karola Gustawa. Szwedzi zajęli obszary Wielkopolski, Małopolski, Śląska, Pomorza, Mazowsza, Prus Królewskich, Kurlandii i Inflant.
 
-4. **Bitwa pod Gdańskiem** - najważniejsza bitwa podczas potopu, w której Karol X Gustaw pokonał polsko-brandenburską armię w 1656 r.
+Wojna rozpoczęła się w 1655 roku, gdy Karol Gustaw wylądował w Piławie i wkroczył na terytorium Rzeczypospolitej. Pomimo początkowych sukcesów, król Szwecji nie zdołał zdobyć Krakowa, który bronił wierny królowi Michał Korybut Wiśniowiecki. W 1656 roku do wojny włączyła się brandenburska armia elektora Fryderyka Wilhelma.
 
-5. **1660 rok** - rok zakończenia potopu, kiedy Szwecja i Rzeczpospolita Obojga Narodów podpisały traktat w Oliwie, kończąc tym samym wojnę.
+Jednocześnie w 1656 roku zmarł król szwedzki Karol Gustaw. Nowym królem Szwecji został Karol XI, który kontynuował wojnę z Rzecząpospolitą. W 1657 roku w walkach na terenie Duńczyzny interweniowała armia polska.
 
-# Notatki (~200 słów)
+W 1658 roku Polacy podpisali traktat pokojowy z Danią, a w 1659 roku z Brandenburgią. Jednak dopiero 3 maja 1660 roku podpisany został rozejm w Oliwie, kończący wojnę między Szwecją a Rzecząpospolitą.
 
-**Szwedzki Potop** to określenie wojny na ziemiach polskich i duńskich, prowadzonej przez Szwecję od 1655 do 1660 r. pod wodzą króla Karola X Gustawa. Czasy potopu charakteryzowało rozlew krwi, zniszczenie oraz głód, z czego wynikły ogromne bezpośrednie i pośrednie straty w ludziach i mieniu.
+Szwedzki Potop miał ogromne konsekwencje dla Rzeczypospolitej. W czasie wojny zniszczono i spalono ponad 200 zamków i twierdz. Spustoszeniu uległy miasta, wsie, kościoły i klasztory. Szacuje się, że w wyniku wojny zginęło ponad milion osób, a ponad dwa miliony ludzi straciło dach nad głową.
 
-Głównym powodem konfliktu była chęć Carola X Gustawa do rozszerzenia wpływów Szwecji w regionie bałtyckim, co doprowadziło do wojny z Rzecząpospolitą. Karol X Gustaw poprowadził szwedzkie wojsko w głąb ziem polskich, zdobywając takie miasta, jak Kraków i Warszawa.
+Szwedzki Potop spowodował także zmiany w administracji kraju. Wiele urzędów i godności zostało skonfiskowanych, a ich dotychczasowi posiadacze uciekli z kraju lub trafili do więzień. Dodatkowo wzrosło znaczenie szlachty jako głównego wsparcia króla w administracji kraju.
 
-W trakcie tego konfliktu, w 1656 r., miała miejsce Bitwa pod Gdańskiem, która była jedną z najważniejszych bitew w trakcie potopu - Szwedzi odnieśli sukces, pokonując połączone siły Polaków i Brandenburczyków. Ponadto ważnym wydarzeniem było przejście na stronę Szwecji i conversio(prawosławne przesilenie) wyznawców prawosławia na Polskich Ziemiach Wschodnich, na czele którymi stanął hetman Janusz Radziwiłł.
+Szwedzki Potop miał także wpływ na rozwój kultury Rzeczypospolitej. W wyniku wojny na ziemie polskie przybyło wiele artystów, uczonych i rzemieślników, którzy przyłączyli się do rozwijającej się tutaj kultury.
 
-W 1658 r. Szwedzi podbili duńskie terytoria, a król Danii Chrystian IV został zmuszony do podpisania traktatu w Roskilde, zrzekając się wpływów na południe od Zelandii. Jednakże sytuacja zmieniła się, gdy Dania otrzymała pomoc od Holandii, Brandenburgii i cesarza Ferdynanda III, co doprowadziło do zwycięstwa sprzymierzonych nad Szwedami w 1659 r. ostatecznie doprowadzając do uwolnienia opanowanych przez Szwecję
+Szwedzki Potop wpłynął także na decentralizację Rzeczypospolitej. Wielkie straty terytorialne i instytucjonalne spowodowały, że Rzeczpospolita stała się słabszą państwem.
 
-terytoriów i zakończenia konfliktu.
-
-Konflikt zakończył się w 1660 r. podpisaniem traktatu w Oliwie, zawartego między Szwecją a Rzecząpospolitą, Brandenburgią oraz Danią. Szwecja uznała granice Rzeczypospolitej sprzed potopu i wycofała się z jej terytorium. Konflikt zakończył się ogromną stratą dla Polski, gdyż zniszczenia wojenne, wynikające z potopu, przyczyniły się do znaczącego obniżenia poziomu życia, zmniejszenie ludności i destabilizacji kraju.
+Rozejm w Oliwie był bardzo korzystny dla Szwecji. Król Szwecji otrzymał Inflanty, pozyskał prawo pobierania ceł w Gdańsku, a Rzeczpospolita zobowiązała się do płacenia odszkodowań wojennych. Rozejm w Oliwie zakończył okres największych sukcesów szwedzkich w Europie, a utrata Inflant przez Rzeczpospolitą byłaby powodem do rozpoczęcia kolejnej wojny.
