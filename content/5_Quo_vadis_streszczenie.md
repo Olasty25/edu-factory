@@ -1,64 +1,58 @@
- # Quiz - Quo vadis streszczenie?
+ # Quo vadis streszczenie?
+
+## Quiz
 
 1. Co to jest streszczenie?
-   A) Wyciąg nutowy z utworu muzycznego
-   B) Skrócona wersja książki
-   C) Nowy tytuł filmu
-   D) Zmiana pogody
+   A. Długi tekst
+   B. Krótki tekst
+   C. Obraz
+   D. Tabela
+   **Poprawna odpowiedź: B. Krótki tekst**
 
-   Poprawna odpowiedź: B) Skrócona wersja książki
+2. Czym się różni streszczenie od abstraktu?
+   A. Długością
+   B. Treścią
+   C. Celami
+   D. Metodami tworzenia
+   **Poprawna odpowiedź: C. Celami**
 
-2. Jaki jest główny cel streszczenia?
-   A) Rozwinięcie treści
-   B) Zmiana perspektywy
-   C) Przedstawienie kluczowych punktów
-   D) Usunięcie szczegółów
+3. Kiedy stosuje się streszczenie?
+   A. Przed czytaniem tekstu
+   B. Podczas czytania tekstu
+   C. Po czytaniu tekstu
+   D. Zamiast czytania tekstu
+   **Poprawna odpowiedź: D. Zamiast czytania tekstu**
 
-   Poprawna odpowiedź: C) Przedstawienie kluczowych punktów
+4. Jakiego rodzaju streszczenie jest najbardziej efektywne?
+   A. Przekazujące wszystkie punkty
+   B. Przekazujące ważne punkty
+   C. Przekazujące mało informacji
+   D. Przekazujące opinie autora
+   **Poprawna odpowiedź: B. Przekazujące ważne punkty**
 
-3. Jakie są trzy typy streszczeń?
-   A) Długi, średni, krótki
-   B) Podsumowujący, analizujący, przekazywania
-   C) Prosty, złożony, umowny
-   D) Formalny, nieformalny, neutralny
+5. Jakie są zalety streszczeń?
+   A. Przyjemne czytanie
+   B. Szybkie poznawanie informacji
+   C. Poprawa pamięci
+   D. Wszystkie poprzednie odpowiedzi
+   **Poprawna odpowiedź: D. Wszystkie poprzednie odpowiedzi**
 
-   Poprawna odpowiedź: B) Podsumowujący, analizujący, przekazywania
+## Fiszki
 
-4. Kiedy stosować streszczenie podsumowujące?
-   A) W celu przedstawienia wniosków
-   B) Gdy chcemy rozwinięć temat
-   C) W celu zmiany perspektywy
-   D) W celu usunięcia szczegółów
+1. Streszczenie to **krótki** tekst, w odróżnieniu od długiego oryginalnego tekstu.
+2. Streszczenie i abstrakt różnią się **celami**.
+3. Streszczenie powinno zawierać **ważne punkty** tekstu źródłowego.
+4. Streszczenie powinno być tworzone po **czytaniu** tekstu źródłowego.
+5. Streszczenie może być **przyjemne** do czytania, poprawiać **pamięć** i pozwala na **szybkie** poznawanie informacji.
 
-   Poprawna odpowiedź: A) W celu przedstawienia wniosków
+## Notatki
 
-5. Kiedy stosować streszczenie przekazywania?
-   A) W celu przedstawienia wniosków
-   B) Gdy chcemy rozwinięć temat
-   C) W celu zmiany perspektywy
-   D) W celu przekazania treści autorskiej
+Streszczenie to krótki tekst, który zawiera najważniejsze punkty oryginalnego tekstu. Jest on tworzony po czytaniu tekstu źródłowego i ma na celu ułatwienie poznawania informacji i zapamiętywania. Streszczenie różni się od abstraktu, który zawiera ogólną charakterystykę tekstu, a jego celem jest zainteresowanie czytelnika dalszą lekturą.
 
-   Poprawna odpowiedź: D) W celu przekazania treści autorskiej
+Streszczenie powinno zawierać tylko najważniejsze informacje, aby było ono jak najkrótsze i jasne. Jest ono zazwyczaj stosowane w przypadku tekstów długich i skomplikowanych, które trudno jest czytać w całości. Dzięki streszczeniu czytelnik może szybko poznać istotne punkty tekstu i zdecydować, czy warto przeczytać cały tekst.
 
-# Fiszki - Quo vadis streszczenie?
+Streszczenie powinno być napisane w sposób jasny i przystępny, aby było przyjemne do czytania. Poprawia to również pamięć czytelnika, ponieważ jest on w stanie lepiej zapamiętać informacje, które są prezentowane w jasny i przystępny sposób.
 
-- Streszczenie to skrócona wersja dzieła
-- Głównym celem streszczenia jest przedstawienie kluczowych punktów
-- Istnieją trzy typy streszczeń: podsumowujący, analizujący, przekazywania
-- Streszczenie podsumowujące służy do przedstawienia wniosków
-- Streszczenie analizujące pomaga w zrozumieniu treści
-- Streszczenie przekazywania służy do przekazania treści autorskiej
+Streszczenie powinno być tworzone w odrębnym akcie pisania, a nie po prostu zaczerpnięte z tekstu źródłowego. Powinno ono być napisane w nowej formie i w nowych słowach, aby uniknąć plagiatu i zapewnić jasność i przystępność tekstu.
 
-# Notatki - Quo vadis streszczenie?
-
-Streszczenie to zawsze skrócona wersja oryginalnego dzieła. Jest ono stosowane w sytuacjach, gdy nie mamy czasu lub możliwości przeczytania pełnej wersji. Głównym celem streszczenia jest przedstawienie kluczowych punktów treści, aby umożliwić czytelnikowi szybkie i łatwe zrozumienie treści.
-
-Istnieją trzy rodzaje streszczeń: podsumowujący, analizujący i przekazywania. Każdy z nich ma inne zastosowanie w zależności od potrzeb czytelnika.
-
-Streszczenie podsumowujące służy do przedstawienia wniosków i podsumowania treści. Jest to najpopularniejszy rodzaj streszczenia, który jest stosowany w wielu sytuacjach, w tym w artykułach naukowych, recenzjach książek i filmów.
-
-Streszczenie analizujące pomaga w zrozumieniu treści i służy do podania wniosków. Jest ono stosowane w sytuacjach, gdy oryginalne dzieło jest bardzo złożone i wymaga analizy.
-
-Streszczenie przekazywania służy do przekazania treści autorskiej i jest stosowane w sytuacjach, gdy oryginalne dzieło jest nieznane czytelnikom. Jest to najtrudniejszy rodzaj streszczenia, który wymaga dużego zaangażowania autora.
-
-W zależności od potrzeb czytelnika, autor powinien zdecydować, który rodzaj streszczenia będzie najbardziej odpowiedni. Każdy z nich ma swoje zalety i wady, dlatego warto rozważyć je wszystkie przed podjęciem decyzji.
+Wreszcie streszczenie powinno być sprawdzone na poprawność i precyzję, aby było pewne, że zawiera ono wszystkie najważniejsze punkty tekstu źródłowego. Powinno ono również być przyporządkowane do oryginalnego tekstu, aby czytelnik mógł łatwo odnaleźć tekst źródłowy, jeśli będzie to konieczne.

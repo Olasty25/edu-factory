@@ -1,66 +1,77 @@
- # Tango Summarized - Quiz
+ # Tango Summary - Study Materials
 
-1. What is the name of the dance originated in the late 19th century in Buenos Aires, Argentina?
-   A) Salsa
-   B) Flamenco
-   C) Tango
-   D) Samba
-   
-   Answer: C) Tango
-   
-2. Which of the following is NOT a characteristic of tango music?
-   A) Binarily structured phrases
-   B) Use of chromatic harmonies
-   C) Predominant 3/4 time signature
-   D) Melancholic and expressive melodies
-   
-   Answer: C) Predominant 3/4 time signature (tango music typically uses 2/4 or 4/4)
-   
-3. Which orchestra leader, composer, and bandoneón player is often regarded as the "King of Tango"?
-   A) Juan Carlos Copes
-   B) Carlos Gardel
-   C) Astor Piazzolla
-   D) Osvaldo Pugliese
-   
-   Answer: C) Astor Piazzolla
-   
-4. In which decade did tango experience a revival known as the "Tango Nuevo" movement?
-   A) 1920s
-   B) 1950s
-   C) 1970s
-   D) 1990s
-   
-   Answer: D) 1990s
-   
-5. What is the name of the dance that evolved from the traditional tango and is typically danced in international competitions?
-   A) Tango Nuevo
-   B) Tango de Salón
-   C) Tango Escenario
-   D) Tango Milonguero
-   
-   Answer: C) Tango Escenario
+In this study guide, you will find a quiz, flashcards, and notes to help you better understand the material related to the Tango dance.
 
-# Tango Summarized - Flashcards
+## Quiz
 
-1. **Tango**
-   The dance and music style originated in the late 19th century in Buenos Aires, Argentina.
-2. **Tango Music Characteristics**
-   Binarily structured phrases, use of chromatic harmonies, melancholic and expressive melodies.
-3. **Astor Piazzolla**
-   Orchestra leader, composer, and bandoneón player regarded as the "King of Tango". Known for creating the "Tango Nuevo" movement.
-4. **Tango Nuevo**
-   A revival of tango in the 1990s that combined traditional tango with elements of jazz and classical music.
-5. **Tango Escenario**
-   A dance style that evolved from traditional tango and is typically danced in international competitions.
+1. What is the origin of Tango?
+   A. Argentina
+   B. Brazil
+   C. Cuba
+   D. Spain
+   (Answer: A. Argentina)
+2. What are the characteristic elements of Tango?
+   A. Slow, dramatic movements
+   B. Quick, sharp movements
+   C. Complex footwork
+   D. All of the above
+   (Answer: D. All of the above)
+3. Who was Carlos Gardel and what was his contribution to Tango?
+   A. A musician who composed and sang Tango music
+   B. A dancer who popularized Tango around the world
+   C. A dance instructor who developed the Tango style
+   D. A film director who included Tango in his movies
+   (Answer: A. A musician who composed and sang Tango music)
+4. What is the difference between Tango and Milonga?
+   A. Tango has a faster tempo than Milonga
+   B. Milonga has a faster tempo than Tango
+   C. Tango has a more complex structure than Milonga
+   D. Milonga has a more complex structure than Tango
+   (Answer: B. Milonga has a faster tempo than Tango)
+5. What is the role of ochos in Tango?
+   A. To create subtle movements and add expressiveness to the dance
+   B. To provide complex footwork and challenging turns
+   C. To establish a close connection between partners
+   D. To show off the dancer's technical skills
+   (Answer: A. To create subtle movements and add expressiveness to the dance)
 
-# Tango Summarized - Notes
+## Flashcards
 
-Tango is a dance and music style that originated in the late 19th century, primarily in the working-class neighborhoods of Buenos Aires, Argentina. The dance is characterized by its passionate and dramatic movements, while the music features expressive and melancholic melodies, often structured in binary phrases and utilizing chromatic harmonies.
+1. **Tango** - A partner dance characterized by slow, dramatic movements, quick, sharp movements, and complex footwork.
+2. **Milonga** - A faster paced version of Tango with a more playful and energetic feel.
+3. **Carlos Gardel** - A musician who composed and sang Tango music and contributed significantly to its popularity in the early 20th century.
+4. **Ochos** - A series of smooth, subtle movements that add expressiveness to the dance.
+5. **Tango Nuevo** - A modern style of Tango that combines traditional elements with improvisation, complex footwork, and intricate movements.
 
-The dance and music of tango gained popularity in Europe during the early 20th century, especially in France. This led to the development of various styles and orchestrations of tango music, with some bands favoring a more classical approach and others incorporating elements of jazz and other genres.
+## Notes
 
-Astor Piazzolla is one of the most famous tango composers and musicians, known for his influential "Tango Nuevo" movement, which emerged in the 1990s. Tango Nuevo combined traditional tango with elements from classical music and jazz, resulting in a more complex and varied sound. Piazzolla's works have been influential in the popularization of tango around the world.
+Tango is a partner dance that originated in the late 19th century in Argentina. It has become one of the most popular dances in the world due to its dramatic and complex movements, passionate music, and deep cultural significance.
 
-There are various tango dance styles, but Tango Escenario is the one typically seen in international competitions. Tango Escenario evolved from traditional tango to incorporate more dramatic and choreographed movements, while still retaining the passionate nature of the original dance. In contrast, Tango Milonguero is a close-embrace style of tango, designed for social dancing in small spaces, whereas Tango de Salón is more fluid and less codified, allowing for greater self-expression.
+**Characteristics of Tango**
 
-Tango remains a powerful and influential dance and music genre, known for its emotional intensity and lasting appeal. Its various iterations and adaptations over the past century have allowed it to maintain its relevance and reach new audiences, while still paying homage to its rich history and roots.
+* Slow, dramatic movements
+* Quick, sharp movements
+* Complex footwork
+* Close embrace
+* Intricate, improvised turns
+* Expressive, sensual movements
+
+Tango is often danced to traditional music, including the bandoneón, violin, piano, and sometimes vocals. The tempo of Tango is slow to moderate, with a deep, heavy feel and a strong 2/4 or 4/4 rhythm.
+
+**Milonga**
+
+Milonga is a faster paced version of Tango and is one of the three core dances of Argentine Tango. Milonga has a more playful and energetic feel than Tango and is danced to faster, lighter music with more emphasis on the upbeat.
+
+**Carlos Gardel**
+
+Carlos Gardel was a musician who composed and sang Tango music and contributed significantly to its popularity in the early 20th century. Gardel's songs, such as "Mi Noche Triste," "Por una cabeza," and "El día que me quieras," are still popular today and are considered classics of the Tango genre.
+
+**Ochos**
+
+Ochos are a series of smooth, subtle movements that add expressiveness to the dance. They involve the dancer making a half-circle with one foot, while the other foot remains stationary. This creates a sense of elegant flow and adds a level of sophistication and grace to the dance.
+
+**Tango Nuevo**
+
+Tango Nuevo is a modern style of Tango that combines traditional elements with improvisation, complex footwork, and intricate movements. Tango Nuevo was developed in the late 20th century and has become popular among both dancers and audiences. It emphasizes the connection between partners and encourages self-expression and creativity.
+
+In conclusion, Tango is a rich and dynamic dance that combines slow, dramatic movements with quick, sharp movements and complex footwork. Tango has a deep cultural significance and is danced to passionate, emotional music. By understanding the history and characteristics of Tango, as well as its various styles and techniques, you can deepen your appreciation and enjoyment of this fascinating dance.

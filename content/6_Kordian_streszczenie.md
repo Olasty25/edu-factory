@@ -1,57 +1,61 @@
- # Quiz: Kordian Streszczenie
-1. Kto jest głównym bohaterem dramatu Juliusza Słowackiego?
-   A) Jan Kochanowski
-   B) Mickiewicz
-   C) Kordian
-   D) Słowacki
+ # Quiz
 
-   Correct answer: C) Kordian
+1. Który akt dramatu „Kordian” Słowackiego rozpoczyna się słowami: „Poszukaj tego Człowieka”?
+A. Akt I
+B. Akt II
+C. Akt III
+D. Akt IV
 
-2. Co jest głównym tematem dramatu Kordiana?
-   A) Miłość
-   B) Kwestie filozoficzne
-   C) Zemsta
-   D) Epopeja narodowa
+Poprawna odpowiedź: C. Akt III
 
-   Correct answer: B) Kwestie filozoficzne
+2. Która postaci w „Kordianie” Słowackiego reprezentuje ideał wolności i niezależności?
+A. Kordian
+B. Faust
+C. Wąż
+D. Diabeł
 
-3. Kto to jest ojciec Kordiana w dramacie?
-   A) Ojciec Narodu
-   B) Ksiądz
-   C) Car
-   D) Demon
+Poprawna odpowiedź: B. Faust
 
-   Correct answer: A) Ojciec Narodu
+3. Gdzie odbywa się scena śniadania u księcia?
+A. W zamku na wzgórzu
+B. W lesie na drodze do wioski
+C. W pałacu w Warszawie
+D. W puszczy
 
-4. Po co Kordian został umieszczony w zakładzie dla umysłowo chorych?
-   A) Z powodu jego buntowniczego charakteru
-   B) Z powodu jego uczuciowej słabości
-   C) Z powodu jego myśli samobójczych
-   D) Z powodu jego chęci rozwiązania zagadek filozoficznych
+Poprawna odpowiedź: A. W zamku na wzgórzu
 
-   Correct answer: C) Z powodu jego myśli samobójczych
+4. Kordian w Kościele Łaski poznaje Julię. Co jest jej obowiązkiem w stosunku do ojca?
+A. Ukarać go
+B. Opiekować się nim
+C. Zabić go
+D. Zaniechać kontaktu z nim
 
-5. Dlaczego Kordian postanawia zabić Cara?
-   A) Z powodu jego opresyjnych rządów
-   B) Z powodu jego osobistej zemsty
-   C) Z powodu jego rywalizacji z Ojcem Narodu
-   D) Z powodu swojej urody
+Poprawna odpowiedź: B. Opiekować się nim
 
-   Correct answer: A) Z powodu jego opresyjnych rządów
+5. Kordiana męczą więzy rodzinne i społeczne, które zmuszają ją do poślubienia........
+A. księcia
+B. króla
+C. bogatego mieszczanina
+D. przyjaciela ojca
 
-# Fiszki: Kordian Streszczenie
-1. Juliusz Słowacki - polski romantyczny poeta i dramaturg, jeden z tzw. trzech wieszczów polskich.
-2. Głównym bohaterem dramatu Kordiana jest tytułowy bohater, Kordian.
-3. Akcja dramatu toczy się w świecie fantastycznym, z elementami sennymi i nadnaturalnymi.
-4. Dramat porusza tematykę kwestii filozoficznych i egzystencjalnych.
-5. Ojciec Kordiana to Ojciec Narodu, który w dramacie reprezentuje naród polski i jego ducha.
+Poprawna odpowiedź: A. księcia
 
-# Notatki: Kordian Streszczenie
-* Kordian to dramat romantyczny, napisany w 1833 roku przez Juliusza Słowackiego.
-* Jest to pierwsze dzieło w dorobku poety, w którym pojawia się postać filozofującego, desperackiego i buntującego się przeciwko światu bohatera.
-* Akcja dramatu dzieje się w świecie fantastycznym, z elementami sennymi i nadnaturalnymi, a głównymi postaciami są Kordian i Ojciec Narodu.
-* Tematyka dramatu jest głęboka i filozoficzna, a bohaterowie w trakcie rozmów i rozważań dotykają ważnych pytań egzystencjalnych.
-* Kordian jest dramatem buntu przeciwko śmierci, czasowi i non-sensowności istnienia. Główny bohater sprzeciwia się codzienności i szuka odpowiedzi na pytania natury bytowe.
-* Przez cały dramat Kordian usiłuje rozwiązać kwestie egzystencjalne, a jego rozterki toczą się wokół idei poświęcenia się, miłości i heroizmu.
-* W dramacie pojawia się wiele elementów mitologicznych i symbolicznych, a Ojciec Narodu jest personifikacją ducha narodu polskiego.
-* Dramat kończy się tragicznym finałem, w którym Kordian nie jest w stanie dokonać zamachu na Cara, a w wyniku tego jego umysł pęka.
+# Fiszki
+
+1. Kordian - tytułowy bohater dramatu, młody poeta, pragnący uwolnić Polskę spod obcych rządów.
+2. Faust - czarnoksiężnik, reprezentujący wolność i niezależność myśli.
+3. Julia - córka księcia, zakochana w Kordianie, odgrywaąca kluczową rolę w akcie III.
+4. Demon - postać uosabiająca zło, przekonuje Kordiana do popełnienia zabójstwa.
+5. Książę - postać symbolizująca tyranię, ojciec Julii.
+
+# Notatki
+
+Juliusz Słowacki, polski romantyk, napisał dramat „Kordian” w latach 1833-1842. Akcja toczy się w Polsce i w piekle. „Kordian” to dramat filozoficzny, w którym bohater szuka odpowiedzi na pytania o wolność, niepodległość i sens życia.
+
+Bohaterem dramatu jest młody poeta Kordian, który pragnie uwolnić Polskę spod okupacji obcej. Nie może tego jednak dokonać, gdyż podlega więzom rodzinnym i społecznym. Słowacki ukazuje w nim dramat romantycznego heroizmu, który nie może być zrealizowany z powodu wpływu rzeczywistości.
+
+Kordiana męczą więzy rodzinne i społeczne, które zmuszają go do poślubienia księcia. W wyniku tego rozpacza i decyduje się popełnić zabójstwo. W tym momencie pojawia się Demon, który przekonuje Kordiana do popełnienia czynu.
+
+W dramacie występuje również postać Fausta, czarnoksiężnika, który symbolizuje wolność i niezależność myśli. Faust wędruje po Polsce i szuka istoty człowieczeństwa. Jest ona antagonistą Kordiana, gdyż przedstawia idealne pojęcie wolności, którego ten ostatni nie może osiągnąć.
+
+„Kordian” to dzieło, w którym Słowacki porusza tematy społeczne, polityczne i filozoficzne. Bohaterowie dramatu szukają odpowiedzi na pytania dotyczące wolności i niepodległości. Słowacki w sposób krytyczny ukazuje warunki społeczne i polityczne w Polsce, w której żył.
