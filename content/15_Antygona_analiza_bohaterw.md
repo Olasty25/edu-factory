@@ -1,63 +1,59 @@
- # Quiz - Antygona: Analiza bohaterów
+ # Quiz
 
-1. Która postać grecka była siostrą Antygony, Ismeny, i Eteoklesa oraz córką króla Tejrezjasza?
-   A. Kreon
-   B. Jokasta
-   C. Polinices
-   D. Eteokles
+1. Kto są rodzice Antygony?
+A. Eteokles i Polinices
+B. Jokasta i Oidipus
+C. Kreon i Eurydike
+D. Haemon i Ismene
 
-   Poprawna odpowiedź: B. Jokasta
+   Poprawna odpowiedź: B. Jokasta i Oidipus
 
-2. Jak kamiennym sercem określono postać która była władcą Teb i stryjem Antygony, Ismeny, i Eteoklesa?
-   A. Kreon
-   B. Jokasta
-   C. Polinices
-   D. Eteokles
+2. Czym się zajmuje Antygona na początku sztuki?
+A. Organizowaniem pogrzebów
+B. Doradzaniem Kreonowi
+C. Opieką nad swoim bratem
+D. Planowaniem ślubu
 
-   Poprawna odpowiedź: A. Kreon
+   Poprawna odpowiedź: A. Organizowaniem pogrzebów
 
-3. Która postać w dramacie zdecydowała się zaryć grobowiec Poliniksa, mimo iż król Tejrezjasza to zabronił?
-   A. Antygona
-   B. Ismena
-   C. Jokasta
-   D. Eurydika
+3. Kto zabronił pogrzebu Polinicesa?
+A. Eteokles
+B. Kreon
+C. Ismene
+D. Oberżysta
 
-   Poprawna odpowiedź: A. Antygona
+   Poprawna odpowiedź: B. Kreon
 
-4. Kto jest mężem Antygony w dramacie?
-   A. Polinices
-   B. Kreon
-   C. Hajmon
-   D. Eteokles
+4. Gdzie zostanie uwięziona Antygona?
+A. Na pustyni
+B. W wieży
+C. W grobowcu
+D. W stajni
 
-   Poprawna odpowiedź: C. Hajmon
+   Poprawna odpowiedź: B. W wieży
 
-5. Kto jest matką Eteoklesa oraz Poliniksa w dramacie?
-   A. Jokasta
-   B. Kreon
-   C. Eurydika
-   D. Antygona
+5. Kto popełnia samobójstwo w tej sztuce?
+A. Eurydike
+B. Jokasta
+C. Antygona i Haemon
+D. Ismene
 
-   Poprawna odpowiedź: A. Jokasta
+   Poprawna odpowiedź: C. Antygona i Haemon
 
-# Fiszki - Antygona: Analiza boherów
+# Fiszki
 
-1. ANTYGONA - siostra Izmeny, Polinikes oraz Eteoklesa, córka Jokasty oraz Kreona. Główne bohaterka tragedii.
-2. KREON - wuj Antygony i jej opiekun, po śmierci jej ojca Tejrezjasza. Król Tejrezjasza.
-3. JOKASTA - matka Antygony, Izmeny, Eteoklesa oraz Polinikesa, siostra Kreona, pierwszą żoną Lajosa, a następnie jego ojcem.
-4. HAJMON - syn Kreona oraz Eurydyki, narzeczony Antygony.
-5. ETEOKLES - syn Jokasty i Kreona, oraz brat Antygony i Polinikesa.
+1. Antygona - córka Jokasty i Oedipusa, siostra Eteoklesa i Polinicesa.
+2. Eteokles i Polinices - bracia Antygony, po śmierci ich ojca walczą o tron Teb, zabijający się wzajemnie.
+3. Kreon - nowy król Teb po śmierci Oedipusa, stryj Eteoklesa, Polinicesa i Antygony.
+4. Ismene - siostra Antygony, nie chce z nią pomóc w pochówku Polinicesa.
+5. Haemon - syn Kreona, zakochany w Antygonie.
 
-# Notatki - Antygona: Analiza bohaterów
+# Notatki
 
-W tragedii autorstwa Sofoklesa "Antygona" ważną rolę odgrywają dwie postacie - Antygona i Kreon.
+Sztuka Sofoklesa „Antygona” opowiada historię trzech rodzeństw: Eteoklesa, Polinicesa i Antygony. Gdy Oedipus, król Tebe, ginie na wygnaniu, bracia walczą o tron. W wyniku walk giną obaj. Kreon, stryj rodzeństwa, zabrania pogrzebu Polinicesa, ponieważ uważa, że zmarł jako zdrajca. Antygona, chcąc uczcić pogrzebem brata, odkrywa jego ciało i kryje. Zostaje przyłapana i skazana na śmierć.
 
-Antygona to główna bohaterka tragedii, córka zmarłego króla Tejrezjasza oraz Jokasty. Ma dwie siostry - Izmenę oraz zmarłą wcześniej Megareę - oraz dwóch braci - Eteoklesa oraz Polinikesa. Jest zaręczona z Haјmonem, synem Kreona i Eurydyki.
+Antygona to silna kobieta, będąca postacią tragicznego bohatera. Pragnie ona zrobić wszystko, aby spełnić swoją misję i podołała tej próbie za wszelką cenę. Kreon zajmuje stanowisko antagonisty w tej historii. Jest on bezwzględnym władcą, który nie lubi kiedy ktoś zagraża jego autorytetowi. Opiera swoje decyzje na uprzedzeniach, a nie na prawdzie. Daje przykład słabych cech lidera, ponieważ nie zgadza się na żadne porady.
 
-Kreon to postać, która włącza się w opowieść po śmierci swojego brata - Tejrezjasza. Zajmuje on jego miejsce i zostaje królem Tejrezjasza. Ma żonę Eurydykę i syna Haјmona.
+Haemon i Ismene to dwie pozostałe postaci w sztuce. Haemon jest synem Kreona i narzeczonym Antygony. Ismene natomiast jest siostrą Antygony, która początkowo odmawia pomocy siostrze w pochówku Polinicesa. Jednak jej postawa zmienia się, kiedy dowiaduje się o śmierci Kreona.
 
-Przez całą opowieść Kreon odgrywa rolę wujka oraz opiekuna Antygony, pomimo że jest jej stryjem, nie jest ona zwyczajnie związana z nim emocjonalnie. Jest ona mu nieubłagalna w swych poczynaniach, czym wywołuje nie tylko jego gniew, ale również jego niezrozumienie.
-
-Kreon staje się coraz bardziej brutalny i uparte w swych postanowieniach, ponieważ obawia się o swoją pozycję i prestiż w roli króla. Zakazał pogrzebania Polinikesa, co doprowadza Antygonę do desperackich czynów. Postanawia ona zaryć grobowiec dla swego brata, mimo zakazu Kreona. Ten z tego powodu skazuje ją na śmierć.
-
-W tragicznym dramacie Antygona i Kreon reprezentują dwie różne postawy - etyczną i polityczną. Antygona jest konsekwentna w swych poglądach i działaniach, chociaż to może skutkować jej zgonem. Kreon, mimo iż dba o dobro swojego miasta, jest bardziej skoncentrowany na swoich osobistych celach i interesie.
+„Antygona” jest dramatem, który przedstawia konflikt między indywidualizmem i autorytetem. Antygona była świadoma konsekwencji swoich działań, ale była gotowa je zapłacić. Opowiada ona o obowiązkach i podporządkowaniu się prawu. Można też zinterpretować tę sztukę jako historię walki o wolność i o wyraz swego przekonania.

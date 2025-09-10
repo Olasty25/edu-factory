@@ -1,59 +1,58 @@
- # Quiz - Lalka: Analiza bohaterów
+ # Quiz
 
-1. Który z bohaterów "Lalki" jest najbardziej rozrywkowy i hojny, gotów dzielić się z innymi wszystkim, co ma?
-   A. Witaistrzostwo
-   B. Ignacy Rzecki
-   C. Stanisław Wokulski
-   D. Paweł Orwid
-   ***Poprawna odpowiedź: A. Witaistrzwo***
+1. Kto jest lalką w powieści "Lalka" Bolesława Prusa?
+A. Ignacy Rzecki
+B. Stanisław Wokulski
+C. Izabela Łęcka
+D. Helena Modrzejewska
+Poprawna odpowiedź: C. Izabela Łęcka
 
-2. Która z bohaterek "Lalki" jest arystokratką, inteligentną i początkowo interesuje się Wokulskim tylko dlatego, że jest bogaty?
-   A. Izabela Ługiewicz
-   B. Joasia Rzecka
-   C. Barbara Niechcic
-   D. Hortensja Kamieńska
-   ***Poprawna odpowiedź: C. Barbara Niechcic***
+2. Jaki jest charakter Ignacego Rzeckiego w "Lalce"?
+A. Pobożny i konserwatywny
+B. Liberalny i postępowy
+C. Cyniczny i bezpruderyjny
+D. Skromny i uczciwy
+Poprawna odpowiedź: A. Pobożny i konserwatywny
 
-3. Który z bohaterów "Lalki" to zubożały szlachcic, który zaprzyjaźnia się ze starszym krewnym i zyskuje przez to dostęp do najwyższych sal i salonów?
-   A. Witaistrzwo
-   B. Ignacy Rzecki
-   C. Stanisław Wokulski
-   D. Paweł Orwid
-   ***Poprawna odpowiedź: B. Ignacy Rzecki***
+3. Jaka jest motywacja Stanisława Wokulskiego w "Lalce"?
+A. Chce zdobyć majątek i pozycję społeczną
+B. Chce pomóc ubogim i potrzebującym
+C. Chce zemścić się na swoich wrogach
+D. Chce odkryć nowe tereny i kultury
+Poprawna odpowiedź: A. Chce zdobyć majątek i pozycję społeczną
 
-4. Która z bohaterek "Lalki" jest bardzo ambitna, marzy o tym, aby wyjść za mąż za człowieka bogatego i wyżej urodzonego oraz nigdy nie pracować?
-   A. Izabela Ługiewicz
-   B. Joasia Rzecka
-   C. Barbara Niechcic
-   D. Hortensja Kamieńska
-   ***Poprawna odpowiedź: D. Hortensja Kamieńska***
+4. Jaką rolę odgrywa Helena Modrzejewska w "Lalce"?
+A. Jest sławną aktorką, która inspiruje głównego bohatera
+B. Jest dziennikarką, która oskarża głównego bohatera o malwersacje
+C. Jest siostrzenicą głównego bohatera, która zakochuje się w złym mężczyźnie
+D. Jest kobietą z lubieżnym stylem życia, która próbuje uwieść głównego bohatera
+Poprawna odpowiedź: A. Jest sławną aktorką, która inspiruje głównego bohatera
 
-5. Który z bohaterów "Lalki" początkowo jest wielce zafascynowany kobietą ze świata arystokracji, ale z biegiem czasu odkrywa, że zauroczyła go zupełnie inna kobieta, córka Ignacego Rzeckiego?
-   A. Witaistrzwo
-   B. Ignacy Rzecki
-   C. Stanisław Wokulski
-   D. Paweł Orwid
-   ***Poprawna odpowiedź: C. Stanisław Wokulski***
+5. Kim jest Kasper Turzycki w "Lalce"?
+A. Jest bogatym bankierem, który rywalizuje o względy Izabeli Łęckiej z Wokulskim
+B. Jest ubogim artystą, którego Wokulski finansowo wspiera
+C. Jest młodym poinformowanym literatem, który krytykuje wartości tradycyjne
+D. Jest starszym, mądrym przyjacielem Wokulskiego, który doradza mu w sprawach miłosnych
+Poprawna odpowiedź: A. Jest bogatym bankierem, który rywalizuje o względy Izabeli Łęckiej z Wokulskim
 
-# Fiszki - Lalka: Analiza bohaterów
+# Fiszki
 
-- Witaistrzwo - zubożały szlachcic, przyjaciel Ignacego Rzeckiego, rozrywkowy i hojny
-- Ignacy Rzecki - starszy krewny Wokulskiego, były oficer, emeryt z pensją 600 złotych, miłośnik muzyki i tańca, zwolennik konserwatyzmu
-- Stanisław Wokulski - kupiec, samouk, bogaty, oziębły, marzycielski, ambitny, świadomy swojej wyższości klasowej, romantycznie zakochany w Barbarze Niechcic
-- Paweł Orwid - poeta, przyjaciel głównego bohatera, nosił się z zamiarem wyjazdu za granicę i podboju Europy
-- Barbara Niechcic - arystokratka, piękna, inteligentna, zafascynowana nowoczesnością, córka starościna Niechcica, marzy o zaręczynach z hrabią de Brient
-- Izabela Ługiewicz - córka właściciela cukierni na Wiosny, młoda dziewczyna walcząca o byt codzienny, ostatecznie wychodzi za mąż za Durego
-- Joasia Rzecka - siostra Ignacego Rzeckiego, zakochana w Orwidzie
-- Hortensja Kamieńska - arystokratka, inteligentna, oziębła, zachowująca się stronniczo względem ludzi, z którzy się spotyka
+1. Ignacy Rzecki – konserwatywny, pobożny księgarz
+2. Stanisław Wokulski – pozbawiony iluzji samotnik, pragnący zdobyć majątek i pozycję społeczną
+3. Izabela Łęcka – piękna, lecz pozbawiona głębszych uczuć arystokratka
+4. Helena Modrzejewska – sławna aktorka, która inspiruje głównego bohatera
+5. Kasper Turzycki – bogaty bankier, rywalizujący z Wokulskim o względy Izabeli Łęckiej
 
-# Notatki - Lalka: Analiza bohaterów
+# Notatki
 
-"Lalka" Bolesława Prusa obfituje w szeroki wachlarz postaci, z których każda jest ważna dla całej fabuły. Autor opisuje bohaterów w sposób szczegółowy i realistyczny, nadając im cechy, które odzwierciedlają ich osobowości oraz pozwalają wczuć się w ich myśli i emocje.
+W powieści "Lalka" Bolesława Prusa pojawia się wiele postaci, które mają wpływ na głównego bohatera – Stanisława Wokulskiego. Jeden z najbardziej interesujących bohaterów to Ignacy Rzecki, konserwatywny i pobożny księgarz, który jest świadkiem przemian epoki. Jego sklep jest miejscem, gdzie ludzie dzielą się nowinkami i plotkami, a on sam jest reprezentantem obaw i nadziei mieszczaństwa.
 
-Głównym bohaterem jest Stanisław Wokulski, który wyrasta z biednej rodziny i staje się bogatym kupcem, stale rozwija swój biznes i umacnia swoją pozycję w towarzystwie. Jest człowiekiem wyjątkowo ambitnym, ale jego słabością jest miłość do Barbary Niechcic, arystokratki, której zalety w jego oczach zostają ocenzurowane. Wokulski marzy o tym, aby zwrócić na siebie uwagę arystokracji i zostać jednym z nich, co ostatecznie udaje mu się, stając się gościem podczas balu u hrabiny Kłonowickiej. Jednak zmiana klasy społecznej nie sprawia, że czuje się bardziej spełniony i usatysfakcjonowany.
+Głównym bohaterem powieści jest Stanisław Wokulski, samotnik pozbawiony iluzji, który pragnie zdobyć majątek i pozycję społeczną. Jest uczciwy i pracowity, ale często jest niedoceniany i niedowierzany. Jego relacje z kobietami są czasem nieszczęśliwe, ponieważ nie potrafi docenić prawdziwych uczuć i często myli pożądanie z miłością.
 
-Barbara Niechcic jest drugą główną postacią, piękną i inteligentną arystokratką. W sprawach miłosnych jest bardzo wybredna, sama nieświadomie poddaje Wokulskiego próbom, sprawdzając jego wierność i poświęcenie. Ostatecznie jednak poznaje jego prawdziwą naturę i zrozumiewszy jego uczucia, oddala się od niego.
+Izabela Łęcka, piękna arystokratka, jest kolejną ważną postacią w powieści. Jest ona naiwna i nieświadoma prawdziwych problemów proletariatu. Jej relacja z Wokulskim jest skomplikowana i napięta, bo ona pragnie tylko majątku i pozycji społecznej, a nie prawdziwej miłości.
 
-Innym ważnym bohaterem jest Ignacy Rzecki, starszy krewny Wokulskiego, były oficer, emeryt z pensją 600 złotych, miłośnik muzyki i tańca, zwolennik konserwatyzmu. Jest on postacią sympatyczną i dobrze się uzupełniającą z Wokulskim, pomaga mu ustanowić kontakty z arystokracją i gościnnie przyjmuje w swoim mieszkaniu. Rzecki reprezentuje tradycyjne wartości i jest przykładem konserwatyzmu w "Lalce".
+W powieści pojawia się również Helena Modrzejewska, sławna aktorka, która inspiruje głównego bohatera. Jest ona reprezentantką nowego pokolenia kobiet, które są edukowane i niezależne. Jest ona świadoma swojej siły i piękna, ale także ma głębszą duszę i umysł, co czyni ją idealną kobietą dla Wokulskiego.
 
-"Lalka" to obraz życia społecznego w Warszawie końca XIX wieku, a także ilustracja relacji między ludźmi z różnych środowisk. Autor pokazuje konflikty społeczne, ambicje i uprzedzenia, ale również dobroć, opiekę i przyjaźń, które istnieją między bohaterami.
+Kasper Turzycki, bogaty bankier, jest kolejnym ważnym bohaterem w powieści. Jest on rywalem Wokulskiego w walce o względy Izabeli Łęckiej. Jest on egoistyczny i materialistyczny, a jego relacja z Wokulskim jest symbolicznym przedstawieniem walki klas w nowoczesnym społeczeństwie.
+
+W powieści "Lalka" Prus ukazuje dylematy i wyzwania, z jakimi borykają się ludzie w nowoczesnym społeczeństwie. Jego postaci reprezentują różne klasy i grupy społeczne, których relacje są napięte i sporadycznie nieszczęśliwe. Jednak Prus nie jest pesymistą, a raczej realistą, który zdaje sobie sprawę z trudności życia i próbuje znaleźć rozwiązania dla nich.

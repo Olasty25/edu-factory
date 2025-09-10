@@ -1,57 +1,64 @@
  # Quiz
 
-1. Które opowiadanie Tadeusza Borowskiego ma miejsce w obozie zagłady Treblinka?
-A. Pożegnanie z Marią
-B. Złote talerze
-C. Koń bydlecki
-D. W pierścieniu bławatka
+1. Które z opowiadań Tadeusza Borowskiego stanowi pierwszą część trylogii *Pożegnania z Marią*?
+A. *Dzingel bajsa*
+B. *Matka i syn*
+C. *Na samotnym guzie*
+D. *Wysmakowana sprawa*
 
-Answer: C. Koń bydlecki
+Correct answer: C. *Na samotnym guzie*
 
-2. W którym opowiadaniu Tadeusza Borowski ukrywa się głodny bohater w kopcu śmieci?
-A. Podróż na wschód
-B. Strach przed pijanymi matarami
-C. Marsz Aksona
-D. Strzał o godz. 10
+2. W którym obozie koncentracyjnym Tadeusz Borowski był więźniem?
+A. Buchenwald
+B. Dachau
+C. Auschwitz-Birkenau
+D. Sachsenhausen
 
-Answer: B. Strach przed pijanymi matarami
+Correct answer: C. Auschwitz-Birkenau
 
-3. W jakim opowiadaniu Tadeusza Borowskiego bohater zdobywa butelkę spirytusu poprzez wspólną walkę z innym więźniem?
-A. W dziczy
-B. Śmierć powstańca z KL Auschwitz
-C. Urodziny w KL Auschwitz
-D. Koń bydlecki
+3. W którym opowiadaniu Borowskiego po raz pierwszy pojawiają się Temerson i Kalina - współwięźniowie opowiadającego?
+A. *Cmentarna szychta*
+B. *Lekcja anatomii*
+C. *Piękni dwudziestoletni*
+D. *Dwa szklanki wody*
 
-Answer: A. W dziczy
+Correct answer: A. *Cmentarna szychta*
 
-4. W którym opowiadaniu Tadeusza Borowskiego główny bohater sprzedaje swój chleb filozofowi, który dostaje się do wydziału literackiego?
-A. Strzał o godz. 10
-B. W pierścieniu bławatka
-C. Załoga
-D. Szmuglerzy
+4. W którym opowiadaniu Borowski opisuje wysiedlanie robotników przymusowych z Niemiec do ZSRR?
+A. *Jak niektórzy zadbali o swe ocalenie*
+B. *Pocztą z Auschwitz*
+C. *Selekcja w Birkenau*
+D. *Wysiedlanie*
 
-Answer: B. W pierścieniu bławatka
+Correct answer: D. *Wysiedlanie*
 
-5. W którym opowiadaniu Tadeusza Borowskiego bohater zastanawia się nad znaczeniem moralności w obozie koncentracyjnym?
-A. Bitwa pod Kołobrzegiem
-B. Bicz boży
-C. Szpital
-D. Bitwa o Kanadę
+5. Które z opowiadań jest ostatnią częścią trylogii *Pożegnania z Marią*?
+A. *Wysmakowana sprawa*
+B. *Tren*
+C. *Kamienny świat*
+D. *Ludzie, których znam*
 
-Answer: B. Bicz boży
+Correct answer: B. *Tren*
 
 # Fiszki
 
-1. "Koń bydlecki" - Treblinka - najczęściej omawiane opowiadanie z tej serii.
-2. "Strach przed pijanymi matarami" - ukrywanie się w kopcu śmieci, symbolem ucieczki przed losem.
-3. "W dziczy" - historia o chęci przeżycia za wszelką cenę, jeśli tylko bohater może zdobyć butelkę spirytusu.
-4. "W pierścieniu bławatka" - moralność w obozie, czy zachować ją w obliczu śmierci i głodu jest możliwe?
-5. "Bicz boży" - zakończenie serii opowiadań zobrazowujące problemy etyczne, które towarzyszą obozom koncentracyjnym.
+1. Trylogia Tadeusza Borowskiego: *Pożegnania z Marią*
+	* Na samotnym guzie
+	* Kamienny świat
+	* Tren
+2. *Dzingel bajsa*
+3. *Matka i syn*
+4. Temerson i Kalina
+5. *Wysmakowana sprawa*
 
 # Notatki
 
-Seria opowiadań Tadeusza Borowskiego została opublikowana w latach 1946-1951. Składa się z utworów napisanych w obozie koncentracyjnym w Dachau i right after the war. Traktuje o traumatycznych przeżyciach z czasów wojny i Holocaustu, które odzwierciedlają grozę i sprzeczności pomiędzy życiem a śmiercią w tych miejscach. Składa się z 8 opowiadań: "Pożegnanie z Marią", "Złote talerze", "Koń bydlecki", "Podróż na wschód", "Strach przed pijanymi matarami", "Strzał o godz. 10", "W pierścieniu bławatka" i "Bicz boży".
+Tadeusz Borowski był polskim pisarzem i poetą, który przeżył obóz koncentracyjny Auschwitz-Birkenau. Jego opowiadania, w tym trylogia *Pożegnania z Marią*, są jednymi z najbardziej znanych i wpływowych świadectw Holocaustu.
 
-Każde opowiadanie przedstawia inny aspekt Holocaustu z perspektywy głównego bohatera, który walczy o przetrwanie i zachowanie swej godności. Owe relacje niekoniecznie prezentują wydarzenia w porządku chronologicznym i zawierają liczne odniesienia do literatury, filozofii i sztuki. Dzięki temu stają się metaforycznym uaktywnieniem traumy, która ściga bohaterów i wszystkich ofiar Holocaustu, rokując im nadzieję, a nawet odkupienie.
+*Pożegnania z Marią* składają się z trzech części: *Na samotnym guzie*, *Kamienny świat* oraz *Tren*. W każdej z nich Borowski opisuje swoje przeżycia z okresu II wojny światowej, w tym pobyt w obozie koncentracyjnym. Jest to wyjątkowo szczere i mroczne spojrzenie na istnienie więźniów i strażników obozów.
 
-Opowiadania te są ważnym wkładem w świadomość o historii w tym samym czasie są pochmurnym, ale realistycznym wglądem na tragiczne wydarzenia zebrane w tej serii. Dzięki swojej siłie artystycznej, obrazy, jakie autor przedstawia, pozwalają czytelnikowi zapoznać się z rzeczywistością fizyczną i psychiczną, jakiej doświadczał każdy więzień.
+W opowiadaniach zwraca szczególną uwagę na relacje między ludźmi w obozie, zwłaszcza na relacje więźniów. Pisze o współzawodnictwie, szpiegostwie i lojalności. Mimo nieustającego terroru i śmierci porusza też tematy nadziei, siły do życia i miłości.
+
+Ważne motywy w jego twórczości to przetrwanie, nadzieja i moralność. Jego opowiadania zawierają refleksje na temat ludzkiej natury i zdolności do sprawiedliwości lub bezwzględności w ekstremalnych warunkach. Jest krytyczny wobec współpracy więźniów z systemem obozowym i wobec tych, którzy zachowują się okrutnie w stosunku do innych.
+
+Borowskiego śmierć w wieku 28 lat przerwała jego karierę literacką, jednak jego dzieła nadal cieszą się dużym uznaniem ze względu na wyjątkową moc i autentyczność opisów. Jego twórczość pomogła zrozumieć trauma Holocaustu i zdecydowanie wpłynęła na późniejsze pokolenia pisarzy.
