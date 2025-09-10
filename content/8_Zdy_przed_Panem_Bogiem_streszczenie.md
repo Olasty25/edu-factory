@@ -1,56 +1,63 @@
  # Quiz
 
-1. Kto jest bohaterem opowiadania „Zdążyć przed Panem Bogiem”?
-   A. Mężczyzna pędzący na pogrzeb dziadka
-   B. Mężczyzna udający się na randkę
-   C. Mężczyzna uciekający przed ślubem
-   D. Mężczyzna zabierający się do pracy
-   *Poprawna odpowiedź: A. Mężczyzna pędący na pogrzeb dziadka*
+1. Co oznacza fraza "Zdążyć przed Panem Bogiem"?
+A. Przygotować się do spowiedzi
+B. Dopełnić obowiązków religijnych
+C. Pogodzić się z winami
+D. Uczestniczyć w mszach św.
 
-2. Co może powodować opóźnienie bohatera w drodze na pogrzeb dziadka?
-   A. Zatłoczona droga
-   B. Zepsuta maszyna
-   C. Świąteczny ruch
-   D. Wszystkie poprzednie odpowiedzi
-   *Poprawna odpowiedź: D. Wszystkie poprzednie odpowiedzi*
+Poprawna odpowiedź: A. Przygotować się do spowiedzi
 
-3. Jakiego ślubu bohater „Zdążyć przed Panem Bogiem” unika?
-   A. Ślub z ukochaną
-   B. Ślub ze znajomą
-   C. Ślub z sąsiadką
-   D. Ślub z krewną
-   *Poprawna odpowiedź: A. Ślub z ukochaną*
+2. Jakie czynności wchodzą w skład tzw. "zdążenia przed Panem Bogiem"?
+A. Samookieńnia i refleksja nad swoim postępowaniem
+B. Oczyszczenie serca i umysłu
+C. Przystąpienie do sakramentu spowiedzi
+D. Wszystkie wyżej wymienione
 
-4. Jaki czynnik ma największy wpływ na zmianę losu bohatera w opowiadaniu?
-   A. Przypadek
-   B. Decyzja bohatera
-   C. Inne osoby
-   D. Szczęście
-   *Poprawna odpowiedź: A. Przypadek*
+Poprawna odpowiedź: D. Wszystkie wyżej wymienione
 
-5. Kiedy bohater znajduje się najbliżej kościoła, gdzie odbywa się pogrzeb dziadka?
-   A. Gdy ma wypadek
-   B. Gdy zastaje go wesele
-   C. Gdy spóźnia się na pociąg
-   D. Gdy zastaje go pogrzeb
-   *Poprawna odpowiedź: D. Gdy zastaje go pogrzeb*
+3. Kiedy należy się spowiadać w Kościele katolickim?
+A. Przed każdą Komunią św.
+B. Co najmniej dwa razy w roku
+C. Nie ma określonych zasad czasowych
+D. W przeddzień Wielkiej Soboty
+
+Poprawna odpowiedź: B. Co najmniej dwa razy w roku
+
+4. Co jest konsekwencją grzechu śmiertelnego, jeśli nie zostanie on spowiedziany?
+A. Wpływ na relacje ze świętymi
+B. Odstepstwo od Kościoła katolickiego
+C. Brak przebaczenia
+D. Wszystkie wyżej wymienione
+
+Poprawna odpowiedź: C. Brak przebaczenia
+
+5. Co oznacza wyraz "contritio" w kontekście spowiedzi?
+A. Rozkosz ze grzechu
+B. Skrucha i żal za grzech
+C. Pozew do Boga
+D. Porażka w grzechu
+
+Poprawna odpowiedź: B. Skrucha i żal za grzech
 
 # Fiszki
 
-1. Bohater opowiadania „Zdążyć przed Panem Bogiem”
-2. Przyczyna spóźnienia bohatera
-3. Ślub, którego bohater unika
-4. Czynnik mający największy wpływ na los bohatera
-5. Miejsce, w którym bohater rozumie, że nigdy nie zdąży na pogrzeb dziadka
+1. Zdążyć przed Panem Bogiem - spowiedź
+2. Sakrament spowiedzi - spowiedź jako jeden z siedmiu sakramentów
+3. Samookieńnia - rozważanie własnego postępowania w celu zidentyfikowania grzechów
+4. Skrucha - żal i smutek z powodu popełnionego grzechu
+5. Grzech śmiertelny - grzech pozbawiający łaski Bożej i wymagający spowiedzi
 
 # Notatki
 
-Opowiadanie „Zdążyć przed Panem Bogiem” jest historią o mężczyźnie, który pędzi na pogrzeb swojego dziadka. W trakcie podróży bohater napotyka różne sytuacje, które opóźniają jego przyjazd na ceremonię.
+"Zdążyć przed Panem Bogiem" to fraza odnosząca się do procesu spowiedzi w Kościele katolickim. Spowiedź to sakrament, w którym wierzący wyznaje swoje grzechy kapłanowi, który w imieniu Boga daruje je. Obejmuje ona dwie główne części: samookieńnię i wyznanie grzechów.
 
-Pierwszym problemem bohatera jest zatłoczona droga, która powoduje, że porusza się on bardzo wolno. Następnie jego samochód ulega awarii, co wymaga czasu na jego poprawę. W dodatku pociąg, którym bohater chciałby dalej podróżować, opuszcza stację wcześniej, niż planował.
+Samookieńnia to rozważanie własnego postępowania w celu zidentyfikowania grzechów. Polega na rozważaniu myśli, słów i uczynków, które były złe i potrzebują przebaczenia.
 
-Bohater dalej podróżuje pieszo, ale jego kolejnym zadaniem jest uniknięcie ślubu swojej partnerki. W końcu, gdy bohater znajduje się najbliżej celu, zastaje go pogrzeb dziadka.
+Następnie, wierzący wyznaje swoje grzechy kapłanowi w spowiedzi tajnej. Poprzez wyznanie grzechów, wierzący podejmuje odpowiedzialność za swoje czyny i przyjmuje obowiązek naprawienia szkód, jeśli to możliwe.
 
-Całe opowiadanie jest dla czytelnika dowodem na to, jak ważne jest docenianie czasu, którego mamy i nie odkładanie ważnych rzeczy na później. Los bohatera jest zdeterminowany przez przypadek, a jego sytuacja ilustruje trudności, z
+W Kościele katolickim zaleca się spowiadać co najmniej dwa razy w roku, ale wierni mogą się spowiedzić częściej, jeśli tylko uważają to za stosowne. Ważne jest również, aby wierni byli dobrze przygotowani do spowiedzi, poprzez odpowiednią samookieńnię i skruchę przed Panem Bogiem.
 
- which we might encounter in life. It shows how one small unfortunate event can lead to a chain reaction of other problems, causing us to miss out on important moments in our lives.
+Grzechy mogą być zarówno lekkie, jak i śmiertelne. Grzechy lekkie to te, które nie łamią związków z Bogiem i Kościołem, ale wymagają troskliwej modlitwy i pokuty. Grzechy śmiertelne to te, które całkowicie łamią związek z Bogiem i Kościołem, i wymagają natychmiastowej spowiedzi, aby uniknąć wiecznej potępienia. Przykładem grzechu śmiertelnego może być bezczeszczenie Boga, popełnianie morderstwa lub cudzołóstwa.
+
+Dlatego też przygotowanie się do spowiedzi, czyli "zdążenie przed Panem Bogiem", jest niezbędne dla każdego wierzącego, aby być w pełni zżytym z Bogiem i Kościołem.
