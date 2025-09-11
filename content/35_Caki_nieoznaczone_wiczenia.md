@@ -1,76 +1,57 @@
- # Quiz: Całki Nieoznaczone Ćwiczenia
+ # Quiz (5 pytań ABCD + poprawna odpowiedź)
 
-1. Co otrzymamy po obliczeniu całki $\int x^2 dx$?
-A) 0
-B) 1
-C) $x^2$
-D) $x^3/3 + C$
+1. Co otrzymamy, gdy obliczymy całkę nieoznaczoną?
+A) Liczbę
+B) Funkcję
+C) Granicę
+D) Żadne z powyższych
 
-Correct answer: D) $x^3/3 + C$
+   Poprawna odpowiedź: C) Granicę
 
-2. Co oznacza $C$ w wyniku całkowania $(\int x^2 dx = x^3/3 + C)$?
-A) Constansa
-B) Ciągiem
-C) Całką
-D) Coś losowego
+2. Czym jest reguła ułamkowa w kontekście całkowania nieoznaczonego?
+A) Metoda do obliczania całek jednorodnych
+B) Metoda do obliczania całek wielomianów
+C) Metoda do obliczania całek różnych funkcji podstawowych
+D) Metoda do obliczania całek wielokrotnych
 
-Correct answer: A) Constansa
+   Poprawna odpowiedź: A) Metoda do obliczania całek jednorodnych
 
-3. Całką nieoznaczoną $\int f(x) dx$ nazywamy:
-A) Antysymetryczną funkcję
-B) Funkcję odwrotną od funkcji $f(x)$
-C) Przybliżenie wartości funkcji $f(x)$
-D) Dowolną funkcję $F(x)$ taki, że $F'(x) = f(x)$
+3. Dla której funkcji nieoznaczonej wszystkie całki jednorodne istnieją?
+A) e^x
+B) sin(x)
+C) ln(x)
+D) 1/x
 
-Correct answer: D) Dowolną funkcję $F(x)$ taki, że $F'(x) = f(x)$
+   Poprawna odpowiedź: B) sin(x)
 
-4. Co otrzymamy po obliczeniu całki $\int \sin(x) dx$?
-A) $-\cos(x)$
-B) $\cos(x)$
-C) $-\sin(x)$
-D) $\sin(x)$
+4. Co oznacza oznaczenie ~ przy całce?
+A) Sumowanie wszystkich wyrazów parzystych
+B) Sumowanie wszystkich wyrazów nieparzystych
+C) Całka całkowana
+D) Całka nieoznaczona
 
-Correct answer: A) $-\cos(x)$
+   Poprawna odpowiedź: C) Całka całkowana
 
-5. Jaka to własność całek nieoznaczonych? $\int (f(x) + g(x)) dx =$
-A) $\int f(x) dx + \int g(x) dx$
-B) $\int f(x) dx - \int g(x) dx$
-C) $\int f(x) g(x) dx$
-D) $\int f(x) / \int g(x) dx$
+5. Co wyraża twierdzenie Newtona-Leibniza?
+A) Związek pomiędzy różniczką a całką
+B) Związek pomiędzy całką a sumą
+C) Związek pomiędzy całką, różniczką i granicą
+D) Związek pomiędzy całką i iloczynem
 
-Correct answer: A) $\int f(x) dx + \int g(x) dx$
+   Poprawna odpowiedź: C) Związek pomiędzy całką, różniczką i granicą
 
-# Fiszki: Całki Nieoznaczone Ćwiczenia
+# Fiszki (5 sztuk)
 
-1. Całka nieoznaczona
-2. Przyrost funkcji
-3. Koniunktywność całek
-4. Funkcje pętli
-5. Pochodna funkcji
+1. Całki nieoznaczone - są one równoznaczne z zbiorem wszystkich funkcji, których pochodna jest równa danej funkcji.
+2. Reguła ułamkowa - służy do obliczania całek jednorodnych, tj. funkcji postaci: 1/(ax^n + b).
+3. Funkcja x^(-1) - całka nieoznaczona istnieje dla tej funkcji, ale jest ona wyrażona w postaci logarytmu naturalnego.
+4. Całka całkowana - oznaczana poprzez tilde (~), wyraża całkę, w której granice są dowolne, lecz muszą być wskazane.
+5. Twierdzenie Newtona-Leibniza - określa związek pomiędzy różniczką, całką i granicą. Dla dowolnej funkcji f(x) i dla a<b, zachodzi równość: ∫[a,b] f'(x) dx = f(b) - f(a).
 
-# Notatki: Całki Nieoznaczone Ćwiczenia
+# Notatki (~200 słów)
 
-## Zapis całek nieoznaczonych
-- Całki nieoznaczone zapisujemy symbolem $\int f(x) dx$
-- Symbol $\int$ wskazuje, że jest to całka
-- $f(x)$ jest to funkcja całkowana
-- $dx$ oznacza, że całkujemy ze względu na $x$
+Całki nieoznaczone są wartościami funkcji, dla których istnieje pochodna danej funkcji. Można je wyrazić w postaci: ∫f(x) dx. Odpowiadają one na pytanie: jaka jest funkcja, której pochodna jest równa danej funkcji. Całki nieoznaczone mogą być liczone przez regułę ułamkową, która jest stosowana w wyrażeniach postaci 1/(ax^n + b). Innym przykładem jest funkcja x^(-1), dla której całka nieoznaczona istnieje, lecz jest wyrażona w postaci logarytmu naturalnego.
 
-## Interpretacja całek nieoznaczonych
-Całka nieoznaczona to antysymetryczna funkcja $F(x)$ taką, że dla dowolnej wartości $x$ i jej przyrostu $\Delta x$, różnica całek $F(x + \Delta x) - F(x)$ jest przyblżeniem wartości funkcji $f(x)$, nilpotencjalnie zapisywanego jako:
-$$
-\int f(x) dx = F(x) \Rightarrow \Delta F = F(x + \Delta x) - F(x) \approx f(x) \Delta x
-$$
-Np. dla $f(x) = x^2$ i $F(x) = x^3/3$
-$$
-\Delta F \approx (x+\Delta x)^3/3 - x^3/3 = (x^3 + 3x^2\Delta x + 3x(\Delta x)^2 + (\Delta x)^3)/3 - x^3/3
-$$
-$$
-\approx 3x^2\Delta x/3 = x^2\Delta x
-$$
+Czasami warto jest liczyć całki, dla których granice są określone. W takim przypadku mamy do czynienia z całką oznaczoną i wyraża się ona jako ∫[a, b] f(x) dx. Gdy chcemy opisać dowolną całkę ograniczoną, w której granice nie są jeszcze wskazane, wtedy stosujemy oznaczenie ~. Całka oznaczona przez ~ może być wyrażona jako suma całek oznaczonych, tj. ∫[a, b] f(x) dx = ∫[a, c] f(x) dx + ∫[c, b] f(x) dx.
 
-## Własności całek nieoznaczonych
-1. Liniowość całek $\int (af(x) + bg(x)) dx = a \int f(x) dx + b \int g(x) dx$
-2. Dowolna całka nieoznaczona jest wyznaczona z dokładnością do stałej aka (dla dowolnych $F(x), G(x)$, jeśli $\int f(x) dx = F(x)$, to $\int f(x) dx = F(x) + C$)
-3. Przyrost funkcji całkowanej za pomocą całki jest przyrostem funkcji zmiennej omówione w punkcie wyżej
-4. Addytywność całek $\int (f(x) + g(x)) dx = \int f(x) dx + \int g(x) dx$
+Twierdzenie Newtona-Leibniza określa związek pomiędzy różniczką, całką i granicą. Dla dowolnej funkcji f(x) i dla a<b, zachodzi równość: ∫[a,b] f'(x) dx = f(b) - f(a). Twierdzenie to umożliwia obliczenie całki całkowanej, poprzez podstawienie granic do całki nieoznaczonej i obliczenie różnicy wynikającej z wyrażenia, dzięki któremu otrzymujemy wartość całki.

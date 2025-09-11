@@ -1,56 +1,54 @@
- # Quiz: Zastosowanie pochodnych w praktyce
+ # Quiz - Pochodne w praktyce
+## 1. Co to jest pochodna funkcji f(x) w punkcie x=a?
+A) Funkcja odwzorowująca x na iloraz przyrosty funkcji f w punkcie a i przyrostu argumentu.
+B) Funkcja określona jako granica ilorazu różnicowego dla f w punkcie a.
+C) Funkcja opisująca prędkość zmiany funkcji f w punkcie x=a.
+D) Wszystkie poprzednie odpowiedzi są poprawne.
 
-1. Jak wykorzystać pochodne do znajdowania ekstremów funkcji?
-   A) Oblicz pochodną i znajdź place, w których równa się zero.
-   B) Oblicz pochodną i znajdź place, w których różna jest od zera.
-   C) Oblicz przybliżoną wartość pochodnej dla wszystkich punktów w zakresie.
-   D) Nie można wykorzystać pochodnych do znajdowania ekstremów funkcji.
-   **Poprawna odpowiedź: A**
+Poprawna odpowiedź: D) Wszystkie poprzednie odpowiedzi są poprawne.
 
-2. Co oznaczają pojęcia "maksimum lokalne" i "minimum lokalne" w zastosowaniach pochodnych?
-   A) Maksimum i minimum na całym zakresie funkcji.
-   B) Maksimum i minimum w określonym, ograniczonym zakresie.
-   C) Maksimum i minimum na końcach przedziału.
-   D) Maksimum i minimum, które są równe zero.
-   **Poprawna odpowiedź: B**
+## 2. Jak wyliczyć pochodną funkcji y = 3x^2 + 2x - 1?
+A) Przy pomocy wzoru na pochodną wielomianu.
+B) Przy pomocy ilorazu różnicowego.
+C) Przy pomocy granicy ilorazu różnicowego.
+D) Żadna z powyższych odpowiedzi nie jest poprawna.
 
-3. Jakiego zbiaru wartości powinna przyjąć funkcja w punkcie krytycznym, aby było ono maksimum lokalnym?
-   A) Największa możliwa wartość.
-   B) Dowolna wartość.
-   C) Zero.
-   D) Najmniejsza możliwa wartość.
-   **Poprawna odpowiedź: A**
+Poprawna odpowiedź: A) Przy pomocy wzoru na pochodną wielomianu.
 
-4. Dlaczego istotne jest zastosowanie pochodnych w rachunku najmniejszych kosztów?
-   A) Pozwala to stwierdzić, czy osiągnięto minimum kosztów produkcji.
-   B) Pozwala to znaleźć optymalne rozwiązanie dla funkcji wielu zmiennych.
-   C) Pozwala to określić szybkość zmiany w funkcji.
-   D) Pozwala to ustalić, czy przewidywana zysk jest pozytywny lub negatywny.
-   **Poprawna odpowiedź: A i B**
+## 3. Jaka jest pochodna funkcji f(x) = ln(x)?
+A) f'(x) = x
+B) f'(x) = 1/x
+C) f'(x) = x^2
+D) f'(x) = 2x
 
-5. W jaki sposób można wykorzystać pochodne do analizy krzywych w przyrodzie, np. krzywych wzrostu organizmów żywych?
-   A) Oblicz pochodną i znajdź miejsca, w których maleje prędkość wzrostu.
-   B) Oblicz pochodną i znajdź miejsca, w których prędkość wzrostu jest największa.
-   C) Wykonaj aproksymację numeryczną pochodnej, aby oszacować prędkość zmian.
-   D) Wszystkie z powyższych.
-   **Poprawna odpowiedź: D**
+Poprawna odpowiedź: B) f'(x) = 1/x
 
-# Fiszki: Zastosowanie pochodnych w praktyce
+## 4. Co to jest reguła ilorazu i reguła łuku?
+A) Reguły pozwalające na obliczenie pochodnej funkcji złożonej.
+B) Reguły pozwalające na obliczenie pochodnej funkcji wymiernej i niewymiernej.
+C) Reguły pozwalające na obliczenie pochodnej funkcji wielomianu.
+D) Reguły pozwalające na obliczenie pochodnej funkcji parametrycznej.
 
-1. Ekstremum lokalne - Punkty, w których funkcja osiąga wartość największą lub najmniejszą, porównując ją do sąsiednich wartości.
-2. Pochodna pierwsza - Pomaga wykryć punkty krytyczne funkcji, których wartości mogą odpowiadać maksimum i minimum lokalnym.
-3. Funkcja wielu zmiennych - Można zastosować pochodne cząstkowe, aby zlokalizować ekstrema tych funkcji przez badanie ich gradientu.
-4. Rachunek najmniejszych kosztów - Metoda optymalizacji w analizie problemów ekonomicznych, w której stosuje się pochodne do znajdowania punktów minimalnego kosztu produkcji.
-5. Aproksymacja numeryczna - Pozwala oszacować pochodną i wykorzystać ją w zastosowaniach praktycznych, gdy algebraiczna postać pochodnej nie istnieje lub jest zbyt skomplikowana.
+Poprawna odpowiedź: A) Reguły pozwalające na obliczenie pochodnej funkcji złożonej.
 
-# Notatki: Zastosowanie pochodnych w praktyce
+## 5. Co to jest różniczkowanie i czemu służy?
+A) Różniczkowanie to proces obliczania pochodnej funkcji.
+B) Różniczkowanie to proces integralnego obliczania areału pod krzywą.
+C) Różniczkowanie to proces przybliżania funkcji wartościami z okolicznych punktów.
+D) Różniczkowanie to proces wyznaczania punktów krytycznych funkcji.
 
-Pochodne to narzędzie matematyczne, które pomaga w opisie szybkości zmiany funkcji w zależności od zmiany jej argumentu. Dzięki pochodnej można wyznaczać punkty ekstremalne funkcji i rozstrzygać, czy są to maksima czy minima lokalne.
+Poprawna odpowiedź: A) Różniczkowanie to proces obliczania pochodnej funkcji.
 
-W zastosowaniach praktycznych, pochodne mogą służyć do analizy krzywych w przyrodzie. Na przykład, pochodne mogą pomóc w zrozumieniu, w jaki sposób wzrasta populacja bakterii czy roślin w zależności od czasu.
+# Fiszki - Pochodne w praktyce
+1. Wzór na pochodną wielomianu: (ax^n)' = nax^(n-1).
+2. Iloraz różnicowy: (f(x+h) - f(x))/h.
+3. Reguła ilorazu: (f(g(x)))' = f'(g(x)) * g'(x).
+4. Reguła łuku: (f(g(x)))' = f'(g(x)) / g'(x), g'(x) ≠ 0.
+5. Pochodna funkcji odwrotnej: (f^(-1))'(x) = 1/f'(f^(-1)(x)).
 
-Pochodne mają także zastosowanie w ekonomii, szczególnie w rachunku najmniejszych kosztów. Metoda ta służy do optymalizacji procesów wytwarzania oraz do podejmowania decyzji ekonomicznych. Dzięki pochodnej można ustalić, czy dany punkt jest punktem minimalnym, co pomaga w znalezieniu najbardziej efektywnej metody produkcji.
-
-Analiza funkcji wielu zmiennych jest również możliwa za pomocą pochodnych. W tym przypadku stosuje się pochodne cząstkowe, które pozwalają na zlokalizowanie ekstremów tych funkcji przez badanie ich gradientu.
-
-Podsumowując, pochodne odgrywają kluczową rolę w analizie funkcji i ułatwiają podejmowanie decyzji w wielu dziedzinach praktycznych, takich jak ekonomia, inżynieria czy przyrodoznawstwo.
+# Notatki - Pochodne w praktyce
+Pochodne funkcji są wartościami, które opisują prędkość zmiany funkcji w danych punktach.
+Przyrostek funkcji to iloraz różnicy wartości funkcji z uwzględnieniem przyrostu argumentu.
+Reguły pozwalają na obliczenie pochodnych skomplikowanych funkcji, które są złożeniem innych prostszych funkcji.
+Pochodna funkcji odwrotnej pomaga w znalezieniu punktów krytycznych funkcji.
+Pochodna w postaci parametrycznej pomaga w opisie ruchu punktów, jest to para funkcji zależnych od tego samego parametru.

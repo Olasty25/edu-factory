@@ -1,66 +1,59 @@
- # Quiz - Asymptoty funkcji
-1. Co to jest asymptota pozioma?
-   A. Gerada równoległa do osi y, do której asymptotycznie zbliża się funkcja.
-   B. Gerada prostopadła do osi y, do której asymptotycznie zbliża się funkcja.
-   C. Gerada prostopadła do osi x, do której asymptotycznie zbliża się funkcja.
-   D. Gerada równoległa do osi x, do której asymptotycznie zbliża się funkcja.
+ # Quiz
 
-   Poprawna odpowiedź: A
+1. Co to jest asymptota funkcji?
+A. Gerowa linia
+B. Pionowa lub pozioma linia, do której dąży wykreślna funkcji
+C. Poprzeczka na osi y
+D. Domena funkcji
 
-2. Jaka z funkcji ma asymptotę pionową?
-   A. $y = \frac{1}{x}$
-   B. $y = \frac{x^2}{2}$
-   C. $y = x+1$
-   D. $y = x^2$
+Correct Answer: B
 
-   Poprawna odpowiedź: A
+2. Jakie rodzaje asymptot mogą posiadać funkcje?
+A. Pionowe i poziome
+B. Pionowe i horyzontalne
+C. Poprzeczne i pionowe
+D. Poprzeczne i horyzontalne
 
-3. Co to jest asymptota wertykalna?
-   A. Gerada prostopadła do osi x, do której asymptotycznie zbliża się funkcja.
-   B. Gerada prostopadła do osi y, do której asymptotycznie zbliża się funkcja.
-   C. Gerada równoległa do osi x, do której asymptotycznie zbliża się funkcja.
-   D. Gerada równoległa do osi y, do której asymptotycznie zbliża się funkcja.
+Correct Answer: A i B
 
-   Poprawna odpowiedź: A
+3. Dlaczego niektóre funkcje mają asymptoty?
+A. Ze względu na dziedzinę funkcji
+B. Z powodu suspicionowego działania funkcji
+C. Z powodu nieskończoności liczb w funkcji
+D. Ze względu na iloraz funkcji
 
-4. Dla funkcji $y = \frac{3x^2 + 2x + 1}{x}$, która asymptota?
-   A. $y = 3x + 2 + \frac{1}{x}$
-   B. $y = 3x^2 + 2x + 1$
-   C. $y = 3x + 2$
-   D. $y = x$
+Correct Answer: C i D
 
-   Poprawna odpowiedź: A
+4. Co to jest asymptota pionowa?
+A. Gerowa linia prostopadła do osi y
+B. Linia prostopadła do wektora gradientu
+C. Zbiór punktów, w których funkcja nie istnieje
+D. Zbiór punktów, do których dąży wykres funkcji
 
-5. Co to asymptota skośna?
-   A. Gerada prostopadła do osi x, do której asymptotycznie zbliża się funkcja.
-   B. Gerada prostopadła do osi y, do której asymptotycznie zbliża się funkcja.
-   C. Gerada rozmyta, równoległa do osi x lub y, do której asymptotycznie zbliża się funkcja.
-   D. Gerada rozmyta, prostopadła do osi x lub y, do której asymptotycznie zbliża się funkcja.
+Correct Answer: A
 
-   Poprawna odpowiedź: C
+5. Jak określić asymptotę poziomą danego wykresu?
+A. Sprawdź granice funkcji dla dużych argumentów
+B. Sprawdź czy istnieje zwroty dla funkcji
+C. Sprawdź czy asymptota istnieje przy zerowaniu mianownika
+D. Sprawdź czy asymptota istnieje w punkcie nieciągłości
 
-# Fiszki - Asymptoty funkcji
+Correct Answer: A i C
 
-1. Asymptota pozioma - Gerada równoległa do osi y, do której asymptotycznie zbliża się funkcja.
-2. Asymptota wertykalna - Gerada prostopadła do osi x, do której asymptotycznie zbliża się funkcja.
-3. Asymptota pionowa - Inna nazwa asymptoty wertykalnej.
-4. Asymptota skośna - Gerada rozmyta, równoległa do osi x lub y, do której asymptotycznie zbliża się funkcja.
-5. Funkcja asymptotyczna - Funkcja do której asymptotycznie zbliża się badana funkcja.
+# Fiszki
 
-# Notatki - Asymptoty funkcji
+1. Asymptota - linia, do której dąży wykres funkcji lub dąży granica funkcji.
+2. Asymptoty pionowe występują wówczas, gdy rozpatrywanym Argumentom przyjmują wartości bliskie kierunku nieciągłości, czyli przy $x\rightarrow a$, gdzie $a \in \mathbb{R}$.
+3. Asymptoty poziome występują wówczas, gdy rozpatrywanym Argumentom przyjmują wartości dowolnie duże lub małe, czyli przy $x\rightarrow \pm \infty$.
+4. Asymptoty horyzontalne dla funkcji wielu zmiennych mogą być także wyznaczane poprzez badanie układu współrzędnych kartezjańskich $(x, y)$ oraz $(x, z)$.
+5. Istnieją również asymptoty kołowe i krzywe, które mogą być bardziej złożone niż asymptoty proste.
 
-Asymptoty funkcji są granicami, którymi dąży funkcja w zadanym miejscu lub perspektywie. Istnieją trzy rodzaje asymptot: poziome, wertykalne i skośne.
+# Notatki
 
-* Asymptota pozioma to gerada równoległa do osi y, do której asymptotycznie zbliża się funkcja. Istnieje, gdy granica funkcji w ±∞ istnieje i jest różna od plus lub minus nieskończoności.
+Asymptota funkcji to linia, do której dąży wykres funkcji lub do której dąży wartość funkcji, gdy argument dąży do określonej wartości. Asymptoty mogą być poziome, pionowe lub skośne. Asymptoty pionowe występują wówczas, gdy funkcja nie istnieje po jednej z stron osi y, asymptoty poziome pojawiają się, gdy granica funkcji dąży do określonej wartości, kiedy argument dąży do nieskończoności. Asymptoty te mogą być wyznaczone poprzez badanie granic funkcji.
 
-![Asymptota pozioma](https://wikimedia.org/api/rest_v1/media/math/render/svg/f75c48513aa76b96a1a18a4ef438dc3e8d05a38f)
+Asymptoty horyzontalne dla funkcji wielu zmiennych mogą być także wyznaczane poprzez badanie układu współrzędnych kartezjańskich $(x, y)$ oraz $(x, z)$. Istnieją również asymptoty krzywe, które mogą być bardziej złożone niż asymptoty proste.
 
-* Asymptota wertykalna to gerada prostopadła do osi x, do której asymptotycznie zbliża się funkcja. Istnieje, gdy granica funkcji w jakimś x istnieje i jest równa plus lub minus nieskończoności.
+Asymptoty są bardzo ważne w analizie matematycznej, ponieważ pozwalają na lepsze poznanie funkcji i jej właściwości. Dzięki asymptotom możemy oszacować, jakie wartości może przyjmować funkcja oraz w których rejonach układu współrzędnych zachowuje się ona w określony sposób. Asymptoty mogą być również pomocne w określaniu granic funkcji, w szczególności w przypadku funkcji o nieciągłościach czy nieograniczonych.
 
-![Asymptota wertykalna](https://wikimedia.org/api/rest_v1/media/math/render/svg/23e9c824fca74b75b2c7a1aa195e320384395871)
-
-* Asymptota skośna to gerada rozmyta, równoległa do osi x lub y, do której asymptotycznie zbliża się funkcja. Istnieje, gdy granica pochylenia funkcji w ±∞ istnieje i jest różna od zera.
-
-![Asymptota skośna](https://wikimedia.org/api/rest_v1/media/math/render/svg/6548ff2d2050e3b5a98e2ae98f54a6c68d56823f)
-
-Funkcje asymptotyczne mogą być wyznaczone poprzez znajdowanie granic funkcji w plus i minus nieskończoności. Wystarczy policzyć pochylenie asymptotycznej jako stosunek współczynników przy najwyższej potędze x w liczniku i mianowniku.
+W niektórych przypadkach asymptoty są łatwo rozpoznawalne, w innych trzeba je wyznaczać metodami matematycznymi, takimi jak badanie granic funkcji lub rozpatrywanie zachowania funkcji w nieskończoności. Niemniej jednak, nawet jeśli asymptoty nie są łatwo rozpoznawalne, warto je szukać, ponieważ mogą one pomóc w lepszym zrozumieniu funkcji i jej właściwości.
