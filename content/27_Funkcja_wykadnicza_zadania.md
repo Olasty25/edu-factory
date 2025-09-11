@@ -1,81 +1,52 @@
- # Quiz - Funkcja Wykładnicza
-Na co wskazuje następująca notacja: $f(x) = 2^x$ ?
+ ### Quiz
 
-A) Funkcja liniowa
-B) Funkcja kwadratowa
-C) Funkcja wielomianowa stopnia 3 lub większego
-D) Funkcja wykładnicza
+1. Co to jest funkcja wykładnicza?
+   A. Funkcja, która ma postać y = ax
+   B. Funkcja, która ma postać y = ax + b
+   C. Funkcja, która ma postać y = a(bx)
+   D. Funkcja, która ma postać y = ab^x
+   * D. Funkcja, która ma postać y = ab^x
 
-Correct Answer: D
+2. Czym się wyróżnia funkcja wykładnicza na tle innych funkcji?
+   A. Możliwością zerowania się funkcji w zadanym punkcie
+   B. Wiąza się z procentowym wzrostem lub spadkiem wartości
+   C. Możliwością przebiegając przez trzy osie układu kartezjańskiego
+   D. Możliwością zmiany przebiegu funkcji w zależności od współczynników a i b
+   * B. Wiąza się z procentowym wzrostem lub spadkiem wartości
 
----
+3. Jak wygląda wykres funkcji wykładniczej?
+   A. Prosta lub zakrzywiona linia prostopadła do osi y
+   B. Prosta lub zakrzywiona linia prostopadła do osi x
+   C. Prosta lub zakrzywiona linia prostopadła do obu osi
+   D. Krzywa w kształcie litery S
+   * D. Krzywa w kształcie litery S
 
-Jaka jest wartość funkcji wykładniczej $f(x) = 3^x$ dla x = 2?
+4. Dlaczego funkcja wykładnicza jest nieoznaczona w zadanym punkcie?
+   A. Z powodu dzielenia przez zero
+   B. Z powodu nieograniczonego wzrostu funkcji
+   C. Z powodu nieograniczonego spadku funkcji
+   D. Z powodu braku przecięcia się z osią x
+   * A. Z powodu dzielenia przez zero
 
-A) 3
-B) 6
-C) 9
-D) 12
+5. Jaka jest odmiana funkcji wykładniczej?
+   A. Logarytmiczna
+   B. Trigonometryczna
+   C. Irracjonalna
+   D. Wykładnicza
+   * A. Logarytmiczna
 
-Correct Answer: C
+### Fiszki
 
----
+1. Postać funkcji wykładniczej to y = ab^x
+2. Funkcja wykładnicza jest wzrostowa lub malejąca w zależności od znaku wartości b
+3. Funkcja wykładnicza jest nieoznaczona w zadanym punkcie, ponieważ w wyniku podnoszenia liczby do potęgi o danej wartości uzyskujemy wartość nieograniczoną
+4. Funkcja wykładnicza jest funkcją ciągłą na całej prostej rzeczywistej
+5. Funkcja odwrotna do funkcji wykładniczej to funkcja logarytmiczna
 
-Jaka różnica między funkcją potęgową a funkcją wykładniczą?
+### Notatki
 
-A) Brak różnicy, są one tym samym
-B) Funkcja potęgowa wymaga wykonalnej potęgi, natomiast funkcja wykładnicza wymaga współczynnika podstawowego
-C) Funkcja wykładnicza wymaga wykonalnej potęgi, natomiast funkcja potęgowa wymaga współczynnika podstawowego
-D) Nie ma żadnej różnicy między tymi dwoma funkcjami
+Funkcja wykładnicza to funkcja, która przyjmuje postać y = ab^x, gdzie a, b to liczby rzeczywiste i b > 0. Funkcja ta jest wzrostowa, gdy b > 1 i malejąca, gdy 0 < b < 1. Funkcja wykładnicza jest nieoznaczona w zadanym punkcie, ponieważ w wyniku podnoszenia liczby do potęgi o danej wartości uzyskujemy wartość nieograniczoną. Funkcja ta jest ciągła na całej prostej rzeczywistej i ma odwracalną funkcję, która to funkcja logarytmiczna.
 
-Correct Answer: C
+Wartości współczynników a i b mają duży wpływ na przebieg i kształt funkcji wykładniczej. Gdy współczynnik a jest równy 1, to funkcja przyjmuje postać y = b^x. Gdy współczynnik a nie jest równy 1, to funkcja wykładnicza jest wyróżniona na wykresie przez przesunięcie poziome lub pionowe.
 
----
-
-Która z poniższych wersji funkcji wykładniczej jest prawidłowa?
-
-A) $f(x) = 2^x + 1$
-B) $f(x) = x^2$
-C) $f(x) = e^x$
-D) $f(x) = 2^{x + 1}$
-
-Correct Answer: A, C
-
----
-
-Jakie właściwości ma funkcja wykładnicza?
-
-A) Monotonicznie rosnąca
-B) Monotonicznie malejąca
-C) Okresowa
-D) Ograniczona
-
-Correct Answer: A
-
-# Fiszki - Funkcja Wykładnicza
-
-| Nazwa                  | Treść                                                                 |
-|-----------------------|-------------------------------------------------------------------------|
-| Notacja                | $f(x) = a^x, gdzie\ a > 0 i\ a \ne 1$                                      |
-| Wartość dla x = 0       | Funkcja przyjmuje wartość 1, gdy x = 0                                 |
-| Współczynnik podstawowy | Podstawa a określa szybkość wzrostu funkcji                            |
-| Monotonicznie rosnąca  | Funkcja jest zawsze rosnąca, jeśli podstawa a > 1                         |
-| Dominanta              | Funkcja wykładnicza zawsze dominuje nad funkcją wielomianową lub liniową |
-
-# Notatki - Funkcja Wykładnicza
-
-Funkcja wykładnicza jest rodzajem funkcji matematycznej, która ma postać $f(x) = a^x$, gdzie $a > 0$ i $a 
-eq 1$. Jeśli $a > 1$, to funkcja wykładnicza jest zawsze rosnąca. Funkcja wykładnicza ma wiele właściwości
-ważnych dla matematyki i inżynierii.
-
-Jedną z podstawowych właściwości funkcji wykładniczej jest jej wartość dla x = 0, która zawsze przyjmuje
-wartość 1. Inną właściwością jest to, że jej współczynnik podstawowy $a$ decyduje o szybkości wzrostu funkcji.
- Im większy jest współczynnik podstawowy $a$, tym szybciej funkcja rośnie.
-
-Funkcja wykładnicza zawsze dominuje nad funkcją wielomianową lub liniową. Jest również monotonicznie
-rosnąca, co oznacza, że nigdy nie opada ani nie osiąga maksimum. Ta właściwość sprawia, że funkcje wykładnicze
-są szczególnie użyteczne w modelowaniu szybkiego wzrostu, takiego jak wzrost liczby bakterii lub rozpad pierwiastka
-radioaktywnego.
-
-Łatwo zauważyć, że funkcja wykładnicza wyróżnia się spośród innych funkcji, ponieważ jej wykres nie jest
-prostym lub parabolą, ale krzywą, która szybko rośnie wraz z wzrostem wartości $x$.
+Funkcja wykładnicza jest często stosowana w rachunku prawdopodobieństwa i statystyce, gdyż wiąże się z procentowym wzrostem lub spadkiem wartości prawdopodobieństwa. Dzięki temu można ją stosować w analizie zjawisk gdzie wartości rosną lub maleją ekspo ponencjalnie, takich jak np. wzrost liczby populacji lub wzrost kapitału inwestycyjnego.

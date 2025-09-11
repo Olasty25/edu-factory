@@ -1,68 +1,73 @@
- # Quiz: Funkcja homograficzna - Przykłady
+ # Quiz
+Here are five multiple-choice questions about homographic functions to test your knowledge. Choose the best answer among the options (A, B, C, or D).
 
-1. Jakie ograniczenie na dziedzinę funkcji homograficznej nawezie?
-   A. Musi być skończona.
-   B. Musi być nieprzeliczeniona.
-   C. Musi być przeliczalna.
-   D. Nie ma żadnych ograniczeń.
+1. What is the homographic function with the equation `y = (2x + 3) / (x - 4)`?
+   1. Increasing
+   2. Decreasing
+   3. Constant
+   4. Neither increasing nor decreasing
+       * **D. Neither increasing nor decreasing**
+2. Which of the following is the vertical asymptote of the function `y = (3x + 2) / (x - 5)`?
+   1. x = -2
+   2. x = 5
+   3. x = 3
+   4. x = -5
+       * **B. x = 5**
+3. What is the horizontal asymptote of the function `y = (2x - 1) / (5x + 3)`?
+   1. y = 0
+   2. y = 2/5
+   3. y = 1
+   4. y = 5/2
+       * **B. y = 2/5**
+4. If the homographic function `y = (2x + 3) / (x - 4)` has a root at x = p, which of the following is true?
+   1. p = -3/2
+   2. p = 4
+   3. p = 3
+   4. p = -4
+       * **A. p = -3/2**
+5. What is the value of the homographic function `y = (3x - 1) / (x + 2)` at x = 1?
+   1. 1
+   2. 2/3
+   3. 5
+   4. -5
+       * **B. 2/3**
 
-   Correct answer: C. Musi być przeliczalna.
+# Flashcards
+Here are five flashcards to help you review homographic functions.
 
-2. Czy funkcje homograficzne są jednoznaczne?
-   A. Tak, zawsze.
-   B. Nie, tylko wtedy, gdy dziedzina jest ograniczona.
-   C. Nie, tylko wtedy, gdy ma co najmniej jeden punkt stały.
-   D. Nie, zawsze.
+1. **Homographic Function**
+   A function of the form `f(x) = (ax + b) / (cx + d)`, where `a`, `b`, `c`, and `d` are real numbers and `c` is nonzero.
+2. **Increasing/Decreasing**
+   A homographic function is either increasing if `a/c > 0` or decreasing if `a/c < 0`.
+3. **Vertical Asymptote**
+   If the denominator of a homographic function is zero for some value of `x`, then `x` is a vertical asymptote of the function.
+4. **Root/X-intercept**
+   A homographic function has a root if `b/d` is a solution of `f(x) = 0`; the root is also known as the x-intercept.
+5. **Horizontal Asymptote**
+   The horizontal asymptote of a homographic function `f(x)` is `y = a/c` if the degrees of `a` and `c` are equal; if the degree of `a` is greater than that of `c`, then there is no horizontal asymptote.
 
-   Correct answer: D. Nie, zawsze.
+# Notes
+Homographic functions, also known as rational functions, belong to an important family of functions that can be expressed as the ratio of two linear functions. Learning how to recognize and work with homographic functions will greatly enhance your understanding of algebraic and calculus concepts.
 
-3. Dla funkcji homograficznej f(x) = (2x + 3) / (x - 6), znajdź wartość, którą należy dodać do jej dziedziny, aby stała się przeciwobrazem całkowitego zbioru liczb rzeczywistych.
-   A. 6
-   B. 8
-   C. 9
-   D. 12
+**Characteristics of homographic functions**
 
-   Correct answer: C. 9
+* A homographic function takes the form of `f(x) = (ax + b) / (cx + d)`, where `a`, `b`, `c`, and `d` are real numbers and `c` is nonzero.
+* Homographic functions are classified as either increasing or decreasing depending on the sign of `a/c`.
+* A homographic function has a vertical asymptote at `x = -d/c` if `c` is nonzero.
+* The root or x-intercept of a homographic function occurs at `x = -b/a` if `a` and `b` are not both zero.
+* Homographic functions with the same degree in the numerator and denominator have a horizontal asymptote that is the ratio of the leading coefficients of the numerator and denominator.
 
-4. Czy funkcja f(x) = (4x - 7) / (x + 2) jest homograficzna?
-   A. Tak
-   B. Nie
+**Manipulating and analyzing homographic functions**
 
-   Correct answer: A. Tak
+* A homographic function can be multiplied by `cx + d` to remove the denominator, resulting in a polynomial of degree one (linear function) or degree two (quadratic function).
+* The derivative of a homographic function is `f'(x) = (ad - bc)/(cx + d)^2`.
+* The second derivative of a homographic function is `f''(x) = -2(ad - bc)/(cx + d)^3`.
+* The first derivative of a homographic function can be used to determine the intervals where the function is increasing or decreasing.
+* The second derivative of a homographic function can be used to determine the concavity and inflection points of the function, as well as their nature.
 
-5. Czy funkcja f(x) = (x^2 + 3) / (x - 2) jest homograficzna?
-   A. Tak
-   B. Nie
+**Graphing homographic functions**
 
-   Correct answer: B. Nie
-
-# Fiszki: Funkcja homograficzna - Przykłady
-
-1. Funkcja homograficzna to funkcja w postaci $(ax+b)/(cx+d)$, gdzie $a,b,c,d$ są stałymi różnymi od zera.
-2. Funkcja homograficzna musi być określona na przeliczalnej dziedzinie ($ \mathbb{Q} $).
-3. Funkcja homograficzna nie może posiadać przeciwobrazu całkowitego zbioru liczb rzeczywistych ($ \mathbb{R} $).
-4. Funkcja homograficzna jest jednoznaczna tylko na swoim przeciwobrazie całkowitym.
-5. Funkcja homograficzna może mieć punkt stały lub asymptotę pionową.
-
-# Notatki: Funkcja homograficzna - Przykłady
-
-Funkcja homograficzna to funkcja w postaci $(ax+b)/(cx+d)$, gdzie $a,b,c,d$ są stałymi różnymi od zera. Jest to szczególny przypadek funkcji wielomianowej pierwszego stopnia.
-
-Własności funkcji homograficznej:
-
-- Musi być określona na przeliczalnej dziedzinie, tzn. zbiorze liczb wymiernych $ \mathbb{Q} $.
-- Nie może posiadać przeciwobrazu całkowitego zbioru liczb rzeczywistych $ \mathbb{R} $.
-- Jest ona jednoznaczna tylko na swoim przeciwobrazie całkowitym.
-- Może mieć punkt stały lub asymptotę pionową.
-
-Punkt stały funkcji homograficznej występuje, gdy wartość $(ax+b)/(cx+d)$ nie zależy od zmiennej $x$ i jest równa stałej. W takim przypadku $(cx-a)x+(ad-bc)=0$, co jest równaniem prostej prostopadłej do prostej stycznej do wykresu funkcji w punkcie stałym. Punkt stały występuje, gdy współczynnik prostej prostopadłej jest różny od zera.
-
-Asymptota pionowa występuje, kiedy mianownik funkcji homograficznej dąży do zera $(cx+d)	o 0$. W takim przypadku wartość funkcji dąży do plus lub minusa nieskończoności, w zależności od znaku wyrażenia $(ax+b)/(cx+d)$.
-
-Aby znaleźć dziedzinę funkcji homograficznej $(ax+b)/(cx+d)$, musimy wyłączyć zbiór liczb rzeczywistych $ \mathbb{R} $ punktami, dla których mianownik jest równy zero, tzn. $cx+d \neq 0$. Dlatego dziedziną funkcji jest zbiór liczb wymiernych pozbawiony punktów, dla których mianownik jest równy zero.
-
-Funkcje homograficzne nie są bijektywne, ponieważ nie są jednoznaczne na swojej dziedzinie. Jednakże, jeśli przyjmiemy przeciwobraz całkowity zbioru liczb rzeczywistych, to wtedy funkcja homograficzna staje się bijektywna i odwzorowuje $ \mathbb{R} $ na $ \mathbb{R} $.
-
-Źródło:
-
-https://pl.khanacademy.org/math/ap-calculus-ab/ab-functions-statistics-and-trigonometry/ab-inverse-functions/v/homographic-functions-and-their-asymptotes
+* A homographic function is continuous over its entire domain unless it has a vertical asymptote.
+* The graph of a homographic function can cross the x-axis at most once, although it could have no x-intercepts.
+* The graph of an increasing homographic function opens upward, whereas the graph of a decreasing homographic function opens downward.
+* The degree of a homographic function affects its end behavior and the number of horizontal asymptotes it has.

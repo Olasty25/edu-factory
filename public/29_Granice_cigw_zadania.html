@@ -68,62 +68,64 @@
       <body>
         <h1>29_Granice_cigw_zadania</h1>
         <div class="section quiz">
-          <h2>Quiz</h2>
+          <h1>Quiz - Granice ciągów</h1>
 <ol>
-<li>Co to są granice ciągów?
-A. Ograniczenie wartości, jaką może przyjąć wyraz ciągu
-B. Wartość, do której dąży ciąg w nieskończoność
-C. Zbiór wszystkich wartości, które przyjmują wyrazy ciągu
-D. Wielkość różnicowa między kolejnymi wyrazami ciągu</li>
+<li><p>Co otrzymamy po podstawieniu nieskończonej ilości przyróstków $h$ do wzoru $\frac{(a+h)^2 - a^2}{h}$?
+A) $2a$
+B) $0$
+C) $\infty$
+D) Nie da się określić
+<strong>Poprawna odpowiedź:</strong> A) $2a$</p>
+</li>
+<li><p>Czy wartość graniczna $\lim_{n \to \infty} \frac{n^2 + 3n - 5}{n^2 + 1}$ istnieje?
+A) Tak
+B) Nie
+<strong>Poprawna odpowiedź:</strong> A) Tak</p>
+</li>
+<li><p>Oblicz granicę: $\lim_{n \to \infty} \Big(\frac{n+1}{n-1}\Big)^n$
+A) $e$
+B) $-e$
+C) $1$
+D) Nie istnieje
+<strong>Poprawna odpowiedź:</strong> A) $e$</p>
+</li>
+<li><p>Co dostaniemy po podstawieniu wartości $x = 0$ do granicy $\lim_{x \to 0} \frac{\sin x}{x}$?
+A) $1$
+B) $0$
+C) $\infty$
+D) Nie da się określić
+<strong>Poprawna odpowiedź:</strong> A) $1$</p>
+</li>
+<li><p>Czy następująca własność jest prawdziwa? Jeżeli $\lim_{n \to \infty} a_n = a$, to $\lim_{n \to \infty} \frac{a_n}{n} = 0$
+A) Tak
+B) Nie
+<strong>Poprawna odpowiedź:</strong> B) Nie</p>
+</li>
 </ol>
-<p>Poprawna odpowiedź: B. Wartość, do której dąży ciąg w nieskończoność</p>
-<ol start="2">
-<li>Co jest równoważne oznaczeniu $\lim_{n\to\infty}a_n = a$ dla ciągu $(a_n)$?
-A. Istnieje taki limit, że dla dowolnie małego $\epsilon &gt; 0$ istnieje liczba naturalna $N$ taka, że dla dowolnego $n &gt; N$ zachodzi $|a_n - a| &lt; \epsilon$
-B. Istnieje taki limit, że dla dowolnie dużego $N$ istnieje liczba naturalna $n$ taka, że dla dowolnego $m &gt; n$ zachodzi $|a_m - a| &lt; \frac{1}{N}$
-C. Istnieje taki limit, że dla dowolnie małego $\epsilon &gt; 0$ istnieje liczba naturalna $N$ taka, że dla dowolnego $m, n &gt; N$ zachodzi $|a_m - a_n| &lt; \epsilon$
-D. Istnieje taki limit, że dla dowolnie małego $\epsilon &gt; 0$ istnieje liczba naturalna $N$ taka, że dla dowolnego $n &gt; N$ zachodzi $|a_n - a| &gt; \epsilon$</li>
+<h1>Fiszki - Granice ciągów</h1>
+<ol>
+<li><strong>Definicja granicy ciągu</strong>: Direktorem oznaczamy granicę ciągu ${a_n}$ zborem liczbowym $A$ jeśli każdy otoczenie $U$ punktu $A$ zawiera wszystkie wyrazów ${a_n}$, z wyjątkiem z pewną skończoną liczbę wyrazów, tzn.:
+$$\forall U(A) \ \exists N \in \mathbb{N} \ \forall n \geq N \ a_n \in U(A)$$</li>
+<li><strong>Kryterium Heinego</strong>: Jeśli dla dowolnego ciągu ${x_n} \subset X$ przy $x_n \to x_0$ zachodzi $\lim_{n \to \infty} a_{x_n} = A$, to $\lim_{x \to x_0} a_x = A$.</li>
+<li><strong>Twierdzenie o trzech ciągach</strong>: Jeśli ${a_n}$ oraz ${b_n}$ są zbieżne do $a$ i $b$ odpowiednio, a $\alpha, \beta \in \mathbb{R}$, to:
+a) $\lim_{n \to \infty} (\alpha a_n + \beta b_n) = \alpha a + \beta b$
+b) $\lim_{n \to \infty} a_n b_n = ab$
+c) Jeśli $b_n \neq 0$ oraz $b \neq 0$, to $\lim_{n \to \infty} \frac{a_n}{b_n} = \frac{a}{b}$</li>
+<li><strong>Warunek wystarczający zbieżności potęgowej</strong> dla ${a_n}$ ciągu zdefiniowanego przez $a_n = b_1 b_2 \cdot ... \cdot b_n$: Jeśli $\forall_n \ b_n \in [1, +\infty)$ oraz $\sum_{n=1}^{\infty} |b_n - 1| &lt; +\infty$, to ${a_n}$ jest zbieżny do pewnej liczby dodatniej.</li>
+<li><strong>Zasada Tychoń braju</strong>: Jeśli ${a_n}$ jest ciągiem ograniczonym i każdy jego podciąg ma granicę, to także ${a_n}$ ma granicę.</li>
 </ol>
-<p>Poprawna odpowiedź: A. Istnieje taki limit, że dla dowolnie małego $\epsilon &gt; 0$ istnieje liczba naturalna $N$ taka, że dla dowolnego $n &gt; N$ zachodzi $|a_n - a| &lt; \epsilon$</p>
-<ol start="3">
-<li>Co oznacza oznaczenie $\lim_{n\to\infty}a_n = \infty$ dla ciągu $(a_n)$?
-A. Istnieje taka liczba $a$, że dla dowolnie dużej wartości $N$ istnieje liczba naturalna $N$ taka, że dla dowolnego $n &gt; N$ zachodzi $|a_n - a| &gt; N$
-B. Istnieje taka liczba $a$, że dla dowolnie małej wartości $\epsilon &gt; 0$ istnieje liczba naturalna $N$ taka, że dla dowolnego $n &gt; N$ zachodzi $|a_n - a| &lt; \epsilon$
-C. Istnieje taki limit, że dla dowolnie dużej wartości $N$ istnieje liczba naturalna $n$ taka, że dla dowolnego $m &gt; n$ zachodzi $|a_m| &gt; N$
-D. Istnieje taki limit, że dla dowolnie dużej wartości $N$ istnieje liczba naturalna $N$ taka, że dla dowolnego $n &gt; N$ zachodzi $|a_n| &lt; N$</li>
-</ol>
-<p>Poprawna odpowiedź: C. Istnieje taki limit, że dla dowolnie dużej wartości $N$ istnieje liczba naturalna $n$ taka, że dla dowolnego $m &gt; n$ zachodzi $|a_m| &gt; N$</p>
-<ol start="4">
-<li>Dla danego ciągu $(a_n)$, jaka własność spełnia ciąg $(|a_n|)$?
-A. O ile $(a_n)$ jest zbieżny, to $(|a_n|)$ jest rozbieżny
-B. O ile $(a_n)$ jest rozbieżny, to $(|a_n|)$ jest zbieżny
-C. Odwrotność A.
-D. Odwrotność B.</li>
-</ol>
-<p>Poprawna odpowiedź: B. O ile $(a_n)$ jest rozbieżny, to $(|a_n|)$ jest zbieżny</p>
-<ol start="5">
-<li>Dla którego z poniższych ciągów $a_n = (-1)^n\frac{1}{n}$ i $b_n = (-1)^n\frac{1}{n^2}$ zachodzi $\lim_{n\to\infty}a_n = \lim_{n\to\infty}b_n = 0$?
-A. Tylko dla $a_n$
-B. Tylko dla $b_n$
-C. Dla obu ciągów
-D. Ani dla $a_n$, ani dla $b_n$</li>
-</ol>
-<p>Poprawna odpowiedź: C. Dla obu ciągów</p>
-<h2>Fiszki</h2>
+<h1>Notatki - Granice ciągów</h1>
+<p>Granice ciągów są jednym z podstawowych pojęć analizy matematycznej i bada się je za pomocą kilku fundamentalnych twierdzeń. Wśród nich wskażemy kryterium zbieżności bólzana, kryterium Cauchy&#39;ego, kryterium Heinego oraz twierdzenia o trzech ciągach. W przypadku badania ciągów związanych ze szeregami, możemy stosować twierdzenie Abela i kryterium D&#39;Alemberta.</p>
+<p>Granice funkcji i ciągów są powiązane. Zasadniczo mówiąc, granica ciągu to pojęcie specjalne granicy funkcji, w której miejsce zmiennej $x$ w funkcji zajmuje $n$-ty wyraz ciągu. Więc również często wykorzystujemy metody analizy funkcjonalnej do badania granic ciągów, jak np. twierdzenie Weierstrassa.</p>
+<p>Podobne zagadnienia pojawiają się m.in. w analizie numerycznej albo informatyce, szczególnie przy implementacji algorytmów, w których należy ustalać dokładność działań, dzięki której uzyskujemy satysfakcjonujące wyniki.</p>
+<p>Ważnym zagadnieniem związanym z granicami ciągów są własności ich zbieżności. Zapoznajmy się na przykład z poniższymi zasadami:</p>
 <ul>
-<li>Granice ciągów - wartość, do której dąży ciąg w nieskończoności</li>
-<li>Ośrodkiem ciągu nazywa się liczbę, do której dąży ciąg</li>
-<li>Ciąg zbieżny - ciąg, który ma ośrodek</li>
-<li>Ciąg rozbieżny - ciąg, który nie ma ośrodka</li>
-<li>Symbol $\lim_{n\to\infty}a_n = a$ oznacza, że $(a_n)$ dąży do $a$ w nieskończoności</li>
+<li>Monotoniczność: jeśli ciąg ${a_n}$ jest monotoniczny, to jest on zbieżny wtedy i tylko wtedy, gdy jest ograniczony.</li>
+<li>Zasada Tychoń brzuja: jeśli ${a_n}$ jest ciągiem ograniczonym i każdy jego podciąg ma granicę, to także ${a_n}$ ma granicę (to kryterium nieuwzględnione w powyższych fiszkach).</li>
+<li>Teorema o granicy jednostajnej: granica ciągu funkcji jest równa jednostajnie granicy ciągu funkcji wszędzie na zbiorze.</li>
+<li>Twierdzenie Weierstrassa: jeśli granica ciągu ${a_n}$ ograniczonego ciągu liczb rzeczywistych istnieje, to granica ta jest równa pewnej z niniejszego ciągu.</li>
 </ul>
-<h2>Notatki</h2>
-<p>Ciągi to kolejne wyrazy, które można zapisać w postaci $a_1, a_2, a_3, \ldots$, gdzie $a_n$ oznacza $n$-ty wyraz ciągu.</p>
-<p>Limity ciągów to granice wartości, do których może dążyć dany ciąg w nieskończoności. Możemy wyróżnić dwa rodzaje granic: skończone oraz nieskończone.</p>
-<p>Jeżeli ciąg dąży do konkretnej liczby $a$, to oznaczamy to za pomocą symbolu $\lim_{n\to\infty}a_n = a$, co oznacza, że dla dowolnie małego $\epsilon &gt; 0$ istnieje liczba naturalna $N$ taka, że dla dowolnego $n &gt; N$ zachodzi $|a_n - a| &lt; \epsilon$.</p>
-<p>Jeżeli natomiast ciąg dąży do nieskończoności, to oznaczamy to za pomocą symbolu $\lim_{n\to\infty}a_n = \infty$ lub $\lim_{n\to\infty}a_n = -\infty$, które oznaczają, że dla dowolnie dużej wartości $N$ istnieje liczba naturalna $n$ taka, że dla dowolnego $m &gt; n$ zachodzi $|a_m| &gt; N$ lub $|a_m| &lt; -N$.</p>
-<p>Istnieją także specjalne przypadki, w których możemy stwierdzić, że ciąg nie ma granicy, np. jeśli ciąg jest okresowy lub posiada podciągi rozbieżne.</p>
-<p>Granice ciągów są bardzo ważne w matematyce, gdyż pozwalają na opisywanie własności funkcji w nieskończoności. Znajdują zastosowanie m.in. w analizie matematycznej, fizyce i informatyce.</p>
+<p>Samodzielne ćwiczenie w obliczaniu granic ciągów i szeregów rozwija umiejętności pracy z takimi pojęciami, jak limit liczbowy, otoczeniem, ciągami monotonicznymi oraz metodami szeregów.</p>
 
         </div>
         <a href="index.html" class="back">← Powrót do spisu treści</a>
