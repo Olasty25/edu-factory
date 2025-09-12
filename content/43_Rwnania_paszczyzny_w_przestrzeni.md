@@ -1,70 +1,66 @@
- # Quiz: Równania płaszczyzny w przestrzeni
+ # Quiz - Równania płaszczyzny w przestrzeni
 
-1. Jaka ma płaszczyzna równanie, która przechodzi przez punkt A(1, 2, 3) i jest równoległa do płaszczyzny z równaniem 2x - 3y + z = 0?
-   - A) x + y + z = 6
-   - B) 2x - 3y + z = 11
-   - C) x - 0,5y + 0,5z = 4
-   - D) nie da się ustalić na pewno
+1. Jaka ma płaszczyzna równanie, którego wektor normalny jest rowny wektorowi (1, 2, 3)?
 
-   Poprawna odpowiedź: D) nie da się ustalić na pewno
+   A) 1x + 2y + 3z = 0
+   B) x - 2y + 3z = 1
+   C) x + 2y - 3z = 2
+   D) -x - 2y - 3z = 3
 
-2. Jaka ma płaszczyzna równanie, jeżeli jej normalna jest wektorem <1, 2, 3> a odległość od początku układu współrzędnych wynosi 5?
-   - A) 1x + 2y + 3z = 15
-   - B) 1x + 2y + 3z = 5
-   - C) 1x + 2y + 3z = 50
-   - D) 1x + 2y + 3z = 55
+   Poprawna odpowiedź: A
 
-   Poprawna odpowiedź: A) 1x + 2y + 3z = 15
+2. Podaj równanie płaszczyzny, zawierającej dwa punkty A(1, 2, 3) i B(4, 5, 6).
 
-3. Jaka ma płaszczyzna równanie, jeżeli przechodzi przez punkty A(1, 2, 3) oraz B(4, 5, 6)?
-   - A) x + y + z = 10
-   - B) 4x - 3y + z = 15
-   - C) 0,5x - 0,5y + 0,5z = 5
-   - D) 0,5x + 0,5y + 0,5z = 7
+   A) x + y + z = 10
+   B) 3x - 2y + z = 0
+   B) nie ma takiej płaszczyzny
+   D) x - y + z = 1
 
-   Poprawna odpowiedź: D) 0,5x + 0,5y + 0.5z = 7
+   Poprawna odpowiedź: A
 
-4. Jaka ma płaszczyzna równanie, jeżeli jest równoległa do płaszczyzny z równaniem 3x + 2y - z = 0 i przechodzi przez punkt C(-1, 1, 2)?
-   - A) 3x + 2y - z = 6
-   - B) 3x + 2y - z = -5
-   - C) 3x + 2y - z = 5
-   - D) nie da się ustalić na pewno
+3. Wektor normalny do płaszczyzny 2x + y - z = 3 jest równy:
 
-   Poprawna odpowiedź: D) nie da się ustalić na pewno
+   A) <2, 1, -1>
+   B) <-2, -1, 1>
+   C) <2, -1, 1>
+   D) <-2, 1, -1>
 
-5. Jaka ma płaszczyzna równanie, jeżeli normalny jej wektor jest równoległy do wektora <5, 8, 9> a odległość od początku układu współrzędnych wynosi 25?
-   - A) 5x + 8y + 9z = 135
-   - B) 5x + 8y + 9z = 25
-   - C) 5x + 8y + 9z = 125
-   - D) 5x + 8y + 9z = 300
+   Poprawna odpowiedź: D
 
-   Poprawna odpowiedź: C) 5x + 8y + 9z = 125
+4. Na jakiej płaszczyznie znajduje się punkt (3, 4, 5), którego wektor stały jest równy wektorowi (1, 1, 1)?
 
-# Fiszki: Równania płaszczyzny w przestrzeni
+   A) x + y + z = 9
+   B) x - y + z = 3
+   B) 3x - 3y + 3z = 9
+   D) x + y - z = 1
 
-1. Równanie płaszczyzny w postaci canonicznej to Ax + By + Cz = D, gdzie A, B, C sa współczynnikami normalnymi, a D jest przesunięciem względem początku układu współrzędnych.
-2. Płaszczyzna, która przechodzi przez dany punkt, a jej wektor normalny jest prostopadły do wektora wskazującego kierunek poruszania się wzdłuż danej prostej, jest prostopadła do tej prostej.
-3. Vector normalny można znaleźć z wykorzystaniem ilorazu różnicowego, który jest wektorem prostopadłym do równania prostej reprezentowanej jako nx + my + kz = 0. Iloraz różnicowy dla funkcji y = f(x) jest wyrażony przez a = f'(x).
-4. Vector normalny to, wyrażony we współrzędnych, wektor, którego współczynniki spełniają równanie A^2 + B^2 + C^2 = 1.
-5. Odistansje od początku układu współrzędnych do płaszczyzny jest równa D / sqrt(A^2 + B^2 + C^2), przegięty znak jeśli płaszczyzna jest zwrócona w przeciwnym kierunku względem oś Z.
+   Poprawna odpowiedź: C
 
-# Notatki: Równania płaszczyzny w przestrzeni
+5. Podaj wektor normalny do płaszczyzny o równaniu 4x - 3y + z = 0.
 
-Równanie płaszczyzny w trójwymiarowej przestrzeni jest reprezentowane za pomocą równania liniowego o trzech zmiennych przestrzennych: x, y, z. Może być zapisana w postaci kanonicznej Ax + By + Cz = D, gdzie A, B, C, D są stałymi liczbami dla każdej danej płaszczyzny i Wektor normalny <A, B, C> tego równania jest prostopadły do płaszczyzny.
+   A) <4, -3, 1>
+   B) <-4, 3, -1>
+   C) <4, 3, -1>
+   D) <-4, -3, 1>
 
-Zasadniczo istnieją trzy rodzaje postaci równania płaszczyzny:
+   Poprawna odpowiedź: A
 
-1. Postać canoniczna: Ax + By + Cz = D.
-2. Postać wektorowa: Normalny wektor płaszczyzny x \* <A, B, C> = D.
-3. Postać parametryczna: x = A \* t + x0, y = B \* t + y0, z = C \* t + z0
+# Fiszki - Równania płaszczyzny w przestrzeni
 
-Można również określić położenie płaszczyzny w przestrzeni względem początku układu współrzędnych w następujący sposób:
+- Równanie płaszczyzny można zapisać w postaci kanonicznej: Ax + By + Cz = D, gdzie wektor <A, B, C> jest wektorem normalnym do płaszczyzny.
+- Płaszczyzna przechodząca przez trzy dane punkty w przestrzeni istnieje zawsze.
+- Równanie płaszczyzny zawierającej dany punkt oraz prostopadłe do danej wektora można zapisać jako (r - r0) · n = 0, gdzie r0 jest wektorem położenia punktu, a n jest wektorem normalnym do płaszczyzny.
+- Płaszczyzna prostopadła do prostej o wektorze kierunkowym n jest dana przez równanie n · (r - r0) = 0.
+- Dwie płaszczyzny są równolegle, jeżeli ich wektory normalne są prostopadłe.
 
-1. Jeżeli wszystkie współczynniki A, B, C równe 0 to płaszczyzna jest równoległa do płaszczyzny xy, znajduje się ponad czy poniżej niej nie da się ustalić.
-2. Jeżeli C = 0 to płaszczyzna jest równoległa do płaszczyzny xz.
-3. Jeżeli B = 0 to płaszczyzna jest równoległa do płaszczyzny yz.
-4. Odstąp od początku układu współrzędnych Z = D / (N \* d), gdzie N jest normą wektora normalnego a d jest odległością od początku układu współrzędnych do płaszczyzny.
+# Notatki - Równania płaszczyzny w przestrzeni
 
-Kiedy tworzymy równania płaszczyzny, musimy pamiętać o unikaniu niedodatnich współczynników ułamków ("-6x" zamiast "3/2x"), które mogą spowodować pomyłki w obliczeniach. Dodatkowo, w przypadku równań płaszczyzny, które nie przechodzą przez początek układu współrzędnych, spróbuj użyć postaci canonicznej oraz unikaj dodatkowych dodatnich lub ujemnych znaków przed stałą D ("8x + 4y + 3z - 7" zamiast "-8x - 4y - 3z + 7").
+Równanie płaszczyzny w przestrzeni może być zapisane w postaci kanonicznej Ax + By + Cz = D, gdzie wektor <A, B, C> jest wektorem normalnym do płaszczyzny. To znaczy, że dla każdego punktu płaszczyzny spełnione jest to żeby iloczyn skalarny wektora z punktu i wektora normalnego było równe D. Płaszczyzna może być także opisana za pomocą równania wektorowego (r - r0) · n = 0, gdzie r0 jest wektorem położenia dowolnie wybranego punktu na płaszczyźnie, a n jest wektorem normalnym do płaszczyzny.
 
-Aby obliczyć oś środkową prostopadłą do danej płaszczyzny na podstawie wektora normalnego do niej, należy użyć następującej postaci wzoru: (A / sqrt(A^2 + B^2 + C^2), B / sqrt(A^2 + B^2 + C^2), C / sqrt(A^2 + B^2 + C^2)). Zauważ, że oś środkowa i wektor normalny są zawsze kolinearne.
+Podstawową zaletą równania kanonicznego jest łatwość wizualizacji płaszczyzny, gdyż wektor normalny wskazuje kierunek prostopadły do płaszczyzny. Jednak równanie wektorowe jest bardziej uniwersalne, gdyż pozwala nam na znalezienie płaszczyzny zawierającej dany punkt i prostopadłej do danej prostej (o wektorze kierunkowym n) poprzez zastosowanie równania n · (r - r0) = 0.
+
+Dwie płaszczyzny są równoległe, jeśli ich wektory normalne są prostopadłe, tzn. jeśli iloczyn ich iloczynu skalarnego jest równy zero. Jeśli płaszczyzny mają wspólne punkty, to są one paraalelne. Natomiast jeśli płaszczyzny przecinają się, ich przecięcie jest prosta o równaniu zależnym od równań obu płaszczyzn.
+
+Kształt płaszczyzny możemy ocenić za pomocą iloczynu wektora normalnego z wektorem zwrotnym osi z, który jest jednocześnie miarą nachylenia płaszczyzny do osi współrzędnych. Im mniejsza wartość bezwzględna iloczynu tych wektorów, tym bardziej płaszczyzna nachylona jest do osi z.
+
+Podsumowując, równania płaszczyzny w przestrzeni są podstawowym pojęciem geometrii analitycznej. Pozwalają na dokładne matematyczne opisy kształtów geometrycznych występujących w trzech wymiarach oraz wykonywanie na nich obliczeń i operacji geometrycznych, takich jak obliczanie przecięć, nachylenia czy odległości.
