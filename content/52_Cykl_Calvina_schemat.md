@@ -1,68 +1,64 @@
- ### Quiz
+ # Quiz (Cykl Calvina)
 
-1. Co to jest Cykl Calvina?
-A. Model ekonomiczny
-B. Schemat metaboliczny
-C. Model ekologiczny
-D. Schemat informacyjny
+1. Co to jest cykl Calvina?
+A. Cykl rozwojowy roślin
+B. Cykl komercyjny butików mody
+C. Cykl produkcyjny w hodowli bydła
+D. Cykl rekreacyjny w ośrodkach wypoczynkowych
 
-Correct Answer: B. Schemat metaboliczny
+Correct answer: A
 
-2. Ile etapów obejmuje Cykl Calvina?
-A. 6 etapów
-B. 7 etapów
-C. 5 etapów
-D. 4 etapów
+2. Ile etapów zawiera cykl Calvina?
+A. 3
+B. 5
+C. 6
+D. 8
 
-Correct Answer: C. 5 etapów
+Correct answer: C
 
-3. Jaka jest rola enzymu Rubisco w Cyklu Calvina?
-A. Przenoszenie elektronów
-B. Fixacja CO2
-C. Produkcja NADPH
-D. Produkcja ATP
+3. Jakie związki chemiczne wchodzą w skład cyklu Calvina?
+A. Glukoza i fruktoza
+B. Ryboflawina i NADP
+C. Trikolorofil i kwas fumarowy
+D. Ribuloza-1,5-bisfosforan i 3-fosfooglicerynian
 
-Correct Answer: B. Fixacja CO2
+Correct answer: D
 
-4. Co to jest ATP?
-A. Adedylo-3'-5'-trifosforan
-B. Guanozyno-5'-trifosforan
-C. Adenozyno-3',5'-bisfosforan
-D. Cyklizacja chlorofilu
+4. Gdzie znajdują się enzymy cyklu Calvina?
+A. Stroma chloroplastów
+B. Tyłaczki mitochondrium
+C. Membrana chloroplastów
+D. Pora mitochondrium
 
-Correct Answer: C. Adenozyno-3',5'-bisfosforan
+Correct answer: A
 
-5. Czym jest produktem ostatecznym Cyklu Calvina?
-A. Tlen
-B. Cukry
-C. Aminokwasy
-D. Tlenek węgla
+5. Jaki jest produktem końcowym cyklu Calvina?
+A. Glukoza
+B. Kwas masłowy
+C. Oksyglukoza-6-fosforan
+D. Fruktoza-6-fosforan
 
-Correct Answer: B. Cukry
+Correct answer: D
 
-### Fiszki
+# Fiszki (Cykl Calvina)
 
-1. Cykl Calvina - schemat metaboliczny w zielonych roślinach, glonach i niektórych bakteriach, przeprowadzający fotosyntezę.
-2. Enzym Rubisco - kluczowy enzym w Cyklu Calvina, odpowiedzialny za fixację dwutlenku węgla z powietrza.
-3. ATP - cząsteczka energetyczna, biorąca udział w przemianach metabolicznych w komórkach.
-4. Kolisty schemat - struktura Cyklu Calvina, w której produkty etapu 1 stają się substratami etapu 2, a następnie substratami etapu 3 itd.
-5. Cukry - produkt końcowy Cyklu Calvina, wykorzystywane do zasilenia i rozwoju rośliny.
+1. Cykl Calvina - ciąg reakcji chemicznych przebiegający w chloroplastach roślin zielonych oraz w cyjanobakteriach, stanowiący etap wykorzystywania energii świetlnej z procesu fotosyntezy do wytwarzania cukrów.
+2. Podstawowym substratem cyklu Calvina jest ryboflawina fosforanowana, która ma kluczowe znaczenie w procesie asymilacji CO2.
+3. W cyklu Calvina znajdujemy etap związany z regeneracją ryboflawiny-1,5-bisfosforanu, który jest potrzebny do następnej fazy cyklu.
+4. W końcowym etapie cyklu Calvina powstaje fruktoza-6-fosforan i jest jednym z ważniejszych produktów transportowych stosowanych przez rośliny.
+5. Podczas fotosyntezy, energia świetlna rozpędza elektrony i prowadzi do tworzenia NADPH i ATP, które z kolei mogą być wykorzystane przez cykl Calvina do uzyskiwania cukrów i asymilacji CO2.
 
-### Notatki
+# Notatki (Cykl Calvina)
 
-Cykl Calvina to schemat fotosyntezy, w którym glukoza i inne cukry są wytwarzane z dwutlenku węgla i wody w chloroplastach zielonych roślin i niektórych bakterii. Cykl został nazwany na cześć amerykańskiego naukowca, Melvina Calvina, który odegrał kluczową rolę w jego poznaniu w latach 50. XX wieku.
+Cykl Calvina jest ważnym etapem fotosyntezy, w którym energia świetlna jest wykorzystywana do asymilacji CO2. Cykl odkrył Melvin Calvin w latach 50. XX wieku, w badaniach nad fotosyntezą u glonów zielenicowych. Ponieważ cykl Calvina zaobserwowano tylko u roślin, wszystkich glonów oraz u niektórych bakterii (zwanych cyjanobakteriami), zalicza się go do procesów charakterystycznych dla fotosyntezy tzw. Oksygenowej (ang. oxygenic).
 
-Etapy Cyklu Calvina:
+W procesie otrzymuje ATP i NADPH, które to związki potrzebne są cyklowi Calvina do przebiegu reakcji asymilacji CO2. Cykl Calvina składa się z trzech etapów, z których pierwszy i trzeci stanowią dwie fazy regeneracji ryboflawiny-1,5-bisfosforanu, który jest substratem i produktem końcowym w tym cyklu.
 
-1. Fixacja CO2
-Woda i dwutlenek węgla są rozkładane przez enzym Rubisco, co prowadzi do wytworzenia 3-fosfoglicerynianu, który jest niezbędny w etapie 2.
-2. Redukcja 3-fosfoglicerynianu do glukozy
-Zachodzi przez kilka etapów, w których substraty są modyfikowane przez enzymy i cząsteczki energetyczne ATP i NADPH. W rezultacie uzyskujemy triozę, czyli trójwęglowy cukier.
-3. Regeneracja 3-fosfoglicerynianu
-Aby wykorzystać substraty i rozpocząć kolejny cykl, 3-fosfoglicerynian musi być odtworzony. Wymagane jest to w celu zapewnienia odpowiedniego poziomu substratu dla etapu 1.
-4. Produkcja ATP i NADPH
-Te cząsteczki energetyczne są to ważne elementy Cyklu Calvina, ponieważ są one niezbędne do przeprowadzenia etapów 2 i 3. Są one wytwarzane w chloroplastach, dzięki energii świetlnej.
-5. Zakończenie etapu 4
-W tym etapie z triozy lub trójwęglowego cukru powstają inne produkty, tj. cukry, skrobia i inne polisacharydy, które są wykorzystywane do wytwarzania energii lub wzmacniania struktury rośliny.
+Etap I (karboksylacja) - Poczyna się on od wiązania CO2 z ryboflawiną-1,5-bisfosforanem tworząc dwutlenek 3-fosfooglicerynianu za pomocą karboksylazy ryboflawinianowej.
 
-Etapy Cyklu Calvina są powiązane, więc substraty jednego etapu są substratami następnego etapu. W ten sposób powstaje kolisty schemat, w którym proces przebiega w sposób cykliczny i nieprzerwany.
+Etap II (redukcja) - Dwutlenek 3-fosfooglicerynianu zostaje redukowany przy użyciu dwóch cząsteczek NADPH, tworząc dwie cząsteczki 3-fosfooglicerynetu za pomocą reduktazy 3-fosfooglicerynowej.
+
+Etap III (regeneracja) - Ten etap podzielony jest na 5 kolejnych reakcji, kończących się przywróceniem substratu początkowego, ryboflawiny-1,5-bisfosforanu. Na tym etapie 3-fosfooglicerynet zostaje przekształcony w fruktozę-6-fosforan, która jest substratem w kolejnych etapach metabolizmu cukrów w roślinach.
+
+W cyklu Calvina zaangażowane są trzy główne związki, które przemieniają się w określonej sekwencji chemicznej: ryboflawina-1,5-bisfosforan, trójfosforan glukozy oraz fruktoza-6-fosforan. Cały cykl Calvina zachodzi w stromie chloroplastów i potrzebuje energii oraz elektronów pochodzących z procesu fotosyntezy do wytworzenia NADPH i ATP z fotosystemu II i fotosystemu I. Podsumowując, cykl Calvina to kluczowy etap fotosyntezy, w którym produkowane jest dużo związków organicznych, które mogą
+być wykorzystane przez rośliny jako materiały budulcowe. Poza tym, cykl Calvina jest także jednym z ważniejszych czynników asymilujących CO2 w ekosystemie '

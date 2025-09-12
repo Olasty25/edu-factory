@@ -1,90 +1,91 @@
  Dyfuzja i Osmoza - Przykłady
-========================
+=============================
 
-Quiz
-----
-1. Co to jest dyfuzja?
+Quiz (poprawne odpowiedzi \(E\))
+------------------------------
 
-   A. Ruch przez membranę komórkową wzdłuż stężenia wyższego do niższego.
-   
-   B. Ruch przez membranę komórkową wzdłuż stężenia niższego do wyższego.
-   
-   C. Ruch cząstek przez płyn wzdłuż ciepła wyższego do niższego.
-   
-   D. Ruch cząstek przez płyn wzdłuż ciśnienia wyższego do niższego.
+### Pytanie 1
 
-   *Poprawna odpowiedź: A*
+Co to jest dyfuzja?
 
-2. Jaka jest rola dyfuzji w organizmach żywych?
+A. Ruchy cząstek w rozcieńczonym roztworze
+B. Przenikanie cieczy przez błonę półprzepuszczalną
+C. Przenikanie gazu przez błonę
+D. Ruch cząstek w roztworze stałym
 
-   A. Dostarczanie tlenu do tkanek
-   
-   B. Transport substancji od tkanek do naczyń krwionośnych
-   
-   C. Zapobieganie tworzeniu się stref gradientu stężenia na membranie komórkowej
-   
-   D. Wymiana gazowa w płucach
+\(E\) A. Ruchy cząstek w rozcieńczonym roztworze
 
-   *Poprawna odpowiedź: A*
+### Pytanie 2
 
-3. Co to jest osmoza?
+Co to jest osmoza?
 
-   A. Ruch przez membranę komórkową wzdłuż stężenia wyższego do niższego.
-   
-   B. Ruch przez membranę komórkową wzdłuż stężenia niższego do wyższego.
-   
-   C. Ruch przez membranę komórkową wzdłuż ciśnienia wyższego do niższego.
-   
-   D. Ruch przez membranę komórkową wzdłuż ciśnienia niższego do wyższego.
+A. Ruchy cząstek w rozcieńczonym roztworze
+B. Przenikanie cieczy przez błonę półprzepuszczalną
+C. Przenikanie gazu przez błonę
+D. Ruch cząstek w roztworze stałym
 
-   *Poprawna odpowiedź: B*
+\(E\) B. Przenikanie cieczy przez błonę półprzepuszczalną
 
-4. Czy osmoza zachodzi szybciej przy kierunku ruchu cząstek wzdłuż stężenia mniejszego do większego czy odwrotnie?
+### Pytanie 3
 
-   A. Odwrotnie
-   
-   B. Kierunku ruchu cząstek wzdłuż stężenia mniejszego do większego
+Jaka z poniższych sytuacji nie odpowiada traktowaniu wody jako pobranego płynu?
 
-   *Poprawna odpowiedź: A*
+A. Otrzymywanie plazmy
+B. Dializa nerek
+C. Hemofiltracja
+D. Preparaty perfuzyjne
 
-5. Co to jest **hipertoniczne**, **hipotoniczne** i **izotoniczne** rozpuszcze?
+\(E\) A. Otrzymywanie plazmy
 
-   A. Hipertoniczne - rozpuszcz z większą ilością substancji rozpuszczonej niż w komórce, Hipotoniczne - rozpuszcz z mniejszą ilością substancji rozpuszczonej niż w komórce, Izotoniczne - rozpuszcz o takiej samej ilości substancji rozpuszczonej jak w komórce
-   
-   B. Hipertoniczne - rozpuszcz z mniejszą ilością substancji rozpuszczonej niż w komórce, Hipotoniczne - rozpuszcz z większą ilością substancji rozpuszczonej niż w komórce, Izotoniczne - rozpuszcz o różnej ilości substancji rozpuszczonej niż w komórce
+### Pytanie 4
 
-   *Poprawna odpowiedź: A*
+Zastosowanie zjawiska dyfuzji w lecznictwie obejmuje:
+
+A. Wymianę gazową w płucach
+B. Filtrację kanalików nerkowych
+C. Hemofiltrację i dializę nerek
+D. Dostarczanie leków do tkanek
+
+\(E\) D. Dostarczanie leków do tkanek
+
+### Pytanie 5
+
+Żeby zapobiec zjawisku osmozy należy zastosować:
+
+A. Rozcieńczony roztwór w komorze odwracalnej
+B. Rozcieńczony roztwór w przestrzeni zewnętrznej
+C. Słony roztwór w komorze odwracalnej
+D. Słony roztwór w przestrzeni zewnętrznej
+
+\(E\) C. Słony roztwór w komorze odwracalnej
 
 Fiszki
-------
+-----
 
-* **Dyfuzja** - Ruch cząstek przez rozpuszczalnik z obszaru o wyższym stężeniu do obszaru o niższym stężeniu, dopóki nie zostanie osiągnięty stan równowagi.
-* **Osmoza** - Ruch cząstek przez półprzepuszczalną membranę z rozpuszczalnikiem ubogim w substancję rozpuszczoną do rozpuszczalnika bogatego w tę substancję, dopóki nie zostanie osiągnięty stan równowagi.
-* **Hipertoniczne** - Rozpuszcz z większą ilością substancji rozpuszczonej niż w komórce.
-* **Hipotoniczne** - Rozpuszcz z mniejszą ilością substancji rozpuszczonej niż w komórce.
-* **Izotoniczne** - Rozpuszcz o takiej samej ilości substancji rozpuszczonej jak w komórce.
+1. **Dyfuzja** - proces nieodwracalny, prowadzący do wyrównywania stężeń substancji rozpuszczonych
+2. **Błona półprzepuszczalna** - membrana dobrze przepuszczająca cząsteczki rozpuszczalnika, lecz dobrze lub słabo rozpuszczalnik
+3. **Osmoza** - dyfuzja rozpuszczalnika przez błonę półprzepuszczalną
+4. **Woda postać transportowa** - pobrany płyn używany w lecznictwie do transportu leków, wywarów, plazmy, preparatów perfuzyjnych, itd.
+5. **Hemofiltracja i dyalis jest zastosowaniem zjawiska dyfuzji** - leczenie chorób nerek, usuwanie toksyn, nadmiaru wody, a w ich przypadku braku wydalania moczu, obniżanie stężenia soli i innych substancji w osoczu krwi
 
 Notatki
 -------
 
-Dyfuzja to ruch cząstek przez rozpuszczalnik z obszaru o wyższym stężeniu do obszaru o niższym stężeniu, dopóki nie zostanie osiągnięty stan równowagi. Dyfuzja zachodzi bez udziału zewnętrznej energii, a szybkość dyfuzji zależy od temperatury i wielkości cząstek.
+Dyfuzja i osmoza to zjawiska fizyczne występujące w naszym życiu codziennym. Zastosowanie ich ma miejsce w mikroświecie wszystkich komórek oraz w lecznictwie.
 
-Przykłady dyfuzji:
+Dyfuzja to proces nieodwracalny związany z wyrównywaniem stężeń substancji rozpuszczonych w roztworach. W warunkach chorobowych, w których substancje szkodliwe są wytwarzane, dyfuzja umożliwia zwrotny transport tych substancji.
 
-* Oddychanie - tlen oraz dwutlenek węgla dyfundują przez płuca
-* Rozpuszczanie leków - leki dyfundują przez błony skóry i błon śluzowych
-* Transport substancji od tkanek do naczyń krwionośnych
+W lecznictwie dyfuzja odgrywa bardzo ważną rolę w:
 
-Osmoza to rodzaj dyfuzji, w której cząstki rozpuszczone przenikają przez półprzepuszczalną membranę z obszaru o niższym stężeniu do obszaru o wyższym stężeniu, dopóki nie zostanie osiągnięty stan równowagi. Osmoza może być stanem równowagi tylko wtedy, gdy ciśnienie osmotyczne jest równe ciśnieniu hydrostatycznemu. Osmoza zachodzi w komórkach organizmów żywych, gdzie pomaga w utrzymaniu homeostazy.
+* wymianie gazowej płuc,
+* oczyszczaniu osocza i wody w organizmie,
+* transportowaniu leków do tkanek,
+* dializie i hemofiltracji - leczeniu chorób nerek, usuwaniu toksyn, nadmiaru wody oraz braku wydalania moczu, w przypadku prawidłowego stężenia soli i innych substancji w osoczu.
 
-Przykłady osmozy:
+Woda w lecznictwie stanowi postać transportową dla różnorakich substancji. Najczęściej używana jest w plazmolezji=plazmaferezie (odkazywanie i wymiana plazmy krwi), dializie i hemofiltracji.
 
-* Absorpcja wody w jelitach
-* Gazowa wymiana w płucach
-* Rozpuszczanie soli w wodzie
+Woda płynna ma dwa znaczące zastosowania w lecznictwie. Jest podawana doustnie i dożylnie. Po podaniu doustnym wchłania większość płynu w przewodzie pokarmowym. Po podaniu dożylnym znaczną część wody zużywa układ pokarmowy. Z, tego względu, zaleca się piciu wody przed i po zabiegu.
 
-W zależności od stężenia rozpuszczonej substancji w komórce i w rozpuszczalniku, można wyróżnić trzy rodzaje osmozy: hipertoniczna, hipotoniczna i izotoniczna.
+Występuje także zjawisko osmozy, którego używa się w medycynie. Polega ono na przemieszczaniu się cząstek wody przez błonę półprzepuszczalną od uboższego do bogatszego stężenia substancji rozpuszczonej. Aby zapobiec zjawisku osmozy, konieczne jest zastosowanie słonego roztworu w komorze odwracalnej - mechanicznym obracoanym workiem.
 
-* Hipertoniczna osmoza - gdy ilość substancji rozpuszczonej w komórce jest większa niż w rozpuszczalniku, wówczas komórka traci wodę.
-* Hipotoniczna osmoza - gdy ilość substancji rozpuszczonej w komórce jest mniejsza niż w rozpuszczalniku, wówczas komórka absorbuje wodę.
-* Izotoniczna osmoza - gdy ilość substancji rozpuszczonej w komórce i w rozpuszczalniku jest taka sama, wówczas nie dochodzi do wymiany wody między komórką a rozpuszczalnikiem.
+Podsumowując, dyfuzja i osmoza są ogromnie ważne w lecznictwie. Pobrana woda podawana jest w różnej postaci do transportu i oczyszczania organizmu. Zjawiska dyfuzji i osmozy decydują o prawidłowym działaniu płuc i nerek, transportują leki i występują w lecznictwie w stosunku do chorych wymagających gwarantowanej gęstości osocza oraz uzupełniania wody.

@@ -1,63 +1,52 @@
- # Quiz (Transport przez błonę komórkową)
-1. Jaka jest główna funkcja błon komórkowych?
-A. Produkcja białka
-B. Transport substancji
-C. Podział komórki
-D. Wzrost komórki
+ # Quiz - Transport przez błonę komórkową
+1. Jakie są główne mechanizmy transportu przez błonę komórkową?
+   a) Difuzja
+   b) Transport bierny
+   c) Transport aktywny
+   d) Endocytoza i egzocytoza
+   &nbsp;&nbsp;&nbsp;&nbsp;Poprawna odpowiedź: d) Endocytoza i egzocytoza
+2. Co odróżnia transport bierny od transportu aktywnego?
+   a) Transport bierny to wymuszony transport, w przeciwieństwie do transportu aktywnego
+   b) Transport bierny toniciek możliwy w obecności gradientu stężenia, w przeciwieństwie do transportu aktywnego
+   c) Transport bierny zachodzi bez zużycia ATP, w przeciwieństwie do transportu aktywnego
+   d) Transport bierny dokonuje się poprzez otwarcie odpowiednich kanałów białkowych, w przeciwieństwie do transportu aktywnego
+   &nbsp;&nbsp;&nbsp;&nbsp;Poprawna odpowiedź: c) Transport bierny zachodzi bez zużycia ATP, w przeciwieństwie do transportu aktywnego
+3. Gdy stosujemy termin „cotransport”?
+   a) Gdy mówimy o przemieszczaniu dwóch cząsteczek w przeciwnych kierunkach
+   b) Gdy mówimy o przemieszczaniu dwóch identycznych cząsteczek w tym samym kierunku
+   c) Gdy mówimy o współpracy dwóch kanałów białkowych w ruchu cząsteczki
+   d) Gdy mówimy o sposobie transportu, w którym jedna cząsteczka popycha drugą bezpośrednio
+   &nbsp;&nbsp;&nbsp;&nbsp;Poprawna odpowiedź: b) Gdy mówimy o przemieszczaniu dwóch identycznych cząsteczek w tym samym kierunku
+4. Która z podanych cząsteczek nie może być transportowana przez endocytozę?
+   a) Cząsteczka białkowa
+   b) Cholesterol
+   c) Pochodnie insuliny
+   d) DNS
+   &nbsp;&nbsp;&nbsp;&nbsp;Poprawna odpowiedź: d) DNS
+5. Jakie rodzaje endocytozy istnieją?
+   a) Endocytoza mediowana przez ligand
+   b) Endocytoza intervalsowa
+   c) Endocytoza wędrówkowa
+   d) Endocytoza żelazista
+   &nbsp;&nbsp;&nbsp;&nbsp;Poprawna odpowiedź: a) Endocytoza mediowana przez ligand, endocytoza klasyczna; b) Endocytoza z cloam
+```
 
-Poprawna odpowiedź: B. Transport substancji
+# Fiszki - Transport przez błonę komórkową
 
-2. Czym różnią się transporty: pasywny i aktywny?
-A. Tok substancji
-B. Zależność od energii
-C. Liczba porów błonowych
-D. Wielkość transportowanych cząsteczek
+- Difuzja: niezależny od gradientu stężenia mechanizm tłoczący cząsteczki przez błonę zarówno w kierunku wzrostu, jak i obniżenia stężenia
+- Transport bierny: ruch cząsteczki zgodnie z gradientem stężenia, bez zużycia energii
+- Transport aktywny: cząsteczki zgodnie z gradientem stężenia glewy z użyciem ATP
+- Cotransport: synergiczny ruch cząsteczek przez błonę, często białkami transportującymi
+- Endocytoza: zatrzymywanie cząsteczek przez komórkę przy użyciu zawijania się pęcherzyka błonowego wewnątrz komórki
 
-Poprawna odpowiedź: B. Zależność od energii
+# Notatki - Transport przez błonę komórkową
 
-3. Który rodzaj transportu aktywnego wymaga energii ATP?
-A. Transport obiegowy
-B. Transport Jednokierunkowy
-C. Transport w błonie mitochondrialnej
-D. Wszystkie z powyższych
+Transport przez błonę komórkową odgrywa kluczową rolę w funkcjonowaniu komórek i systemów biologicznych. Pomaga on w utrzymaniu homeostazy, przesyłaniu sygnałów oraz wymianie substancji z otoczeniem.
 
-Poprawna odpowiedź: D. Wszystkie z powyższych
+Różne techniki istnieją w celu umożliwienia przepływu substancji przez błony. Najprostsza z nich to difuzja, polegająca na ruchu cząsteczek przez błonę, zarówno w kierunku zwiększonego, jak i zmniejszonego stężenia, bez zużycia energii.
 
-4. Kiedy ma miejsce transport pasywny przez błonę komórkową?
-A. Gdy potencjał elektrochemiczny wspomaga transport
-B. Gdy gradient stężenia wspomaga transport
-C. Gdy konieczna jest aktywność enzymu
-D. Nic z powyższego
+Pozostałe techniki transportu związane są z gradientem stężenia cząsteczek, zgodnie z którym jest transportowane. Mechanizm w takim przypadku nazywa się transportem biernym, gdzie cząsteczki poruszają się zgodnie z gradientem bez zużycia energii. Natomiast, w przypadku konieczności transportu przeciwnie do gradientu stężenia, włącza się proces transportu aktywnego, polegający na stałym zużyciu ATP.
 
-Poprawna odpowiedź: B. Gdy gradient stężenia wspomaga transport
+Transportery mogą być również wspomagane w swojej pracy, przez kotransport, w którym dwie różne cząsteczki wspólnie podążają w tym samym kierunku przez błonę.
 
-5. Czym różni się transporter od kanału błonowego?
-A. Liczba substancji transportowanych
-B. Specyficzność
-C. Mechanizm pracy
-D. Rodzaj transportowanej substancji
-
-Poprawna odpowiedź: C. Mechanizm pracy
-
-# Fiszki (Transport przez błonę komórkową)
-1. Błona komórkowa: Struktura i funkcja
-2. Transport bierny i czynny
-3. Gradient stężenia i potencjał elektrochemiczny
-4. Transporter i kanał błonowy
-5. Rodzaje transporterów i kanałów błonowych
-
-# Notatki (Transport przez błonę komórkową)
-
-Transport przez błonę komórkową to proces umożliwiający substancjom przenikanie przez błonę komórkową, która stanowi barierę hydrofobową. Istnieją dwa główne rodzaje transportu: bierny i czynny.
-
-Transport bierny (pasywny) to rodzaj transportu, w którym molekuły przenikają przez błonę w dół gradientu stężenia lub potencjału elektrochemicznego, bez zużywania energii. Istnieją dwa rodzaje transportu biernego: dyfuzja prostą oraz dyfuzja osmotyczna (przez kanały błonowe).
-
-Transport czynny wymaga zużycia energii (najczęściej ATP) i może przeciwstawiać się gradientowi stężenia. Transport czynny dzieli się na: transport Jednokierunkowy (przez transportery) oraz transport obiegowy (przez pompy błonowe).
-
-Transportery to białka błonowe, które w wyniku zmian konformacyjnych tworzą komory umożliwiające przenikanie przez błonę różnych substancji. Istnieją dwa rodzaje transporterów: transporter uniwertalny (przenosi dwie substancje w przeciwnych kierunkach), transporter wiezowczy (przenosi jedną substancję przeciwko gradientowi stężenia).
-
-Kanały błonowe to białka błonowe tworzące pory w błonie komórkowej. Są to pojedyncze białka błonowe, umożliwiające szybki przerzut cząsteczek przez błonę. Kanały błonowe mogą być czynne lub bierne, a także otwarte lub zamknięte.
-
-Potencjał elektrochemiczny to suma gradientu stężenia i gradientu ładunku elektrycznego, który determinuje kierunek transportu. Gradient stężenia to różnica stężenia substancji po obu stronach błony, która determinuje kierunek dyfuzji.
-
-Transport czynny może być wtórny (wytworzenie gradientu elektrochemicznego ułatwia transport innej substancji), np. transport sodu i wody połączone, lub primary (transport jest niezależny od ewentualnego gradientu elektrochemicznego), np. pompa sodium-potasowa.
+Na koniec, komórki mogą zapętlająć błony oraz zawijać je wewnątrz, tworząc pęcherzyki, proces ten nazywany jest endocytozą, który pozwala na wewnątrzkomórkowy transport różnych substancji.
