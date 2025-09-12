@@ -1,55 +1,66 @@
- # Quiz - Wektory w przestrzeni zadania
-1. Co to są wektory w przestrzeni trójwymiarowej? <br>
-A. Pary liczb całkowitych <br>
-B. Pary liczb rzeczywistych <br>
-C. Trojki liczb rzeczywistych <br>
-D. Trojki liczb całkowitych <br>
-Poprawna odpowiedź: C. Trojki liczb rzeczywistych
+ # Quiz - Wektory w przestrzeni
 
-2. Jak dodaje się dwa wektory w przestrzeni trójwymiarowej? <br>
-A. Dodaje się ich współrzędne dwukierunkowo <br>
-B. Dodaje się ich współrzędne osobno i dwukierunkowo <br>
-C. Mnoży się pojedynczo współrzędne i dodaje <br>
-D. Nie da się dodać wektorów w przestrzeni trójwymiarowej <br>
-Poprawna odpowiedź: B. Dodaje się ich współrzędne osobno i dwukierunkowo
+1. Jakie są składowe wektora przestrzennego?
+   A. Dwie
+   B. Trzy
+   C. Cztery
+   D. Jedna
 
-3. Co to jest iloczyn wektorowy w przestrzeni trójwymiarowej? <br>
-A. Dotykańca pomiędzy wektorami <br>
-B. Długości dwóch wektorów <br>
-C. Wynikiem jest skalar, nie wektor <br>
-D. Wynikiem jest wektor prostopadły do wektorów <br>
-Poprawna odpowiedź: D. Wynikiem jest wektor prostopadły do wektorów
+   Poprawna odpowiedź: B. Trzy
 
-4. Które uproszczenie iloczynu wektorowego jest prawdziwe? <br>
-A. a*b = ||a|| * ||b||<br>
-B. a*b = a \* b<br>
-C. a x b = ab - ba<br>
-D. a x b = ab + ba<br>
-Poprawna odpowiedź: (D) a x b = ab + ba nie jest prawdziwe.
+2. Co oznacza iloczyn skalarny wektora?
+   A. Długość wektora
+   B. Kąt między wektorami
+   C. Ilość wektorów
+   D. Współliniowość wektorów
 
-5. Co to jest iloczyn skalarny w przestrzeni trójwymiarowej? <br>
-A. Wynikiem jest wektor, który ma kierunek i długość<br>
-B. Wynikiem jest wektor, który ma tylko kierunek<br>
-C. Wynikiem jest liczba rzeczywista, która opisuje długość danego wektora<br>
-D. Wynikiem jest liczba rzeczywista, który oznacza kąt między dwoma wektorami<br>
-Poprawna odpowiedź: D. Wynikiem jest liczba rzeczywista, która oznacza kąt między dwoma wektorami
+   Poprawna odpowiedź: B. Kąt między wektorami
 
-# Fiszki - Wektory w przestrzeni trójwymiarowej
-1. Wektory w przestrzeni trójwymiarowej to trójki liczb rzeczywistych.
-2. Aby dodać dwa wektory w przestrzeni trójwymiarowej, należy dodać ich współrzędne dwukierunkowo.
-3. Iloczyn wektorowy dwóch wektorów zwraca wektor prostopadły do tych wektorów.
-4. Iloczyn skalarny dwóch wektorów w przestrzeni trójwymiarowej jest równy iloczynowi długości tych wektorów razy iloczyn cosinusa kąta między nimi.
-5. Obliczenie iloczynu skalarnego lub wektorowego dwóch wektorów może być przydatne przy określaniu, czy dwa wektory są prostopadłe, równoległe lub mają kąt między nimi danego rozmiaru.
+3. Kiedy dwie proste w przestrzeni 3D są parami wzajemnie równoległe?
+   A. Gdy ich wektory kierunkowe sa prostopadłe
+   B. Gdy ich wektory kierunkowe są tylko równe
+   C. Gdy ich wektory kierunkowe są liniowo zależne
+   D. Gdy ich wektory kierunkowe są liniowo niezależne
 
-# Notatki - Wektory w przestrzeni trójwymiarowej
-Wektory w przestrzeni trójwymiarowej są representationem zjawisk fizycznych takich jak siła, przyspieszenie czy prędkość. Są one opisane jako trójki liczb rzeczywistych, reprezentujących przestrzeń 3D (x, y, z).
+   Poprawna odpowiedź: C. Gdy ich wektory kierunkowe są liniowo zależne
 
-Dodawanie wektorów jest operacją grupową i zachowuje się tak jak dodawanie liczb całkowitych lub rzeczywistych. Dodawanie dwóch wektorów odbywa się koordynatowo.
+4. Co oznacza dodawanie wektorów w przestrzeni 3D?
+   A. Iloczyn kartezjański wektorów
+   B. Dopełnienie przestrzenne
+   C. Suma wektorów
+   D. Różnica wektorów
 
-Mnożenie wektorów to pojęcie trochę bardziej skomplikowane. Możemy mnożyć wektory na dwa sposoby: iloczynem skalarnym i iloczynem wektorowym.
+   Poprawna odpowiedź: C. Suma wektorów
 
-Iloczyn skalarny to liczba rzeczywista, która jest iloczynem dwóch wektorów. Można go obliczyć jako iloczyn długości dwóch wektorów razy cosinus kąta między nimi.
+5. Co reprezentuje iloczyn wektorowy wektorów?
+   A. Długość wektora
+   B. Pole powierzchni
+   C. Kąt między wektorami
+   D. Objętość
 
-Iloczyn wektorowy daje zaś wektor wynikowy, który jest prostopadły do wyjściowych wektorów. Oblicza się go jako macierz krzyżowa lub przy użyciu wzoru: axby - aybx.
+   Poprawna odpowiedź: D. Objętość
 
-Poznanie operacji na wektorach jest niezbędne przy przeprowadzaniu obliczeń w fizyce, inżynierii i innych dziedzinach naukowych.
+# Fiszki - Wektory w przestrzeni
+
+1. Składowe wektora przestrzennego
+   - Wektor przestrzenny ma trzy składowe: x, y, z, które pokazują jego położenie na osiach koordynatnych.
+2. Wektor jednostkowy
+   - Wektor jednostkowy jest wektorem o długości równej 1, który pokazuje kierunek i jest używany do określenia kierunku wektora na osiach koordynatnych.
+3. Dodawanie wektorów
+   - Do przypisania nowego wektora dosumowaniu wektorów przy użyciu paradygmatu "głowa do głowy, ogon do ogona".
+4. Iloczyn skalarny
+   - Iloczyn skalarny wektorów to liczba rzeczywista, która odzwierciedla kąt między nimi.
+5. Iloczyn wektorowy
+   - Iloczyn wektorowy trzech wektorów w przestrzeni trójwymiarowej jest polem powierzchni figury, jaką wypełniają wektory.
+
+# Notatki - Wektory w przestrzeni
+
+Wektory w przestrzeni 3D składają się z trzech składowych (x, y, z), które odpowiadają położeniu wektora względem trzech osi koordynatnych. Wektory mają mocne powiązania z geometrią, matematyką i fizyką, szczególnie z koncepcjami takimi co odległość, prędkość, przyspieszenie i grawitacja.
+
+W niektórych przypadkach można potraktować wektory jako wektory jednostkowe, które wyznaczają kierunek, jednak nie wszędzie. Aby obliczyć długość wektora w przestrzeni 3D, używamy wzoru:
+
+`dlugosc = sqrt(x^2 + y^2 + z^2)`
+
+Dodawanie wektorów w przestrzeni 3D odbywa się przez Dodawanie ich odpowiednio składowych. Zwaną to Paradygmatem "głowa do głowy, ogon do ogona". Niezależnie od tego, w której pozycji wektory są, suma wektorów pozostanie taka sama.
+
+Iloczyn skalarn

@@ -1,74 +1,56 @@
- # Quiz - Macierze Obliczenia Podstawowe
-1. Jakie jest najprostsze zastosowanie macierzy w powszechnym obliczeniu?
-   A. Rozwiązywanie układów równań liniowych
-   B. Przesyłanie danych pomiędzy procesorami
-   C. Grafika komputerowa
-   D. Szyfrowanie wiadomości
-   &nbsp;
-   Poprawna odpowiedź: A
+ # Quiz
 
-2. Co reprezentuje element macierzy A o indeksach (i,j)?
-   A. Wartość z i-tej kolumny
-   B. Wartość z j-tej wiersza
-   C. Suma wartości z i-tej kolumny i j-tej wiersza
-   D. Iloczyn wartości z i-tej kolumny i j-tej wiersza
-   &nbsp;
-   Poprawna odpowiedź: D
-
-3. Jaka jest wartość wyznacznika macierzy diagonalnej o elementach a11, a22, a33?
-   A. a11 + a22 + a33
-   B. a11 * a22 * a33
-   C. a11 - a22 - a33
-   D. a11 + a22 - a33
-   &nbsp;
+1. Co to jest macierz?
+   A. Tabela zawierająca wiersze i kolumny
+   B. Obiekt matematyczny reprezentujący zbiór wierszy i kolumn
+   C. Narzędzie ułatwiające rozwiązywanie równań
+   D. Metoda obliczeń numerycznych
    Poprawna odpowiedź: B
 
-4. Co oznacza niewaga macierzy kwadratowej?
-   A. Macierz, której wyznacznik jest równy 0
-   B. Macierz o rzędzie mniejszym niż stopień
-   C. Macierz o wszystkich elementach równych 0
-   D. Macierz niesymetryczna
-   &nbsp;
+2. Jaka jest transpozycja macierzy?
+   A. Operacja zawracania wierszy i kolumn macierzy
+   B. Operacja pomnożenia wszystkich elementów macierzy przez skalar
+   C. Operacja dodawania do każdego elementu macierzy stałej wartości
+   D. Operacja odejmowania od każdego elementu macierzy stałej wartości
    Poprawna odpowiedź: A
 
-5. Jaka jest postać macierzy odwrotnej A^-1 dla danej, nieosobliwej macierzy A?
-   A. Macierz symetryczna
-   B. Macierz diagonalna
-   C. Macierz o determinancie równej 1
-   D. Macierz o elementsach równych 1/a_ij, gdzie a_ij to element macierzy A
-   &nbsp;
-   Poprawna odpowiedź: D
+3. Jak określa się wyznacznik macierzy kwadratowej?
+   A. Iloczyniem elementów głównych diagonalnych
+   B. Iloczynem elementów poza główną diagonalą
+   C. Różnicą iloczynu elementów głównych diagonalnych i iloczynu elementów poza główną diagonalną
+   D. Sumą iloczynu elementów głównych diagonalnych i iloczynu elementów poza główną diagonalną
+   Poprawna odpowiedź: A
 
-# Fiszki - Macierze Obliczenia Podstawowe
+4. Jakie jest znaczenie odwracalności macierzy?
+   A. Możliwość pomnożenia macierzy przez swoją odwrotność
+   B. Możliwość dodawania do macierzy jej transpozycji
+   C. Możliwość mnożenia macierzy przez stałą wartość
+   D. Możliwość odejmowania od macierzy jej transpozycji
+   Poprawna odpowiedź: A
 
-1. Macierz kwadratowa
-   - Macierz, która ma tyle wierszy co kolumn
-   - Wymiar przedstawiamy za pomocą n^2, gdzie n to liczba wierszy
+5. Co oznacza reguła Sarrusa w przeliczeniach macierzy?
+   A. Metoda obliczania wyznacznika macierzy kwadratowej
+   B. Metoda obliczania iloczynu macierzy
+   C. Metoda obliczania transpozycji macierzy
+   D. Metoda obliczania obliczania odwrotności macierzy
+   Poprawna odpowiedź: A
 
-2. Macierz diagonalna
-   - Macierz, której wyłącznie elementami poza główną przekątną są zera
-   - Wartości poza główną przekątną nie mają wpływu na większość obliczeń
+# Fiszki
 
-3. Wyznacznik
-   - Liczba będąca iloczynem elementów głównej przekątnej (np. a11, a22, a33, ...)
-   - Wskazuje, czy macierz jest osobliwa (niewaga)
+1. Macierz - obiekt matematyczny reprezentujący zbiór wierszy i kolumn.
+2. Transpozycja - operacja zawracania wierszy i kolumn macierzy.
+3. Wyróżnik - liczbowy parametr wskazujący czy istnieje rozwiązanie układu równań liniowych.
+4. Macierz odwracalna - macierz kwadratowa, której wyznacznik jest różny od zera.
+5. Reguła Sarrusa - metoda obliczania wyznacznika macierzy kwadratowej 3x3.
 
-4. Obliczenia macierzowe
-   - Niewaga -> Nie można rozwiązać układu równań, przy czym musi być co najmniej tyle równań, co niewiadomych
-   - Odwrotność -> Macierz, której iloczyn z oryginalną daje jednostkową macierz
+# Notatki
 
-5. Rozkład Lu-Choleskey'a
-   - Metoda rozkładu macierzy na iloczyn dolnej i górnej trójkątnej macierzy
-   - Korzystna zastosowanie w szybkiej rozwiązywaniu układów równań liniowych
+Macierze to obiekty matematyczne, które służą do reprezentacji zbiorów wierszy i kolumn. Każdy wiersz i każda kolumna składa się z elementów, które mogą być reprezentowane przez liczby, funkcje lub nawet inne macierze. Macierze są bardzo użyteczne w obliczeniach numerycznych, gdyż pozwalają zapisać dużą ilość danych w sposób zorganizowany.
 
-# Notatki - Macierze Obliczenia Podstawowe
+Niektóre operacje na macierzach są szczególnie przydatne, takie jak transpozycja, wyznacznik i odwracanie. Transpozycja macierzy to operacja polegająca na zamianie wierszy
+ na kolumny i odwrotnie. Wyznacznik matrycy kwadratowej to liczbowy parametr
+ wskazujący czy istnieje rozwiązanie układu równań liniowych reprezentowanych przez macierz. Macierz kwadratowa jest odwracalna, jeśli jej wyznacznik jest różny od zera.
 
-Macierze to prosty i uniwersalny sposób reprezentowania danych tablicowych. W obliczeniach numerycznych i algorytmach korzystamy głównie z macierzy kwadratowych oraz ich własności.
+Istnieje również reguła Sarrusa, która jest metodą obliczania wyznacznika macierzy kwadratowej 3x3. Dzięki tej regule możemy obliczyć wyznacznik maksymalnie w 8 operacjach.
 
-Najważniejsze właściwości macierzy to: wymiar, elementy głównej przekątnej, wartość wyznacznika i iloczyn skalarny.
-
-Dzięki własnościom, jakie posiadają macierze, możemy łatwo rozwiązywać układy równań liniowych, wykonywać obliczenia geometryczne i statystyczne oraz przeprowadzać transformatacje danych (np. zmiana bazy, kompresja danych...).
-
-Ważnym zagadnieniem w przetwarzaniu macierzowym jest własność odwracalności. Macierz odwracalna to taka macierz, której iloczyn z macierzą odwrotną daje jednostkową macierz. Jednostkowa macierz jest prostym przykładem macierzy odwracalnej.
-
-Rozkład Choleskey'a jest popularną metodą rozkładu macierzy na iloczyn dwóch trójkątnych macierzy. Rozkład ten znajduje zastosowanie w szybkiej rozwiązywaniu układów równań liniowych oraz w szeregu innych obliczeń numerycznych.
+Dodatkowo, macierze odgrywają dużą rolę w rozwiązywaniu układów równań, gdyż pozwalają zapisać układ w sposób bardziej zorganizowany i uproszczony.

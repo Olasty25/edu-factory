@@ -70,63 +70,63 @@
         <div class="section quiz">
           <h1>Quiz - Układ równań macierzowych</h1>
 <ol>
-<li><p>Jakie jest zastosowanie macierzy w ujęciu algebrycznym?
-A. W reprezentacji grafów
- B. W rozwiązywaniu zdań warunkowych
- C. W rozwiązywaniu układów równań liniowych
- D. W kodowaniu informacji
- <strong>Poprawna odpowiedź: C</strong></p>
+<li><p>Co to są ustalone uogólnione rozwiązania (CSS) w kontekście układu równań macierzowych?
+a) rozwiązania, które zależą od wartości macierzy
+b) rozwiązania, które nie zależą od wartości macierzy
+c) rozwiązania, które są mniejsze od wartości macierzy
+d) rozwiązania, które są większe od wartości macierzy
+<strong>Poprawna odpowiedź: a</strong></p>
 </li>
-<li><p>Czym jest rozwiązaniem układu równań macierzowych?
- A. Dowolna liczba zastępująca zmienne w równaniach
- B. Zbiór wektorów, które spełniają warunek równości wszystkich równań w układzie
- C. Funkcja wielu zmiennych
- D. Macierz, która jest rozwiązaniem układu
- <strong>Poprawna odpowiedź: B</strong></p>
+<li><p>Czym jest wyznacznik macierzy kwadratowej?
+a) suma elementów diagonalnych macierzy
+b) iloczyn determinantów wszystkich mniejszych macierzy, które można utworzyć z macierzy kwadratowej
+c) suma odwrotności elementów diagonalnych macierzy
+d) iloczyn elementów diagonalnych macierzy
+<strong>Poprawna odpowiedź: d</strong></p>
 </li>
-<li><p>Kiedy mówimy, że układ równań macierzowych jest wyrazisty?
- A. Kiedy ilość równań jest większa od ilości zmiennych
- B. Kiedy ilość zmiennych jest większa od ilości równań
- C. Kiedy ilość równań jest równa ilości zmiennych
- D. Kiedy istnieje tylko jedno rozwiązanie
- <strong>Poprawna odpowiedź: C</strong></p>
+<li><p>Kiedy układ równań macierzowych ma rozwiązania zależne?
+a) gdy wyznacznik macierzy współczynników jest równy zero
+b) gdy wyznacznik macierzy współczynników jest różny od zera
+c) gdy liczba równań jest większa od liczby niewiadomych
+d) gdy liczba równań jest mniejsza od liczby niewiadomych
+<strong>Poprawna odpowiedź: a</strong></p>
 </li>
-<li><p>Co oznaczają oznaczenia w następującej notacji macierzowej AX=B?
- A. A oznacza macierz współczynników, X oznacza wektor rozwiązań, a B wektor uzupełniający
- B. A oznacza macierz rozwiązań, X oznacza wektor nieznanych, a B wektor współczynników
- C. A oznacza macierz nieznanych, X oznacza wektor rozwiązań, a B wektor współczynników
- D. A oznacza wektor współczynników, X oznacza macierz rozwiązań, a B wektor uzupełniający
- <strong>Poprawna odpowiedź: A</strong></p>
+<li><p>Co to jest rozwiązanie trywialne układu równań macierzowych?
+a) rozwiązanie, które zależy od wyznacznika macierzy współczynników
+b) rozwiązanie, które jest równe zero dla wszystkich niewiadomych
+c) rozwiązanie, które zależy od liczby równań i niewiadomych
+d) rozwiązanie, które zależy od wartości stałych w równaniach
+<strong>Poprawna odpowiedź: b</strong></p>
 </li>
-<li><p>Jaka jest podstawowa zaleta rozwiązywania układów równań macierzowych?
- A. Możliwość wykorzystania algorytmów iteracyjnych
- B. Prosta i szybka implementacja
- C. Możliwość jednoznacznego rozwiązania dla wyrazistych układów
- D. Dostępność rozwiązań dla rozmaitych typów macierzy
- <strong>Poprawna odpowiedź: C</strong></p>
+<li><p>Jak policzyć iloczyn macierzy?
+a) pomnożyć odpowiednie elementy macierzy i ich transpozycji
+b) pomnożyć elementy macierzy według reguł iloczynu macierzy
+c) dodawać elementy macierzy i ich transpozycji
+d) odejmować elementy macierzy i ich transpozycji
+<strong>Poprawna odpowiedź: b</strong></p>
 </li>
 </ol>
 <h1>Fiszki - Układ równań macierzowych</h1>
 <ol>
-<li>Elementy macierzy A: $a_{ij}$ (gdzie i oznacza wiersz, a j kolumnę)</li>
-<li>Reguła Cramera - metoda rozwiązywania układów równań macierzowych na podstawie wyznaczników</li>
-<li>Metoda eliminacjiGaussa - metoda rozwiązywania układów równań macierzowych za pomocą podstawień w przód i wstecz</li>
-<li>Wyrazistość układu równań macierzowych - ilość równań jest równa ilości zmiennych</li>
-<li>Macierz rozwiązań - macierz, w której wiersze są rozwiązaniami poszczególnych równań</li>
+<li>Macierz składająca się wyłącznie z zer jest to macierz zerowa.</li>
+<li>Wyznacznik macierzy kwadratowej o wymiarach <code>n x n</code> jest iloczynem determinantów wszystkich <code>(n-1) x (n-1)</code> mniejszych macierzy, które można utworzyć z macierzy kwadratowej.</li>
+<li>Jeśli iloczyn macierzy, który ma macierz jednostkową, to odwrotność tej macierzy istnieje.</li>
+<li>Jeśli liczba równań jest równa liczbie niewiadomych, to rozwiązanie układu równań macierzowych jest dokładnie jedno i jest to rozwiązanie niezależne.</li>
+<li>Ustalone uogólnione rozwiązania to rozwiązania układu równań macierzowych, które mogą zależeć tylko od wartości macierzy współczynników.</li>
 </ol>
 <h1>Notatki - Układ równań macierzowych</h1>
-<p>Układy równań macierzowych to zbiór wielu równań liniowych z tą samą ilością zmiennych. Rozwiązaniem takiego układu jest wektor, który spełnia warunek równości wszystkich równań w układzie. Przykładem takiego układu może być:</p>
-<p>$$
-\begin{cases} 2x + 3y = 12
-3x - 2y = 5 \end{cases}
-$$</p>
-<p>Układ taki można zapisać za pomocą notacji macierzowej:</p>
-<p>$$
-\begin{bmatrix} 2 &amp; 3 \ 3 &amp; -2 \end{bmatrix} \cdot \begin{bmatrix} x \ y \end{bmatrix} = \begin{bmatrix} 12 \ 5 \end{bmatrix}
-$$</p>
-<p>Macierz współczynników mieści w sobie wszystkie współczynniki występujące w równaniach, natomiast wektor rozwiązań – wszystkie zmienne (nieznane).</p>
-<p>Podstawowe metody rozwiązywania takich układów to metoda eliminacji Gaussa i reguła Cramera. Pierwsza z nich opiera się na podstawianiu w przód i wstecz, druga zaś - na obliczaniu wyznaczników.</p>
-<p>Ważne jest, aby pomóc rozwiązać układ równań macierzowych, był on wyrazisty, czyli ilość równań musiała być równa ilości zmiennych. W przeciwnym wypadku rozwiązanie byłoby niewystarczająco określone.</p>
+<p>Układ równań macierzowych to zbiór równań liniowych, w których niewiadome są uporządkowane w macierzy. Aby rozwiązać układ równań macierzowych, można skorzystać z niewiadomej pomocniczej i policzyć wyznaczniki macierzy.</p>
+<p>Istnieją trzy rodzaje rozwiązań układu równań macierzowych:</p>
+<ul>
+<li>rozwiązania niezależne</li>
+<li>rozwiązania zależne</li>
+<li>rozwiązania trywialne</li>
+</ul>
+<p>Rozwiązania niezależne są dokładnie jedno i mogą być znalezione przez wykorzystanie metody eliminacji Gaussa.</p>
+<p>Rozwiązania zależne to rozwiązania układu równań macierzowych, które są określone tylko wtedy, gdy wyznacznik macierzy współczynników jest równy zero.</p>
+<p>Rozwiązania trywialne to rozwiązania, które są równe zero dla wszystkich niewiadomych.</p>
+<p>Aby policzyć iloczyn macierzy, należy pomnożyć odpowiednie elementy macierzy i ich transpozycji. Metoda eliminacji Gaussa pozwala na przekształcenie układu równań macierzowych w postać schodkową, dzięki czemu można znaleźć ustalone uogólnione rozwiązania.</p>
+<p>Wyznacznik macierzy kwadratowej jest iloczynem determinantów wszystkich mniejszych macierzy, które można utworzyć z macierzy kwadratowej, a jego obliczenie jest istotne, gdyż pozwala określić, czy dana macierz jest odwracalna. Odwracalna macierz (z wyznacznikiem odejmującym od zera) ma odwrotność wynikającą z wzoru <code>inverse(A) = adjugate(A) / det(A)</code>, gdzie <code>adjugate(A)</code> oznacza macierz adjugatną (względem macierzy <code>A</code>).</p>
 
         </div>
         <a href="index.html" class="back">← Powrót do spisu treści</a>
