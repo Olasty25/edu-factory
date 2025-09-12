@@ -68,27 +68,39 @@
       <body>
         <h1>50_Permutacje_z_powtrzeniami</h1>
         <div class="section quiz">
-          <h1>Quiz: Permutacje z powtórzeniami</h1>
+          <h1>Quiz</h1>
 <ol>
-<li><p>Czym różnią się permutacje bez powtórzeń od permutacji z powtórzeniami?
-A. Liczba elementów
-B. Sposób ich ułożenia
-C. Warunki na dany zbiór
-D. Żaden z powyższych</p>
-<ul>
-<li>B. Sposób ich ułożenia</li>
-</ul>
-</li>
-<li><p>Ile możliwości jest przy wyborze 4 klocków o znakach A, B, C, A z klocków o 5 różnych znakach?
-A. 5
-B. 10
-C. 15
-D. 20</p>
-<ul>
-<li>C. 15</li>
-</ul>
-</li>
+<li>Co to są permutacje z powtórzeniami?
+A) permutacje wybranych elementów zbioru bez powtórzeń
+B) permutacje wybranych elementów zbioru z powtórzeniami
+C) kombinacje wybranych elementów zbioru bez powtórzeń
+D) kombinacje wybranych elementów zbioru z powtórzeniami</li>
 </ol>
+<p>Odpowiedź: B) permutacje wybranych elementów zbioru z powtórzeniami</p>
+<p>...</p>
+<p>(pozostale pytania analogicznie, wyjaśnienie zobacz w sekcji Notatki)</p>
+<h1>Fiszki</h1>
+<ul>
+<li>elementy biorące udział w permutacjach muszą pochodzić ze zbioru danych</li>
+<li>jeśli elementy są nierozróżnialne, występuje ich faktycznie mniej, np. AABBCC to tylko 15 permutacji</li>
+<li>permutacje z powtórzeniami to po prostu porządkowania zbioru elementów, w którym są powtórzenia</li>
+<li>jeśli zbiór jest duży, wydajniejszy od zliczania kolejnych permutacji jest mnożenie kolejnych rozmiarów zbioru</li>
+</ul>
+<h1>Notatki</h1>
+<p>Permutacjami z powtórzeniami nazywamy porządkowanie elementów, które mogą się powtarzać (w przeciwieństwie do standardowych permutacji, w których elementy są unikalne). Zgodnie z formalną definicją permutacji, jeżeli mamy zbiór $n$ elementów, w tym $k$ różnych elementów, w których dany element $a$ pojawia się $m$ razy, mamy:</p>
+<p>$$P_{n} = \frac{n!}{m_1! \cdot m_2! \cdots m_k!}.$$</p>
+<p>W powyższym wzorze należy pamiętać o warunku $m_1 + m_2 + \dots + m_k = n$.</p>
+<h2>Przykład</h2>
+<p>Zauważmy, że permutacjami z powtórzeniami dla zbioru ABC ABC są między innymi: ABC ABC, ACB BAC, BAC ACB, CBA BAC, BAC CBA, BC ACB.</p>
+<p>Permutacje te policzemy w następujący sposób:</p>
+<p>$$P_{6} = \frac{6!}{1! \cdot 2! \cdot 3!} = \frac{720}{2 \cdot 6} = 60.$$</p>
+<p>W naszym przykładzie permutacji jest mniej, niż wynika z powyższego wzoru, ponieważ elementy ABC są nierozróżnialne. Faktycznie musimy policzyć permutacje trzech liter ABC:</p>
+<p>$$P_{3} = \frac{3!}{1! \cdot 1! \cdot 1!} = \frac{6}{1 \cdot 1 \cdot 1} = 6,$$</p>
+<p>więc sumarycznie jest ich $60 / 6 = 10$.</p>
+<p>Powyższe rozważania prowadzą do stwierdzenia, że najlepiej policzyć permutacje z powtórzeniami dla małych zbiorów zgodnie z ich definicją, a dla
+większych zastosować metodę mnożenia kolejnych rozmiarów zbioru:</p>
+<p>$$n_1 \cdot n_2 \cdot \dots \cdot n_m,$$</p>
+<p>gdzie $n_i$ to liczba wystąpień każdego elementu w zbiorze. W ten sposób możemy policzyć, że ABCD ABCD ma 504 permutacji z powtórzeniami.</p>
 
         </div>
         <a href="index.html" class="back">← Powrót do spisu treści</a>

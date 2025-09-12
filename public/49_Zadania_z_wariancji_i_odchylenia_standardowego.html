@@ -68,69 +68,57 @@
       <body>
         <h1>49_Zadania_z_wariancji_i_odchylenia_standardowego</h1>
         <div class="section quiz">
-          <h1>Quiz (5 pytań ABCD + poprawna odpowiedź)</h1>
+          <h1>Quiz</h1>
 <ol>
-<li>Which of the following measures of dispersion is not affected by outliers?
-A. Variance
-B. Standard Deviation
-C. Mean Absolute Deviation
-D. None of the above</li>
+<li><p>Which of the following formulas calculates the population variance?
+A. (s^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2)
+B. (s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \mu)^2)
+C. (\sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})^2)
+D. (\sigma^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2)
+Answer: C</p>
+</li>
+<li><p>The standard deviation and variance are:
+A. The same value
+B. Always positive
+C. Measures of central tendency
+D. Measures of dispersion
+Answer: D</p>
+</li>
+<li><p>Which of the following statements is true regarding the sample standard deviation?
+A. It is calculated using the formula (s = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})^2})
+B. It is a measure of how much the data varies from the mean
+C. It is always greater than the population standard deviation
+D. It can never be negative
+Answer: A</p>
+</li>
+<li><p>If the variance of a set of data is 16, what is the standard deviation?
+A. 4
+B. 16
+C. 64
+D. Cannot be determined from the given information
+Answer: A</p>
+</li>
+<li><p>Which of the following has a greater effect on the standard deviation: a single outlier or a change in the mean?
+A. A single outlier
+B. A change in the mean
+C. Both have an equal effect
+D. Cannot be determined from the information given
+Answer: A</p>
+</li>
 </ol>
-<p>Correct answer: C. Mean Absolute Deviation</p>
-<ol start="2">
-<li>Which of the following formulas represents the sample variance?
-A. $\frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2$
-B. $\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2$
-C. $\sqrt{\frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2}$
-D. $\sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}$</li>
-</ol>
-<p>Correct answer: B. $\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2$</p>
-<ol start="3">
-<li>Which of the following statements is true for a population with a variance of 0?
-A. All the data points are equal.
-B. The data points are not normally distributed.
-C. The data points are randomly distributed.
-D. None of the above</li>
-</ol>
-<p>Correct answer: A. All the data points are equal.</p>
-<ol start="4">
-<li>Which of the following is not a property of variance and standard deviation?
-A. Both are measured in the same units as the original data.
-B. Both can never be negative.
-C. Both are measures of dispersion.
-D. Standard deviation is easier to interpret than variance.</li>
-</ol>
-<p>Correct answer: B. Both can never be negative.</p>
-<ol start="5">
-<li>Which of the following statements is true about the relationship between variance and standard deviation?
-A. The variance is greater than the standard deviation.
-B. The standard deviation is the square of the variance.
-C. The variance and the standard deviation are equal.
-D. The variance is always positive, the standard deviation can be negative.</li>
-</ol>
-<p>Correct answer: B. The standard deviation is the square of the variance.</p>
-<h1>Fiszki (5 sztuk)</h1>
+<h1>Fiszki</h1>
 <ol>
-<li>Variance (σ², s²) - a measure of dispersion that indicates how far each number in a dataset is from the mean. It is the average of the squared differences from the mean.</li>
-<li>Standard Deviation (σ, s) - a measure of dispersion that shows the amount of variation or dispersion of a set of values. It is the square root of the variance.</li>
-<li>Population Variance - calculated as the average of the squared differences from the mean for the entire population: $\frac{1}{N}\sum_{i=1}^{N}(x_i - \mu)^2$</li>
-<li>Sample Variance - calculated as the average of the squared differences from the mean for a sample: $\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2$</li>
-<li>Coefficient of Variation - a statistical measure that expresses the dispersion of a distribution in relation to its mean, calculated as $\frac{\sigma}{\mu}$ or $\frac{s}{\bar{x}}$.</li>
+<li>Variance: a measure of how spread out data points are around the mean, calculated as the average of the squared differences from the mean.</li>
+<li>Standard Deviation: the square root of the variance, representing the typical distance between data points and the mean.</li>
+<li>Population Variance: calculated using the formula (\sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2), where (\mu) is the population mean.</li>
+<li>Sample Variance: calculated using the formula (s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2), where (\bar{x}) is the sample mean.</li>
+<li>Outlier: a data value that is significantly different from the other data values, which can greatly affect the standard deviation.</li>
 </ol>
-<h1>Notatki (~200 słów)</h1>
-<p>Variance is a statistical measure of dispersion, which indicates how far each number in a dataset is from the mean. It is calculated as the average of the squared differences from the mean. The formula for population variance is:</p>
-<p>$\frac{1}{N}\sum_{i=1}^{N}(x_i - \mu)^2$</p>
-<p>While sample variance is calculated by:</p>
-<p>$\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2$</p>
-<p> where $N$ and $n$ are the population and sample sizes respectively, $x_i$ is an individual data point, $\mu$ is the population mean, $\bar{x}$ is the sample mean and $\sum$ is the sum of all individual squared differences.</p>
-<p>The reason we divide by $n-1$ instead of $n$ in the case of sample variance is to correct the bias in the estimation of the population variance. By dividing by $n-1$, we get a better estimate of the population variance with a smaller sample size.</p>
-<p>Standard deviation is another measure of dispersion, which is defined as the square root of the variance. The formula for population standard deviation is:</p>
-<p>$\sqrt{\frac{1}{N}\sum_{i=1}^{N}(x_i - \mu)^2}$</p>
-<p>While sample standard deviation is calculated by:</p>
-<p>$\sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}$</p>
-<p>Standard deviation, like variance, is measured in the same units as the original data. It is often preferred to variance because it has the same units as the original data, making it easier to interpret and compare than variance.</p>
-<p>The coefficient of variation (CV) is a statistical measure that expresses the dispersion of a distribution in relation to its mean, calculated as $\frac{\sigma}{\mu}$ or $\frac{s}{\bar{x}}$. It is often expressed as a percentage and provides information on the spread of data relative to its mean, making it easy to compare the dispersion of different datasets.</p>
-<p>In summary, Variance, Standard Deviation and the coefficient of variation are all measures of dispersion, which give us information about the spread of data. Variance is a measure of the average of the squared differences from the mean, Standard deviation is the square root of variance and Coefficient of Variation is the ratio of standard deviation to mean. It is important to keep track of the differences in calculating population and sample variance and standard deviation, by adjusting the denominator to $n-1$ in case of sample.</p>
+<h1>Notatki</h1>
+<p>Variance is a measure of how spread out data points are around the mean. It is calculated as the average of the squared differences from the mean. The formula for population variance is (\sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2), where (\mu) is the population mean. However, in most cases, we work with a sample rather than an entire population. The sample variance is calculated using the formula (s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2), where (\bar{x}) is the sample mean. The reason for using (n-1) instead of (n) is to make the sample variance an unbiased estimator of the population variance.</p>
+<p>Standard deviation is the square root of the variance and represents the typical distance between data points and the mean. Like variance, standard deviation is a measure of dispersion, meaning it measures how spread out the data is. However, because it is in the same units as the data, it is often easier to interpret than the variance.</p>
+<p>It is important to note that both variance and standard deviation are affected by outliers. An outlier is a data value that is significantly different from the other data values. Outliers can greatly affect the variance and standard deviation, making them less representative of the typical distance between data points and the mean.</p>
+<p>Finally, it is worth mentioning that there are different formulas for calculating variance and standard deviation depending on whether the data is given as a population or a sample. When working with a population, we use the formula (\sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2) for population variance and (\sigma = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2}) for population standard deviation. When working with a sample, we use the formulas (s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2) for sample variance and (s = \sqrt{\frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2}) for sample standard deviation. Using the correct formula is important for accurately measuring the variance and standard deviation of a dataset.</p>
 
         </div>
         <a href="index.html" class="back">← Powrót do spisu treści</a>

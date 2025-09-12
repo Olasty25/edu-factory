@@ -1,63 +1,51 @@
- # Quiz - Fotosynteza - faza jasna i ciemna
-
+ # Quiz - Fotosynteza: Faza Jasna i Ciemna
 1. Co to jest fotosynteza?
-   A. Proces, dzięki któremu rośliny zamieniają skrobię na cukry
-   B. Proces, dzięki któremu rośliny wytwarzają tlen
-   C. Proces, dzięki któremu rośliny pobierają wodę
-   D. Proces, dzięki któremu rośliny pobierają dwutlenek węgla
+   A. Proces konwersji wody na tlen
+   B. Proces konwersji tlenu na wodór
+   C. Proces zamiany energii światła słonecznego na chemiczną energię związków organicznych
+   D. Proces pobierania tlenu z powietrza i uwalniania dwutlenku węgla
+   **Poprawna odpowiedź: C**
 
-   Poprawna odpowiedź: B. Proces, dzięki któremu rośliny wytwarzają tlen
+2. W jaka część dnia ma miejsce faza jasna fotosyntezy?
+   A. Rano
+   B. W południe
+   C. Wieczorem
+   D. Wszystkie poprzednie odpowiedzi są poprawne
+   **Poprawna odpowiedź: B**
 
-2. Co to jest faza jasna fotosyntezy?
-   A. Część fotosyntezy, w której pobierana jest woda
-   B. Część fotosyntezy, w której pobierany jest dwutlenek węgla
-   C. Część fotosyntezy, w której zachodzi fotochemična reakcja
-   D. Część fotosyntezy, w której zachodzi synteza cukrów
+3. Co to jest kloryfila?
+   A. Białko biorące udział w procesie fotosyntezy
+   B. Zielony barwnik przydatny w procesie fotosyntezy
+   C. substancja odżywiająca rośliny
+   D. enzym biorący udział w procesie fotosyntezy
+   **Poprawna odpowiedź: B**
 
-   Poprawna odpowiedź: C. Część fotosyntezy, w której zachodzi fotochemična reakcja
+4. Co jest produktem fazy ciemnej fotosyntezy?
+   A. Tlen
+   B. Glukoza
+   C. Woda
+   D. Chlorofil
+   **Poprawna odpowiedź: B**
 
-3. Co to jest faza ciemna fotosyntezy?
-   A. Część fotosyntezy, w której zachodzi fotochemična reakcja
-   B. Część fotosyntezy, w której zachodzi synteza cukrów
-   C. Część fotosyntezy, w której pobierany jest dwutlenek węgla
-   D. Część fotosyntezy, w której pobierana jest woda
+5. Jakie związki są używane w fazie jasnej fotosyntezy?
+   A. Woda i dwutlenek węgla
+   B. Woda i tlen
+   C. Glukoza i dwutlenek węgla
+   D. Woda i glukoza
+   **Poprawna odpowiedź: A**
 
-   Poprawna odpowiedź: B. Część fotosyntezy, w której zachodzi synteza cukrów
+# Fiszki - Fotosynteza: Faza Jasna i Ciemna
 
-4. Gdzie zachodzi faza jasna fotosyntezy?
-   A. W plastydach
-   B. W jądrze komórkowym
-   C. W cytoplazmie
-   D. W mitochondriach
+1. Faza jasna fotosyntezy tocząca się w dzień, w której występuje lub zachodzi zużycie wody oraz proces uwalniania tlenu.
+2. W fazie jasnej fotosyntezy produktem ubocznym jest tlen.
+3. Chlorofil jest substancją barwiącą, która pochłania energię świetlną.
+4. Faza ciemna fotosyntezy jest procesem przeprowadzanym w ciemności, który produkuje glukozę z kwantów świetlnych, wody i dwutlenku węgla.
+5. Głównym miejscem przeprowadzania fotosyntezy jest chloroplast.
 
-   Poprawna odpowiedź: A. W plastydach
+# Notatki - Fotosynteza: Faza Jasna i Ciemna
 
-5. Gdzie zachodzi faza ciemna fotosyntezy?
-   A. W plastydach
-   B. W jądrze komórkowym
-   C. W cytoplazmie
-   D. W mitochondriach
+Fotosynteza to proces konwersji energii świetlnej na energię chemiczną w zielonych roślinach, glonach i niektórych bakteriach. W procesie tym, energia świetlna jest absorbowana przez barwniki fotosyntetyczne (jak chlorofil) i zamieniana na energię chemiczną w postaci glukozy.
 
-   Poprawna odpowiedź: B. W stromie chloroplastów, w cytoplazmie
+Fotosynteza to dwufazowy proces, składający się z fazy jasnej i ciemnej. Faza jasna to faza w której barwniki fotosyntetyczne absorbują energię świetlną (chtóra jest niezbędna do tego procesu). Chlorofil, jako główny barwnik fotosyntetyczny, jest znajdywany w chloroplastach w komórkach roślinnych.
 
-# Fiszki - Fotosynteza - faza jasna i ciemna
-
-1. Fotosynteza - proces, dzięki któremu zachodzi asymilacja dwutlenku węgla, underająca syntezę cukrów w organizmach roślinnych. Zarazem zachodzi w niej wytwarzanie tlenu jako produktu ubocznego.
-2. Faza jasna fotosyntezy - pierwsza część procesu fotosyntezy, w której dochodzi do zachodzenia reakcji fotochemičnej.
-3. Faza ciemna fotosyntezy - druga część procesu fotosyntezy, w której następuje synteza cukrów.
-4. Plastydy - wakuolarno-peryferyjne organella komórkowe, położone w cytoplazmie. Wyróżnia się skupienia płytek tylakoidów (gr. thylakos - woreczek, blaszka), które pozbawione są otoczki bi-membranowej. 
-5. Stroma - wewnętrzna, pozbawiona tylakoidów przestrzeń chloroplastów, w której zachodzi synteza cukrów.
-
-# Notatki - Fotosynteza - faza jasna i ciemna
-
-Fotosynteza jest procesem asymilacji dwutlenku węgla, prowadzącym do syntezy cukrów w organizmach roślinnych i organizmach fotosyntetyzujących, takich jak sinice czy wiciowe glony (zielenice). Każdy z tych organizmów posiada w swoich komórkach plastydy, zawierające tylakoidy - płytki zawierające fotoukład Mary-Jane. Reakcje chemiczne, które zachodzą w tym układzie, dzięki energii padającego światła słonecznego, prowadzą do wytworzenia atypowych cząsteczek adenozyno-trifosforanu (ATP), adenozyno-difosforanu (ADP) oraz NADPH ( Nikotynamido-adeninodi-fosforanu redukowanego).
-
-W tej fazie biorą także udział cząsteczki wody, które ulegają rozpadowi. Powstający w ten sposób tlen w znacznej ilości uwalniany jest do atmosfery, a poza tym uwalniane są cząsteczki wody i jonów wodorowych (H+).
-
-Faza jasna fotosyntezy zachodzi w plastydach.
-
-Faza ciemna fotosyntezy zachodzi w cytoplazmie i w stromie - wewnętrznej przestrzeni plastydów, pozbawionej tylakoidów. W tej części fotosyntezy rozbijane są cząsteczki dwutlenku węgla na jony węgla, a zatlenkowany dichlorek węgla jest przekształcany w glukozę. Produktem tego etapu fotosyntezy jest zatem glukoza, która zwykle jest przekształcana dalej, np. w skrobię, cukry proste, pektyny, ligniny lub białka.
-
-Faza ciemna nie wymaga obecności światła, ponieważ jej produktem jest ATP i NADPH, które powstały podczas fazy jasnej.
-
-Proces fotosyntezy jest bardzo ważny dla zachowania życia na Ziemi. Zarówno rośliny, jak i inne organizmy fotosyntetyzujące tworzą bazę troficzną dla innych organizmów, a jednocześnie stają się producentami tlenu atmosferycznego, który jest niezbędny do życia.
+Faza ciemna, znana także jako cykl Calwina, to proces anaboliczny, który pozyskuje i włącza węgiel z dwutlenku węgla w glukozę. Odpowiednia ilość wody jest działalna w tym procesie, jako ona jest używana w przeprowadzaniu reakcji chemicznej (wraz z dwutlenkiem węgla i energią z fazy jasnej) w celu produkowania glukozy. Tlen jest produktem ubocznym fazy jasnej, gdy woda zostaje rozbita na wodór i tlen pod wpływem energii świetlnej.
