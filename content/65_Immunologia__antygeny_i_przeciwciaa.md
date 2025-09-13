@@ -1,58 +1,61 @@
  # Quiz
-1. Co to jest antygen?
-A. Duży białkowy czopik na wirusa
-B. Cukrowe ograniczniki komórki
-C. Obca substancja, która może wywołać odpowiedź odpornościową
-D. Cząsteczka nasienna mężczyzny
 
-Correct Answer: C
+1. Co to jest antyген?
+A. Substancja chemiczna o wysokim pH
+B. Substancja obca wykazująca właściwości antygenne
+C. Substancja nieorganiczna o niskiej temperaturze ztoplenia
+D. Substancja organiczna o wysokiej masie molekularnej
 
-2. Jakiego rodzaju receptor potrzebne są limfocyty T, aby rozpoznać antygen prezentowany przez komórki prezentujące antygen?
-A. Receptor B
-B. Receptor T
-C. Receptor Fc
-D. Receptor komplementu
+Correct answer: B. Substancja obca wykazująca właściwości antygenne
 
-Correct Answer: B
+2. Jakie z następujących substancji nie są antygenami?
+A. Błoniki
+B. Toksyny bakteryjne
+C. Proteiny surowicy krwi
+D. Białka wirusa grypy
 
-3. Jakie typy przeciwciał wytwarzane są przez organizm?
+Correct answer: C. Proteiny surowicy krwi
+
+3. Co to są przeciwciała?
+A. Substancje chemiczne o niskiej gęstości
+B. Specyficzne białka błon komórkowych
+C. Specyficzne białka obronne syntetyzowane przez organizm w odpowiedzi na antyген
+D. Makrofagi należące do układu odpornościowego
+
+Correct answer: C. Specyficzne białka obronne syntetyzowane przez organizm w odpowiedzi na antygen
+
+4. Jakie rodzaje przeciwciał istnieją w organizmie ludzkim?
 A. IgA, IgD, IgE, IgG, IgM
 B. IgA, IgB, IgC, IgD, IgE
-C. IgA, IgG, IgM, IgD, IgE
-D. IgG, IgA, IgM, IgD, IgE
+C. IgG, IgM, IgD, IgC, IgA
+D. IgA, IgG, IgM, IgD, IgB
 
-Correct Answer: A
+Correct answer: A. IgA, IgD, IgE, IgG, IgM
 
-4. Które ze względu na funkcję przeciwciał należą do klasy IgA?
-A. Przeciwciała w komórkach śluzówek i płynach ustrojowych
-B. Przeciwciała związane z błoną śluzową nosa
-C. Przeciwciała przedostające się do mleka matki
-D. Wszystkie powyższe
+5. Co to jest reakcja dżety?
+A. Proces powstawania nowych komórek krwi w szpiku kostnym
+B. Sposób w jaki układ odpornościowy rozpoznaje i zwalcza antygeny
+C. Reakcja alergiczna na określony alergen
+D. Sposób w jaki bakterie rozprzestrzeniają się w organizmie
 
-Correct Answer: D
-
-5. Co to jest zona geograficzna?
-A. Zakres strukturalny przeciwciał
-B. Rejon rozprzestrzeniania się wirusa
-C. Utworzenie błon komórkowych wokół antygenu
-D. Zawartość iglic w jednostce objętości krwi
-
-Correct Answer: B
+Correct answer: B. Sposób w jaki układ odpornościowy rozpoznaje i zwalcza antygeny
 
 # Fiszki
 
-1. Antygen - obca substancja, która może wywołać odpowiedź odpornościową poprzez swoją zdolność do stymulacji limfocytów.
-2. Przeciwciała klasy IgA występują w mukozach i płynach ustrojowych oraz chronią przed patogenami.
-3. Limfocyty T potrzebują specjalnego receptora T, aby rozpoznać antygen prezentowany przez komórki prezentujące antygen.
-4. Receptor Fc nie odgrywa żadnej roli w identyfikacji antygenu przez limfocyty.
-5. Podział przeciwciał na klasy: IgA, IgD, IgE, IgG i IgM.
+1. Antygeny to substancje obce wykazujące właściwości antygenne.
+2. Przeciwciała to specyficzne białka obronne syntetyzowane przez organizm w odpowiedzi na antygen.
+3. Rodzaje przeciwciał: IgA, IgD, IgE, IgG, IgM.
+4. IgG to przeciwciała pośrednie, występujące we krwi i płynie owodniowym.
+5. Reakcja dżety to proces rozpoznawania i zwalczania antygenów.
 
 # Notatki
 
-Immunologia to nauka zajmująca się rozpoznawaniem i eliminowaniem substancji obcych przez układ odpornościowy. Istotnym pojęciem w tej dziedzinie są antygeny, czyli substancje obce, które mają zdolność stymulacji komórek układu immunologicznego, takich jak limfocyty. Limfocyty T rozpoznają antygeny przy pomocy własnych unikatowych receptorów T i aktywują się w ten sposób.
+Immunologia to dział biologii zajmujący się badaniem układu odpornościowego, jego składników oraz mechanizmów działania. Dwa główne zadania układu odpornościowego to rozpoznawanie i zwalczanie zagrożeń dla organizmu takich jak bakterie, wirusy, toksyny oraz inne substancje obce. Głównym mechanizmem obronnym organizmu są antygeny i przeciwciała.
 
-Przeciwciała, inaczej immunoglobuliny, są białkami wytwarzanymi przez plazmocyty lub limfocyty B zmutowane do komórek plazmatycznych, które oddziałują z antygenami i uczestniczą w adaptacyjnej odpowiedzi immunologicznej. Przeciwciała klasy IgA występują w mukozach i płynach ustrojowych i chronią przed patogenami.
+Antygen to substancja obca, która wykazuje właściwości antygenne, tzn. jest zdolna do indukowania odpowiedzi immunologicznej. Antygeny mogą być białkami, polisacharydami, lipidami lub ich związkami oraz mają zdolność indukowania produkcji specyficznych przeciwciał.
 
-Wyróżniamy klasy przeciwciał: IgA, IgD, IgE, IgG, IgM. Każda z tych klas pełni inne funkcje w organizmie. Na przykład IgG jest najczęściej występującym typem przeciwciała w osoczu krwi i odgrywa kluczową rolę w ochronie przed infekcjami bakteryjnymi i wirusowymi. IgM jest pierwszym przeciwciałem, które pojawia się we wczesnej fazie odpowiedzi immunologicznej na antygeny przenikające do organizmu.
+Przeciwciała to specyficzne białka obronne syntetyzowane przez organizm w odpowiedzi na antygeny. Są one produkowane przez komórki B i występują w krwi oraz w płynach ustrojowych. Rozróżniamy pięć klas przeciwciał: IgA, IgD, IgE, IgG i IgM. Każdy z tych typów pełni inną rolę w tworzeniu odpowiedzi immunologicznej.
 
-Znajomość tych podstawowych pojęć z zakresu immunologii pomaga lepiej zrozumieć działanie i mechanizmy odpowiedzi organizmu na obce substancje.
+Reakcja dżety to proces rozpoznawania i zwalczania antygenów. W tym procesie, układ odpornościowy identyfikuje antygen, aktywuje odpowiednie komórki odpornościowe, a one w konsekwencji produkują przeciwciała i inne substancje obronne, które rozpoznają i niszczą antygeny.
+
+Ogólnie rzecz biorąc, immunologia to bardzo skomplikowana i interdyscyplinarna dziedzina nauki, ale fundamenty zrozumienia jej jest dość proste. Rozpoznawanie i zwalczanie antygenów przez układ odpornościowy jest kluczowym elementem obrony organizmu i wiedza na temat antygenów i przeciwciał jest niezbędna do zrozumienia tego procesu.

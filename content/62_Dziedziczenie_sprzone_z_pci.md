@@ -1,94 +1,62 @@
- # Quiz - Dziedziczenie sprzężone z płcią
+ ### Quiz
 
-1. Co oznacza termin "sprzężony z płciem"?
-   A. Dziedziczenie cech zależne od gromosomy X
-   B. Dziedziczenie cech zależne od gromosomy Y
-   C. Dziedziczenie cech wspólne dla obu płci
-   D. Dziedziczenie cech wykazujące wyraźną różnicę między płciami
-   Poprawna odpowiedź: D. Dziedziczenie cech wykazująca wyraźną różnicę między płciami
+1. Co oznacza termin "dziedziczenie sprzężone z płciem"?
 
-2. Jakie geny mogą być związane z plamistością skóry u kotów?
-   A. Gene na gromosomie X
-   B. Gene na gromosomie Y
-   C. Gene autosomalne
-   D. Ne da się ustalić
-   Poprawna odpowiedź: A. Gene na gromosomie X
+A. Dziedziczenie cech, które są związane z płcią podmiotu
+B. Dziedziczenie cech, które są zawsze dominujące
+C. Dziedziczenie cech, które są zawsze recesywne
+D. Dziedziczenie cech, które są związane z kolorem oczu
 
-3. Co oznacza termin "homozygota"?
-   A. Znakowa mutacja
-   B. Dwie kopie tego samego allelu jednego genu
-   C. Przeniesienie genu na inny chromosom
-   D. Dziedziczenie genu przez jeden z rodziców
-   Poprawna odpowiedź: B. Dwie kopie tego samego allelu jednego genu
+Correct answer: A
+
+2. Jakie cechy są dziedziczone w sposób sprzężony z płciem?
+
+A. Kolor włosów i oczu
+B. Wzrost i masa ciała
+C. Choroby genetyczne, takie jak choroba von Gierkego
+D. Uzdolnienia matematyczne i muzyczne
+
+Correct answer: C
+
+3. Co oznacza termin "allel"?
+
+A. Każdy z par cząsteczek DNA, które kodują ten sam gen
+B. Każda z dwóch kopii danego genu w komórkach diploidalnych
+C. Każdy z rodziców, od których dana osoba odziedziczyła dany gen
+D. Każdy z loci (położenia) genów na chromosomie
+
+Correct answer: B
 
 4. Co oznacza termin "heterozygota"?
-   A. Znakowa mutacja
-   B. Dwie kopie różnych alleli jednego genu
-   C. Przeniesienie genu na inny chromosom
-   D. Dziedziczenie genu przez jeden z rodziców
-   Poprawna odpowiedź: B. Dwie kopie różnych alleli jednego genu
 
-5. Czy dziedziczenie sprzężone z płciem dotyczy także cech dziedziczonych autosomalnie?
-   A. Tak
-   B. Nie
-   Poprawna odpowiedź: B. Nie
+A. Osoba, u której oba allele danego genu są tego samego typu
+B. Osoba, u której dwa allele danego genu są innego typu
+C. Osoba, która ma więcej niż dwie kopie danego genu
+D. Osoba, u której został stwierdzony nowy mutacji genetyczny
 
----
+Correct answer: B
 
-# Fiszki - Dziedziczenie sprzężone z płcią
+5. Co oznacza termin "homozygota"?
 
-1. Sprzężony z płciem
-   - Dziedziczenie cech wykazujące wyraźną różnicę między płciami, np. plamistość skóry u kotów
-   - Immunologia: Xg (pierwszy układ grup krwi)
+A. Osoba, u której oba allele danego genu są tego samego typu
+B. Osoba, u której dwa allele danego genu są innego typu
+C. Osoba, która ma więcej niż dwie kopie danego genu
+D. Osoba, u której został stwierdzony nowy mutacji genetyczny
 
-2. Geny X-zależne
-   - Geny umieszczone na gromosomie X
-   - Liczba kopii determinuje fenotyp
-   - Homozygota recesywna: jeden rodzic musi być nosicielem choroby i aby objawy wystąpiły u potomstwa, muszą one dziedziczyć allel chorobowy od obojga rodziców
-   - Heterozygota: syndrom licytacji genów (ang. *Lyon hypothesis*)
-     - U kobiet na każdej komórce aktywne jest tylko połowa gromosomów X
-   - Przykłady: plamistość skóry kotów, hemofilia, plamistość oczu muchy Drosophila
+Correct answer: A
 
-3. Geny Y-zależne
-   - Geny umieszczone na gromosomie Y
-   - Dziedziczone wyłącznie w linii męskiej
-   - Problem z oznaczeniem heterozygoty
-   - Przykłady: gubienie się jąder w przydahtce, hemizygota
+### Fiszki
 
-4. Autosomalne
-   - Geny znajdujące się na autosomach
-   - Dziedziczone bez względu na płeć
-   - Każdy człowiek ma po dwie kopie autosomów
-   - Dominanta: występuje u osobnika heterozygotycznego
-   - Recesywna: u osobnika heterozygotycznego allel dominujący maskuje allel recesywny
+1. Dziedziczenie sprzężone z płciem to sposób dziedziczenia cech, które są związane z płcią podmiotu.
+2. Przy dziedziczeniu sprzężonym z płciem u mężczyzn pojawiają się jedynie allele dziedziczone od matki, podczas gdy u kobiet pojawiają się allele dziedziczone zarówno od matki, jak i od ojca.
+3. Przy dziedziczeniu sprzężonym z płciem allele danego genu mogą być dominujące lub recesywne.
+4. Przy dziedziczeniu sprzężonym z płciem allele danego genu mogą znajdować się na różnych chromosomach płci, czyli X i Y.
+5. Przykładem cechy, która jest dziedziczona w sposób sprzężony z płciem, jest np. choroba hemofilia.
 
-5. Przykładem dziedziczenia sprzężonego z płciem jest u kotów plamistość...
-   - Pełna nazwa: Choroba von Willebranda
-   - Zmiany ograniczone do naskórka i tkanki podskórnej
-   - Spotykane w postaci plam lub rozległych rozmytych podpaskowych prążków
-   - Gen X-zależny
+### Notatki
 
----
+Dziedziczenie sprzężone z płciem to sposób dziedziczenia cech, który jest związany z płcią podmiotu. W przypadku człowieka dotyczy to cech dziedziczonych przez płeć męską (chromosom Y) i żeńską (chromosom X).
 
-# Notatki - Dziedziczenie sprzężone z płcią
+W przypadku dziedziczenia sprzężonego z płciem allele danego genu mogą być dominujące lub recesywne. Jeśli allel jest dominujący, to jego efekt fenotypowy pojawia się nawet wtedy, gdy jest obecny tylko w jednej kopii (heterozygotycznie). Jeśli allel jest recesywny, to jego efekt fenotypowy pojawia się tylko wtedy, gdy jest on obecny w obu kopiach (homozygotycznie).
 
-Dziedziczenie cech zwykle wiąże się z kolejnymi generacjami i tym jak te cechy są przekazywane z osobników rodzicielskich do ich potomstwa. Geny odpowiedzialne za cechę dziedziczoną mają określone mappingowanie na chromosomach, które decyduje o sposobie ich dziedziczenia. Wyróżniamy kilka rodziących się z tego zagadnienia terminów, które trzeba zapamiętać przed omówieniem dziedziczenia sprzężonego z płciem:
-
-- Dziedziczenie autosomalne
-  - Autosomy to po prostu chromosomy poza płciowymi
-  - Geny uznaje się za autosomalne, jeśli nie leżą na gromosomach płciowych (X czy Y)
-  - Każdy mutant autosomalny występuje samodzielnie lub wykazuje się dominacją lub recesywnością
-
-- Geny dominujące
-  - Jedna kopia genu wystarcza do wykazania rodzica z fenotypem, który jest związany z allelem dominującym
-
-- Geny recesywne
-  - Aby rozwinął się fenotyp choroby związanej z allelem recesywnym, jej muszą odziedziczyć dwa allele recesywne, takie jak sony homozygota recesywna
-
-Dziedziczenie sprzężone z płciem dotyczy cech związanych z obecnością chromosomu X lub Y i wiąże się głównie z allelami, które dobrze radzą sobie na chromosomach płciowych.
-
-- W linii męskiej, te cechy dziedziczone są na podstawie gromosomu Y w formie dominującej lub recesywnej
-- W linii żeńskiej jednak, wskutek mieszania się alleli u kobiet, większość cech Y nie może być właściwie dziedziczona
-- Jednakże, allele z chromosomu X są dziedziczone w linii żeńskiej tak samo jak w linii męskiej
-
-Prawidłowa ocena cech w związku z aktualnym stanem wiedzy na temat genetyki i genów płci to wielkie wyzwanie dla badaczy. Nowoczesne podejście do tego problemu to zaproponowana przez Mary Lyon teoria o "młyniekach na laseczkę", w której w każdej komórce aktywne są tylko połowy gromosomów X, a kopie tego samego genu są nierównomiernie aktywowane (jeden wyraźnie, drugi nie) dlatego nie ma dużej różnicy między heterozygotą i homozygotą. Dodatkowo, heterozygotyczne kobiety w linii żeńskiej mogą nosić pewne geny w dominujących lub recesywnych wersjach bez zauważalnego wpływu na ich fenotyp. Aby to zrozumieć, warto rozwijać takie pojęcia jak *punktowo mutujący, efekt płecki, alele czynne, okres utajony* oraz *obalanie efektu płciowego*. Wszystkie są one znaczącymi cechami wzorców zmian genetycznych i za ich pośrednictwem można wyjaśnić wiele właściwości dziedziczenia sprzężonego z płciem.
+U człowieka, w przypadku dziedziczenia sprzężonego z płciem, u mężczyzn pojawiają się jedynie allele dziedziczone od matki, ponieważ mężczyźni mają tylko jeden chromosom X i jeden chromosom Y. U kobiet pojawiają się allele dziedziczone zarówno od matki, jak i od ojca, poniewa

@@ -1,1 +1,66 @@
- # Krzyżówka genetyczna - Przykłady
+ # Genetic Crossword Puzzle Examples
+
+In this educational material, we'll explore genetic crossword puzzles and their applications in genetics. This topic is both fun and instructional as it allows us to apply our understanding of genetics to solve puzzles and overcome challenges.
+
+## Quiz
+
+1. What type of cross occurs when two heterozygous individuals are crossed?
+A) Monohybrid cross
+B) Dihybrid cross
+C) Test cross
+D) None of the above
+Answer: B) Dihybrid cross
+
+2. What is the difference between a monohybrid cross and a dihybrid cross?
+A) The number of genes involved
+B) The number of phenotypes observed
+C) The shape of the Punnett square
+D) The complexity of the traits
+Answer: A) The number of genes involved
+
+3. In a monohybrid cross, which of the following is true about the phenotypic ratio?
+A) 3:1
+B) 1:1
+C) 9:3:3:1
+D) 9:7
+Answer: B) 1:1
+
+4. What is the primary objective of a test cross?
+A) Determining the parental genotype
+B) Generating homozygous dominant individuals
+C) Keeping the alleles together
+D) Separating the alleles
+Answer: A) Determining the parental genotype
+
+5. In a dihybrid cross, what is the probability of obtaining both dominant traits in the F2 generation?
+A) 25%
+B) 50%
+C) 75%
+D) 100%
+Answer: A) 25%
+
+## Fiszki
+
+1. **Monohybrid Cross** - A genetic cross in which only one trait is examined, and the organism has two alleles for this trait.
+2. **Dihybrid Cross** - A genetic cross in which two traits (on different chromosomes) are examined, and the organism has two alleles for each of these traits.
+3. **Punnett Square** - A graphic organizer used for representing potential genotypes of sexually-reproducing organisms, created by a British geneticist named Reginald C. Punnett.
+4. **Test Cross** - A genetic cross in which an organism with unknown genotype is crossed with a homozygous recessive individual to determine the unknown genotype; it is employed to establish the genotype of the unknown individual.
+5. **Genotype** - The genetic makeup of an organism, often represented as a sequence of letters that indicate alleles and their inheritance patterns.
+
+## Notatki
+
+Genetic crosses are an essential tool for understanding the principles of heredity and genetics. In a genetic cross, the genotypes of the parents are combined to predict the possible genotypes and phenotypes of their offspring. This is primarily done through the use of Punnett squares.
+
+In a monohybrid cross, the focus is on one gene. The cross is typically between a homozygous dominant individual and a homozygous recessive individual, and the resulting F1 generation will demonstrate a 1:1 phenotypic ratio for the dominant and recessive traits. Meanwhile, the dihybrid cross looks at two different genes, and the resulting F2 generation exhibits more variation in possible genotypes and phenotypes, which is reflected in a 9:3:3:1 phenotypic ratio.
+
+A test cross is crucial in establishing the genotype of an unknown individual by crossing it with a homozygous recessive individual. By analyzing the phenotypic ratio of the offspring, the unknown genotype can be inferred.
+
+Some common terms and concepts include:
+
+- Alleles: Variations of the same gene at a specific locus (position) on a chromosome.
+- Autosomal: Refers to genes located on non-sex chromosomes.
+- Crossing over: The process where two homologous chromosomes exchange genetic material during meiosis.
+- Dominant: Describing an allele that is phenotypically apparent when present in an individual's genotype.
+- Recessive: Describing an allele whose phenotypic expression requires that the allele be present in both copies of the gene in an individual's genotype.
+
+By utilizing and analyzing the results of genetic crosses, genetics enthusiasts can better understand heredity and develop new applications (whether medical, agricultural, or personal) in the realm of genetics.
