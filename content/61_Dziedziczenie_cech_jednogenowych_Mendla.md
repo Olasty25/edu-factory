@@ -1,59 +1,61 @@
- # Quiz - Dziedziczenie cech jednogenowych Mendla
+ # Quiz: Dziedziczenie cech jednogenowych Mendla
 
-1. Jakie są podstawowe pojęcia dziedziczenia cech jednogenowych? (Wybierz wszystkie poprawne odpowiedzi.)
-   A. Gen
-   B. Allel
-   C. Fenotyp
-   D. Genotyp
-   E. Homozygot
-   F. Heterozygot
-   [Poprawna odpowiedź: A, B, C, D, E, F]
+1. Jaka jest podstawa dziedziczenia cech jednogenowych?
+   A) Zasada niezmienności cech
+   B) Zasada randomności cech
+   **C) Zasada dominiowania cech**
+   D) Zasada sprzężenia cech
 
-2. Co oznaczają litery A, a, B, b w odniesieniu do genów i alleli?
-   A. Gen A jest dominantny, gen a jest recesywny.
-   B. Gen B jest dominantny, gen b jest recesywny.
-   C. Allel A jest dominantny, allel a jest recesywny.
-   D. Allel B jest dominantny, allel b jest recesywny.
-   [Poprawna odpowiedź: C]
+2. Co oznacza pojęcie "gen dominujący"?
+   A) Gen, który zawsze będzie dominował nad genem recesywnym
+   **B) Gen, który będzie wyrażał się fenotypowo, jeśli jest obecny w dwóch allelach**
+   C) Gen, który nie pozwala na wyrażenie się genów recesywnych
+   D) Gen, którego wyrażenie jest zależne od środowiska
 
-3. Kto był Gregor Mendel, i dlaczego jest on znany?
-   A. Mendel był niemieckim botanikiem, który odkrył podstawy dziedziczenia cech u roślin i zwierząt.
-   B. Mendel był austriackim genetykiem, który wprowadził pojęcia genów i alleli.
-   C. Mendel był czeskim mnichem, który przeprowadził eksperymenty nad dziedziczeniem cech u roślin pievonych.
-   D. Mendel był polskim lekarzem, który odkrył sposób ustalania płci dziecka.
-   [Poprawna odpowiedź: C]
+3. Co oznacza pojęcie "gen recesywny"?
+   **A) Gen, który będzie wyrażał się fenotypowo, tylko gdy jest obecny w dwóch allelach**
+   B) Gen, który zawsze będzie recesywny w stosunku do genów dominujących
+   C) Gen, który nie pozwala na wyrażenie się genów dominujących
+   D) Gen, którego wyrażenie jest niezależne od środowiska
 
-4. Co oznacza pełna dominacja?
-   A. Oba allele są widoczne w fenotypie.
-   B. Jedynie jeden allel jest widoczny w fenotypie.
-   C. Oba allele są równej siły.
-   D. Brak zdolności do dziedziczenia cech z pokolenia na pokolenie.
-   [Poprawna odpowiedź: B]
+4. Co oznacza termin "heterozygota" w kontekście dziedziczenia cech jednogenowych?
+   A) Organizm, u którego oba allele danego genu są identyczne
+   **B) Organizm, u którego allele danego genu są różne**
+   C) Organizm, u którego wyrażenie jest zależne od środowiska
+   D) Organizm, u którego oba allele danego genu są niedoborowe
 
-5. Jakie są cechy, które dziedziczą się według praw Mendla w przypadku pełnej dominacji?
-   A. Kolor oczu u ludzi
-   B. Kolor sierści u zwierząt
-   C. Kształt liści u roślin
-   D. Wszystkie poprawne odpowiedzi: A, B, C
-   [Poprawna odpowiedź: D]
+5. Jak wygląda dziedziczenie cech jednogenowych w przypadku, gdy gen jest heterozygotyczny i recesywny?
+   A) Wszystkie osobniki będą manifestować fenotyp spowodowany genem recesywnym
+   **B) Tylko osobniki homozygotyczne dla allelu recesywnego będą manifestować fenotyp spowodowany genem recesywnym**
+   C) Żaden z osobników nie będzie manifestować fenotypu spowodowanego genem recesywnym
+   D) Tylko osobniki heterozygotyczne będą manifestować fenotyp spowodowany genem recesywnym
 
-# Fiszki - Dziedziczenie cech jednogenowych Mendla
+# Fiszki: Dziedziczenie cech jednogenowych Mendla
 
-1. **Gen** - cześć chromosomu zawierająca informację genetyczną o cechach (locus)
-2. **Allel** - wersja danego genu, występująca na parze homologicznych chromosomów (homozygota, heterozygota)
-3. **Fenotyp** - cechy widoczne u organizmu (kolor włosów, kształt liści, itp.)
-4. **Genotyp** - układ alleli danego genu u organizmu (AA, Aa, aa)
-5. **Homozygota** - organizm mający identyczne allele (AA lub aa)
-6. **Heterozygota** - organizm mający różne allele (Aa)
-7. **Pełna dominacja** - sytuacja, gdy jeden allel jest widoczny w fenotypie
-8. **Recesywna** - allel, który jest widoczny tylko w przypadku homozygoty recesywnej (aa)
-9. **Dominantna** - allel, który jest widoczny zarówno w homozygocie, jak i heterozygocie (AA lub Aa)
-10. **Prawo Mendla** - podstawowe prawa spadku cech: prawo dopełnienia, prawo niezależności, prawo zależności sprzężonych
+- **Gen dominujący**: gen, który będzie wyrażał się fenotypowo, jeśli jest obecny w dwóch allelach
+- **Gen recesywny**: gen, który będzie wyrażał się fenotypowo, tylko gdy jest obecny w dwóch allelach
+- **Heterozygota**: organizm, u którego allele danego genu są różne
+- **Homozygota dominująca**: organizm, u którego oba allele danego genu są dominiujące
+- **Homozygota recesywna**: organizm, u którego oba allele danego genu są recesywne
 
-# Notatki - Dziedziczenie cech jednogenowych Mendla
+# Notatki: Dziedziczenie cech jednogenowych Mendla
 
-Dziedziczenie cech jednogenowych zostało poznane dzięki pionierskim eksperymentom Gregora Mendla, który badał dziedziczenie cech u roślin pievonych. Mendel wprowadził podstawowe pojęcia, takie jak gen, allel, fenotyp i genotyp. Gen jest częścią chromosomu, która zawiera informację o cechach, a allel to wersja danego genu, występująca na parze homologicznych chromosomów. Fenotyp to cechy widoczne u organizmu, natomiast genotyp to układ alleli danego genu u organizmu.
+Dziedziczenie cech jednogenowych jest regułą odziedziczania cech, w których udział bierze tylko jeden gen z dwóch alleli, które może posiadać organizm. W genetyce klasycznej jest to pojęcie, które wyjaśnia dziedziczenie cech opartych o zasadę Mendla. Gregory Mendel odkrył i opisał te zasady na podstawie eksperymentów z roślinami rzepakowymi.
 
-Homozygota to organizm mający identyczne allele, natomiast heterozygota to organizm mający różne allele. Pełna dominacja to sytuacja, gdy jeden allel jest widoczny w fenotypie, nawet jeśli organizm jest heterozygotą (Aa). Allel, który jest widoczny tylko w przypadku homozygoty recesywnej (aa), to allel recesywny. Allel, który jest widoczny zarówno w homozygocie, jak i heterozygocie (AA lub Aa), to allel dominujący.
+W dziedziczeniu cech jednogenowych wyróżnia się trzy rodzaje alleli: dominujący, recesywny i heterozygotyczny.
 
-Dziedziczenie cech u ludzi i innych organizmów jest złożone i regulowane w wielu miejscach genomu, jednak podstawowe prawa dziedziczenia cech jednogenowych zostały poznane dzięki eksperymentom Mendla i są wykorzystywane do zrozumienia mechanizmów dziedziczenia.
+- **Gen dominujący**: gen, który będzie wyrażał się fenotypowo, jeśli jest obecny w dwóch allelach. Jest on w stanie zdominować gen recesywny i wywołać fenotyp dominujący.
+- **Gen recesywny**: gen, który będzie
+wardzenie się fenotypowo, tylko gdy jest obecny w dwóch allelach. Jeśli allel dominujący jest obecny, gen recesywny nie będzie mógł wyrazić się fenotypowo.
+- **Heterozygota**: organizm, u którego allele danego genu są różne. W przypadku heterozygoty, osobnik będzie miał fenotyp dominujący, ponieważ gen dominujący będzie zdominowywał gen recesywny.
+
+W dziedziczeniu cech jednogenowych kluczową rolę odgrywa **zasada dominiowania cech**. Zgodnie z tą zasadą,
+jeśli organizm posiada dwa allele danego genu, wówczas oba allele mogą być tej samej odmiany (homozygota), albo też mogą być różne (heterozygota). Jeśli organizm jest homozygotą, a oba allele są dominiujące, będzie on miał fenotyp dominujący. Jeśli zaś oba allele są recesywne, będzie on miał fenotyp recesywny. W przypadku heterozygoty, gen dominujący zdominuje gen recesywny i
+osobnik będzie miał fenotyp dominujący.
+
+Zasada dominiowania ma również zastosowanie w przypadku dziedziczenia cech w następnych pokoleniach. Jeśli
+dziedziczenie cech odbywa się w następujący sposób: homozygotyczny organizm dominujący x homozygotyczny organizm recesywny, to wszystkie potomstwo będą heterozygotami i będą miały fenotyp dominujący, ponieważ gen dominujący zdominuje gen recesywny. Jednak, jeśli przynajmniej jeden z rodziców będzie
+heterozygotą, to wówczas może pojawić się osobnik z fenotypem recesywnym w kolejnej generacji.
+
+Dziedziczenie cech jednogenowych jest podstawą dla zrozumienia innych zjawisk w dziedzinie genetyki, takich
+jak dziedziczenie sprzężone płciowo, dziedziczenie wielogenowe, czy genetyczne choroby dziedziczne.
