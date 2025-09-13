@@ -1,60 +1,50 @@
- # Quiz: Adaptacje roślin do środowiska wodnego
-1. Co to są hydrofyty?
-   A. Rośliny lądowe przystosowane do wzrostu w wodzie
-   B. Rośliny lądowe nie przystosowane do wzrostu w wodzie
-   C. Rośliny wodne zanurzone
-   D. Rośliny wodne zanurzone i pływające
+ # Quiz - Adaptacje roślin do środowiska wodnego
+1. Co to jest hydroturbina i w jaki sposób pomaga roślinom w środowisku wodnemu?
+    - A) To jest urządzenie, które umożliwia fotosyntezę w warunkach niedostatku światła.
+    - B) To jest mechanizm, dzięki któremu rośliny wodne mogą się unosić na powierzchni wody.
+    - **C) To jest turbina wodna, dzięki której rośliny wodne mogą wytwarzać energię.**
+    - D) To jest mechanizm, dzięki któremu rośliny wodne mogą asymilować węglan wód wapiennych.
 
-   Poprawna odpowiedź: A
+2. Jakie są główne rodzaje adaptacji roślin wodnych do braku dostępu tlenu?
+    - A) Pobieranie tlenu z powietrza i przechowywanie go w komórkach.
+    - **B) Przeprowadzanie fotosyntezy tlenowej i korzystanie z asymilatu jako źródła tlenu.**
+    - C) Utrzymywanie stałego kontaktu z podłożem w celu dostępu do tlenu.
+    - D) Utrzymywanie się w powietrzu, aby uniknąć braku dostępu do tlenu.
 
-2. Jakie cechy morfologiczne i anatomiczne umożliwiają zanurzonej roślinie wodnej pobieranie dwutlenku węgla?
-   A. Pędy zredukowane, liście w kształcie przystosowanym do pobierania dwutlenku węgla
-   B. Pędy rozwinięte, liczne korzenie pobierające dwutlenek węgla
-   C. Korzenie przystosowane do oddychania tlenem
-   D. Całe organizmy zanurzone w wodzie, mogą bezpośrednio pobierać dwutlenek węgla do wnętrza komórek
+3. Po czym charakteryzują się aparaty szparkowe u roślin wodnych?
+    - **A) Mają one mniejszą średnicę i grubsze ściany komórkowe.**
+    - B) Są one bardziej unerwione i szybciej reagują na brak wody.
+    - C) Są one bardziej rozproszone na powierzchni liścia.
+    - D) Są one bardziej rozbudowane i otwierają się szersze.
 
-   Poprawna odpowiedź: A
+4. Jakie są główne adaptacje roślin wodnych do zwiększonego pływania w wodzie?
+    - A) Wykształcenie pływaków i tworzenie powietrznych komór.
+    - **B) Rozrost kłączy i korzeni, aby zwiększyć opór i stabilność.**
+    - C) Tworzenie powietrznych przestrzeni wewnątrz pędów.
+    - D) Tworzenie korzeni przylistkowych, aby zwiększyć opór do płynięcia.
 
-3. Przykład rośliny z rodziny żabiściekowatych, która ma kłącze pseudorumienne. Jest to adaptacja do:
-   A. Przechowywania wody
-   B. Przechowywania substancji zapasowych
-   C. Wzrostu pod wodą i na lądzie
-   D. Chronionych fiszbinów zasadzek
+5. Jaka jest rola kolumn w hydrofitach?
+    - A) Są to mechanizmy asymilacyjne, dzięki którym rośliny wykonują fotosyntezę.
+    - B) Są to kanały zapewniające transport wody i substancji odżywczych.
+    - **C) Są to mechanizmy unoszące roślinę i zapewniające pływalność.**
+    - D) Są to mechanizmy wchłaniające wodę i składniki odżywcze.
 
-   Poprawna odpowiedź: B
+# Fiszki - Adaptacje roślin do środowiska wodnego
+- Hydroturbina: Urządzenie pozwalające roślinom wodnym wytwarzać energię
+- Aparat szparkowy roślin wodnych: Charakteryzuje się mniejszą średnicą i grubszymi ścianami komórkowymi
+- Adaptacja do braku dostępu tlenu: Fotosynteza tlenowa i korzystanie z asymilatu jako źródła tlenu
+- Adaptacja do zwiększonego pływania w wodzie: Rozrost kłączy i korzeni
+- Kolumny hydrofitów: Mechanizmy unoszące roślinę i zapewniające pływalność
 
-4. Adaptacją umożliwiającą pływanie niektórych roślin wodnych jest:
-   A. Kłącze z pływakami
-   B. Liście w kształcie łodzi
-   C. Tkanka powietrzna
-   D. Korzenie podwodne
+# Notatki - Adaptacje roślin do środowiska wodnego
+Rośliny wodne, czyli hydrofyty, to rośliny, które w całości lub w dużym stopniu zaliczają się do środowiska wodnego. W zależności od warunków wodnych mogą one w pełni zanurzone być w wodzie, czy też mieć kontakt z podłożem i powietrzem.
 
-   Poprawna odpowiedź: C
+Podstawową adaptacją hydrofitów do takiego środowiska jest ochrona aparatów szparkowych. Ze względu na ciśnienie hydrostatyczne, aparaty te mają mniejszą średnicę i grubsze ściany komórkowe, co zapobiega uszkodzeniom przez hydrodynamiczny ruch wody.
 
-5. Co to są hydrotele?
-   A. Rośliny zamieszkujące wody wartkie o podwyższonej zawartości tlenu
-   B. Rośliny zasiedlające głębokie partie wód stojących
-   C. Rośliny akumulujące duże ilości wody w swoich tkankach
-   D. Rośliny używające tlenu w procesie oddychania
+Hydrofyty rozwinęły także mechanizmy wchłaniania wody i substancji odżywczych. Rozwinęły także mechanizmy unoszące i stabilizujące, takie jak kolumny, kłącza i korzenie, które zapewniają stabilną pozycję i pływalność rośliny.
 
-   Poprawna odpowiedź: A
+Adaptacją do braku dostępu tlenu jest przeprowadzanie fotosyntezy tlenowej i korzystanie z asymilatu jako źródła tlenu.
 
-# Fiszki: Adaptacje roślin do środowiska wodnego
-- Hydrofyty - rośliny lądowe przystosowane do wzrostu w wodzie, np. trzcina pospolita (Phragmites australis)
-- Hydrofyty zanurzone - rośliny zanurzone powoli rosnące, przykładem mogą być rdestnice (Potamogeton spp.)
-- Fenestracje - charakterystyczne otwory pozwalające na swobodny przepływ wody w tkankach roślin pływających
-- Tkanka powietrzna - umożliwia pływanie roślinie i zapewnia dostęp do tlenu
-- Korzenie tlenowe - unikiwające niedostatek tlenu w wodach stojących, przez nie przepływa tlen do innych części rośliny
+Ponadto, rośliny wodne wykształciły szereg mechanizmów pozwalających im na pływanie w wodzie, takich jak tworzenie powietrznych komór, wzrost kłączy i korzeni oraz utrzymanie stałego kontaktu z podłożem.
 
-# Notatki: Adaptacje roślin do środowiska wodnego
-Adaptacje roślin do środowiska wodnego umożliwiają im przetrwanie w warunkach panujących w wodach stojących i płynących. Wśród roślin wodnych rozróżniamy dwie grupy - hydrofyty i hydrofyty zanurzone.
-
-Hydrofyty to rośliny lądowe, których cechy morfologiczne i anatomiczne zostały przystosowane do wzrostu w wodzie. Często charakteryzują się dużymi i chropawymi liśćmi, długimi pędami i zredukowanymi korzeniami. W zanurzonych hydrofitach pędy są zwykle zredukowane, a liście przyjmują kształty konieczne do pobierania dwutlenku węgla.
-
-W wodach płynących o szybkim nurcie często występują rośliny o korzeniach przystosowanych do wychwytu dużych ilości osadów, co zapewnia im stałe położenie. Przykładem takiej adaptacji jest kłącze pseudorumienne występujące u żabiścieka pływającego (Hydrocharis morsus-ranae).
-
-Adaptacja umożliwiająca pływanie niektórych roślin wodnych to obecność tkanki powietrznej (aerenchyma) - ułatwiającej pływanie i zapewniającej możliwość oddychania powietrzem. Rośliny takie zwane są pływającymi.
-
-W wodach stojących występująk orzenie tlenowe, czyli rośliny o korzeniach umożliwiających wpływanie tlenu do innych części rośliny. Rośliny takie zapewniają sobie niezbędny dostęp tlenu, mimo dużej zawartości dwutlenku węgla w takim środowisku.
-
-Zauważymy także istnienie roślin o liściach wspierających się na powietrzu, zwanych hydrotelem. Przykładem hydrotele jest rdestnica pływająca (Potamogeton natans), która posiada wzdłuż liści podłużne, podłużne szczeliny zwane fenestracjami, przez które dopływa do niej powietrze.
+Hydroturbina to urządzenie pozwalające roślinom wodnym wytwarzać energię. Dzięki niej rośliny mogą sprawniej przystosować się do trudnych warunków siedliskowych.

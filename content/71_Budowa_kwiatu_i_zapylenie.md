@@ -1,55 +1,78 @@
- # Quiz: Budowa Kwiatu i Zapylenie
+ ### Quiz
 
-1. Ile okwiatów zwykle posiada kwiat?
-   A. 1
-   B. 2
-   **C. 3-6**
-   D. 7 i więcej
+1. Co to jest androecjum?
+A. Zalążnia
+B. Pręcik
+C. Szyjka słupka
+D. Korona kwiatu
 
-2. Które części kwiatu uczestniczą w zapyleniu krzyżowym?
-   A. Dno kielicha i płatki korony
-   B. Pręciki i słupki
-   **C. Pręciki i słupki innych kwiatów**
-   D. Pylniki i zalążki
+Correct Answer: B. Pręcik
 
-3. Jakie znamiona znajdują się u kwiatów podkwiatostanowych?
-   A. Znamiona pojedyncze i centralne
-   B. Brak znamion
-   **C. Wiele znamion w środku kwiatu**
-   D. Znamiona na brzegu kwiatu
+2. Jaka część kwiatu powstaje z zrośniętych pręcików?
+A. Pylnik
+B. Nitka pręcika
+C. Słupek
+D. Zalążnia
 
-4. Które żółte pręciki w kwiatach koniczyny są najpierw dojrzałe?
-   A. Górne
-   B. Dolne
-   **C. Środkowe**
-   D. Wszystkie równocześnie
+Correct Answer: A. Pylnik
 
-5. Kiedy znamiona są sterylne, to kwiat jest:
-   A. Jednopłciowy
-   B. Bisexualny
-   **C. Bezpłciowy**
-   D. Żeński
+3. Co to jest gineceum?
+A. Łożysko zalążka
+B. Zalążnia
+C. Szyjka słupka
+D. Znamię słupka
 
-# Fiszki: Budowa Kwiatu i Zapylenie
+Correct Answer: B. Zalążnia
 
-- **Okwiat**: Obróczka kwiatowa składająca się z działek kielicha i płatków korony.
-- **Pręciki**: Męskie narządy generatywne kwiatów, wykonujące analogiczną do prątników funkcję.
-- **Słupki**: Żeńskie narządy generatywne kwiatów, składające się z zalążni, szyjki i znamiona.
-- **Zapylenie krzyżowe**: Rodzaj zapylenia, gdzie pyłek jest przenoszony z pręcików jednego kwiatu na znamiona innego kwiatu.
-- **Znamiona**: Górna część słupka, która pełni rolę w zapyleniu.
+4. Jaka część słupka kwiatu kopulująco pełni rolę łącznika między zalążnią a pręcikiem?
+A. Łożysko zalążka
+B. Szyjka słupka
+C. Znamię słupka
+D. Zalążnia
 
-# Notatki: Budowa Kwiatu i Zapylenie
+Correct Answer: B. Szyjka słupka
 
-Kwiaty są bardzo zróżnicowane pod względem budowy i sposobu zapylania. Zwykle składają się one z okwiatu (działki kielicha i płatki korony), pręcików (męskie narządy generatywne) oraz słupków (żeńskie narządy generatywne). Kwiaty mogą być bisexualne, męskie lub żeńskie, w zależności od obecności narządów męskich i/lub żeńskich oraz środowiska, w którym rosną.
+5. Kiedy mówimy o kwiatach wonnych - jakie ich części są odpowiedzialne za emitowanie substancji zapachowych?
+A. Pręciki
+B. Kielich i korona
+C. Zrośnięte działki kielicha
+D. Zalążnia
 
-Budowa kwiatów jest adaptacją do danego środowiska i może obejmować wiele znamion, więcej niż jeden słupek, liczne pręciki (czasem w układach wielokrotnych) oraz specyficzne formy i kolory.
+Correct Answer: B. Kielich i korona
 
-Zapylenie krzyżowe jest czystszym rodzajem zapylenia, ponieważ nie powoduje powstawania niedrożdżowych nasion. Podczas zapylenia krzyżowego pyłek jest przenoszony z pręcików jednego kwiatu na znamiona innego kwiatu, co zmniejsza ryzyko samozapylenia i zwykle prowadzi do większej różnorodności genetycznej w populacji.
+### Fiszki
 
-Zapylenie krzyżowe może być zapewnione przez kilka czynników środowiskowych, takich jak: wiatr, woda, owady, ptaki, a nawet ssaki (w tym ludzi). Każdy z tych czynników zapewnia różną sposób dostarczania pyłku i znamiona.
+1. Androecjum
+   Def: Część męska kwiatu, zbudowana z pręcików.
 
-Czynniki środowiskowe wpływają na sposób układu i rozmieszczenia pręcików i słupków w kwiatach. U niektórych gatunków pręciki i słupki mogą być przesunięte w bok, by uniknąć samozapylenia i zapewnić transfer pyłku na znamiona innych kwiatów. Kwiaty te są nazywane kwiatami podkwiatostanowymi i charakteryzują się wieloma znamionami w środku kwiatu, gdzie dojrzewa najwięcej pyłku.
+2. Gineceum
+   Def: Część żeńska kwiatu, zbudowana z zalążni.
 
-Zapylenie krzyżowe bywa bardziej prawdopodobne, gdy kwiaty rozwijają się sekwencyjnie, z pręcikami dojrzewającymi przed znamionami. Dzięki temu, kiedy pręciki dojrzewają, to znamiona są jeszcze sterylne lub niezdolne do przyjęcia pyłku.
+3. Zygomorficzny
+   Def: Określa kwiat mający różnorodną budowę w różnych płatach lub okółkach.
 
-Wiele kwiatów wykształciło mechanizmy, by zwiększyć skuteczność zapylenia krzyżowego. Na przykład: kwiaty gwiazdowca posiadają pręciki, których fizyczna konstrukcja umożliwia im zwracanie pyłku w kierunku słupków. Podobnie, kwiaty koniczyny skierowują mostki pyłkowe w dół, by zapewnić dostęp pyłku do znamion.
+4. Pręcik
+   Def: Część męska kwiatu, składa się z nitki i pylnika.
+
+5. Zalążnia
+   Def: Część żeńska kwiatu, zawiera komory nasienne z zalążkami.
+
+### Notatki
+
+Budowa kwiatu jest centrum interesu dla botaników i ogrodników. Jest to kluczowy i interesujący komponent gatunków roślinnych. Jak wszystko w przyrodzie, budowa kwiatu jest delikatnie zaprojektowana, aby ułatwić zapylanie krzyżowe i samozapylenie.
+
+Kwiaty różnią się wielkością, kształtem, kolorem oraz budową, gdyż mają one różne zadania - niektóre przyciągają owady lub zwierzęta, które transportują pyłek z pręcików na zalążnie, inne zaś to zapylaczka musi być wystarczająco duża, by pomieścić cały kwiat.
+
+Kwiaty są często zdefiniowane jako zwieńczenie pędu, składające się z gynoecjum, androecjum i okwiatu.
+
+Gineceum, czyli kwiat żeński, składa się z komór nasiennych, w których znajdują się komórki jajowe, oraz z szyjki, znajdującej się posredniku między komorami nasiennymi a innymi częściami kwiatu.
+
+Androecjum, czyli kwiat męski, zbudowane jest z pręcików, z których każdy sat to nitka pręcika oraz ziarno pyłku. Ziarno pyłku składa się z dwóch półkomórek i wytwarza ono pyłek curvekowy.
+
+Pyłek curekowy jest wykorzystywany do zapylaniem roślin. Szukając sposobu, by dotrzeć przez otwór szczytowy na znamieniu słupka bądź inną część kwiatu, tworzy on przedłużki zwane czerwami pyłkowymi. Czerwie składają się z dwóch półkomórek oraz nabłonka, który produkuje substancję śluzową, pomagającą pyleczkom się poruszać. Czerw pyłkowy nabiera wilgoci i rozdmuchuje się, unoszony przez wiatr, stając się pyłkiem powietrznym.
+
+Kwiaty samozapylające mają dwa rodzaje zapylenia: autogamiczne, gdzie zarodek powstaje z pyłku i komórki jajowej z tego samego kwiatu oraz allogamiczne, gdzie zarodek powstaje z pyłku i komórki jajowej z różnych kwiatów.
+
+Rośliny z kwiatami wonnymi emitują substancje zapachowe zwane feromonami, które przyciągają zapylaczy, w tym owady, muchy, motyle, kolibry, nietoperze, króliki i lisy.
+
+Kwiaty, tak jak ludzie, posługują się kombinacją kolorów i kształtów, aby wytworzyć efekt owocujący zapyleniem. Nawet działki kielicha, oscylujące wokół kwiatów kolibry, pobudzają zapylacza do dotyku kielicha oraz przenoszenia pyłku.
