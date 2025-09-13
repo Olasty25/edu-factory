@@ -1,43 +1,20 @@
- # Biomes of the World: Examples
+ # Biomy Świata - Przykłady
 
 ## Quiz
 
-1. What is a biome?
-   a) A type of rock formation
-   b) A community of organisms and their environment
-   c) A type of volcanic eruption
-   d) A kind of desert climate
-   Answer: b) A community of organisms and their environment
+1. Which biome is characterized by tall trees, high rainfall, and a warm climate?
+   A. Desert
+   B. Tropical Rainforest
+   C. Tundra
+   D. Grassland
 
-2. Which biome is characterized by cold temperatures and short growing seasons?
-   a) Tropical rainforest
-   b) Desert
-   c) Tundra
-   d) Temperate deciduous forest
-   Answer: c) Tundra
+   Answer: B
 
-3. Which biome has the highest annual rainfall?
-   a) Tropical rainforest
-   b) Desert
-   c) Temperate deciduous forest
-   d) Tundra
-   Answer: a) Tropical rainforest
+2. What type of biome is the Taiga?
+   A. Forest
+   B. Desert
+   C. Mountain
+   D. Grassland
 
-4. Which biome has the most diverse plant and animal life?
-   a) Desert
-   b) Tundra
-   c) Temperate grassland
-   d) Tropical rainforest
-   Answer: d) Tropical rainforest
+   Answer: A
 
-5. Which biome is typically found in the intermountain basins of western North America?
-   a) Temperate grassland
-   b) Chaparral
-   c) Temperate deciduous forest
-   d) Tropical rainforest
-   Answer: b) Chaparral
-
-## Flashcards
-
-1. Biome
-   Definition: A community of organisms and their environment
