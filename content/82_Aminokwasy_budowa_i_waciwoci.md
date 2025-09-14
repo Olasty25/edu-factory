@@ -1,66 +1,76 @@
- ### Quiz
+ # Quiz - Amino Acids: Structure and Properties (5 questions)
 
-1. Ile aminokwasów istnieje w przyrodzie?
-A. 10
-B. 20
-C. 50
-D. 200
+1. What is the basic structure of an amino acid?
+A. A single protein molecule
+B. A molecule containing a carboxylic acid group, an amino group, and a side chain
+C. A molecule with a weak intermolecular force
+D. A molecule with a single functional group
+ Correct answer: B
+2. How many different amino acids are encoded by the standard genetic code?
+A. 4
+B. 10
+C. 20
+D. 22
+ Correct answer: C
+3. What are the two main properties that characterize an amino acid's side chain?
+A. Hydrophilicity and hydrophobicity
+B. Chirality and electrical charge
+C. Coolness and warmth
+D. Acidity and basicity
+ Correct answer: A
+4. How are amino acids typically represented in diagrams or models?
+A. Using the standard three-letter abbreviations
+B. Using the standard one-letter abbreviations
+C. Drawing the full chemical structure
+D. Representing them with symbols or colors
+ Correct answer: B
+5. In what way do amino acids differ from each other?
+A. They have different chemical structures
+B. They have different molecular weights
+C. They have different electrical charges
+D. All of the above
+ Correct answer: D
 
-Correct answer: D. 200
+---
 
-2. Który z aminokwasów jest podstawowym budulcem białka?
-A. Arginina
-B. Tauryna
-C. Alanina
-D. Glutamina
+# Flashcards - Amino Acids: Structure and Properties (5 flashcards)
 
-Correct answer: C. Alanina
+1. **Amino Acid Structure**
+```markdown
+- Carboxylic acid group
+- Amino group
+- Side chain
+```
+2. **Amino Acids Encoded by Standard Genetic Code**
+```markdown
+- 20 standard amino acids
+```
+3. **Side Chain Characteristics**
+```markdown
+- Hydrophilic (attracted to water)
+- Hydrophobic (repelled by water)
+```
+4. **Representation of Amino Acids**
+```markdown
+- Standard one-letter abbreviations
+```
+5. **Differences among Amino Acids**
+```markdown
+- Different chemical structures
+- Different molecular weights
+- Different electrical charges
+```
 
-3. Który grupę aminokwasów zawierają białka fibrylarne?
-A. Aminokwasy neutralne
-B. Aminokwasy kwasowe
-C. Aminokwasy zasadowe
-D. Aminokwasy hydrofobowe
+---
 
-Correct answer: D. Aminokwasy hydrofobowe
+# Notes - Amino Acids: Structure and Properties (~200 words)
 
-4. Jaki z aminokwasów jest istotny m.in. dla syntezy hemoglobiny?
-A. Fenylalanina
-B. Tyrozyna
-C. Tryptofan
-D. Cysteina
+Amino acids are fundamental building blocks of proteins and are composed of three main parts: a carboxylic acid group, an amino group, and a side chain. The carboxylic acid group and the amino group are linked by a central carbon atom, known as the alpha carbon, resulting in an amino acid's general formula being represented as H2N-Cα-COOH. The side chain, or R group, is unique to each of the 20 standard amino acids and is responsible for their various chemical properties.
 
-Correct answer: D. Cysteina
+The two main properties that characterize an amino acid's side chain are hydrophilicity and hydrophobicity. Hydrophilic amino acids have side chains that are attracted to water molecules, making them polar, while hydrophobic amino acids have side chains that are repelled by water molecules, making them nonpolar. The 20 standard amino acids are typically represented in diagrams and models using standard one-letter abbreviations, which are easy to recognize and use in diagrams and models.
 
-5. W jaki sposób aminokwasy są połączone w białkach?
-A. Wodorowe wiązania między innymi atomami węgla
-B. Wodorowe wiązania między atomami tlenu
-C. Polipeptydowe wiązania pomiędzy grupami karboksylowymi i aminowymi
-D. Wiązania jonowe pomiędzy grupami karboksylowymi i aminowymi
+Amino acids differ from each other in several ways, including their chemical structures, molecular weights, and electrical charges. Some amino acids have charged side chains, some have polar side chains, while others have nonpolar side chains. The unique properties of the side chains give each amino acid its distinct chemical properties and influence the arrangement of the amino acids within a protein.
 
-Correct answer: C. Polipeptydowe wiązania pomiędzy grupami karboksylowymi i aminowymi
+Furthermore, amino acids are linked together by peptide bonds to form polypeptides, which are the primary building blocks of proteins. The unique arrangement of amino acids in a polypeptide chains determines the three-dimensional structure of a protein, which in turn determines its biological function and activity. The properties of the constituent amino acids, such as polarity and charge, play a significant role in determining how the protein will behave in different environments, such as in the cell or outside of it. Understanding the structure and properties of amino acids is crucial in the study of proteins, their function, folding, and interactions.
 
-### Fiszki
-
-* Aminokwasy są połączone w białka poprzez wiązania peptydowe, tj. wodorowe wiązania między grupami karboksylowymi (-COOH) i aminowymi (-NH2)
-* Aminokwasy dzielą się na: neutralne, kwasowe oraz zasadowe
-* Podstawowym budulcem białek są aminokwasy o charakterze neutralnym, takie jak alanina
-* Właściwości aminokwasów zależą od ich struktury oraz ładunku, w szczególności od siły R (grupa boczna): np. właściwości wodorolubne i wodoroodporne
-
-### Notatki
-
-Aminokwasy to organiczne związki chemiczne, które łączą się w łańcuchy tworzące białka. Tworzą one największą grupę biocząsteczek, a więc są niezbędne do życia organizmów. Każde białko składa się z ciągu aminokwasów, które są ze sobą połączone wiązaniami peptydowymi.
-
-W naturze występuje 20 podstawowych aminokwasów, które są klasyfikowane ze względu na ładunek:
-
-* Neutralne: alanina, walina, leucyna, izoleucyna, prolina, seryna, treonina, glicyna, fenylalanina, tryptofan
-* Kwasowe: asparagina, glutamina
-* Zasadowe: arginina, lizyna, histydyna
-
-Aminokwasy neutralne stanowią podstawowy budulec białek. Właściwości aminokwasów oraz białek zależą od ich struktury i od ułożenia grup bocznych (R) atomów węgla, w populacji aminokwasów występują m.in. grupy alkoholowe (-OH), aminowe (-NH2), siarkowe (-SH), karboksylowe (-COOH).
-
-Grupy boczne mają duży wpływ na właściwości wodorolubne i wodoroodporne aminokwasów.
-
-W szczególności, gdy grupa boczna jest hydrofilowa, aminokwas będzie mieć tendencję do znajdowania się w środowisku wodnym, w przeciwnym wypadku będzie to działo się dokładnie odwrotnie.
-
-Właściwości aminokwasów mogą być warunkiem koniecznym do spełnienia funkcji białka. Przykładowo, kwas glutaminowy i asparagina są istotne dla syntezy hemoglobiny, czyli białka budującego czerwone krwinki w organizmach.
+---

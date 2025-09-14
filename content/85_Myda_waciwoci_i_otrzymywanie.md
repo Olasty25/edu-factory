@@ -1,60 +1,59 @@
- # Quiz
+ # Quiz - Mydła - Właściwości i Otrzymywanie
 
-1. Jaka z substancji należy dodać do roztworu, aby uzyskać mydło?
-A. Woda
-B. Rozpuszczalnik organiczny
-C. Kwas
-D. Alkohol
-**Poprawna odpowiedź: C. Kwas**
+1. Co to jest mydło?
+   A. Substancja środka do mycia
+   B. Substancja do gotowania
+   C. Substancja do pielęgnacji roślin
+   D. Substancja do czyszczenia butów
 
-2. Co oznacza ocena 10 na skali twardości wody?
-A. Twarda woda
-B. Bardzo twarda woda
-C. Mięka woda
-D. Bardzo mięka woda
-**Poprawna odpowiedź: B. Bardzo twarda woda**
+   Poprawna odpowiedź: A. Substancja środka do mycia
 
-3. Jaka z tych metod jest stosowana w przemyśle, aby otrzymać mydło?
-A. Działanie zasad na tłuszcze
-B. Działanie kwasów na mydła
-C. Działanie zasad na alkohole
-D. Działanie kwasów na aldehydy
-**Poprawna odpowiedź: A. Działanie zasad na tłuszcze**
+2. Jaka jest składnia mydeł?
+   A. Estry kwasów tłustych z glikolem
+   B. Estry kwasów tłustych z alkoholem
+   C. Estry kwasów siarkowych z glikolem
+   D. Estry kwasów siarkowych z alkoholem
 
-4. Co to jest gliceryna w produkcji mydła?
-A. Substancja zapobiegająca wysychaniu skóry
-B. Substancja barwiąca
-C. Substancja pieniąca
-D. Substancja karminizująca
-**Poprawna odpowiedź: A. Substancja zapobiegająca wysychaniu skóry**
+   Poprawna odpowiedź: A. Estry kwasów tłustych z glikolem
 
-5. Jaka ze wskazanych substancji jest związkiem odpowiedzialnym za pienienie się mydeł?
-A. Kwas tallowinowy
-B. Gliceryna
-C. Tłuszcz
-D. Surfaktant
-**Poprawna odpowiedź: D. Surfaktant**
+3. Dla czego służy substancja powierzchniowo czynna w mydle?
+   A. Dobry zapach
+   B. Dobra pienię nadziemna
+   C. Dobra rozpuszczalność w wodzie
+   D. Dobra rozpuszczalność w tłuszczach
 
-# Fiszki
+   Poprawna odpowiedź: D. Dobra rozpuszczalność w tłuszczach
 
-1. **Soda caustyczna** - substancja stosowana w produkcji mydła, uzyskiwana w procesie rozkładu wodorotlenku potasu.
-2. **Tłuszcze** - podstawowe surowce służące do produkcji mydeł, mogą być pochodzenia zwierzęcego lub roślinnego.
-3. **Surfaktant** - substancja odpowiedzialna za pienienie się mydeł, związek powierzchniowo-czynny.
-4. **Twardość wody** - miara zawartości w wodzie soli wapnia i magnezu, klasyfikowana w skali od 1 do 10.
-5. **Reakcja zasady z tłuszczem** - podstawowy proces produkcyjny mydeł, w którym zasady reagują z tłuszczami, powodując hydrolizę i tworzenie się mydeł.
+4. Co to są mydła tłuste i jakie właściwości mają?
+   A. Mydła związane z kwasami tłustymi, wydzielające dużo piany
+   B. Mydła związane z kwasami tłustymi, wydzielające mało piany
+   C. Mydła związane z kwasami słabymi, wydzielające dużo piany
+   D. Mydła związane z kwasami słabymi, wydzielające mało piany
 
-# Notatki
+   Poprawna odpowiedź: A. Mydła związane z kwasami tłustymi, wydzielające dużo piany
 
-Mydła to substancje powierzchniowo- czynne, które reagują z tłuszczami i rozpuszczają nieczystości. Są one stosowane w czystości osobistej, a także w przemyśle.
+5. Czy mydła są dobre detergenty?
+   A. Tak
+   B. Nie
 
-W procesie produkcji mydeł stosuje się różne metody, jednak najczęściej używaną metodą jest działanie zasad na tłuszcze. W tej metodzie stosuje się zasady, takie jak soda caustyczna (wodorotlenek potasu) lub wodorotlenek sodu. Te zasady reagują z tłuszczami, powodując hydrolizę i tworzenie się mydeł.
+   Poprawna odpowiedź: A. Tak
 
-Tłuszcze są podstawowym surowcem służącym do produkcji mydeł. Mogą być pochodzenia zwierzęcego lub roślinnego. Najczęściej stosowanymi tłuszczami są: tłuszcz wołowy, tłuszcz wieprzowy, olej rzepakowy, olej sojowy i olej palmowy.
+# Fiszki - Mydła
 
-Surfaktant to substancja odpowiedzialna za pienienie się mydeł. Jest to związek powierzchniowo-czynny, który zmniejsza napięcie powierzchniowe pomiędzy cieczami i gazami, co pozwala na powstawanie piany.
+1. Mydło to estry glikolu z kwasami tłustymi
+2. Mydła są dobrymi detergentami
+3. Substancja powierzchniowo czynna w mydle jest rozpuszczalna w tłuszczach
+4. Mydła tłuste wydzielają dużo piany
+5. Mydła tłuste są tworzone z kwasami tłustymi
 
-Kolejnym istotnym pojęciem w produkcji mydeł jest twardość wody. Twardość wody klasyfikowana jest w skali od 1 do 10 i mierzy zawartość soli wapnia i magnezu w wodzie. Im wyższa ocena, tym woda jest twardsza, co może utrudnić proces mycia.
+# Notatki - Mydła - Właściwości i Otrzymywanie
 
-W procesie produkcji mydeł stosuje się także glicerynę, która jest substancją zapobiegającą wysychaniu skóry.
+Mydła to zwykle estry glikolu (zwykle propylen glikolu lub etylen glikolu) z kwasami tłustymi. Zasadniczo mydła to substancje powierzchniowo czynne, które mają zdolność zmniejszania napięcia powierzchniowego między cieczami lub cieczą a ciałem stałym. Dzięki temu ułatwiają one rozpuszczanie się tłuszczów i innych niepolarnej substancji w wodzie, poprzez zmniejszanie napięcia powierzchniowego między tłuszczem i wodą.
 
-Podsumowując, mydła to substancje stosowane w czystości osobistej i przemyśle, które reagują z tłuszczami i rozpuszczają nieczystości. Produkcja mydeł wymaga stosowania różnych metod, w tym działania zasad na tłuszcze, a także zastosowania odpowiednich surowców, takich jak tłuszcze i surfaktant. Dodatkowo, kluczowym pojęciem w produkcji mydeł jest twardość wody oraz stosowanie gliceryny, aby zapobiec wysychaniu skóry.
+Mydła są dobrymi detergentami, to znaczy, że mają zdolność do mycia. Ponadto, substancja powierzchniowo czynna w mydle jest rozpuszczalna w tłuszczach, co sprawia, że może rozpuszczać tłuszcze zanieczyszczeń z różnych powierzchni. Mydła są używane do mycia różnych rzeczy, takich jak ciało, włosy, ubrania, naczynia i inne przedmioty domowe.
+
+Mydła dzielą się na dwa rodzaje: mydła wodne i mydła tłuste. Mydła wodne, które są związane z kwasami słabymi, wydzielają mało piany i są używane do odtłuszczania i czyszczenia delikatnych powierzchni, takich jak skórę cery. Natomiast mydła tłuste, które są związane z kwasami tłustymi, wydzielają dużo piany i są używane do mycia silnie zanieczyszczonych rzeczy, takich jak ręce i ciało. Mydła tłuste są bardzo dobre do usuwania tłustych zanieczyszczeń z różnych powierzchni.
+
+Mydła są otrzymywane w procesie estryfikacji, w którym kwas tłusty reaguje z glikolem w obecności katalizatora, takiego jak siarka, w temperaturze około 200 stopni Celsjusza. Produktem tej reakcji jest estr glikolu z kwasem tłustym - mydło. Następnie, mydło jest oczyszczane i suszone, aby usunąć nieszkodliwe związki poboczne, które powstały w procesie estryfikacji.
+
+W konsekwencji, mydła to substancje bardzo użyteczne i niezbędne w codziennym życiu, które mają wiele zastosowań i właściwości. Mydła to dobre detergenty, które zmniejszają napięcie powierzchniowe między cieczami lub cieczą a ciałem stałym, dzięki czemu ułatwiają one rozpuszczanie się tłuszczów i innych niepolarnych substancji w wodzie. Mydła dzielą się na dwa rodzaje: mydła wodne i mydła tłuste, które mają różne zastosowania i właściwości. Mydła są otrzymywane w procesie estryfikacji, w którym kwas tłusty reaguje z glikolem w obecności katalizatora, takiego jak siarka, w temperaturze około 200 stopni Celsjusza.

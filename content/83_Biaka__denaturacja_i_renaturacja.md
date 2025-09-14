@@ -1,50 +1,56 @@
- # Quiz
+ # Quiz - Białka: Denaturacja i Renaturacja
 
 1. Co to jest denaturacja białka?
-A. Zmiana konformacji przestrzennej białka pod wpływem czynników fizycznych lub chemicznych
-B. Zmiana sekwencji aminokwasów w łańcuchu białkowym
-C. Utlenianie reszt cysteinowych w białku
-D. Deamidacja asparaginy w białku
-Poprawna odpowiedź: A
+   A. Odwracalny proces
+   B. Proces burzenia wiązań więźbotwórczych w białku
+   C. Proces tworzenia nowych wiązań w białku
+   D. Irreversybilny proces
+   Correct Answer: B
 
-2. Jakie z czynników środowiskowych najczęściej prowadzą do denaturacji białek?
-A. Zbyt wysoka lub zbyt niska temperatura
-B. Zbyt wysoki lub zbyt niski pH
-C. Zbyt wysoka stężenie soli
-D. Wszystkie poprzednie odpowiedzi
-Poprawna odpowiedź: D
+2. Jakie bodźce fizyczne mogą spowodować denaturację białka?
+   A. Zmiana ciśnienia
+   B. Zmiana temperatury
+   C. Zmiana pH
+   D. Wszystkie poprawnie
+   Correct Answer: D
 
-3. Czy denaturacja białka jest zawsze związana z rozkładem enzymatycznym?
-A. Tak
-B. Nie
-Poprawna odpowiedź: B
+3. Czy denaturacja może prowadzić do dezaktywacji enzymu?
+   A. Nie zawsze
+   B. Zawsze
+   C. Tylko gdy enzym jest zdenaturowany
+   D. Tylko gdy enzym jest zrenaturowany
+   Correct Answer: B
 
-4. Co to jest renaturacja białka?
-A. Powtórne nadanie białku konformacji fizjologicznej denaturowanemu wcześniej
-B. Utlenianie reszt cysteinowych w białku
-C. Dodanie do białka kofactorówenzymatycznych
-D. Dodanie do białka substratu
-Poprawna odpowiedź: A
+4. Denaturację białka można scharakteryzować przy pomocy:
+   A. Elektroforezy
+   B. Ultracentrifugacji
+   C. Spektroskopii UV
+   D. Wszystkie poprawnie
+   Correct Answer: D
 
-5. Czy renaturacja białka zawsze jest możliwa do osiągnięcia?
-A. Tak
-B. Nie
-Poprawna odpowiedź: B
+5. Co to jest renaturacja białka?
+   A. Reakcja zachodząca po denaturacji białka
+   B. Proces tworzenia nowych wiązań wewnątrzcząsteczkowych
+   C. Proces przywracania struktury białkowi
+   D. Wszystkie poprawnie
+   Correct Answer: D
 
-# Fiszki
+# Fiszki - Białka: Denaturacja i Renaturacja
 
-- Denaturacja to zmiana konformacji przestrzennej białka spowodowana czynnikami fizycznymi lub chemicznymi.
-- Renaturacja to powtórne nadanie białku konformacji fizjologicznej denaturowanemu wcześniej.
-- Czynnikami denaturującymi mogą być: wysoka temperatura, stężenie soli, stężenie alkoholu, promieniowanie UV, stres oksydacyjny oraz czynniki chemiczne, jak detergenty.
-- Denaturacja często prowadzi do utraty aktywności enzymatycznej białka, jednak nie musi to być zawsze związane z rozkładem enzymatycznym.
-- Renaturacja białka może być osiągnięta poprzez usunięcie czynników denaturujących i przywrócenie odpowiednich warunków, w których białko było aktywne. Jednak w niektórych przypadkach renaturacja jest niemożliwa, na przykład gdy dochodzi do nieodwracalnych zmian struktury białka.
+1. **Denaturacja białek** - odwracalny lub nieodwracalny proces zaburzenia struktury białka przy udziale czynników fizycznych lub chemicznych, prowadzący do zmiany jego morfologii, wlastności fizycznych i funkcji.
+2. **Renaturacja białek** - proces przywracania, częściowego bądź całkowitego, struktury białka po jego denaturacji. Wymaga optymalnych warunków srodowiskowych, umozliwiających odtworzenie wiązań wtórnych, tertiarnych i czwartetarnych.
+3. **Denaturacja enzymu** - odwracalna lub nieodwracalna utrata przez enzym aktywności katalitycznej, spowodowana, między innymi, denaturacją struktury cząsteczki enzymu.
+4. **Rodzaje denaturacji** - denaturacja może obrać postać równowagową (*reversible*) albo nieodwracalną (*irreversible*). Równowagowa denaturacja jest odwracalna, natomiast nieodwracalna prowadzi do pozbawienia białka wszelkich właściwości strukturalnych i funkcjonalnych.
+5. **Czynniki denaturacji** - zdenaturujacymi czynnikami białka mogą być m.in. zbyt wysoka temperatura, zbyt niskie pH, rozpuszczalniki organiczne, promieniowanie, stres oksydacyjny, występowanie detergentów i substancji powierzchniowo czynnych.
 
-# Notatki
+# Notatki - Białka - Denaturacja i Renaturacja
 
-Denaturacja białka to proces zmiany jego konformacji przestrzennej spowodowanej czynnikami fizycznymi lub chemicznymi. Do czynników tych należą: wysoka temperatura, stężenie soli, stężenie alkoholu, promieniowanie UV, stres oksydacyjny oraz czynniki chemiczne, jak detergenty.
+Białka są bardzo wrażliwe na czynniki zewnętrzne - zaburzenie prawidłowej struktury białka może prowadzić do utraty jego funkcji. Proces ten nosi nazwę denaturacji białek. W zależności od rodzaju czynników zewnętrznych oraz czasu ekspozycji denaturacja może być całkowicie odwracalna lub nieodwracalna.
 
-Denaturacja prowadzi często do utraty aktywności enzymatycznej białka, jednak nie musi to być zawsze związane z rozkładem enzymatycznym. Przykładowo, przy wysokich temperaturach białko może po prostu utracić swoją strukturę trzeczniową bez degradacji enzymatycznej.
+Do czynników odwracalnie denaturujących zalicza się zmiany temperatury, pH i stężenia soli fizjologicznego. Natomiast czynniki nieodwracalnie denaturujące obejmują mocne rozpuszczalniki organiczne lub zbyt wysokie stężenie denaturantów. W przypadku enzymów denaturacja prowadzi do utraty ich aktywności katalitycznej i w rezultacie braku możliwości przekształcania substratów.
 
-W przypadku renaturacji, odtworzenie odpowiednich warunków fizycznych i chemicznych może spowodować odtworzenie konformacji fizjologicznej denaturowanego wcześniej białka. Istotne jest, aby usunąć czynniki denaturujące i przywrócić odpowiednie warunki, w których białko było aktywne wcześniej.
+Renaturacja białek to proces przywracania stanu struktury pierwotnej poprzez usunięcie czynników denaturujących. W przypadku denaturacji odwracalnej możliwa jest całkowita renaturacja, czyli przywrócenie struktury tertiarnych i wtórnych oraz funkcji. W przypadku denaturacji nieodwracalnej proces renaturacji może obejmować tylko przywrócenie pewnych elementów struktury wtórnej oraz fragmentów struktury tertiarnych.
 
-Ogólnie rzecz biorąc, renaturacja często jest możliwa, ale nie zawsze. W niektórych przypadkach denaturacja może prowadzić do nieodwracalnych zmian struktury białka, co uniemożliwia jego renaturację. W takich sytuacjach może być konieczne zastosowanie innych metod, takich jak inżynieria genetyczna, aby odtworzyć aktywność enzymatyczną białka.
+Denaturacja enzymu prowadzi do jego braku aktywności katalitycznej, ponieważ enzym jest wtedy niewystarczająco uporządkowany aby przeprowadzać swoją funkcję katalizy. Denaturacja przy użyciu czynników fizycznych może być kontrolowana poprzez odpowiednie ustawienie parametrów takich jak temperatura, pH i stężenie soli fizjologicznego. Natomiast denaturacja z użyciem czynników chemicznych jest trudna do kontrolowania, ponieważ jej siła zależy od rodzaju użytego czynnika i czasu ekspozycji.
+
+Obserwację denaturacji białka przeprowadza się metodami spektroskopowymi, takimi jak spektroskopia UV, a także za pomocą elektroforezy oraz ultra centrifugacji. Metody te pozwalają na scharakteryzowanie stopnia denaturacji i określenie możliwości renaturacji.
