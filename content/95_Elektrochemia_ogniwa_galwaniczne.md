@@ -1,61 +1,67 @@
  # Quiz
 
-1. Co to są ogniwa galwaniczne?
-A. Urządzenia, które absorbują elektrony
-B. Urządzenia, które produkują prąd elektryczny
-C. Urządzenia, które absorbują prąd elektryczny
-D. Urządzenia, które produkują elektrony
+1. Co to jest ogniwo galwaniczne?
+A. Urządzenie zamieniające ciepło na energię elektryczną
+B. Urządzenie zamieniające energię mechaniczną na energię elektryczną
+C. Urządzenie zamieniające energię elektryczną na energię mechaniczną
+D. Urządzenie zamieniające energię chemiczną na energię elektryczną
 
-Correct answer: B. Urządzenia, które produkują prąd elektryczny
+Correct answer: D. Urządzenie zamieniające energię chemiczną na energię elektryczną
 
-2. Jakie rodzaje ogniw galwanicznych dzielimy?
-A. Ogniwa pierwotne i wtórne
-B. Ogniwa chemiczne i fizyczne
-C. Ogniwa suche i mokre
-D. Ogniwa cedyne i anodyczne
+2. Jakie rodzaje ogniw galwanicznych znane są?
+A. Prądowe i słone
+B. Metaliczne i organiczne
+C. Zasadowe i kwasowe
+D. Całkowite i zbiorne
 
-Correct answer: A. Ogniwa pierwotne i wtórne
+Correct answer: D. Całkowite i zbiorne
 
-3. Co to jest siła elektromotoryczna?
-A. Różnica potencjałów elektrycznych pomiędzy dwoma punktami w obwodzie
-B. Strumień prądu elektrycznego w obwodzie
-C. Opór elektryczny w obwodzie
-D. Przewodność elektryczna w obwodzie
+3. Która z wymienionych reakcji jest typową reakcją anodową w ogniwie cynkowo-wodorowym?
+A. 2H+(aq) + 2e- -> H2(g)
+B. Zn(s) -> Zn2+(aq) + 2e-
+C. 2H2O(l) + 2e- -> H2(g) + 2OH-(aq)
+D. Zn(s) + 2H+(aq) -> Zn2+(aq) + H2(g)
 
-Correct answer: A. Różnica potencjałów elektrycznych pomiędzy dwoma punktami w obwodzie
+Correct answer: B. Zn(s) -> Zn2+(aq) + 2e-
 
-4. Czym jest zjawisko polaryzacji w ogniwach galwanicznych?
-A. Zmiany siły elektromotorycznej wskutek zmian chemicznych w ogniwie
-B. Zmiany potencjału pomiędzy elektrodami wskutek przepływu prądu
-C. Zjawisko samorozładowania się akumulatora
-D. Zagęszczanie się nośników prądu na elektrodach
+4. Jaka wielkość fizyczna charakteryzuje siłę elektromotoryczną ogniwa galwanicznego?
+A. Prąd
+B. Tension
+C. Opór
+D. Energia
 
-Correct answer: D. Zagęszczanie się nośników prądu na elektrodach
+Correct answer: B. Tension
 
-5. Co to jestogniwo Daniela?
-A. Ogniwo cynkowo-węglowe
-B. Ogniwo rtutowocynkowe
-C. Ogniwo kwasowo-ołowiane
-D. Ogniwo wodorowo-powietrzne
+5. Które z wymienionych stałych jest stałą Faradaya?
+A. 96,5 kJ/(mol·A)
+B. 0,1987 calories/(coulomb·C)
+C. 96,485 C/mol
+D. 6,022 x 10^23 item/mol
 
-Correct answer: B. Ogniwo rtutowocynkowe
+Correct answer: C. 96,485 C/mol
 
 # Fiszki
 
-1. Ogniwa galwaniczne - urządzenia, które produkują prąd elektryczny poprzez przepływ nośników elektrycznych między elektrodami, które zostały spolaryzowane na różne potencjały elektryczne.
-2. Ogniwa pierwotne - ogniwa, które nie mogą być naładowane ponownie. Przykładem ogniwa pierwotnego jest ogniwo cynkowo-węglowe.
-3. Ogniwa wtórne - ogniwa, które mogą zostać naładowane ponownie. Przykładem ogniwa wtórnego jest bateria litowa.
-4. Siła elektromotoryczna - różnica potencjałów elektrycznych pomiędzy dwoma punktami w obwodzie. Jest ona miarą zdolności ogniwa do wykonywania pracy elektrycznej.
-5. Polaryzacja - zjawisko rozkładu pola elektrycznego pomiędzy elektrodami wskutek przepływu prądu, które prowadzi do zmniejszenia siły elektromotorycznej i spadku wydajności ogniwa.
+1. Ogniwo galwaniczne
+2. Reakcja anodowa
+3. Reakcja katodowa
+4. Siła elektromotoryczna
+5. Stała Faradaya
 
 # Notatki
 
-Ogniwa galwaniczne to urządzenia, które produkują prąd elektryczny poprzez przepływ nośników elektrycznych między elektrodami, które zostały spolaryzowane na różne potencjały elektryczne. Przykładem ogniwa galwanicznego jest bateria.
+Elektrochemia to dział fizyki zajmujący się przemianami energii chemicznej na energię elektryczną oraz odwrotnie. Elektrochemia galwaniczna dotyczy przemian energii chemicznej na elektryczną.
 
-Istnieją dwa rodzaje ogniw: pierwotne i wtórne. Ogniwa pierwotne, takie jak ogniwo cynkowo-węglowe, nie mogą być naładowane ponownie i mogą być używane tylko raz. Ogniwa wtórne, takie jak bateria litowa, mogą zostać naładowane ponownie i używane więcej niż raz. W ogniwach wtórnych proces utleniania i redukcji zachodzi w przestrzeni closed-loop, co pozwala mu być naładowanym ponownie.
+**Ogniwo galwaniczne** definiowane jest jako urządzenie zamieniające energię chemiczną na elektryczną, składające się z dwóch elektrod umieszczonych w roztworze elektrolitu.
 
-Siła elektromotoryczna to miara zdolności ogniwa do wykonywania pracy elektrycznej. Jest ona mierzona w volcie i jest równa różnicy potencjałów elektrycznych pomiędzy dwoma punktami w obwodzie.
+Elektrody to przewodniki elektryczne, które mogą być zanurzone w elektrolicie. One umożliwiają przepływ prądu elektrycznego pomiędzy elektrolitem a zewnętrznym obwodem. Elektrody mogą być zbudowane z różnych materiałów, takich jak cyna, wolfram, cynażyn, wanad, lit, srebro i wiele innych.
 
-Zjawisko polaryzacji jest spowodowane zmianami potencjału pomiędzy elektrodami wskutek przepływu prądu. Polaryzacja prowadzi do zmniejszenia siły elektromotorycznej i spadku wydajności ogniwa. Aby temu zapobiec, stosuje się metody zwalczania polaryzacji, takie jak dodawanie środków chemicznych, które zwiększają przewodność elektryczną i zmniejszają opór elektryczny.
+Na ogół, każda z elektrod odgrywa rolę anody lub katody. **Reakcja anodowa** to reakcja elektrodowa, która zachodzi na anodzie, gdzie zachodzi utlenianie. Natomiast, **reakcja katodowa** to reakcja elektrodowa, która zachodzi na katodzie, gdzie zachodzi redukcja.
 
-Istnieje również problem samorozładowania się ogniwa. Samorozładowanie jest procesem, w którym proces utleniania i redukcji zostaje zahamowany wskutek przepływu prądu. Aby zapobiec samorozładowaniu się, stosuje się metody, takie jak isolowanie elektrod i stosowanie elektrolitów o niskiej przewodności elektrycznej.
+**Siła elektromotoryczna** (SEM) ogniwa galwanicznego to siła, która powoduje przepływ prądu elektrycznego w obwodzie zewnętrznym. SEM jest równa różnicy potencjałów elektrycznych pomiędzy katodą a anodą.
+
+Ogniwa galwaniczne mogą być zbudowane jako całkowite lub zbiorne. **Całkowite ogniwa galwaniczne** wykorzystują dwa różne elektrody, które zostają utlenione i zredukowane. Natomiast **zbiorne ogniwa galwaniczne** zawierają jeden stan zapasowy i jedną zmienne, które mogą ulec utlenieniu lub redukcji.
+
+Ogniwa galwaniczne są powszechnie stosowane w różnych urządzeniach i przyrządach elektrycznych, takich jak laptopy, telefony komórkowe, zegarki elektroniczne i wiele innych. Wszystkie one wykorzystują kombinację różnych materiałów do konstruowania elektrod, które umożliwiają przepływ prądu elektrycznego w obwodzie zewnętrznym.
+
+Jedną z istotnych stałych w elektrochemii jest **stała Faradaya**, której wartość wynosi 96,485 C/mol. Stała Faradaya odnosi się do ilości ładunku elektrycznego przeniesionego przez 1 mol elektronów oraz ilości ładunku przeniesionego przez 1 mol cząstki w wyniku reakcji elektrodowej.

@@ -1,61 +1,63 @@
  # Quiz
 
 1. Co oznacza akronim NMR w kontekście spektroskopii?
-A. Natura Materiae Resonans
-B. Nuclear Magnetic Resonance
-C. Nanometer Molecular Reading
-D. None of the above
+   A. Near-field microscopy
+   B. Nuclear magnetic resonance
+   C. Noise margin ratio
+   D. None of the above
 
-Correct answer: B. Nuclear Magnetic Resonance
+   Correct answer: B. Nuclear magnetic resonance
 
-2. W spektroskopii IR, co oznaczamy terminem przesunięcie grupowy?
-A. Przemieszczenie pasma wobec odniesienia
-B. Przemiana promieniowania elektromagnetycznego
-C. Wzmacnianie sygnału w określonym zakresie
-D. Rozdzielenie prądu stałego
+2. W spektroskopii IR, co oznaczają własności transmisyjne i relaksacyjne substancji?
+   A. Transmission and relaxation properties
+   B. Transmission and reflection properties
+   C. Absorption and emission properties
+   D. Absorption and scattering properties
 
-Correct answer: A. Przemieszczenie pasma wobec odniesienia
+   Correct answer: A. Transmission and relaxation properties
 
-3. Jaka wielkość fizyczną mierzy się w spektroskopii UV-Vis?
-A. Czas relaksacji magnetycznej
-B. Gęstość energetyczną optyczną
-C. Liczbę obrotów na minutę
-D. Energię fotonów
+3. W czym różni się spektroskopia UV od innych technik spektroskopowych?
+   A. Długość fali
+   B. Częstotliwość
+   C. Energia kwantu światła
+   D. Polaryzacja promieniowania
 
-Correct answer: D. Energię fotonów
+   Correct answer: C. Energia kwantu światła
 
-4. Co oznacza szczyt zjenkowany w spektroskopii NMR?
-A. Szczyt o bardzo dużej intensywności
-B. Szczyt o niewielkiej intensywności
-C. Szczyt rozszczepiony na kilka mniejszych
-D. Szczyt o przesunięciu chemicznym równym zeru
+4. Jaka jest zasadnicza różnica między spektroskopią NMR-1H i NMR-13C?
+   A. Rodzaj jąder atomowych
+   B. Rodzaj magnetyzmu jądrowego
+   C. Sposób detekcji sygnału
+   D. Energia kwantu światła
 
-Correct answer: C. Szczyt rozszczepiony na kilka mniejszych
+   Correct answer: A. Rodzaj jąder atomowych
 
-5. Dla jakiego typu cząsteczek spektroskopia IR nie jest czuła?
-A. Cząsteczki o dużej masie molekularnej
-B. Cząsteczki silnie polarne
-C. Cząsteczki nierotacyjne
-D. Cząsteczki o dużym momencie dipolowym
+5. Gdzie znajduje się obszar czułości w widmie UV-Vis?
+   A. Na początku widma
+   B. W środku widma
+   C. Na końcu widma
+   D. Wszędzie w widmie
 
-Correct answer: C. Cząsteczki nierotacyjne
+   Correct answer: C. Na końcu widma
 
 # Fiszki
 
-1. NMR (Nuclear Magnetic Resonance) - spektroskopia wykorzystująca oddziaływanie zewnętrznego pola magnetycznego na jądra atomów, umożliwiająca analizę budowy molekuł.
-2. Przesunięcie chemiczne (chemical shift) - miara oddziaływań międzyjądrowych w widmie NMR, wyrażona w partiach na milion (ppm).
-3. Szczyt zjenkowany (quartet) - szczyt w widmie NMR rozszczepiony na cztery linie z powodu oddziaływań międzyjądrowych.
-4. Przesunięcie grupowe (group displacement) - zmiana położenia pasma w widmie IR w wyniku zmiany otoczenia chemicznego grupy funkcyjnej.
-5. Współczynnik absorpcji (absorbance) - miara sygnału w widmie IR, wyrażana jako logarytm naturalny stosunku intensywności światła padającego do tego przenikającego przez próbkę.
+1. **NMR (Nuclear Magnetic Resonance)**: Technika analityczna wykorzystująca oddziaływanie pomiędzy jądrami atomowymi a polem magnetycznym, wykorzystywana do analizy struktury chemicznej związków organicznych.
+
+2. **IR (Infrared)**: Technika analityczna opierająca się na pomiarze absorpcji promieniowania podczerwonego przez badaną substancję, umożliwia identyfikację grup funkcyjnych w związkach organicznych.
+
+3. **UV (Ultraviolet-Visible)**: Technika analityczna opierająca się na pomiarze absorpcji promieniowania ultrafioletowego i widzialnego przez badaną substancję, wykorzystywana do identyfikacji podwójnych i trójjądrowych wiązań oraz obecności chromoforów w związkach organicznych.
+
+4. **Jądro atomowe**: Każdy atom posiada jądro, które zawiera protony i neutrony. W spektroskopii NMR, różnice w stałych magnetogiracyjnych jąder atomowych pozwalają na identyfikację poszczególnych atomów w związkach organicznych.
+
+5. **Widmo UV-Vis**: Widmo otrzymane w spektroskopii UV-Vis składa się z obszaru czułości, który wskazuje na obecność chromoforów w badanym związku i obszaru naczułości, który nie zawiera informacji o obecności chromoforów.
 
 # Notatki
 
-Spektroskopia jest grupą metod analitycznych umożliwiających badanie struktury i właściwości materii poprzez pomiar oddziaływania na nią promieniowania elektromagnetycznego. Wśród spektroskopii związanej z badaniem własności molekularnych wyróżniamy trzy metody: NMR, IR i UV-Vis.
+Spektroskopia NMR, IR i UV to trzy uniwersalne metody analityczne stosowane w chemii organicznej do badania struktury związków chemicznych.
 
-W spektroskopii NMR wykorzystujemy oddziaływanie zewnętrznego pola magnetycznego na jądra atomów w badanej próbce. Pole to powoduje zachowanie się jąder jak maleńkich magnesów, które zaczynają rotować wokół osi pola magnetycznego. Po wprowadzeniu do próbki promieniowania radiowego o określonej długości fali możemy zaobserwować sygnały pochodzące od jąder atomowych i stworzyć widmo NMR.
+NMR (Nuclear Magnetic Resonance) to technika analityczna, która wykorzystuje oddziaływanie pomiędzy jądrami atomowymi a polem magnetycznym. W spektroskopii NMR stosuje się zazwyczaj jądra atomowe wodoru (1H) i węgla-13 (13C). Stałe magnetogiracyjne jąder atomowych różnią się dla każdego atomu, dzięki czemu możemy identyfikować położenie poszczególnych atomów w badanej substancji. W spektroskopii NMR można także stwierdzić, czy dany atom jest związany z innymi atomami, takimi jak tlen, wodór lub siarka, co pozwala na wyznaczenie struktury związku.
 
-Przesunięcie chemiczne w spektroskopii NMR jest miarą oddziaływań międzyjądrowych i informuje nas o rodzaju atomów i ich otoczeniu w badanej cząsteczce.
+IR (Infrared) to technika analityczna opierająca się na pomiarze absorpcji promieniowania podczerwonego przez badaną substancję. W spektroskopii IR można stwierdzić obecność i położenie wysokoenergetycznych wiązań w substancji, co pozwala na identyfikację grup funkcyjnych w związkach organicznych. W spektroskopii IR stosuje się obszar właściwości transmisyjnych i relaksacyjnych badanej substancji.
 
-W spektroskopii IR mierzymy częstotliwość drgań cząsteczek w badanej próbce. Każda grupa funkcyjna w cząsteczce ma swoje specyficzne pasmo drgań, które możemy zaobserwować w widmie IR. Przesunięcie grupowe to zmiana położenia pasma w widmie w wyniku zmiany otoczenia chemicznego grupy funkcyjnej.
-
-Spektroskopia UV-Vis to metoda pozwalająca na badanie rozkładu energii w cząsteczkach oraz pomiar ich absorpcji promieniowania elektromagnetycznego w zakresie UV i widzialnym. Współczynnik absorpcji jest miarą absorpcji promieniowania przez próbkę i zależy od energii fotonów padających na próbkę.
+UV (Ultraviolet-Visible) to technika analityczna opierająca się na pomiarze absorpcji promieniowania ultrafioletowego i widzialnego przez badaną substancję. W spektroskopii UV można stwierdzić obecność i położenie wysokoenergetycznych wiązań oraz obecność chromoforów w badanej substancji. W widmie UV-Vis wyróżnia się obszar czułości, który wskazuje na obecność chromoforów w badanym związku i obszar naczułości, który nie zawiera informacji o obecności chromoforów. W spektroskopii UV stosuje się długość fali promieniowania ultrafioletowego i widzialnego oraz energię kwantu światła.
