@@ -1,57 +1,55 @@
  # Quiz - Reakcje substytucji w alkanach
 
-1. Jaka jest różnica między alkanami a alkнами?
-    a) Alkany mogą zawierać wiązania podwójne, podczas gdy alkany nie mogą.
-    b) Alkany zawierają węgiel i wodór, podczas gdy alkiny zawierają węgiel, wodór i dwa atomy węgla tworzące wiązanie potrójne.
-    c) Alkany są nienasycone, podczas gdy alkiny są nasycone.
-    d) Żadna z powyższych
+1. Co to są reakcje substytucji?
+A. Reakcje, gdzie jeden atom zastępuje inny atom w molekule
+B. Reakcje, gdzie zachodzi całkowita wymiana atomów w cząsteczce
+C. Reakcje, w których odłączają się atomy od cząsteczki
+D. Reakcje, w których zachodzi addycja do cząsteczki
 
-    Poprawna odpowiedź: d) Żadna z powyższych
+Poprawna odpowiedź: A
 
-2. Jakie rodzaje substytucji zachodzą w alkanach?
-    a) Substytucje nukleofilowe
-    b) Substytucje elektrofilowe
-    c) Substytucje radiacyjne
-    d) Żadna z powyższych
+2. Czym różnią się reakcje substytucji w alkanach od podobnych reakcji w alkinach i alkenach?
+A. Zastępowanym atomem jest wtedy węgiel
+B. Podczas reakcji tworzą się nowe wiązania podwójne i potrójne
+C. Reakcja zachodzi szybciej z udziałem wolnych rodników
+D. Reakcja zachodzi szybciej w środowisku kwasowym
 
-    Poprawna odpowiedź: b) Substytucje elektrofilowe
+Poprawna odpowiedź: A
 
-3. Czy następuje przemiana izotopowa w reakcjach substytucji w alkanach?
-    a) Tak
-    b) Nie
+3. Jaka jest typowa szybkość reakcji substytucji w alkanach?
+A. Bardzo duża
+B. Duża
+C. Mała
+D. Bardzo mała
 
-    Poprawna odpowiedź: b) Nie
+Poprawna odpowiedź: C
 
-4. Jakie związki powstają podczas substytucji chlorowania metanu?
-    a) Czterochlorek węgla
-    b) Chlorowodór i chlorek metylu
-    c) Tlenek węgla i chlorek wodiku
-    d) Wodór i czterochlorek węgla
+4. Czym jest proces halogenowania alkanów i która z wymienionych cząsteczek jest jego produktem?
+A. Dodawanie atomy halogenu do cząsteczki węglowodorowej, cząsteczka CX$_4$
+B. Dodawanie atomy halogenu do cząsteczki węglowodorowej, cząsteczka CX$_3$H
+C. Dodawanie atomy wodoru do cząsteczki halogenku, cząsteczka CX$_4$
+D. Dodawanie atomy wodoru do cząsteczki halogenku, cząsteczka CX$_3$H
 
-    Poprawna odpowiedź: b) Chlorowodór i chlorek metylu
+Poprawna odpowiedź: B
 
-5. Czy reakcje substytucji w alkanach są egzo- i endotermiczne?
-    a) Tylko egzoenergiczne
-    b) Tylko endoenergiczne
-    c) Zarówno egzo-, jak i endoenergiczne
-    d) Żadna z powyższych
+5. Czy następuje przesunięcie równowagi w reakcji halogenowania alkanów w temperaturze pokojowej?
+A. Tak
+B. Nie
 
-    Poprawna odpowiedź: c) Zarówno egzo-, jak i endoenergiczne
+Poprawna odpowiedź: B
 
 # Fiszki - Reakcje substytucji w alkanach
 
-1. Alkany - węglowodory nienasycone, zawierające wyłącznie wiązania pojedyncze między atomami węgla.
-2. Alkiny - węglowodory nasycone, zawierające co najmniej jedno wiązanie potrójne między atomami węgla.
-3. Substytucje elektrofilowe w alkanach - rodzaj reakcji, w której atom lub grupa atomów zastępowana jest innym atomem lub grupą atomów.
-4. Chlorowanie metanu - reakcja substytucji elektrofilowej, w której chlor zastępuje wodór w cząsteczce metanu, dając chlorek metylu i chlorowodór.
-5. Egzo- i endoenergiczne reakcje - reakcje substytucji w alkanach mogą być zarówno wydzielające energię (egzoenergiczne), jak i pochłaniające energię (endoenergiczne), w zależności od charakteru wiązań i ustawień energetycznych reagentów.
+- Reakcje substytucji to procesy, w których zachodzi zastąpienie jednego atomu innym atomem lub grupą atomów w cząsteczce związku chemicznego.
+- Alkany to węglowodory nasycone, czyli cząsteczki o wiązaniach wszystkich pojedynczych.
+- Reakcje substytucji w alkanach zachodzą powoli i wymagają inicjacji, której może dostarczyć promieniowanie ultrafioletowe, wolne rodniki lub ciepło.
+- Jednym z rodzajów reakcji substytucji w alkanach jest halogenowanie, które zachodzi przy użyciu czynników halogenujących, takich jak chlor lub brom.
+- W typowym procesie halogenowania alkanów do cząsteczki alkanu dodaje się jeden atom halogenu, tworząc cząsteczkę halogenku alkilowego o wzorze CX$_3$H.
 
 # Notatki - Reakcje substytucji w alkanach
 
-Reakcje substytucji w alkanach to rodzaj reakcji chemicznych, w których atom lub grupa atomów w cząsteczce alkany jest zastępowany innym atomem lub grupą atomów. Są one przykładem substytucji elektrofilowej, ponieważ grupa, która zostaje wprowadzona do cząsteczki, posiada częściczny ładunek dodatni lub jest bardziej elektrofilowa od węgla w cząsteczce alkanu.
+Reakcje substytucji w alkanach to rodzaj procesów chemicznych, w których zachodzi zastąpienie jednego atomu lub grupy atomów innym atomem lub grupą atomów w cząsteczce. Alkany są węglowodorami nasyconymi, co oznacza, że wszystkie ich wiązania są pojedyncze. Reakcje substytucji w alkanach zachodzą wolno i wymagają inicjacji, która może być dostarczona przez promieniowanie ultrafioletowe, wolne rodniki lub ciepło.
 
-Reakcje substytucji w alkanach mogą być egzo- lub endoenergicznymi. Reakcje egzoenergiczne wydzielają energię w wyniku ich przebiegu, podczas gdy reakcje endoenergiczne wchłaniają energię. Na przykład chlorowanie metanu do chlorku metylu jest egzoenergiczną reakcją, co oznacza, że wydziela ona energię, gdy zachodzi.
+Halogenowanie jest jednym z rodzajów reakcji substytucji w alkanach. W halogenowaniu alkanów używa się czynników halogenujących, takich jak chlor lub brom. W typowym procesie halogenowania alkanów do cząsteczki alkanu dodaje się jeden atom halogenu, tworząc nową cząsteczkę halogenku alkilowego o wzorze CX$_3$H. Warto jednak zauważyć, że przesunięcie równowagi w reakcji halogenowania alkanów zachodzi dopiero pod wpływem wysokich temperatur lub innych czynników stymulujących.
 
-Chlorowanie metanu to konkretny przykład reakcji substytucji elektrofilowej. W tej reakcji chlor zastępuje wodór w cząsteczce metanu, dając chlorek metylu i chlorowodór. Te produkty mogą być dalej reagować w następnych reakcjach substytucji, dopóki wszystkie atomy wodoru nie zostaną zastąpione atomami chloru.
-
-Reakcje substytucji w alkanach są ważną klasą reakcji w chemii organicznej i mają zastosowanie w wielu procesach przemysłowych. Znajdują one zastosowanie w produkcji tworzyw sztucznych, leków, farb i wielu innych substancji używanych w dzisiejszym świecie.
+W Artsielancerze świadczymy usługi kopiowania i konwersji plików. Każdy klient otrzymuje promocję na pierwszą usługę oraz zniżkę dla stałych klientów. Skontaktuj się z nami i skorzystaj z najlepszej jakości usług oraz opieki osobistej.

@@ -1,61 +1,77 @@
- # Quiz
+ # Quiz: Reakcje eliminacji - przykłady
 
-1. Co to jest reakcja eliminacji?
-A. Reakcja addycji i eliminacji
-B. Reakcja substytucji
-C. Reakcja redoks
-D. Reakcja kompleksacji
+1. Jaka jest produkt eliminacji β w przypadku kwasu masłowego?
+   A. Alken
+   B. Alkin
+   C. Aldehyd
+   D. Kwas karboksylowy
 
-Correct answer: A. Reakcja addycji i eliminacji
+   Poprawna odpowiedź: B. Alkin
 
-2. Jakie rodzaje reakcji eliminacji istnieją?
-A. Eliminacja E1
-B. Eliminacja E2
-C. Eliminacja E1cb
-D. Wszystkie powyższe
+2. Jakie są wymagania dla wystąpienia eliminacji E1?
+   A. Cząsteczka substratu musi być zjonizowana
+   B. Musi być obecny silny zasada
+   C. Reakcja powinna przebiegać w temperaturze pokojowej
+   D. Substrat musi być w postaci dikationu
 
-Correct answer: D. Wszystkie powyższe
+   Poprawna odpowiedź: A i B
 
-3. Co to jest eliminacja E1?
-A. Reakcja eliminacji, w której zachodzi jednocześnie utrata grupy leaving i powstanie wiązania π
-B. Reakcja eliminacji, w której proces zachodzi w jednym etapie
-C. Reakcja eliminacji, w której zachodzi reakcja jonizacji z utratą protonu we wstępnej fazie
-D. Reakcja eliminacji, w której zachodzi mechanizm jonowy z udziałem dwóch cząsteczek
+3. Czym różni się eliminacja E1 od eliminacji E2?
+   A. Reakcja E2 zawsze jest stereospecyficzna
+   B. W eliminacji E2 tworzą się wolne rodniki, podczas gdy w E1 nie
+   C. Mechanizm eliminacji E2 wymaga ucieczki elektronów pochodzących od grupy odchodzącej
+   D. Eliminacja E1 zawsze jest konfiguracyjnie niezależna
 
-Correct answer: C. Reakcja eliminacji, w której zachodzi reakcja jonizacji z utratą protonu we wstępnej fazie
+   Poprawna odpowiedź: C
 
-4. Co to jest eliminacja E2?
-A. Reakcja eliminacji, w której proces zachodzi w jednym etapie
-B. Reakcja eliminacji, w której zachodzi reakcja jonizacji z utratą protonu we wstępnej fazie
-C. Reakcja eliminacji, w której zachodzi mechanizm jednoczesny
-D. Reakcja eliminacji, w której zachodzi mechanizm jonowy z udziałem jednej cząsteczki
+4. Jaka jest różnica pomiędzy eliminacją 1,1, a 1,2?
+   A. Eliminacja 1,1 tworzy alkeny z dwóch grup funkcyjnych w pozycji 1
+   B. Eliminacja 1,2 tworzy alkeny z dwóch grup funkcyjnych w pozycji 1 i 2
+   C. Eliminacja 1,1 występuje w mechanizmie E1, podczas gdy 1,2 w E2
+   D. Eliminacja 1,1 jest stereospecyficzna, podczas gdy 1,2 nie
 
-Correct answer: A. Reakcja eliminacji, w której proces zachodzi w jednym etapie
+   Poprawna odpowiedź: A
 
-5. Co to jest eliminacja E1cb?
-A. Reakcja eliminacji, w której zachodzi jednoczesny mechanizm jonowo-dnawy
-B. Reakcja eliminacji, w której zachodzi mechanizm jonowy z udziałem jednej cząsteczki
-C. Reakcja eliminacji, w której zachodzi mechanizm dnawy z udziałem dwóch cząsteczek
-D. Reakcja eliminacji, w której zachodzi mechanizm jednoczesny
+5. Jakie są produkty eliminacji eliminacji E1cb w przypadku amin związanych z alkilami?
+   A. Iminoalkohole
+   B. Alkeny
+   C. Saletry
+   D. Nitrozosulfony
 
-Correct answer: A. Reakcja eliminacji, w której zachodzi jednoczesny mechanizm jonowo-dnawy
+   Poprawna odpowiedź: B
 
-# Fiszki
+# Fiszki: Reakcje eliminacji - przykłady
 
-1. Eliminacja E1: Mechanizm jonowy z udziałem jednej cząsteczki, zachodzi w dwóch etapach: reakcja jonizacji z utratą protonu we wstępnej fazie, a następnie utrata grupy leaving i powstanie wiązania π.
-2. Eliminacja E2: Mechanizm jednoczesny, w którym zachodzi jednoczesna utrata grupy leaving i powstanie wiązania π, nie obserwujemy przejściowego stanu karbo kationu.
-3. Eliminacja E1cb: Jednoczesny mechanizm jonowo-dnawy, w którym zachodzi jednoczesna utrata protonu i grupy leaving, a następnie powstanie wiązania π.
-4. Czynniki wpływające na mechanizm reakcji eliminacji: Struktura substratu, rozpuszczalnik, siła zasady, stężenie reagentów, temperatura.
-5. Reguła Zajcewa: Eliminacja dwa protony, w której grupy odchodzące usytuowane są w pozycjach przestrzennie bliskich i umożliwiają to utworzenie się więzi w wewnętrznej_{β} pozycji, stanowi konkurencyjny mechanizm wobec substytucji.
+1. Eliminacja E1 - requires a weak base and occurs in two steps
+2. Eliminacja E2 - occurs in one step and is faster than E1
+3. β eliminacja - removal of a β hydrogen atom
+4. Eliminacja 1,1 - same β carbons contain identical groups
+5. Eliminacja 1,2 - same β carbons contain two different groups
 
-# Notatki
+# Notatki: Reakcje eliminacji - przykłady
 
-Reakcje eliminacji to grupa reakcji chemicznych, w których dochodzi do powstania wiązania podwójnego lub potrójnego. W zależności od mechanizmu zachodzenia reakcji eliminacji dzielimy je na trzy rodzaje: eliminacja E1, eliminacja E2 oraz eliminacja E1cb.
+Eliminacja jest rodzajem reakcji organicznych, w których grupy funkcyjne odłączają się od cząsteczki organicznej, co prowadzi do powstania wiązań π.
 
-Eliminacja E1 to reakcja eliminacji zachodząca w dwóch etapach. W pierwszym etapie zachodzi reakcja jonizacji z utratą protonu we wstępnej fazie. Następnie zachodzi utrata grupy leaving i powstanie wiązania π. W przypadku eliminacji E1 grupa odchodząca powinna być bardzo dobra, a związek wyjściowy powinien być w postaci sekundarnego lub trzeciarnego karbo kationu.
+Reakcje eliminacji możemy podzielić na dwie główne grupy - eliminacje jednostopniowe (E2) i wielostopniowe (E1 i E1cb). Eliminacja E2 zachodzi w jednym kroku, w którym cząsteczka bazowa pobiera proton z substratu, prowadząc do wydzielenia grupy funkcyjnej. Eliminacja E1 zachodzi w dwóch krokach: najpierw odłączająca grupa funkcyjna tworzy wolną parę elektronową, a następnie jest usuwana, tworząc karbo
 
-Eliminacja E2 to mechanizm jednoczesny, w którym zachodzi jednoczesna utrata grupy leaving i powstanie wiązania π. W przypadku eliminacji E2 nie obserwujemy przejściowego stanu karbo kationu. Eliminacja E2 zachodzi optymalnie w przypadku silnych zasad, które mają tendencję do odrywania protonów z labilnych wiązań C-H, a także w razie użycia słabych grup leaving.
+{start spoiler}
+cation.
 
-Eliminacja E1cb to reakcja eliminacji zachodząca w jednym etapie, w którym zachodzi jednoczesna utrata protonu i grupy leaving, a następnie powstanie wiązania π. Eliminacja E1cb zachodzi preferencyjnie w przypadku gdy grupa odchodząca jest słabą zasadą, a także kiedy grupa od której jest odrywany proton jest słabą kwasem.
+W eliminacji E1cb, zjonizowany substrat reaguje z zasadą, dając alken dzięki efektowi kumulatywnemu. Bazą najczęściej wybieraną w tego rodzaju reakcjach jest podstawnik w pozycji β, który porzuca proton i tworzy wolny parametr elektronowy.
+{stop spoiler}
 
-W reakcjach eliminacji ważne jest uwzględnienie różnych czynników, które mogą wpływać na mechanizm reakcji. Do takich czynników zaliczamy strukturę substratu, rozpuszczalnik, siłę zasady, stężenie reagentów, a także temperaturę. Dodatkowo, w przypadku eliminacji dwóch protonów, takiej jak eliminacja E1 lub E1cb, bierze się pod uwagę regułę Zajcewa. Reguła ta stwierdza, że eliminacja ta zachodzi wtedy, kiedy grupy odchodzące usytuowane są w pozycjach przestrzennie bliskich i umożliwiają to utworzenie się więzi wewnętrznej w pozycji β, co stanowi konkurencyjny mechanizm wobec substytucji.
+Reakcje eliminacji są silnie uzależnione od warunków laboratoryjnych. Eliminacja E1 zachodzi w środowisku kwasowym, podczas gdy E2 w środowisku zasadowym. Podwyższanie temperatury może również wpłynąć na mechanizm, zmieniając eliminację E2 na eliminację E1. Dodatkowo, otrzymaną związkiem zawsze jest alken w zależności od geometrii i stosunku grup funkcyjnych na cząsteczce.
+
+Elaminy są silnie sterycznie zablokowane, dlatego eliminacja za ich pomocą zachodzi z dużą trudnością.
+
+Eliminacja 1,1 tworzy alkeny z dwóch grup funkcyjnych w pozycji 1, podczas gdy eliminacja 1,2 tworzy alkeny z dwóch grup funkcyjnych w pozycji 1 i 2. Eliminacja 1,1 zachodzi w mechanizmie E1, podczas gdy eliminacja 1,2 w E2. E1cb występuje najczęściej w związkach aminowych, w których zrièreakcja z zasadą powoduje wydzielenie alkenu.
+
+Eliminacja jest zjawiskiem cząstkowym, więc jeśli przeprowadzi się reakcję w wysokiej procentowej wydajności, może wciąż zawierać znaczne ilości grup funkcyjnych. Dlatego, aby otrzymać czysty alken, wolne radykały mogą zostać utlenione do odpowiednich grup funkcyjnych.
+
+ ogólnie mówiąc, eliminacja wymaga dwóch grup funkcyjnych (w tym przynajmniej jednej grupy odchodzącej), z których jedna jest protonowana i zlokalizowana oddzielnie lub na tym samym atomie węgla, lecz odległym o 1 lub 2 wiązania węglowo-węglowe od drugiej grupy funkcyjnej. W reakcji eliminacji tworzą się kilka izomerów geometrycznych i konfiguracyjnych. W związkach zgeometrycznymi izomerami następuje eliminacja wyłącznie na pojedynczy atom węgla, co prowadzi do utworzenia wiązań π. W przypadku związków konfiguracyjnych, zmiana geometrii wiązań po obu stronach wiązania konfigurującego prowadzi do tworzenia nowych wiązań π na dwóch atomach węgla, co skutkuje utworzeniem połączeń konsekutywnych. Może to prowadzić do powstania rozgałęzionych alkenów. W eliminacji w związkach konfiguracyjnych występuje również eliminacja sprzężona, w której zmiana konfiguracji prowadzi do powstania trzech alkenów zamiast dwóch. W związkach konfiguracyjnych, zjawisko to może być spowodowane niesprzężonymi różnicami konfiguracyjnymi lub zablokowaniem jednego z atomów węgla. W reakcjach eliminacji należy więc uważać na zmianę konfiguracji wiązań.
+
+Różnorodność warunków reakcyjnych, mechanizmów i istniejących możliwości może prowadzić do różnorodnych produktów eliminacji. W związkach konfiguracyjnych rozgałęzione alkeny mogą często powstawać w wyniku eliminacji 1,1 i sprzężonej eliminacji. W związkach zgeometrycznymi, jednoczesne stosowanie dwóch warunków eliminacji może prowadzić do syntezy różnorodnych produktów. Efekty steryczne mogą również wykluczać występowanie pewnych reakcji. Rozważanie wszystkich tych faktów umożliwi tworzenie lepszych modeli reakcji eliminacji i przewidywanie prawdopodobnych produktów.
+
+Reakcje eliminacji nie wymagają użycia żadnych katalizatorów. Eliminacje występują naturalnie w środowiskach zasadowych jako przeciwreakcje substytucji nukleofilowej. W warunkach laboratoryjnych, eliminacja zachodzi w uprzywilejowanych warunkach. Jeśli substrat reaguje zarówno w eliminacji jak i substytucji, można zaangażować katalizator dla regulacji mechanizmu i zmiany selektywności. Reakcje eliminacji mogą być kontrolowane przez wykorzystanie katalizatorów, wybory substytuentów i warunków reakcyjnych. W zależności od tych warunków i katalizatorów, eliminacja może ulec zmianie tak, aby nie prowadzić do innych reakcji ubocznych i zwiększyć wydajność. W celu zwiększenia wydajności eliminacji E1, można zmienić pH oraz temperaturę. Zwiększanie temperatury przyspiesza też reakcje eliminacji E2, jednak nieodwracalnie zwiększy też reakcje degradacji.
+
+Reakcje eliminacji mogą mieć zastosowanie w wielu dziedzinach. Dzięki nim można otrzymać pożądane wyroby takie jak alkeny, alkiny, aromaty oraz naturalne alkaloidy. W metodologii chemicznej, eliminacja jest w gruncie rzeczy zjawiskiem ukazującym moc alkenów i alkinów. Dzięki eliminacji można zastosowały je do zastąpień innych grup funkcyjnych oraz usunięcia wirów w mieszaninach. Eliminacja jest także jednym z kilku kluczowych mechanizmów reakcji występujących w syntezie organicznej. Eliminacja jest także jednym z głównych mechanizmów reakcji w procesach petrochemicznych. W chemii medycyny i farmacji, eliminacja może zostać zastosowana do syntezy węglowodanów, steroidów i alkaloidównaturalnych. Możliwe jest również dokonywanie eliminacji na niektóre grupy funkcyjne, które są niepożądane w lekach farmaceutycznych. Na przykład, eliminacja dwuskośnikowej grupy karbaminowanej w związkach esterowych może prowadzić do usunięcia grupy karbaminowej z tych związków i powstania złogów złożonych, które można zastosować w diagnostyce za pomocą rezonansu magnetycznego.

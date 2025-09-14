@@ -1,56 +1,56 @@
- # Quiz
+ # Quiz: Polyesters and Polyamides
 
-1. Co to są poliestry?
-   A. Związki organiczne zawierające grupy hydrazyl (-NH2) i karboksylowe (-COOH).
-   B. Związki organiczne będące estrami kwasów karboksylowych i wielowodorotlenów alkoholowych.
-   C. Związki organiczne zawierające wielokrotnie powtórzone grupy eterowe.
-   D. Związki syntetyczne tworzone z węgla, wodoru, tlenu, a także składników mineralnych, takich jak wodór, krzem, fluor, chlor, brom, azot i siarka.
-   **Poprawna odpowiedź:** B. Związki organiczne będące estrami kwasów karboksylowych i wielowodorotlenów alkoholowych.
+1. What are polyesters and polyamides made of?
+A. Polyesters are made of ester functional groups, while polyamides are made of amide functional groups.
+B. Both polyesters and polyamides are made of amide functional groups.
+C. Both polyesters and polyamides are made of ester functional groups.
+D. Polyesters are made of amide functional groups, while polyamides are made of ester functional groups.
+Correct answer: A.
 
-2. Jaka jest różnica między poliestrami a poliamidami?
-   A. Poliestry są syntetycznymi włóknami, a poliamidy są naturalnymi włóknami.
-   B. Poliestry są tworzone z wielowodorotlenów alkoholowych i kwasów karboksylowych, podczas gdy poliamidy są tworzone z amin i kwasów karboksylowych.
-   C. Poliestry są bardziej elastyczne niż poliamidy.
-   D. Poliamidy są bardziej odporne na wysokie temperatury niż poliestry.
-   **Poprawna odpowiedź:** D. Poliamidy są bardziej odporne na wysokie temperatury niż poliestry.
+2. What are some common polyesters?
+A. Polyethylene terephthalate (PET) and polybutylene terephthalate (PBT)
+B. Polyethylene and polypropylene
+C. Polyamide 6 and polyamide 12
+D. Nylon and Kevlar
+Correct answer: A.
 
-3. Jak nazywa się najczęściej stosowany poliamid?
-   A. PET
-   B. PA
-   C. Nylon
-   D. Polyester
-   **Poprawna odpowiedź:** C. Nylon
+3. What are some common polyamides?
+A. Polyethylene terephthalate (PET) and polybutylene terephthalate (PBT)
+B. Polyamide 6 and polyamide 12
+C. Polyethylene and polypropylene
+D. Nylon and Kevlar
+Correct answer: D.
 
-4. Poliestry i poliamidy to...
-   A. Naturalne włókna
-   B. Włókna pochodzenia zwierzęcego
-   C. Sztuczne włókna
-   D. Włókna z roślin
-   **Poprawna odpowiedź:** C. Sztuczne włókna
+4. In what ways are polyesters and polyamides similar?
+A. Both have high melting points and are resistance to abrasion and chemicals.
+B. Both have low melting points and are not resistance to abrasion and chemicals.
+C. Both are thermoplastics, and their chains are held together by weak van der Waals forces.
+D. Both are thermosets, and their chains are held together by strong covalent bonds.
+Correct answer: A.
 
-5. Które włókno jest bardziej odporne na ścieranie?
-   A. Poliamid
-   B. Poliestr
-   C. Bawełna
-   D. Wełna
-   **Poprawna odpowiedź:** A. Poliamid
+5. In what ways are polyesters and polyamides different?
+A. Polyesters are thermosets, and polyamides are thermoplastics.
+B. Polyesters are thermoplastics, and polyamides are thermosets.
+C. Polyesters have low melting points, and polyamides have high melting points.
+D. Polyesters have high melting points, and polyamides have low melting points.
+Correct answer: D.
 
-# Fiszki
+# Flashcards: Polyesters and Polyamides
 
-- Poliestry to syntetyczne związki organiczne, które są estrami kwasów karboksylowych i wielowodorotlenów alkoholowych.
-- Poliamidy to syntetyczne związki organiczne, które są polimerami amin i kwasów karboksylowych.
-- Najczęściej stosowany poliamid to nylon.
-- Poliestry są bardziej elastyczne niż poliamidy.
-- Poliamidy są bardziej odporne na wysokie temperatury niż poliestry.
+1. A synthetic fiber made of long-chain polymers of an ester of a dihydric alcohol and terphthalic acid
+2. A synthetic fiber made of long-chain polymers of amides
+3. A type of polyester used in making fibers, beverage bottles, and film
+4. A type of polyamide used in making fibers, such as nylon and kevlar
+5. A synthetic fiber made of long-chain polymers of an ester of a dihydric alcohol and adipic acid
 
-# Notatki
+# Notes: Polyesters and Polyamides
 
-Poliestry to syntetyczne związki organiczne, które są estrami kwasów karboksylowych i wielowodorotlenów alkoholowych. Powstają one w wyniku reakcji estryfikacji, w której kwas karboksylowy reaguje z wielowodorotlenem alkoholowym. W wyniku tej reakcji powstaje estr, który zawiera grupę karboksylową i grupę hydroksylową połączone z atomem tlenu.
+Polyesters and polyamides are both synthetic polymers that are made up of long chains of repeating units. They are widely used in industry and everyday life, for example in the production of textiles, plastics, and fibers.
 
-Poliamidy, z drugiej strony, to syntetyczne związki organiczne, które są polimerami amin i kwasów karboksylowych. Powstają one w wyniku reakcji polikondensacji, w której amina reaguje z kwasem karboksylowym. W wyniku tej reakcji powstaje amid, który zawiera grupę aminową i grupę karboksylową.
+Polyesters are made of ester functional groups, and they have high melting points and are resistance to abrasion and chemicals. Polyethylene terephthalate (PET) and polybutylene terephthalate (PBT) are examples of common polyesters. PET is used in the production of fibers, beverage bottles, and film. PBT is used in the production of engineering plastics and fibers.
 
-Najczęściej stosowanym poliamidem jest nylon, który został wynaleziony w 1935 roku przez amerykańskiego chemika Wallace'a Carothersa. Nylon to elastyczne i wytrzymałe włókno, które jest często wykorzystywane do produkcji tkanin, kordek i lin. Inne przykłady poliamidów to kevlar i nilon-6,6.
+Polyamides, on the other hand, are made of amide functional groups. They are also known as nylons, and they have high melting points and are resistance to abrasion and chemicals. Nylon and Kevlar are examples of common polyamides. Nylon is used in the production of fibers, such as clothing, carpeting, and industrial textiles. Kevlar is used in the production of high-strength fibers, such as those used in bulletproof vests.
 
-Poliestry, w porównaniu do poliamidów, są bardziej elastyczne, ale mniej odporne na wysokie temperatury. Są one często wykorzystywane do produkcji opakowań, butelek i izolacji. Przykładem poliestru jest PET, czyli polietylen tereftalat.
+Polyesters and polyamides are similar in that they are both thermoplastics, and their chains are held together by strong covalent bonds. They can be melted and reformed multiple times, and they are typically recyclable. However, they are different in that polyesters have low melting points and polyamides have high melting points. And polyesters are made of ester functional groups while polyamides are made of amide functional groups.
 
-Włókna poliestrowe i poliamidowe są bardzo popularne w przemyśle włókienniczym ze względu na ich wysoką wytrzymałość, elastyczność i odporność na ścieranie. Są one także łatwe w produkcji i dobre w barwieniu. W związku z tym są one powszechnie stosowane do produkcji odzieży, dywanów i tkanin technicznych.
+In summary, polyesters and polyamides are synthetic polymers that have high melting points and are resistance to abrasion and chemicals, they are widely used in industry and everyday life. While polyesters are made of ester functional groups and polymides are made of amide functional groups. Polyesters have low melting points and polymides have high melting points.
