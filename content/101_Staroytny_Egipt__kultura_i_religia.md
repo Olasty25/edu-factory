@@ -1,62 +1,63 @@
  # Quiz: Starożytny Egipt – kultura i religia
 
-1. Która bogini egipska była uważana za panią nieba, pogody i wojny?
-   A. Isis
-   B. Hathor
-   C. Nut
-   D. Sekhmet
-   **Poprawna odpowiedź: C. Nut**
+1. Kto był typem władcy w starożytnym Egipcie?
+    A. Faraon
+    B. Wódz
+    C. Król
+    D. Cesarz
 
-2. Jaki był znaczenie kamienia zwanego "palec Thota"?
-   A. Był używany jako materiał do rysowania hieroglifów
-   B. Reprezentował jednostkę miary długości
-   C. Służył jako element narzędzia do pisania
-   D. Był symbolem wiedzy i magii
-   **Poprawna odpowiedź: D. Był symbolem wiedzy i magii**
+    Poprawna odpowiedź: A. Faraon
 
-3. Która spośród podanych praktyk nie była częścią pogrzebów w Starożytnym Egipcie?
-   A. Składanie darów zmarłemu
-   B. Embalowanie ciała
-   C. Poddawanie mumii procesowi fermentacji
-   D. Prowadzenie rytuałów żałobnych
-   **Poprawna odpowiedź: C. Poddawanie mumii procesowi fermentacji**
+2. Jaka jest najważniejsza religijna święta w starożytnym Egipcie?
+    A. Wep Ronpet (Nowy Rok)
+    B. Heb Sed (Jubileusz Faraona)
+    C. Opet (Święto Odpłynięcia)
+    D. Pu Nianef (Święto Chleba)
 
-4. Który z wymienionych faraonów nie jest zaliczany do starożytnej dynastii?
-   A. Pepi II
-   B. Cheops
-   C. Ahmose I
-   D. Tutanchamon
-   **Poprawna odpowiedź: A. Pepi II**
+    Poprawna odpowiedź: A. Wep Ronpet (Nowy Rok)
 
-5. Który z wymienionych gatunków zwierząt nie był uważany za święte w Starożytnym Egipcie?
-   A. Kobra
-   B. Krokodyl
-   C. Ibis
-   D. Mangusta
-   **Poprawna odpowiedź: D. Mangusta**
+3. Która bogini jest opiekunką domostwa i macierzą bogów w starożytnym Egipcie?
+    A. Hathor
+    B. Isis
+    C. Nut
+    D. Bastet
+
+    Poprawna odpowiedź: D. Bastet
+
+4. Jaki materiał był używany przez starożytnych Egipcjan do pisania?
+    A. Papirus
+    B. Pergamin
+    C. Kamień
+    D. Kość słoniowa
+
+    Poprawna odpowiedź: A. Papirus
+
+5. Czym była mastaba w architekturze starożytnego Egiptu?
+    A. Świątynia
+    B. Miejsce pochówku
+    C. Piramida
+    D. Dom faraona
+
+    Poprawna odpowiedź: B. Miejsce pochówku
 
 # Fiszki: Starożytny Egipt – kultura i religia
 
-1. **Ptolemeusz I (367–283 p.n.e.)** – pierwszy grecki faraon Egiptu, założyciel dynastii Ptolemeuszów (305–30 p.n.e.).
-
-2. **Hieroglify** – zestaw pisma obrazkowego i fonetycznego używanego w Starożytnym Egipcie.
-
-3. **Scarabée** – symboliczny zwój zwój z kamienia, symbolizujący pomysł boga Scarabeusza w starożytnej religii egipskiej.
-
-4. **Karnak** – ośrodek kultu bogini Amon i jedno z najważniejszych sanktuariów starożytnego Egiptu.
-
-5. **Menkaure** – trzeci z wielkich faraonów IV dynastii, twórca piramidy Menkaure w Gizie.
+1. Hieroglify
+2. Papirus
+3. Faraon
+4. Mastaba
+5. Anubis
 
 # Notatki: Starożytny Egipt – kultura i religia
 
-Starożytny Egipt był cywilizacją obejmującą okres pomiędzy 3100 a 332 rokiem p.n.e. egipską w dolinie Nilu. Kultura egipska miała wpływ na wiele aspektów życia współczesnego, w tym sztuki, architektury, pisma oraz systemów politycznych i religijnych.
+W starożytnym Egipcie dominowało politeizm – wierzenie w wielu bogów, których ważnymi funkcjami były życiodajne siły natury: słońce, rzeka Nil, pioruny, powódź itp. Ważnym bogami byli: Ra (bóg słońca), Isis (bogini matka), Osiris (bóg poniżej świata), Anubis (bóg mumifikacji). Mieszkańcy Egiptu wierzyli, że bogowie mogą interweniować w ich życiu codziennym i że po śmierci mogą odnaleźć wieczne szczęście.
 
-- **Religia i mitologia**: Religia starożytnych Egipcjan była politeistyczna, skupiała się na wierze w bogów i boginie odpowiedzialnych za siły natury i codzienne życie. Najpopularniejsze bóstwa to: Ra, Isis, Osiris, Anubis i Horus.
-  
-- **Życie codzienne i sztuka**: Egipcjanie wykorzystywali różne materiały, takie jak papirus, kamień i drewno do tworzenia dzieł sztuki. Malarstwo, rzeźba i architektura były połączone ze ściśle określonymi kanonami estetycznymi.
-  
-- **Pismo i literatura**: Hieroglify były jednym z pierwszych piśmiennych systemów pisarskich na świecie. Starożytni Egipcjanie zapisywali teksty na papirusie, kamieniu lub drewnie. Literatura głównie skupiała się na tematach religijnych, historycznych i moralnych.
-  
-- **System polityczny**: Faraon jest uważany za głowę państwa w starożytnym Egipcie, pełniąc funkcję władcy, polityka, kapłana i boga. Dynastie egipskie były monarchiami dziedzicznymi i zarządzały krajem przez sędziów, urzędników i armię.
+Religia odgrywała ogromną rolę w życiu codziennym starożytnych Egipcjan, wpływając na ich obyczaje, tradycje i zwyczaje. Wierni zabiegali o łaski bogów, modląc się i składając ofiary.
 
-Ze względu na swoją trwałość i wpływ na ludzkość, warunki życia i ducha, studium starożytnego Egiptu nadal przyciąga uwagę badaczy i miłośników historii, które dążą do zrozumienia tego unikalnego rozdziału w rozwoju ludzkości.
+W starożytnym Egipcie dominowała monarchia teokratyczna, gdzie faraon zajmował wyjątkową pozycję. Był uważany za wcielenie boga-słońca Ra i za boskiego władcę.
+
+Ważnym elementem kultury egipskiej był język, który był pisany hieroglifami. Hieroglify umożliwiły Egipcjanom zapisanie swojej historii, wierzeń, zwyczajów i obrządków.
+
+Starożytni Egipcjanie chowali swoich zmarłych w piramidach, mastabach i grobowcach skalnych. Uważali, że poprzez dobrą mumifikację i magiczne rytuały po śmierci będą mogli odnaleźć wieczne życie i stać się bogami.
+
+Architektura starożytnego Egiptu była głównie podzielona na trzy style: architekturę sakralną, pałacową i grobową. Najbardziej charakterystyczne obiekty tej architektury to piramidy, świątynie i grobowce.

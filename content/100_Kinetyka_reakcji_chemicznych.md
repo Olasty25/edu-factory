@@ -1,64 +1,56 @@
- # Quiz - Kinetyka reakcji chemicznych (100)
-1. Co to jest stała szybkości reakcji cząstkowej?
-   A. Liczba oddziajańcząsteczek na sekundę
-   B. Liczba substratów zużytych na mol substratu na sekundę
-   C. Stała proporcjonalna do liczby substratów zużytych na jednostkę czasu
-   D. Czas potrzebny do zużycia 50% substratów
-   C. Stała proporcjonalna do liczby substratów zużytych na jednostkę czasu
+ # Quiz - Kinetyka reakcji chemicznych
 
-2. Co to jest kinetyka reakcji chemicznej?
-   A. Opis ilości substratów i produktów zależny od czasu
-   B. Zmiana temperatury w zależności od czasu
-   C. Zmiana mieszaniny chemicznej wraz z upływem czasu
-   D. Opis zachowania się energii podczas reakcji chemicznej
-   A. Opis ilości substratów i produktów zależny od czasu
+1. Co jest kinetyką reakcji chemicznych?
+   A. Studium stopniowości zmian elementarnych procesów chemicznych
+   B. Sposób mieszania reagentów
+   C. Zastosowanie wszystkich rodzajów katalizatorów
+   D. Całkowity zanik reakcji
+   **Poprawna odpowiedź: A**
 
-3. Czym jest zależność stałej szybkości reakcji cząstkowej od temperatury?
-   A. Prostą liniową
-   B. Żadnej, jest niezależna od temperatury
-   C. Logarytmiczną
-   D. Liniową z obciążeniem
-   C. Logarytmiczną
+2. Jak wyznacza się prędkość reakcji?
+   A. Różniczka stężenia substratu względem czasu
+   B. Iloczyn stężenia substratu i czynnika czasu
+   C. Liczba przegrupowań atomów
+   D. Wzór empiryczny szybkości reakcji
+   **Poprawna odpowiedź: A**
 
-4. Co to jest zależność stałej szybkości reakcji cząstkowej od stężenia substratów reakcji?
-   A. Prostą liniową
-   B. Żadnej, jest niezależna od stężenia substratów
-   C. Liniową z obciążeniem
-   D. Logarytmiczną
-   D. Logarytmiczną
+3. Jakie rodzaje kinetyki reakcji chemicznych znamy?
+   A. Pierwszego i drugiego stopnia oraz zerowego
+   B. Jednorodną i niejednorodną
+   C. Główną i uboczną
+   D. Pożądaną i niepożądaną
+   **Poprawna odpowiedź: A**
 
-5. Co oznacza reguła prawa działania dla szybkości reakcji cząstkowej?
-   A. Szybkość reakcji cząstkowej nie jest sumą szybkości poszczególnych reakcji elementarnych
-   B. Szybkość reakcji cząstkowej zależy wyłącznie od liczby substratów reakcji
-   C. Szybkość reakcji cząstkowej zależy tylko od tego, czy jest w reakcji połączenie cząsteczek
-   D. Szybkość reakcji cząstkowej zawsze jest równa iloczynowi stężeń substratów
-   A. Szybkość reakcji cząstkowej nie jest sumą szybkości poszczególnych reakcji elementarnych
+4. Czym różni się kinetyka pierwszego i drugiego stopnia?
+   A. Zależność prędkości reakcji od stężenia substratów
+   B. Sposób pomiaru ilości reagentów
+   C. Metoda obliczania szybkości reakcji
+   D. Czynnik czasu
+   **Poprawna odpowiedź: A**
 
-# Fiszki - Kinetyka reakcji chemicznych (100)
-1. Stała szybkości reakcji cząstkowej
-2. Zależność stałej szybkości reakcji cząstkowej od temperatury
-3. Zależność stałej szybkości reakcji cząstkowej od stężenia substratów
-4. Reguła prawa działania dla szybkości reakcji cząstkowej
-5. Opis kinetyki reakcji chemicznej
+5. Czym zajmuje się reakcja zerowego stopnia?
+   A. Reakcje nie zależące od stężenia substratów
+   B. Procesy powolne i wolne
+   C. Szybkość reakcji najczęściej maleje
+   D. Działanie katalizatorów w fazie ciekłej
+   **Poprawna odpowiedź: A**
 
-# Notatki - Kinetyka reakcji chemicznych (100)
+# Fiszki - Kinetyka reakcji chemicznych
 
-Kinetyka reakcji chemicznej to dział chemii zajmujący się opisem ilości substratów i produktów zależnym od
-czasa. Główne zmienne związane z kinetyką to stężenie substratów, stężenie produktów, temperatura i ciśnienie.
-W tym module skupimy się na kinetyce reakcji homogenicznych i zjawiskach zachodzących podczas ich przejścia,
-które można opisać za pomocą przybliżenia cząstkowego.
+* Prędkość reakcji chemicznej mówi, jak szybko zmieniają się stężenia substratów i produktów.
+* Pierwszy pomiar ilości reakcji przez Michaelisa-Menten zakłada przemianę substrat-produkt.
+* Z definicji kinetyka reakcji jest to nauka o dynamice przemian chemicznych.
+* Równanie szybkości reakcji można scharakteryzować using pierwszych iloczynów stężeń substratów.
+* Adsorpcja reagentów na powierzchni katalizatora zwiększa szybkość reakcji.
 
-Za pomocą przybliżenia cząstkowego możemy zbadać reakcję elementarną oraz ilość substratów zużytych na
-jednostkę czasu. Stałą szybkości reakcji cząstkowej definiujemy jako stałą proporcjonalną do liczby substratów
-zareagowanych na jednostkę czasu. Przybliżenie cząstkowe umożliwia nam również badanie współzależności stałej
-szybkości reakcji cząstkowej od temperatury i stężenia substratów.
+# Notatki - Kinetyka reakcji chemicznych
 
-Zmienna ciśnienie rzadko jest używana w przypadku kinetyki cieczy, zatem opisany będzie tylko wpływ
-zmiennej temperatury i stężenia substratów na stałą szybkości reakcji cząstkowej. Zależność stałej szybkości
-reakcji cząstkowej od temperatury określana jest jako logarytmiczna. Zmiany temperatury o 10°C powodują dwukrotną
-zmianę stałej szybkości reakcji.
+Kinetyka reakcji chemicznych to nauka zajmująca się badaniem dynamiki zmian stężenia substratów i produktów w trakcie trwania procesu chemicznego.
 
-Prawa działania dla szybkości reakcji cząstkowej definiują zachowanie szybkości reakcji podczas współdziałania
-reakcji. Reguła prawa działania dla szybkości reakcji cząstkowej mówi, że szybkość reakcji cząstkowej nie jest
-sumą szybkości poszczególnych reakcji elementarnych, o ile jednak reakcje te przebiegają za pośrednictwem
-tego samego stanu przejściowego, to szybkości równe są sobie.
+Kluczowym pojęciem jest prędkość reakcji, wyrażana jakoerstwhile różniczka stopniowego wyrażenia stężeń substratow przeciwko czasowi. Można ją również scharakteryzować przez pomiary spektrofotometryczne, kalorymetryczne lub chromatograficzne.
+
+Zasada pracy reakcji zależy od stopnia kinetycznego, który charakteryzuje zależność ilości reakcji od stężenia substratów. W przypadku reakcji pierwszego stopnia ilość reakcji zmniejsza się wprost proporcjonalnie do stężenia substratu, podczas gdy w przypadku drugiego stopnia ilość substratu zmniejsza się w drugiej lub wyższej potędze stężenia substratów.
+
+W przypadku reakcji zerowego stopnia prędkość reakcji jest niezależna od stężenia substratów. Ta klasa reakcji obejmuje procesy niezależne od stężenia substratów, takie jak termoreakcje lub reakcje promieniotwórcze.
+
+Faktory wpływające na szybkość reakcji to stężenie substratów, temperatura, ciśnienie, obecność katalizatorów oraz faza reakcji. Substraty na powierzchni katalizatora zwiększają liczbę kolizji i zwiększają prawdopodobieństwo reakcji. Dzięki katalizatorom można przyśpieszyć trwanie procesu reakcji i obniżyć temperaturę wymaganą do jej wystąpienia.
