@@ -1,58 +1,56 @@
- # Quiz: Unia polsko-litewska 1385
+ # Quiz - Unia polsko-litewska 1385
+1. Kiedy została podpisana unia polsko-litewska?
+   A. 1385
+   B. 1395
+   C. 1485
+   D. 1495
 
-1. Kiedy została podpisana Unia polsko-litewska?
-   A) 1384
-   B) 1385
-   C) 1386
-   D) 1387
-   **Poprawna odpowiedź: B) 1385**
+   **Poprawna odpowiedź: A**
 
-2. Kto był inicjatorem unii?
-   A) Władysław Jagiełło
-   B) Jogaila
-   C) Witold Kiejstutowicz
-   D) Kazimierz III Wielki
-   **Poprawna odpowiedź: A) Władysław Jagiełło (Jogaila)**
+2. Który władca Polski podpisał unię polsko-litewską?
+   A. Kazimierz III Wielki
+   B. Ludwik Węgierski
+   C. Władysław II Jagiełło
+   D. Władysław Łokietek
 
-3. Czym była Unia polsko-litewska?
-   A) Unia personalna
-   B) Unia realna
-   C) Konfederacja
-   D) Federacja
-   **Poprawna odpowiedź: A) Unia personalna**
+   **Poprawna odpowiedź: C**
 
-4. Które korony posiadał Władysław Jagiełło przed podpisaniem unii?
-   A) Korona Królestwa Polskiego
-   B) Wielkie Księstwo Litewskie
-   C) Królestwo Litwy
-   D) Korona Królestwa Węgierskiego
-   **Poprawna odpowiedź: D) Korona Królestwa Węgierskiego**
+3. Dzięki unii polsko-litewskiej, których terytoriów docierały wpływy polityczne, ekonomiczne i kulturowe?
+   A. Polski i Litwy
+   B. Polski i Rusi
+   C. Litwy i Rusi
+   D. Polski, Litwy i Rusi
 
-5. Która bitwa miała ogromny wpływ na przebieg negocjacji unijnych?
-   A) Bitwa pod Grunwaldem
-   B) Bitwa pod Żalgirisem
-   C) Bitwa pod Tannenbergiem
-   D) Bitwa pod Vorsklą
-   **Poprawna odpowiedź: B) Bitwa pod Żalgirisem**
+   **Poprawna odpowiedź: D**
 
-# Fiszki: Unia polsko-litewska 1385
+4. Co było głównym celem unii polsko-litewskiej?
+   A. Zjednoczenie chrześcijaństwa łacińskiego przed zagrożeniem Turcji Osmańskiej
+   B. Utworzenie bloku politycznego przeciw Zakonowi Krzyżackiemu
+   C. Utrzymanie panowania dynastii jagiellońskiej
+   D. Przeciwstawienie się wpływom Niemiec
 
-1. Unia personalna - forma unii, w której dwie osoby rządzą wspólnym państwem, posiadając różne terytoria, ale jeden tron
-2. Władysław Jagiełło - władca Polski w latach 1386-1434, do jego tytułu należała Korona Królestwa Polskiego i Wielkie Księstwo Litewskie
-3. Jogaila - imię litewskie Władysława Jagiełły, przyjęte po chrzcie w 1386 roku
-4. Witold Kiejstutowicz - wielki książę litewski, siostrzeniec Jagiełły, który po śmierci ojca został wygnany z kraju i dopiero po 10 latach wrócił na tron
-5. Bitwa pod Żalgirisem - bitwa stoczona 15 lipca 1410 roku, w której wojska polsko-litewskie rozbiły zakon krzyżacki, otwierając drogę do unii z Litwą
+   **Poprawna odpowiedź: B**
 
-# Notatki: Unia polsko-litewska 1385
+5. Kiedy unia polsko-litewska przestała istnieć?
+   A. 1569
+   B. 1616
+   C. 1795
+   D. 1797
 
-Unia polsko-litewska, zwana także unią w Krewie (od miejsca podpisania unii), była unią personalną między Królestwem Polskim i Wielkim Księstwem Litewskim, podpisana 14 sierpnia 1385 roku przez Władysława Jagiełłę i Witolda Kiejstutowicza.
+   **Poprawna odpowiedź: A**
 
-Jagiełło, jako król Polski, rządził także Wielkim Księstwem Litewskim i starał się wzmocnić obronność obu krajów. W 1386 roku Jagiełło przyjął chrzest, przybrał imię Władysław i koronował się na króla Polski. Do jego tytułu należała Korona Królestwa Polskiego i Wielkie Księstwo Litewskie, które stały się jednym organizmem politycznym.
+# Fiszki - Unia polsko-litewska 1385
+1. **Unia personalna** - forma unii, w której jedna osoba sprawuje władzę w dwóch lub więcej państwach, ale każde z nich zachowuje swoją odrębność.
+2. **Jagiellonowie** - dynastia królewska, która rządziła Polską i częściowo Litwą w XIV-XVI w.
+3. **Kościół katolicki** - religia, której wpływ stał się znacznie silniejszy po podpisaniu unii polsko-litewskiej.
+4. **Władysław II Jagiełło** - król Polski, wielki książę litewski i litewski władca Rusi od 1377 do 1381 i od 1382 do 1401.
+5. **Ludwik Wittelsbach** - władca, który zrzekł się korony polskiej na rzecz Władysława II Jagiełły, co umożliwiło podpisanie unii polsko-litewskiej.
 
-Unia była możliwa dzięki wcześniejszej porozumieniu pomiędzy królem Polski Kazimierzem Wielkim a wielkim księciem litewskim Olgierdem, którzy podpisali unię w Krewie w 1385 roku. Została potwierdzona w Horodle w 1413 roku.
+# Notatki - Unia polsko-litewska 1385
+**Unia polsko-litewska** (łac. *Unio regni Poloniae et ducatuum Lithuaniae*) – dawny sojusz między Królestwem Polskim a Wielkim Księstwem Litewskim, zawarty w 1385 roku.
 
-Unia polsko-litewska przyczyniła się do umocnienia państwowości polsko-litewskiej i pozwoliła na przetrwanie tego obszaru w okresie rozbicia dzielnicowego, gdy inne państwa Europy średniowiecznej słabły. W historii unia ta jest znana jako "złota wolność", gdyż oba państwa posiadały odrębne instytucje i prawo, a jednocześnie współpracowały w dyplomacji, wojsku i handlu.
+Dowódcą litewskim Witoldem Kiejstutowiczem i królem polskim Ludwikiem Wittelsbachem. Unia została zapoczątkowana przez małżeństwo Jadwigi Andegaweńskiej, królowej Polski, z Władysławem II Jagiełłą, wielkim księciem litewskim. W wyniku małżeństwa doszło do unii personalnej, w której Władysław II Jagiełło sprawował władzę w dwóch państwach, ale zachowywał ich odrębność.
 
-Unia ta miała także kluczowe znaczenie dla bitwy pod Grunwaldem w 1410 roku, w której wojska polsko-litewskie pokonały armię zakonu krzyżackiego. Bitwa pod Grunwaldem umożliwiła utrwalenie unii, a także zmniejszenie zagrożenia ze strony zakonu krzyżackiego i Inflant.
+Koronacja w Krakowie Władysława II Jagiełły 4 marca 1386 roku i jego wyznanie chrześcijaństwa wpłynęło w sposób znaczący na politykę i kulturę obu państw. Unia przyczyniła się do poszerzenia wpływów Polski i Litwy, a zwłaszcza do przedostania się wpływów politycznych, ekonomicznych i kulturowych do Rusi na wschodzie. Pozwalała również na skuteczniejszą obronę przed agresywną polityką zakonu krzyżackiego na północy.
 
-W 1569 roku unia personalna przekształciła się w unię realną, powstało Rzeczpospolita Obojga Narodów, której tron był dziedziczny, a Wielkie Księstwo Litewskie miało własny sejm. Unia polsko-litewska trwała aż do rozbiorów Polski w 1795 roku.
+Unia polsko-litewska przestała istnieć w 1569 roku po podpisaniu unii lubelskiej, w wyniku której powstał Rzeczpospolita Obojga Narodów.

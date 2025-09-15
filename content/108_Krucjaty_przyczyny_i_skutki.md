@@ -1,49 +1,73 @@
- # Quiz - Dlaczego miała miejsce 108. krucjata? Co było jej przyczyną i skutkiem?
+ # Quiz: The Crusades - Causes and Effects
 
-1. Co to były krucjaty?
-   A. Czasy wielkich odkryć geograficznych
-   B. Wyprawy wojenne zachodnich chrześcijan
-   C. Wielkie migracje ludów germańskich
-   D. Rewolucje przemysłowe w Europie
+1. What was the primary motivation for the First Crusade, which took place from 1096 to 1099?
+A. The desire for economic gain
+B. The request for help from the Byzantine Emperor
+C. The call to liberate Jerusalem from Muslim control
+D. The need to convert non-Christians to Christianity
 
-2. Kiedy miała miejsce 108. krucjata?
-   A. W połowie XV wieku
-   B. Na początku XIII wieku
-   C. W XIV wieku
-   D. W XVII wieku
+Answer: C. The call to liberate Jerusalem from Muslim control
 
-3. Czym była 108. krucjata w kontekście historycznym?
-   A. Ostatnią z serii krucjat
-   B. Fikcyjną krucjatą, opisaną w książce
-   C. Wyprawą podjętą z inicjatywy jednego kraju
-   D. Wyprawą, która zakończyła się klęską
+2. Which of the following was not a consequence of the Crusades?
+A. The establishment of the Knights Templar
+B. The increase of European wealth and power
+C. The spread of diseases, such as the bubonic plague
+D. The rise of the Ottoman Empire
 
-4. Dlaczego organizowano krucjaty?
-   A. Aby ochraniać interesy gospodarcze Europy
-   B. Na rozkaz papieża
-   C. Aby odkryć nowe tereny do podbicia
-   D. Ze względów religijnych
+Answer: B. The increase of European wealth and power
 
-5. Czy krucjaty osiągnęły swój cel?
-   A. Tak
-   B. Nie
+3. Who was the leader of the Fourth Crusade, which took an unexpected turn and resulted in the sacking of Constantinople in 1204?
+A. King Louis IX of France
+B. Pope Innocent III
+C. Richard the Lionheart
+D. Boniface of Montferrat
 
-# Fiszki - 108. krucjata
+Answer: D. Boniface of Montferrat
 
-1. **Krucjata** - wyprawa wojenna zachodnich chrześcijan, zwoływana przez papieży, których celem było odzyskanie Ziem Świętych z rąk muzułmanów.
-2. **108. krucjata** - ostatnia z serii krucjat, które miały miejsce w latach 1096-1291, najczęściej w celu wyzwolenia Świętego Grobu w Jerozolimie.
-3. **Papież** - głowa Kościoła katolickiego, który zwoływał krucjaty, podburzając wiernych do walki o Ziemię Świętą w imieniu wiary.
-4. **Ziemie Święte** - tereny, które obejmują dzisiejszy Izrael, Palestynę i fragment Libanu, uważane przez chrześcijan za miejsce narodzin i działalności Jezusa Chrystusa.
-5. **Efekt inspirujący** - krucjaty przyczyniły się do rozwoju nowych form literatury, sztuki i kultury w Europie.
+4. The Children's Crusade was a popular movement in which:
+A. Children attempted to conquer the Holy Land without the support of adult leaders
+B. Children were sent by their families to fight in the Crusades in the place of their fathers
+C. Many children died as a result of a brutal journey through the desert
+D. Children led the way to the Holy Land seeking peaceful dialogue with Muslim leaders
 
-# Notatki - 108. krucjata i jej konsekwencje
+Answer: A. Children attempted to conquer the Holy Land without the support of adult leaders
 
-Krucjaty były wyprawami wojennymi, zwoływanymi przez papieży, zachodnich chrześcijan w celu wyzwolenia Ziem Świętych z rąk muzułmanów. Ostatnią z serii krucjat była 108. krucjata, która miała miejsce pod koniec XIII wieku.
+5. What was the overall impact of the Crusades on the relationship between the Christian and Muslim worlds?
+A. The relationship improved, as the Crusades brought the two religions closer together
+B. The relationship worsened, as the Crusades created a deepening divide between the faiths
+C. The Crusades had no impact on the relationship, as they were not well-publicized and only involved a small group of people
+D. The relationship remained unchanged, as the Crusades were ultimately a failure and achieved none of their objectives
 
-Zbrojne wyprawy chrześcijan były jednym z aspektów krucjat. Były one jednak również okazją do rozwijania stosunków dyplomatycznych, kontaktów handlowych i wymiany kulturalnej między Europą a Bliskim Wschodem. Mimo że papieże deklarowali, iż krucjaty mają charakter wyłącznie religijny, to jednak pojawiały się też interesy gospodarcze i polityczne.
+Answer: B. The relationship worsened, as the Crusades created a deepening divide between the faiths
 
-108. krucjata zakończyła się niepowodzeniem. Po klęsce, wiele osób zwróciło uwagę, że cele krucjat nie zostały osiągnięte, a handel i wymiana kulturalna mogły odbywać się lepiej przy współpracy niż w wyniku konfliktów zbrojnych.
+# Fiszki: The Crusades - Causes and Effects
 
-Efektem krucjat był jednak także rozkwit nowych form literatury, sztuki i kultury. Pisarze, poeci i artystyczni artyści opisywali wyprawy krucjat w swoich dziełach, co przyczyniło się do rozwinięcia nowych gatunków literackich i artystycznych.
+1. First Crusade:
+	* Triggered by the call of Pope Urban II to liberate Jerusalem from Muslim control in 1095
+	* Led to the capture of Jerusalem and the establishment of the Latin Kingdom of Jerusalem
+2. Byzantine Empire:
+	* Requested assistance from Western European forces to defend against the Seljuk Turks
+	* Led to the eventual sacking of Constantinople during the Fourth Crusade
+3. Children's Crusade:
+	* A popular movement of children seeking to conquer the Holy Land in 1212
+	* Resulted in the death of many children during a brutal journey through the desert
+4. Knights Templar:
+	* Established during the First Crusade to protect pilgrims traveling to the Holy Land
+	* Gained wealth, power, and influence in Europe
+5. Black Death:
+	* The spread of diseases, such as the bubonic plague, was facilitated by increased interactions between the Christian and Muslim worlds
+	* Had a devastating impact on both Eastern and Western societies
 
-Krucjaty w sumie był wydarzeniem niezwykle ważnym w historii Europy i Bliskiego Wschodu. Mimo że były to głównie wojenne wyprawy, to jednak przyczyniły się one też do rozwoju gospodarczego, stosunków dyplomatycznych i kulturalnych między obydwiema częściami świata. Dlatego konieczne jest zgłębienie tematu krucjat, by lepiej zrozumieć ich znaczenie w historii i spuściznę w obecnym czasie.
+# Notatki: The Crusades - Causes and Effects
+
+Początek I wyprawy krzyżowej w 1096 roku został zainicjowany przez Papieża Urbana II, który wezwał do wyzwolenia Jerozolimy spod kontroli muzułmanów. Byzantyjski Cesarz poprosił o pomoc Zachodnioeuropejskie siły, aby obronić się przed Seldżuckimi Turkami, co doprowadziło do zdobycia Jerozolimy i utworzenia Łacińskiego Królestwa Jerozolimy.
+
+Czwarta wyprawa krzyżowa, która miała miejsce w 1204 roku, pod wodzą Bonifacego z Montferratu, przyjęła niestety nieoczekiwany obrót i doprowadziła do zdobycia i splądrowania Konstantynopola.
+
+Dziecięca krucjata z 1212 roku była popularnym ruchem dzieci, które próbowały zdobyć Ziemię Świętą bez poparcia dorosłych przywódców. Efektem tego była śmierć wielu dzieci w wyniku brutalnego podróżowania przez pustynię.
+
+Zakon Templariuszy został ustanowiony podczas I wyprawy krzyżowej w celu ochrony pielgrzymów udających się do Ziemi Świętej. Zakon osiągnął Ogromną fortunę, siłę i wpływy w Europie.
+
+Czarne śmierci - rozprzestrzenianie się chorób, takich jak dżuma, zostało ułatwione przez zwiększone interakcje między światem chrześcijańskim a muzułmańskim i miało katastrophalny wpływ na zarówno społeczeństwa wschodnie, jak i zachodnie.
+
+W sumie, wyprawy krzyżowe pogorszyły relacje między światem chrześcijańskim a muzułmańskim, tworząc głęboki podział między tymi wiarą i prowadząc do kolejnych konfliktów w przyszłości.
