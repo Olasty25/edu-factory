@@ -1,61 +1,54 @@
- # Quiz: Demokracja Ateńska – Solon i Perykles
+ # Quiz: Demokracja Ateńska - Solon i Perykles
 
-1. Kto był attyckim poetą, politykiem i reformatorem, który wprowadził w Atenach ustawy o długach i wolnym obywatelstwie, znane jako seisachteia?
-   A. Solon
-   B. Perykles
-   C. Klejstenes
-   D. Demostenes
+1. Kto był attyckim poetą, mędrcem i politykiem, który zapoczątkował reformy demokratyczne w Atenach?
+   A) Perykles
+   B) Solon
+   C) Klejstenes
+   D) Themistokles
+   Poprawna odpowiedź: B) Solon
 
-   Poprawna odpowiedź: A. Solon
+2. Kiedy miała miejsce epoka klasyczna w historii Aten?
+   A) 600-323 p.n.e.
+   B) 490-323 p.n.e.
+   C) 508-323 p.n.e.
+   D) 500-336 p.n.e.
+   Poprawna odpowiedź: C) 508-323 p.n.e.
 
-2. Kto był synem Ksantipa i Aspazji, attyckim politykiem i strategiem, pod wodzą którego Ateny osiągnęły wiele zwycięstw w wojnach peloponeskich?
-   A. Solon
-   B. Perykles
-   C. Klejstenes
-   D. Demostenes
+3. Jakie było główne osiągnięcie Peryklesa w dziedzinie polityki?
+   A) Zorganizował wojnę perską
+   B) Zbudował Partenon
+   C) Wprowadził reformy demokratyczne
+   D) Stworzył strategię long wall
+   Poprawna odpowiedź: D) Stworzył strategię long wall
 
-   Poprawna odpowiedź: B. Perykles
+4. Jakie były główne zasady nowego ustroju demokratycznego w Atenach, proponowanego przez Solona?
+   A) Wszyscy wolni mężczyźni mogą głosować
+   B) Wybory powszechne, równość sędziów w jury
+   C) Uchwalenie ustawy o ostracyzmie
+   D) Wszyscy wolni obywatele mogą uczestniczyć w zgromadzeniach
+   Poprawna odpowiedź: B, C, D (Wszystkie poprawne)
 
-3. Co oznacza po grecku słowo "demokracja"?
-   A. Władza Ludu
-   B. Władza Króla
-   C. Władza Rad
-   D. Władza Niewolników
+5. Kiedy został wprowadzony ostracyzm?
+   A) Ok. 594 p.n.e.
+   B) Ok. 487 p.n.e.
+   C) Ok. 461 p.n.e.
+   D) Ok. 417 p.n.e.
+   Poprawna odpowiedź: C) Ok. 461 p.n.e.
 
-   Poprawna odpowiedź: A. Władza Ludu
+# Fiszki: Demokracja Ateńska - Solon i Perykles
 
-4. Kiedy została wprowadzona Demokracja Ateńska?
-   A. W 508 r. p.n.e.
-   B. W 461 r. p.n.e.
-   C. W 399 r. p.n.e.
-   D. W 322 r. p.n.e.
+1. **Solon** - attycki poeta, mędrzec i polityk, który zapoczątkował reformy demokratyczne w Atenach ok. 594 p.n.e.
+2. **Epoka klasyczna Aten** - okres rozkwitu kultury i demokracji w Atenach, trwający od 508 do 323 p.n.e.
+3. **Perikles** - attycki polityk, strateg i mówca, zasłynął z wprowadzenia nowej strategii obronnej "długich murów", wzmocnił demokrację w Atenach.
+4. **Reformy Solona** - zakładały wśród innych: wprowadzenie powszechnych wyborów, równości sędziów w jury i uchwalenie ustawy o ostracyzmie.
+5. **Ostracyzm** - instytucja demokratyczna wprowadzona przez Peryklesa, pozwalająca zgromadzeniu zebranemu w ateńskiej agorze na wysłanie na 10 lat z Aten obywatela, uznanego za szkodliwego dla państwa.
 
-   Poprawna odpowiedź: A. W 508 r. p.n.e.
+# Notatki: Demokracja Ateńska - Solon i Perykles
 
-5. Kogo uważa się za "Ojca Demokracji Ateńskiej"?
-   A. Solon
-   B. Perykles
-   C. Klejstenes
-   D. Demostenes
+Demokracja ateńska była jednym z najwcześniejszych i najpoważniejszych przykładów demokracji w starożytności. Została ona wprowadzona w Atenach ok. 508 p.n.e., pochodzącym z okresu klasycznego w ich historii (508-323 p.n.e.).
 
-   Poprawna odpowiedź: C. Klejstenes
+Początek demokracji w Atenach wiąże się z postacią **Solona** - attyckiego poetę, mędrca i polityka, który zapoczątkował reformy demokratyczne w Atenach ok. 594 p.n.e. Zakładały one m.in. wprowadzenie powszechnych wyborów, równości sędziów w jury i uchwalenie ustawy o ostracyzmie, dającą możliwość zgromadzenia zebranego w ateńskiej agorze na wysłanie na 10 lat z Aten obywatela, uznanego za szkodliwego dla państwa.
 
-# Fiszki: Demokracja Ateńska – Solon i Perykles
+Kolejnym etapem w rozwoju demokracji ateńskiej był okres epoki klasycznej Aten, kiedy to władzę w państwie sprawowali tacy ludzie jak **Perikles**. Jako strateg i mówca, Perikles stał się słynny ze stworzenia nowej strategii obronnej "długich murów", która wzmocniła pozycję Аthen. Wprowadził również wiele zmian, które rozszerzyły znaczenie demokracji w Atenach.
 
-1. **Demokracja Ateńska** (greckie: δημοκρατία, *dēmokratiā* – "władza ludu") – forma rządów, w której władzę sprawuje ludopaństwo przez wybieralnych przedstawicieli, poprzez system demokracji bezpośredniej lub uczestniczącej.
-2. **Solon** – attycki poeta, polityk i reformator. Był arystokratą, który wprowadził ustawy w celu zmniejszenia ubóstwa i zapobiegnięcia konfliktom społecznym.
-3. **Seisachteia** – ustawy wprowadzone przez Solona w 594 r. p.n.e., które anulowały zadłużenie i uwolniły niewolników, którzy byli niewolnikami z powodu długów.
-4. **Perykles** – attycki polityk i strateg, syn Ksantipa i Aspazji. Był jednym z najważniejszych przywódców demokracji ateńskiej w V wieku p.n.e.
-5. **Klejstenes** – attycki arystokrata i polityk, który wprowadził reformy, które doprowadziły do rozkwitu demokracji ateńskiej w V wieku p.n.e. Często uważany za "Ojca Demokracji Ateńskiej".
-
-# Notatki: Demokracja Ateńska – Solon i Perykles
-
-Demokracja Ateńska była formą rządów, w której władzę sprawowała ludność Aten, poprzez uczestniczącą demokrację bezpośrednią lub za pomocą wybieralnych przedstawicieli. Był to pierwszy udany przykład demokracji w zachodniej historii.
-
-Początki demokracji ateńskiej sięgają 508 r. p.n.e., kiedy Klejstenes wprowadził reformy instytucjonalne, które zwiększyły rolę ludu w sprawach państwa. Wprowadził on m.in. nowy sposób wyboru członków rady państwowej oraz zmodyfikował skład sądów, czyniąc je bardziej reprezentatywnymi.
-
-Solon był attyckim poetą, politykiem i reformatorem, który wprowadził w Atenach ustawy o długach i wolnym obywatelstwie, znane jako seisachteia. Ustawy, które zostały wprowadzone w 594 r. p.n.e., doprowadziły do anulowania zadłużenia i uwolnienia niewolników, którzy byli zobowiązani do służby z powodu długów. Solon również dokonał podziału obywateli na cztery klasy na podstawie ich majątku, co odbiło się na zwiększeniu praw politycznych i uczestnictwa w gospodarce dla bogatszych i biedniejszych.
-
-Perykles, dobrze wykształcony i inteligentny attycki polityk i strateg, uważany jest za jednego z najważniejszych przywódców demokracji ateńskiej w V wieku p.n.e. Był synem Ksantipa i Aspazji, i pod jego przywództwem Ateny osiągnęły wiele zwycięstw w wojnach peloponeskich. Perykles wprowadził wiele reform, które przyczyniły się do dalszego rozwoju demokracji ateńskiej.
-
-W sumie, Solon i Perykles byli kluczowymi postaciami w historii demokracji ateńskiej, która była pierwszym udanym przykładem demokracji w historii zachodu. Przedstawiała ona istotny krok w kierunku ustanawiania władzy narodu, a nie jednostki czy elity, co w dalszym ciągu ma fundamentalne znaczenie dla państwa i społeczeństwa.
+Ostracyzm, instytucja demokratyczna wprowadzona przez Peryklesa, pozwalała zgromadzeniu zebranemu w ateńskiej agorze na wysłanie na 10 lat z Aten obywatela, uznanego za szkodliwego dla państwa. Poprzez ostracyzm mogli zostać usunięci z Aten niektórzy z najważniejszych przywódców państwa, co ostatecznie doprowadziło do osłabienia pozycji Aten i ich upadku. Mimo to, demokracja ateńska pozostaje jednym z najbardziej znaczących i wpływowych przykładów demokracji w historii.
