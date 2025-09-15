@@ -1,60 +1,59 @@
  # Quiz - Oświecenie w Europie
-1. Kiedy miało miejsce Oświecenie w Europie?
-A. XV wiek
-B. XVI wiek
-C. XVII wiek
-D. XVIII wiek
 
-Poprawna odpowiedź: D. XVIII wiek
+1. Kiedy nastąpił okres Oświecenia w Europie?
+   A. XV wiek
+   B. XVI wiek
+   C. XVII wiek
+   D. XVIII wiek
 
-2. Który filozof epoki Oświecenia zwany jest "Ojcem Oświecenia"?
-A. Francis Bacon
-B. John Locke
-C. Immanuel Kant
-D. Jean-Jacques Rousseau
+   Poprawna odpowiedź: **D. XVIII wiek**
 
-Poprawna odpowiedź: A. Francis Bacon
+2. Które z idei było centralne dla filozofów Oświecenia?
+   A. Władza pochodzi z Boga
+   B. Rozum jest najlepszą drogą do poznania prawdy
+   C. Prześladujący innych kary bez końca
+   D. Autorytet monarchy jest niekwestionowany
 
-3. Który z poniższych dokumentów nie był deklaracją praw człowieka?
-A. Deklaracja praw człowieka i obywatela
-B. Preambuła Konstytucji USA
-C. Deklaracja niepodległości Stanów Zjednoczonych
-D. Magna Charta Libertatum
+   Poprawna odpowiedź: **B. Rozum jest najlepszą drogą do poznania prawdy**
 
-Poprawna odpowiedź: D. Magna Charta Libertatum
+3. Który z filozofów Oświecenia jest kojarzony z hasłem "Czyjś chleb czyją głowa"?
+   A. Immanuel Kant
+   B. Jean-Jacques Rousseau
+   C. Voltaire
+   D. John Locke
 
-4. Który z poniższych pisarzy nie należał do prądu oświecenia?
-A. Voltaire
-B. Jean-Jacques Rousseau
-C. Thomas Hobbes
-D. Friedrich Nietzsche
+   Poprawna odpowiedź: **B. Jean-Jacques Rousseau**
 
-Poprawna odpowiedź: D. Friedrich Nietzsche
+4. Czym jest encyklopedia francuska z 1751 roku, która miała duży wpływ na rozwój myśli oświeceniowej?
+   A. Encyklopedia Holenderska
+   B. Encyklopedia Brytyjska
+   C. Encyklopedia Francuska
+   D. Encyklopedia Niemiecka
 
-5. Która z powyższych idei nie była jedną z głównych idei Oświecenia?
-A. Racjonalizm
-B. Wola generalna
-C. Racjonalne organizowanie społeczeństwa
-D. Władza przypisywana ludowi
+   Poprawna odpowiedź: **C. Encyklopedia Francuska**
 
-Poprawna odpowiedź: B. Wola generalna
+5. Kto jest autorem Deklaracji Praw Człowieka i Obywatela z 1789 roku, która była inspirowana ideami Oświecenia?
+   A. Thomas Jefferson
+   B. Maximilien Robespierre
+   C. Jean-Jacques Rousseau
+   D. Voltaire
+
+   Poprawna odpowiedź: **B. Maximilien Robespierre**
 
 # Fiszki - Oświecenie w Europie
 
-1. Francis Bacon - filozof, uznawany za "Ojca Oświecenia", propagował metodę indukcji, żeby osiągnąć postęp w nauce.
-2. John Locke - filozof i lekarz polityczny, który wpłynął na idee oświeceniowe poprzez swoją teorię wiedzy, etykę i koncepcję praw naturalnych.
-3. Immanuel Kant - niemiecki filozof, który miał ogromny wpływ na filozofię i etykę późnego oświecenia w Europie.
-4. Prąd racjonalistyczny - międzynarodowy nurt intelektualny w epocie Oświecenia, w którym przekonanie, że rozum i logika powinny być wykorzystywane do analizy i rozumienia filozofii, polityki i nauki.
-5. Deklaracja praw człowieka i obywatela - deklaracja praw z 1789 roku, która ogłasza zasady wolności, równości i braterstwa, przyznając francuskim obywatelom prawa podstawowe.
+1. Oświecenie - (ang. Enlightenment, fr. Lumières, niem. Aufklärung) - ruch intelektualno-kulturowy w XVIII wieku, który rozpowszechnił idee racjonalizmu, deizmu, empiryzmu, indywidualizmu i postępu w Europie.
+2. Jean-Jacques Rousseau - francuski filozof i pisarz, który napisał m.in. "Społeczeństwo dobrego człowieka" i "Emil, czyli O wychowaniu", w których promował ideę wolności i demokracji.
+3. Encyklopedia Francuska - wydawnictwo encyklopedyczne, którego celem było udokumentowanie całego ludzkiego wiedzy, wypromowało hasło "Czyjś chleb czyją głowa" autorstwa Jeana-Jacques Rousseau.
+4. Deklaracja Praw Człowieka i Obywatela - dokument z 1789 roku składający się z 17 artykułów, który zadeklarował prawa i wolności człowieka i obywatela, inspirowany ideami Oświecenia.
+5. Immanuel Kant - niemiecki filozof, który napisał w 1784 roku artykuł "Odpowiedź na pytanie: co to jest Oświecenie?".
 
 # Notatki - Oświecenie w Europie
 
-Oświecenie w Europie było ruchem intelektualnym i filozoficznym, który rozpoczął się w XVII wieku i trwał do końca XVIII wieku. Był to okres, kiedy filozofowie, pisarze i myśliciele zaczęli podważać autorytety religijne, królewskie i tradycyjne i zakwestionować Idee o boskiej prawomocności władzy.
+Oświecenie było ruchiem intelektualno-kulturowym w Europie w XVIII wieku, który miał duży wpływ na rozwój współczesnej myśli. Oświecenie promowało idee racjonalizmu, empiryzmu, rozumu, postępu, indywidualizmu, wolności i tolerancji.
 
-Na początku XVIII wieku, Francja stała się epicentrum prądów intelektualnych Oświecenia, przyciągając takich myślicieli jak Voltaire, Denis Diderot i Jean-Jacques Rousseau. Voltaire i Rousseau są powszechnie uważani za dwa najbardziej wpływowe myślicieli w historii francuskiego Oświecenia.
+Czołowymi filozofami Oświecenia byli: Immanuel Kant, Jean-Jacques Rousseau, Voltaire, John Locke, Denis Diderot i Baron de Montesquieu. Oświeceniowcy postrzegali rozum jako najlepszą drogę poznania prawdy, skupiali się na zastosowaniu filozofii do zagadnień politycznych, społecznych i ekonomicznych, promowali tolerancję religijną i zwalczali nierówności społeczne.
 
-Mający miejsce w XVIII wieku, Oświecenie przyczyniło się do wielu społecznych zmian, w tym do wzrostu świadomości politycznej i społecznej oraz doktryny i postulatów, które doprowadziły do rewolucji amerykańskiej i francuskiej.
+Ruch Oświecenia dał początek: idei konstytucyjnych i demokratycznych, zasadzie podziału władzy, wolności słowa, swobodzie gospodarczej i równości społecznej. Encyklopedia Francuska była encyklopedią promującą idee Oświecenia, które miała szeroki wpływ na rozwój kultury i nauki w Europie.
 
-Oświecenie w Europie położyło także podwaliny pod rozwój idei wolności, równości i demokracji, a także sprawiedliwości społecznej i ekonomicznej. Wielu myślicieli oświecenia argumentowało, że bycie przeciętnym człowiekiem jest wartościowe, co przyczyniło się do podważania arystokracji i hierarchii społecznych. Prądy racjonalistyczne i empiryczne z Epoki Oświecenia wpłynęły na wiele dziedzin, takich jak filozofia, teologia, nauka, polityka i prawo. Te idee były kluczowe w rozwoju demokracji, wolnego rynku i stanowiły podstawę dla współczesnych idei o prawach człowieka.
-
-Zakończenie prądów oświeceniowych w Europie określić można na koniec XVIII wieku, po rewolucji francuskiej, kiedy wiele z głównych idei zostało zastosowanych w życiu codziennym. Oświecenie pozostaje bardzo ważną częścią historii myśli Zachodu, wpłynęło na rozwój filozofii i polityki i pomogło w kształtowaniu rządów demokratycznych, ekonomii wolnorynkowej i konstytucjonalizmu.
+Deklaracja Praw Człowieka i Obywatela z 1789 roku była dokumentem składającym się z 17 artykułów, który zadeklarował prawa i wolności człowieka i obywatela, inspirowany ideami Oświecenia i podpisanym przez przedstawicieli Narodowej Konstytuanty Francji.

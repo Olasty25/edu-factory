@@ -1,63 +1,64 @@
- # Quiz
+ # Quiz (113. Liberum veto i kryzys Rzeczpospolitej)
 
-1. Co to jest liberum veto?
-A. Absolutna władza króla
-B. Prawo jednego posła do unieważnienia decyzji sejmu
-C. Prawa szlachty do kontrolowania króla
-D. Zasada większości w głosowaniu
+1. Co oznacza łaciński termin "Liberum veto"?
 
-Correct answer: B. Prawo jednego posła do unieważnienia decyzji sejmu
+   A. "Wolne miasto"
+   B. "Wolne głosowanie"
+   C. "Wolna wola"
+   D. "Wolne sądy"
 
-2. Kiedy po raz pierwszy zastosowano liberum veto?
-A. W 1569 roku na sejmie w Lublinie
-B. W 1669 roku na sejmie w Warszawie
-C. W 1609 roku na sejmie w Radomiu
-D. W 1661 roku na sejmie w Toruniu
+   **Poprawna odpowiedź: C. "Wolna wola"**
 
-Correct answer: C. W 1609 roku na sejmie w Radomiu
+2. Kiedy po raz pierwszy zastosowano liberum veto w Sejmie Rzeczypospolitej?
 
-3. Czym był kryzys Rzeczypospolitej?
-A. Upadek gospodarczy w XVII wieku
-B. Okres wojen i konfliktów w XVIII wieku
-C. Schyłek polityczny i instytucjonalny w drugiej połowie XVII wieku
-D. Całkowity rozpad Rzeczypospolitej w 1795 roku
+   A. W 1609 roku
+   B. W 1669 roku
+   C. W 1764 roku
+   D. W 1788 roku
 
-Correct answer: C. Schyłek polityczny i instytucjonalny w drugiej połowie XVII wieku
+   **Poprawna odpowiedź: B. W 1669 roku**
 
-4. Jakie konsekwencje miało zastosowanie liberum veto?
-A. Zaburzenie porządku prawnego w kraju
-B. Wstrzymywanie prac sejmu
-C. Zwiększenie siły króla
-D. Ograniczenie władzy szlachty
+3. Jakie były konsekwencje stosowania liberum veto w Sejmie Rzeczypospolitej?
 
-Correct answer: B. Wstrzymywanie prac sejmu
+   A. Impas polityczny i brak zdolności do podejmowania decyzji
+   B. Zaniechanie wszelkich zmian w ustroju państwa
+   C. Zwiększenie władzy królewskiej
+   D. Ograniczenie uprawnień szlachty
 
-5. Kiedy został zniesiony instytut liberum veto?
-A. W 1768 roku na sejmie konwokacyjnym
-B. W 1788 roku na sejmie czteroletnim
-C. W 1792 roku na sejmie grodzieńskim
-D. W 1795 roku na sejmie rozbiorowym
+   **Poprawna odpowiedź: A. Impas polityczny i brak zdolności do podejmowania decyzji**
 
-Correct answer: B. W 1788 roku na sejmie czteroletnim
+4. Która z osób była najbardziej krytyczna wobec liberum veto?
 
-# Fiszki
+   A. Stanisław Leszczyński
+   B. Stanisław Małachowski
+   C. Król August III
+   D. Hetman Stefan Czarniecki
 
-1. Liberum Veto - prawo każdego posła do unieważnienia decyzji sejmu, poważnie utrudniające działania ustawodawcze.
+   **Poprawna odpowiedź: B. Stanisław Małachowski**
 
-2. Początek kryzysu politycznego w Rzeczypospolitej - miał miejsce w drugiej połowie XVII wieku, kiedy rozpoczął się proces erozji instytucji państwa wskutek działań liberum veto oraz konfliktów wewnętrznych.
+5. Kiedy zniesiono liberum veto w Rzeczypospolitej?
 
-3. Szlachta - stan posiadający przywileje w Rzeczypospolitej. Mogła uczestniczyć w pracach sejmu oraz miała prawo do głosowania. Jej działania przyczyniły do zastosowania liberum veto oraz kryzysu Rzeczypospolitej.
+   A. W 1773 roku
+   B. W 1791 roku
+   C. W 1793 roku
+   D. W 1795 roku
 
-4. Sejm - instytucja parlamentarna w Rzeczypospolitej, w której brali udział przedstawiciele szlachty.
+   **Poprawna odpowiedź: B. W 1791 roku**
 
-5. Rozbiór Polski - okres, w którym Rzeczpospolita Obojga Narodów została podzielona pomiędzy Prusy, Austrię i Rosję.
+# Fiszki (113. Liberum veto i kryzys Rzeczpospolitej)
 
-# Notatki
+1. **Liberum veto** - łaciński termin oznaczający "wolną wolę" lub "wolne głosowanie", stosowany w Sejmie Rzeczypospolitej, który umożliwiał każdemu deputowanemu blokowanie obrad i zapobieganie przyjęciu nowych uchwał.
+2. **Sejm Rzeczypospolitej** - instytucja ustawodawcza Rzeczypospolitej Obojga Narodów, złożona z przedstawicieli króla, senatu i izby poselskiej.
+3. **Szlachta** - arystokracja w Rzeczypospolitej Obojga Narodów, wywodząca się głównie z rycerstwa, posiadająca wiele przywilejów i uprawnień politycznych.
+4. **Ustrój Rzeczypospolitej** - konfederacja dwóch narodów: Polski i Litwy, charakteryzująca się złożonym systemem wielopartyjnym, decentralizacją i silnymi wpływami szlachty.
+5. **Konstytucja 3 maja** - pierwsza w historii Polski konstytucja, uchwalona w 1791 roku, która m.in. zniosła liberum veto i zmodyfikowała ustrój Rzeczypospolitej.
 
-Liberum veto to prawo każdego posła do unieważnienia decyzji sejmu, funkcjonujące w Rzeczypospolitej w latach 1609-1795. Zostało ono wprowadzone po raz pierwszy na sejmie w Radomiu w 1609 roku, a później zastosowane także na sejmach w kolejnych latach. Liberum veto uczyniło pracę sejmu rzeczywistej niemożliwością. Poważnie utrudniało to wdrażanie nowych ustaw, a sejmy, w których zdarzało się zastosowanie liberum veto, były przerwane lub zakończone bez realizowania żadnych decyzji. Prawo to uczyniło z posłów jednostki, które mogły zablokować jakąkolwiek próbę zmian w państwie.
+# Notatki (113. Liberum veto i kryzys Rzeczpospolitej)
 
-Kryzys Rzeczypospolitej to okres, w którym miał miejsce erozja instytucji państwowych,gerywały umocnione cechy państwowości, a rosła arogancja i nepoufność poszczególnych warstw stanowych. Szczególnie duży wpływ miało zastosowanie liberum veto. Kryzys polityczny w Rzeczypospolitej rozpoczął się w drugiej połowie XVII wieku i trwał aż do połowy XVIII wieku. W okresie tym rosło niezadowolenie wśród społeczeństwa, a na co dzień występowały konflikty religijne i społeczne.
+Liberum veto było instytucją istniejącą w Sejmie Rzeczypospolitej, która umożliwiała każdemu posłowi zablokowanie obrad i zapobieganie przyjęciu nowych uchwał. Przykładanie dużej wagi do tej instytucji było jednym z elementów ustroju Rzeczypospolitej, który charakteryzował się dużą autonomią i decentralizacją.
 
-Przymus rosyjski przyczynił się do zniesienia liberum veto w 1788 roku, jednak w tym samym czasie Rzeczpospolita stanęła w obliczu kolejnego wyzwania - rozbiorów. Po wybuchu powstania kościuszkowskiego i jego późniejszej klęsce, rozpoczął się trwający 123 lata okres rozbiorów, który w końcu doprowadził do zaniku państwa polsko-litewskiego. W latach 1772-1795 Rzeczpospolita została podzielona pomiędzy Prusy, Austrię i Rosję.
+Początkowo liberum veto było stosowane sporadycznie, ale od połowy XVII wieku zyskało na popularności i stało się przeszkodą w rozwoju i modernizacji kraju. Szlachta uważała to za gwarancję wolności i niepodlegania królom Absolutystycznych. W rzeczywistości jednak liberum veto powodowało impas polityczny i brak zdolności do podejmowania decyzji.
 
-Ważnym aspektem tego okresu była także rola szlachty, która miała przywileje w Rzeczypospolitej. Szlachta mogła uczestniczyć w pracach sejmu i miała prawo do głosowania. Wskutek braku podziału na partie polityczne oraz charakterystycznych dla niej konfliktów wewnętrznych, w dużym stopniu przyczyniła się do zastosowania liberum veto i związanego z tym kryzysu w Rzeczypospolitej.
+Próby ograniczenia lub zniesienia liberum veto podejmowane były kilkakrotnie, m.in. poprzez utworzenie konfederacji stanowych, które umożliwiały podejmowanie decyzji większością głosów. Jednak szlachta nie zgodziła się na zniesienie liberum veto aż do 1791 roku, kiedy to przyjęty został nowy ustrój państwa, zakładający m.in. zniesienie liberum veto i utworzenie stanowisk premiera i wicepremiera.
+
+Zniesienie liberum veto było jednym z pierwszych kroków w kierunku reform ustrojowych, jednak nie zapobiegło rozbiorom Polski i upadkowi Rzeczypospolitej. Instytucja ta była symbolem wolności i autonomii szlacheckiej, ale również głębokiej niepewności i braku stabilności politycznej w Rzeczypospolitej Obojga Narodów.
