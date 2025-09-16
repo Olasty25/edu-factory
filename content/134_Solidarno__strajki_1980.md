@@ -1,1 +1,1 @@
- # Quiz: Solidarność – strajki 1
+ # Quiz - Solidarność - strajki 1
