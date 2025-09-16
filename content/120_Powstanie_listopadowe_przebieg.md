@@ -1,59 +1,70 @@
- ## Quiz
+ Powstanie listopadowe przebieg
+============================
 
-1. Kiedy rozpoczęło się powstanie listopadowe?
-   A. 21 listopada 1830 r.
-   B. 19 listopada 1830 r.
-   C. 23 listopada 1830 r.
-   D. 25 listopada 1830 r.
+Quiz
+----
 
-   Poprawna odpowiedź: B. 19 listopada 1830 r.
+1. Kiedy rozpoczęło się Powstanie Listopadowe?
+   A. 20 listopada 1830 roku
+   B. 29 listopada 1830 roku
+   C. 19 listopada 1830 roku
+   D. 30 listopada 1830 roku
+   **Poprawna odpowiedź: C. 19 listopada 1830 roku**
 
-2. Kto był przywódcą powstania listopadowego?
+2. Kto był Naczelnikiem Siły Zbrojnej Królestwa Polskiego podczas Powstania Listopadowego?
    A. Józef Chłopicki
    B. Jan Skrzynecki
    C. Henryk Dembiński
    D. Ignacy Prądzyński
+   **Poprawna odpowiedź: A. Józef Chłopicki**
 
-   Poprawna odpowiedź: A. Józef Chłopicki
+3. Która bitwa w guberni kaliskiej doprowadziła do klęski powstańców i była jednym z głównych powodów upadku Powstania Listopadowego?
+   A. Bitwa pod Wawrem
+   B. Bitwa pod Grochowiskami
+   C. Bitwa pod Iganiami
+   D. Bitwa pod Ostrołęką
+   **Poprawna odpowiedź: C. Bitwa pod Iganiami**
 
-3. Które państwo wsparło powstanie powstańców listopadowych militarnie?
-   A. Francja
-   B. Wielka Brytania
-   C. Stany Zjednoczone
-   D. Turcja
+4. Która z postaci historycznych była zwolennikiem powstania a następnie zmieniła swoje zdanie, podejmując walkę z powstańcami?
+   A. Józef Chłopicki
+   B. Józef Bem
+   C. Jan Krukowiecki
+   D. Adam Czartoryski
+   **Poprawna odpowiedź: C. Jan Krukowiecki**
 
-   Poprawna odpowiedź: A. Francja
+5. Kiedy Powstanie Listopadowe oficjalnie zakończyło się?
+   A. 10 października 1831 roku
+   B. 25 października 1831 roku
+   C. 5 listopada 1831 roku
+   D. 21 listopada 1831 roku
+   **Poprawna odpowiedź: A. 10 października 1831 roku**
 
-4. Kiedy i w którym mieście została podpisana konwencja admiralska?
-   A. 26 lutego 1831 r., Warszawa
-   B. 8 września 1831 r., Stary Kamień
-   C. 21 lipca 1831 r., Sokołów Podlaski
-   D. 3 lipca 1831 r., Supraśl
+Fiszki
+-----
 
-   Poprawna odpowiedź: C. 21 lipca 1831 r., Sokołów Podlaski
+1. **Powstanie Listopadowe** - zbrojne wystąpienie Polaków przeciwko władzy rosyjskiej w Królestwie Polskim trwające od 19 listopada 1830 do 10 października 1831 roku.
+2. **Józef Chłopicki** - Naczelnik Siły Zbrojnej Królestwa Polskiego podczas Powstania Listopadowego, postać żołnierska i weteran napoleoński.
+3. **Jan Skrzynecki** - Dowódca wojskowy, Naczelnik Siły Zbrojnej Królestwa Polskiego podczas Powstania Listopadowego.
+4. **Henryk Dembiński** - dowódca wojskowy, weteran napoleoński i jeden z dowódców Podolanów w bitwach pod Grochowiskami i Ostrołęką.
+5. **Adam Czartoryski** - zwolennik powstania, po jego wybuchu podejmował pracę dyplomatyczną, zmienił swoje zdanie i podjął walkę z powstańcami.
 
-5. Po upadku powstania listopadowego władzę w Królestwie Polskim przejęli Rosjanie. Niestety, w ramach represji Królestwo Polskie zostało zlikwidowane. Kiedy to nastąpiło?
-   A. 1833 r.
-   B. 1846 r.
-   C. 1864 r.
-   D. 1867 r.
+Notatki
+-------
 
-   Poprawna odpowiedź: C. 1864 r.
+Powstanie Listopadowe było zbrojnym wystąpieniem Polaków przeciwko władzy rosyjskiej w Królestwie Polskim trwającym od 19 listopada 1830 do 10 października 1831 roku. Było wynikiem niezadowolenia z gwarancji autonomicznego charakteru Królestwa Polskiego zawartych w warunkach traktatu z 1815 roku i faktu jego faktycznego podporządkowania Imperium Rosyjskiemu.
 
-## Fiszki
+Do głównych przyczyn powstania należały: utrata suwerenności Królestwa, próby usunięcia autonomii Królestwa Polskiego, wycofywanie przez cara Mikołaja I obietnic postanowień kongresu wiedeńskiego dotyczących ustanowienia Królestwa Polskiego jako quasi-suwerennego państwa, brak respektu wobec wprowadzenie przez króla Mikołaja w 1825 roku w Królestwie Polskim podatków, języka rosyjskiego i wojskowości rosyjskiej.
 
-1. **Józef Chłopicki** - generał, przywódca powstania listopadowego.
-2. **Jan Skrzynecki** - generał, następca Chłopickiego na stanowisku dowódcy powstania.
-3. **Konwencja admiralska** - układ pomiędzy Komisją Rządzącą a admirałem Rosyjskiej Floty Bałtyckiej, na mocy którego okręty rosyjskie w porcie w Gdańsku zgodziły się nie atakować powstańców w zamian za paliwo, żywność, możliwość dokonania napraw i nieinterweniowania w przeciwieństwie do wojsk lądowych.
-4. **Rozejm w Miłosławiu** - pokój zawarty 29 września 1831 r. pomiędzy powstańcami a Rosjanami, zakończył się niepowodzeniem z powodu fiaska wsparcia Francji.
-5. **Likwidacja Królestwa Polskiego** - w konsekwencji powstania listopadowego, car Mikołaj I w 1864 r. zlikwidował Królestwo Polskie i włączył je do Imperium Rosyjskiego, nadając mu nazwę "Kraj Nadwiślański".
+Pierwszym Naczelnikiem Siły Zbrojnej Królestwa Polskiego podczas Powstania Listopadowego był Józef Chłopicki, postać żołnierska, weteran napoleoński, który pochodził z Wielkopolski.
 
-## Notatki
+Zaraz po wojnie powstańczej wybuchły powstania w Księstwie Warszawskim, a także w Krakowie, który znajdował się w autonomicznym Księstwie Krakowskim.
 
-Powstanie listopadowe było jednym z wielkich powstań na ziemiach polskich, które rozpoczęło się 19 listopada 1830 r. Jego przyczynami były wzrastające nastroje niepodległościowe w wyniku klęski powstania kościuszkowskiego, brak rozwoju gospodarczego Królestwa Polskiego i przykrych rządów rosyjskich. Przywódcą powstania został Józef Chłopicki, generał utworzonego przez polskich patriotów Zgromadzenia Przyjaciół Wolności. Po jego rezygnacji w styczniu 1831 r., funkcję dowódcy armii przejął Jan Skrzynecki.
+Wczesne zwycięstwa powstańcze sprawiły, że niektóre z sąsiednich krajów zaczęły okazywać im poparcie, m.in. Belgia i Francja. W związku z tym car Mikołaj I zwrócił się o pomoc do Prezydenta Republiki Francuskiej króla Ludwika Filipa I.
 
-Początkowo powstanie rozwijało się powodzeniem i przyciągało uwagę europejskich mocarstw, jednak stopniowo utraciło impet. Francja była państwem zainteresowanym najbardziej, narzucając m.in. Juliana Ursyna Niemcewicza na premiera Rządu Narodowego, jednak starała się eludować konflikt z Rosją.
+W bitwie pod Ostrołęką, toczonej 26 maja 1831 roku, Henryk Dembiński jako jeden z dowódców Podolanów osiągnął zwycięstwo i powstańcy skierowali się na północ, gdzie zostali zatrzymani przed Warszawą.
 
-Konsekwencją powstania było znaczne pogorszenie stosunków polsko-rosyjskich. Rząd carski wprowadził surowe represje, w tym utratę autonomii Królestwa Polskiego, likwidację Uniwersytetu Warszawskiego oraz konfiskatę majątków szlacheckich i ograniczenia wolności osobistej. W 1863 r. w wyniku nowego, nieudanego powstania, Królestwo Polskie całkowicie utraciło samorządność i zostało włączone do Rosji jako "Kraj Nadwiślański".
+Z kolei w guberni kaliskiej, Jan Zygmunt Skrzynecki podjął próbę obrony stolicy przed atakiem wojsk rosyjskich. Pomimo początkowego powodzenia, został doprowadzony do bitwy pod Iganiami, która odbyła się 10 kwietnia 1831 roku i zakończyła się klęską powstańców. Bitwa ta była jednym z głównych powodów upadku Powstania Listopadowego.
 
-Mimo klęski powstańców, było to wydarzenie znamienne w obronie demokracji i dążeniu do uzyskania wolności na ziemiach polskich. Stało się obiektem zainteresowania inteligencji, takiej jak Adam Mickiewicz, piszący utwory inspirowane powstaniem, jak i wielu innych, a powstańcom oddawali tribute artyści unowocześniający się w Europie w ówczesnych latach.
+Ważna postacią Powstania Listopadowego była również Joanna Żubr, która pełniła rolę kurierki. Ze względu na swoją działalność została ścigana przez władze carskie. Udało jej się jednak uniknąć pojmania i dzięki temu udawało jej się przekazywać powstańcom informacje odnośnie sytuacji w Królestwie Polskim, a także wyjechać za granicę.
+
+Powstanie Listopadowe oficjalnie zakończyło się 10 października 1831 roku.
