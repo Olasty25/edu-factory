@@ -1,54 +1,57 @@
- # Quiz - Front Wschodni II Wojny Światowej
+ ### Quiz
 
-1. Któż był inicjatorem ataku Niemiec na ZSRR 22 czerwca 1941 roku?
-    A. Stalin
-    B. Hitler
-    C. Hirohito
-    D. Mussolini
-    **Poprawna odpowiedź: B. Hitler**
+1. Która data jest uznawana za początek II wojny światowej na froncie wschodnim?
+   A. 1 września 1939 r.
+   B. 22 czerwca 1941 r.
+   C. 7 grudnia 1941 r.
+   D. 8 maja 1945 r.
 
-2. Kiedy miała miejsce bitwa pod Stalingradem?
-    A. 1942-1943
-    B. 1941-1942
-    C. 1943-1944
-    D. 1940-1941
-    **Poprawna odpowiedź: A. 1942-1943**
+   **Poprawna odpowiedź: B**
 
-3. Ile narodów sojuszniczych ZSRR utworzyło Antyhitlerowski Pakt (1941 rok)?
-    A. 4
-    B. 5
-    C. 6
-    D. 7
-    **Poprawna odpowiedź: C. 6**
+2. Która z poniższych bitew była największą bitwą tankową w historii?
+   A. Bitwa stalingradzka
+   B. Bitwa o Kursk
+   C. Bitwa o Moskwę
+   D. Bitwa o Leningrad
 
-4. Który z tych operacji ofensywnych został przeprowadzony przez Armię Czerwoną z zamiarem odbicia Warszawy?
-    A. Operacja Uran
-    B. Operacja Wschód
-    C. Operacja Bagration
-    D. Operacja Warszawa
-    **Poprawna odpowiedź: D. Operacja Warszawa (nigdy nie została przeprowadzona)**
+   **Poprawna odpowiedź: B**
 
-5. Kiedy Armia Czerwona wkroczyła do Berlina?
-    A. 25 kwietnia 1945 roku
-    B. 30 kwietnia 1945 roku
-    C. 1 maja 1945 roku
-    D. 2 maja 1945 roku
-    **Poprawna odpowiedź: D. 2 maja 1945 roku**
+3. Która operacja wojskowa przeprowadzona przez Armię Czerwoną była największą operacją wojskową w historii?
+   A. Operacja Barbarossa
+   B. Operacja Bagration
+   C. Operacja Zimowa
+   D. Operacja Uran
 
-# Fiszki - Front Wschodni II Wojny Światowej
+   **Poprawna odpowiedź: B**
 
-1. **Blitzkrieg** - Niemiecki termin oznaczający "szybki, niszczący atak". Blitzkrieg był stosowany na froncie wschodnim w latach 1941-1942, kiedy armia niemiecka szybko zajmowała kolejne ziemie ZSRR.
-2. **Operacja Barbarossa** - Niemiecka inwazja na ZSRR rozpoczęta 22 czerwca 1941 roku.
-3. **Stalingrad** - Miasto w Rosji, w którym miała miejsce jedna z najważniejszych bitew II wojny światowej. Bitwa pod Stalingradem zakończyła się zwycięstwem ZSRR i była punktem zwrotnym wojny na froncie wschodnim.
-4. **Pakt Molotow-Ribbentrop** - Tajny pakt między ZSRR a III Rzeszą z sierpnia 1939 roku, w którym oba kraje podzieliły Europę na strefy wpływów.
-5. **Antyhitlerowski Pakt** - Pakt z 1941 roku, w którym ZSRR sprzymierzył się z Wielką Brytanią, Stanami Zjednoczonymi i innymi państwami przeciwko hitlerowskim Niemcom.
+4. Który z poniższych dyktatorów był przywódcą Niemiec podczas II wojny światowej?
+   A. Heinrich Himmler
+   B. Hermann Göring
+   C. Adolf Hitler
+   D. Joseph Goebbels
 
-# Notatki - Front Wschodni II Wojny Światowej
+   **Poprawna odpowiedź: C**
 
-Front wschodni II wojny światowej był największym i najkrwawszym teatrem działań wojennych w historii. Rozpoczął się 22 czerwca 1941 roku atakiem Niemiec na ZSRR, znanym jako Operacja Barbarossa. Początkowo armia niemiecka odniosła serię zwycięstw, docierając aż do bram Moskwy.
+5. Kto był przywódcą Związku Radzieckiego podczas II wojny światowej?
+   A. Nikita Chruszczow
+   B. Leonid Breżniew
+   C. Józef Stalin
+   D. Michaił Gorbaczow
 
-Jednakże od 1942 roku sytuacja zaczęła się zmieniać. Bitwa pod Stalingradem była przełomowym momentem w wojnie na froncie wschodnim. Bitwa trwała od lipca 1942 do lutego 1943 roku i zakończyła się rozbiciem armii niemieckiej. Stalingrad był symbolem determinacji ZSRR do zwycięstwa nad faszyzmem.
+   **Poprawna odpowiedź: C**
 
-W lutym 1945 roku, Armia Czerwona wkroczyła do Berlina, kończąc tym samym wojnę na froncie wschodnim. 2 maja 1945 roku Berlin kapitulował, a 8 maja 1945 roku III Rzesza wraz z resztą Europy Środkowej i Wschodniej została poddana aliantom.
+### Fiszki
 
-Front wschodni był miejscem, w którym przyszłość Europy została ukształtowana. Po wojnie narody Europy Wschodniej zostały podzielone między strefę wpływów USA i ZSRR. W ten sposób na 45 lat powstały dwie przeciwstawne ideologie: liberalna demokracja i komunizm.
+1. **Operacja Barbarossa** - niemiecka inwazja na Związek Radziecki rozpoczęta 22 czerwca 1941 r.
+2. **Armia Czerwona** - wojska lądowe Związku Radzieckiego, później przemianowane na Siły Zbrojne ZSRR.
+3. **Blitzkrieg** - niemiecka doktryna wojenna zakładająca szybkie i zmasowane natarcie.
+4. **Generał Guderian** - niemiecki generał, dowódca jednej z najsilniejszych niemieckich grup pancernych podczas II wojny światowej.
+5. **Stalingrad** - miasto w Południowym Rosji, miejsce jednej z największych bitew II wojny światowej.
+
+### Notatki
+
+Front wschodni II wojny światowej był drugim, obok frontu zachodniego, najważniejszym frontem konfliktu. Rozpoczął się on inwazją Niemiec na Związek Radziecki, która została przeprowadzona 22 czerwca 1941 r. Operacja, która nosiła kryptonim Operacja Barbarossa, była dużą niespodzianką dla sowieckiego przywódcy Józefa Stalina, który nie przygotował odpowiednio sił zbrojnych do obrony przed inwazją. Niemcy, korzystając z nowoczesnej broni i doświadczenia wojskowych, zajęli w krótkim czasie znaczną część terytorium ZSRR. 
+
+Mimo początkowych sukcesów, Wehrmacht zaczął odczuwać braki w zaopatrzeniu i problematykę logistyczną, czego skutkiem była późniejsza przegrana w bitwie pod Moskwą. W 1942 r. Niemcy przeprowadzili kolejną ofensywę, tym razem skierowaną na południe, w celu zajęcia bogatych zasobów ropy naftowej na Kaukazie. W rezultacie doszło do bitwy pod Stalingradem, która stała się punktem zwrotnym wojny. Armia Czerwona otoczyła wojska niemieckie i zmusiła ich do kapitulacji, co było pierwszym dużym sukcesem aliantów w wojnie z III Rzeszą. 
+
+Po bitwie pod Stalingradem Armia Czerwona rozpoczęła kontrofensywę, która ostatecznie doprowadziła do zwycięstwa nad Niemcami. W 1943 r. miała miejsce bitwa o Kursk, największa bitwa tanek w historii, w której Armia Czerwona zadała Niemcom poważne straty. W 1944 r. Armia Czerwona przeprowadziła Operację Bagration, największą operację wojskową w historii, w wyniku której wyzwoliła Białoruś, część Polski i kraje bałtyckie. W kwietniu i maju 1945 r. Armia Czerwona wkroczyła do Berlina i zdobyła miasto, co ostatecznie doprowadziło do kapitulacji Niemiec i zakończenia II wojny światowej.

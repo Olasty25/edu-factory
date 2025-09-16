@@ -1,58 +1,65 @@
- # Quiz - 126. Konferencje wielkiej trójki
-1. Co to są konferencje wielkiej trójki?
-   A. Spotkania pomiędzy liderami państw
-   B. Spotkania na szczycie poziomu ministrów
-   C. Spotkania na poziomie ambasadorów
-   D. Spotkania wojskowe
+ ### Quiz
 
-   *Poprawna odpowiedź: A*
+1. Co to są Konferencje Wielkiej Trójki?
+A. Konferencje między dwiema supermocarstwami
+B. Konferencje między trzema głównymi alianckimi potęgami II wojny światowej
+C. Konferencje między Niemcami, Japonią i Włochami
+D. Konferencje między małymi państwami europejskimi
 
-2. Które państwa należą do wielkiej trójki?
-   A. Niemcy, Francja, Wielka Brytania
-   B. Stany Zjednoczone, Wielka Brytania, Kanada
-   C. Stany Zjednoczone, Rosja, Chiny
-   D. Stany Zjednoczone, Wielka Brytania, Rosja
+Poprawna odpowiedź: B
 
-   *Poprawna odpowiedź: D*
+2. Ile konferencji odbyło się w ramach Wielkiej Trójki?
+A. 1
+B. 2
+C. 3
+D. 4
 
-3. Kiedy odbyła się pierwsza konferencja wielkiej trójki?
-   A. W 1939 roku
-   B. W 1941 roku
-   C. W 1943 roku
-   D. W 1945 roku
+Poprawna odpowiedź: C
 
-   *Poprawna odpowiedź: C*
+3. Kiedy i gdzie odbyła się konferencja Teheranu?
+A. Grudzień 1943, Teheran
+B. Lipiec 1944, Waszyngton
+C. Luty 1945, Jalta
+D. Sierpień 1945, Poczdam
 
-4. Gdzie odbyła się pierwsza konferencja wielkiej trójki?
-   A. Waszyngton
-   B. Moskwa
-   C. Casablanca
-   D. Teheran
+Poprawna odpowiedź: A
 
-   *Poprawna odpowiedź: D*
+4. Kto reprezentował Stany Zjednoczone na konferencji Jałta?
+A. Dwight D. Eisenhower
+B. George Marshall
+C. Franklin D. Roosevelt
+D. Harry Truman
 
-5. Co było głównym tematem pierwszej konferencji wielkiej trójki?
-   A. Plan Marshalla
-   B. Strategia wojenna
-   C. Powojenne rozstrzygnięcia
-   D. Konsekwencje wojny
+Poprawna odpowiedź: C
 
-   *Poprawna odpowiedź: B*
+5. Czym była deklaracja poczdamska?
+A. Zestawienie postanowień konferencji poczdamskiej podsumowujące zakończenie II wojny światowej
+B. Umowa o podziale obszaru Południowego Pacyfiku po wojnie
+C. Zbiór postanowień prezydenta USA ws. zmiany polityki zagranicznej
+D. Pakt o nieagresji między ZSRR, USA i Wielką Brytanią
 
-# Fiszki - 126. Konferencje wielkiej trójki
-1. Wielka Trójka - grupa trzech najbardziej wpływowych państw podczas II wojny światowej: Stany Zjednoczone, Wielka Brytania i Rosja.
-2. Konferencje Wielkiej Trójki - spotkania liderów państw Wielkiej Trójki w celu omówienia spraw międzynarodowych i strategii wojennych.
-3. Pierwsza konferencja Wielkiej Trójki miała miejsce w Teheranie w 1943 roku, podczas której omówiono strategię wojenną przeciwko III Rzeszy i plan pokojowy po wojnie.
-4. Konferencje Wielkiej Trójki były jednym z najważniejszych mechanizmów podejmowania decyzji w czasie II wojny światowej.
-5. Ostatnia konferencja Wielkiej Trójki miała miejsce w Poczdamie w 1945 roku, po kapitulacji Niemiec i Japonii, i była poświęcona zagadnieniom polityki powojennej.
+Poprawna odpowiedź: A
 
-# Notatki - 126. Konferencje wielkiej trójki
-Konferencje Wielkiej Trójki to spotkania liderów trzech najbardziej wpływowych państw w czasie II wojny światowej: Stanów Zjednoczonych, Wielkiej Brytanii i Rosji. Ich celem było omówienie najbardziej aktualnych spraw międzynarodowych, a także strategii wojennych.
+---
 
-Pierwsza konferencja miała miejsce w Teheranie w 1943 roku, a starano się podczas niej omówić strategię wojenną przeciwko III Rzeszy i plan pokojowy po wojnie. W spotkaniu brali udział: prezydent Stanów Zjednoczonych Franklin D. Roosevelt, premier Wielkiej Brytanii Winston Churchill i premier Związku Radzieckiego Józef Stalin.
+### Fiszki
 
-Druga konferencja odbyła się w Moskwie w 1944 roku. Starano się podczas niej ustalić dokładniejsze plany polityki powojennej i zdecydowano o utworzeniu Organizacji Narodów Zjednoczonych (ONZ).
+1. **Wielka Trójka** - określenie na trzy główne alianckie potęgi II wojny światowej: Stany Zjednoczone, ZSRR i Wielka Brytania
+2. **Konferencje** - spotkania szefów rządów lub ministrów spraw zagranicznych alianckich mocarstw w czasie II wojny światowej, mające na celu koordynację wysiłków wojennych i ustalenie polityki międzynarodowej po wojnie
+3. **Konferencja w Teheranie (1943)** - pierwsza z konferencji Wielkiej Trójki, na której ustalono plan strategiczny na środkowy i daleki wschód
+4. **Konferencja w Bretton Woods (1944)** - nie należy do konferencji Wielkiej Trójki, ale współfinansowana przez aliantów, na której ustalono nowy system walutowy dla powojennej gospodarki międzynarodowej
+5. **Konferencja w Jałcie (1945)** - spotkanie na którym ustalono zasady powojennej organizacji świata, zakończone deklaracją jałtańską
 
-Ostatnia konferencja miała miejsce w Poczdamie w 1945 roku. Brali w niej udział: nowy prezydent Stanów Zjednoczonych Harry S. Truman, premier Wielkiej Brytanii Winston Churchill (później premier Clement Attlee) i premier Związku Radzieckiego Józef Stalin. Podczas tej konferencji omawiano zagadnienia polityki powojennej, w tym rozgraniczenie stref wpływów, deklarację Poczdamską i zagadnienia reparacji wojennych.
+---
 
-Konferencje Wielkiej Trójki były bardzo ważnym mechanizmem podejmowania decyzji w czasie II wojny światowej. Miały one wpływ na kształtowanie polityki międzynarodowej i sprawowały wpływ na bieg wielu wydarzeń podczas i po wojnie.
+### Notatki
+
+Wielka Trójka była określeniem trzech głównych alianckich potęg II wojny światowej: Stanów Zjednoczonych, ZSRR i Wielkiej Brytanii. W latach 1943-1945 odbyły się trzy konferencje na szczeblu szefów rządów lub ministrów spraw zagranicznych, w celu koordynacji wysiłków wojennych i ustalenia polityki międzynarodowej po wojnie.
+
+Konferencja w Teheranie (1943) była pierwszą z konferencji Wielkiej Trójki. Odbyła się w dniach 28 listopada - 1 grudnia 1943 roku w Teheranie w Iranie. Główne postanowienia teherańskie dotyczyły planu strategicznego na środkowy i daleki wschód.
+
+Konferencja w Bretton Woods (1944) nie należy do konferencji Wielkiej Trójki, ale jest współfinansowana przez aliantów. Odbyła się w lipcu 1944 roku w Bretton Woods w New Hampshire w Stanach Zjednoczonych. Konferencja ta miała na celu ustalenie nowego systemu walutowego dla powojennej gospodarki międzynarodowej, którego efektem było powstanie Międzynarodowego Funduszu Walutowego (MFW) i Banku Światowego.
+
+Konferencja w Jałcie (1945) była drugą z konferencji na szczeblu szefów rządów w ramach Wielkiej Trójki. Odbyła się w dniach 4-11 lutego 1945 roku w Jałcie na Krymie. Główne postanowienia konferencji dotyczyły zasad powojennej organizacji świata, co zostało dokładnie ujęte w deklaracji jałtańskiej.
+
+Trzecia i ostatnia konferencja Wielkiej Trójki miała miejsce w Poczdamie w dniach 17 lipca - 2 sierpnia 1945 roku. Stanowiła usankcjonowanie zmian terytorialnych i ustaleń międzynarodowych na arenie światowej po zakończeniu II wojny światowej. Została ustalona deklaracja poczdamska, zawierająca postanowienia i zalecenia dla państw europejskich po wojnie. W deklaracji tej po raz pierwszy zostały podjęte zalecenia dotyczące demilitaryzacji Niemiec, dekartelizacji i demokratyzacji jej ustroju.
