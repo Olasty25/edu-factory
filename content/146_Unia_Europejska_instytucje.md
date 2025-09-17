@@ -1,58 +1,63 @@
  # Quiz - Unia Europejska: Instytucje
 
-1. Jaką liczbę instytucji pierwotnych posiada Unia Europejska?
+1. Co to jest Unia Europejska?
+   A. Organizacja gospodarcza
+   B. Organizacja polityczna
+   C. Organizacja gospodarczo-polityczna
+   D. Organizacja wojskowa
+   &nbsp;
+   Poprawna odpowiedź: C. Organizacja gospodarczo-polityczna
+
+2. Ile instytucji jest w Unii Europejskiej?
    A. 4
    B. 5
    C. 6
    D. 7
-   **Poprawna odpowiedź: B. 5**
+   &nbsp;
+   Poprawna odpowiedź: C. 6
 
-2. Która z instytucji Unii Europejskiej reprezentuje interesy Unii jako całości?
-   A. Parlament Europejski
-   B. Rada Europejska
-   C. Europejska Rada ds. Polityki Zagranicznej
-   D. Komisja Europejska
-   **Poprawna odpowiedź: D. Komisja Europejska**
+3. Co to jest Rada Europejska?
+   A. Instytucja, w której zasiadają szefowie państw i rządów członkowskich UE
+   B. Instytucja, w której zasiadają premierzy członkowskich państw UE
+   C. Instytucja, w której zasiadają ministrowie spraw zagranicznych członkowskich państw UE
+   D. Instytucja, w której zasiadają przewodniczący parlamentów członkowskich państw UE
+   &nbsp;
+   Poprawna odpowiedź: A. Instytucja, w której zasiadają szefowie państw i rządów członkowskich UE
 
-3. Która z instytucji Unii Europejskiej jest prawomocnym trybunałem rozstrzygającym spory prawne w ramach UE?
-   A. Europejski Trybunał Sprawiedliwości
-   B. Sąd Europejski
-   C. Trybunał Obrachunkowy
-   D. Trybunał Spraw Zagranicznych
-   **Poprawna odpowiedź: A. Europejski Trybunał Sprawiedliwości**
+4. Co to jest Europejski Komisarz?
+   A. Członek Rady Europejskiej
+   B. Członek Parlamentu Europejskiego
+   C. Członek Europejskiej Komisji
+   D. Członek Europejskiego Trybunału Sprawiedliwości
+   &nbsp;
+   Poprawna odpowiedź: C. Członek Europejskiej Komisji
 
-4. Która z instytucji Unii Europejskiej ustanawia politykę zagraniczną i bezpieczeństwa UE?
-   A. Parlament Europejski
-   B. Rada Europejska
-   C. Europejska Rada ds. Polityki Zagranicznej
-   D. Komisja Europejska
-   **Poprawna odpowiedź: C. Europejska Rada ds. Polityki Zagranicznej**
-
-5. Które instytucje Unii Europejskiej uczestniczą w procesie legislacyjnym Unii?
-   A. Rada Europejska
-   B. Komisja Europejska
-   C. Parlament Europejski
-   D. Europejski Trybunał Sprawiedliwości
-   **Poprawna odpowiedź: B, C. Komisja Europejska i Parlament Europejski**
+5. Co to jest Europejski Trybunał Sprawiedliwości?
+   A. Instytucja, która rozstrzyga spory pomiędzy państwami członkowskimi UE
+   B. Instytucja, która rozstrzyga spory pomiędzy obywatelami UE a instytucjami UE
+   C. Instytucja, która rozstrzyga spory pomiędzy obywatelami UE
+   D. Instytucja, która rozstrzyga spory pomiędzy państwami członkowskimi UE a instytucjami UE
+   &nbsp;
+   Poprawna odpowiedź: D. Instytucja, która rozstrzyga spory pomiędzy państwami członkowskimi UE a instytucjami UE
 
 # Fiszki - Unia Europejska: Instytucje
 
-1. **Parlament Europejski** - Najważniejszy organ ustawodawczy UE, składa się z deputowanych wybieranych bezpośrednio w poszczególnych krajach Unii.
-2. **Rada Europejska** - Składa się z szefów stanu lub rządu państw członkowskich UE oraz przewodniczącego Komisji Europejskiej. Jest ona organem decyzyjnym w sprawach politycznych i gospodarczych UE.
-3. **Komisja Europejska** - Instytucja wykonawcza UE, składa się z 27 Komisarzy (po jednym z każdego państwa członkowskiego) kierowanych przez Przewodniczącego.
-4. **Europejska Rada ds. Polityki Zagranicznej** - Tworzy ją Rada Unii Europejskiej i Komisja Europejska. Jest to organ ds. formułowania i wykonywania polityki zagranicznej i bezpieczeństwa UE.
-5. **Europejski Trybunał Sprawiedliwości** - Prawomocny trybunał rozstrzygający spory prawne w ramach UE, ustanawiając precedensy dla prawa europejskiego.
+1. **Unia Europejska (UE)** - organizacja gospodarczo-polityczna zrzeszająca 27 państw europejskich.
+2. **Rada Europejska** - instytucja Unii Europejskiej, w której zasiadają szefowie państw i rządów członkowskich UE.
+3. **Europejska Komisja** - instytucja Unii Europejskiej, która jest organem wykonawczym UE.
+4. **Parlament Europejski** - instytucja Unii Europejskiej, w której zasiadają deputowani wybrani w wyborach powszechnych.
+5. **Europejski Trybunał Sprawiedliwości** - instytucja Unii Europejskiej, która rozstrzyga spory pomiędzy państwami członkowskimi UE a instytucjami UE.
 
 # Notatki - Unia Europejska: Instytucje
 
-Unia Europejska posiada pięć instytucji pierwotnych, których rola i zadania przepisane są w traktatach Unii. Są to: Parlament Europejski, Rada Europejska, Komisja Europejska, Europejska Rada ds. Polityki Zagranicznej oraz Europejski Trybunał Sprawiedliwości.
+Unia Europejska (UE) to organizacja gospodarczo-polityczna zrzeszająca 27 państw europejskich. Głównymi celami UE są promowanie wzrostu gospodarczego, zapewnienie zatrudnienia, ochrona interesów obywateli UE oraz wspieranie wymiany i wolności ruchu pomiędzy państwami członkowskimi.
 
-- **Parlament Europejski**: Najważniejszy organ ustawodawczy UE, składający się z deputowanych wybieranych bezpośrednio w poszczególnych krajach Unii. Ma on prawo inicjatywy legislacyjnej oraz wspólnie z Radą Europejską wykonuje zadania z zakresu legislacji.
+UE składa się z sześciu instytucji: Rady Europejskiej, Europejskiej Komisji, Parlamentu Europejskiego, Europejskiego Trybunału Sprawiedliwości, Europejskiego Banku Centralnego oraz Europejskiego Banku Inwestycyjnego.
 
-- **Rada Europejska**: Składa się z szefów stanu lub rządu poszczególnych państw członkowskich UE oraz przewodniczącego Komisji Europejskiej. Jest ona decyzyjna w sprawach politycznych i gospodarczych UE. Wspólnie z Parlamentem Europejskim ustanawia politykę i budżet Unii.
+Rada Europejska to instytucja Unii Europejskiej, w której zasiadają szefowie państw i rządów członkowskich UE. Rada Europejska jest odpowiedzialna za kierowanie polityką i strategią UE, a także za podejmowanie decyzji w sprawach najważniejszych dla UE.
 
-- **Komisja Europejska**: Instytucja wykonawcza UE, która składa się z 27 Komisarzy (po jednym z każdego państwa członkowskiego) kierowanych przez Przewodniczącego. Podejmuje ona inicjatywę w zakresie legislacji i jest w tej materii równa z Radą Europejską. Ma prawo zgłaszania propozycji legislacyjnych oraz jest odpowiedzialna za egzekwowanie prawa europejskiego.
+Europejska Komisja to instytucja Unii Europejskiej, która jest organem wykonawczym UE. Komisja jest odpowiedzialna za inicjowanie nowych praw i zarządzanie budżetem UE. Komisja składa się z 27 Komisarzy, po jednym z każdego państwa członkowskiego UE.
 
-- **Europejska Rada ds. Polityki Zagranicznej**: Tworzona przez Radę Unii Europejskiej i Komisję Europejską. Ma ona za zadanie formułowanie i wykonywanie polityki zagranicznej oraz polityki bezpieczeństwa UE.
+Parlament Europejski to instytucja Unii Europejskiej, w której zasiadają deputowani wybrani w wyborach powszechnych. Parlament Europejski jest odpowiedzialny za uchwalanie praw UE, a także za nadzór nad działalnością innych instytucji UE.
 
-- **Europejski Trybunał Sprawiedliwości**: Prawomocny trybunał rozstrzygający spory prawne w ramach UE. Tworzy precedensy dla prawa europejskiego i zapewnia jednolite stosowanie prawa unijnego w państwach członkowskich.
+Europejski Trybunał Sprawiedliwości to instytucja Unii Europejskiej, która rozstrzyga spory pomiędzy państwami członkowskimi UE a instytucjami UE. Trybunał Sprawiedliwości jest również odpowiedzialny za zapewnienie jednolitej interpretacji prawa UE w całej Unii Europejskiej.
