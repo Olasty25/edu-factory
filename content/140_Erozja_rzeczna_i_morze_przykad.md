@@ -1,65 +1,63 @@
- # Quiz (140. Erozja rzeczna i morze przykład)
+ # Quiz: Erozja rzeczna i morze przybrzeżne
 
 1. Co to jest erozja rzeczna?
-   A. Proces niszczenia i usuwania materiałów skalnych przez wiatr
-   B. Proces niszczenia i usuwania materiałów skalnych przez wodę
-   C. Proces niszczenia i usuwania materiałów skalnych przez lód
-   D. Proces niszczenia i usuwania materiałów skalnych przez ogień
+   A. Proces niszczenia brzegu morza przez fale
+   B. Proces wietrzenia skał na powierzchni ziemi
+   C. Proces transportu i odkładania materiału przez wodę
+   D. Proces niszczenia brzegu rzeki przez wodę
 
-   Correct answer: **B**. Proces niszczenia i usuwania materiałów skalnych przez wodę
+   Poprawna odpowiedź: D. Proces niszczenia brzegu rzeki przez wodę
 
-2. Jakie rodzaje erozji rzecznej wyróżniamy?
-   A. Erozja denna i boczna
-   B. Erozja od szczytu i denna
-   C. Erozja boczna i od szczytu
-   D. Erozja denna, boczna i od szczytu
+2. Jaka jest główna przyczyna erozji rzecznej?
+   A. Wiatr
+   B. Lodowiec
+   C. Woda
+   D. Lądslajs
 
-   Correct answer: **D**. Erozja denna, boczna i od szczytu
+   Poprawna odpowiedź: C. Woda
 
-3. Co to jest przykład erozji morskiej?
-   A. Wędrujące wydmy przybrzeżne
-   B. Spłukiwanie skał przez duże powodzie
-   C. Rozmywanie brzegów przez fale morskie
-   D. Wietrzne odsłanianie skamielin
+3. Co to jest abrazyjna erozja rzeczna?
+   A. Erozja spowodowana przez siłę tarcia między materiałem a wodą
+   B. Erozja spowodowana przez wywiewanie materiału przez wiatr
+   C. Erozja spowodowana przez obrywanie materiału ze stromych brzegów
+   D. Erozja spowodowana przez roztopy lodowców
 
-   Correct answer: **C**. Rozmywanie brzegów przez fale morskie
+   Poprawna odpowiedź: A. Erozja spowodowana przez siłę tarcia między materiałem a wodą
 
-4. Jakie jest zjawisko geologiczne, w którym erozja morska tworzy podwodne jaskinie lub tunele?
-   A. Abradacja
-   B. Atricion
-   C. Hydraulic action
-   D. Korazja
+4. Co to jest denudacja?
+   A. Proces wietrzenia skał na powierzchni ziemi
+   B. Proces transportu i odkładania materiału przez wodę
+   C. Proces niszczenia brzegu morza przez fale
+   D. Proces niszczenia brzegu rzeki przez wodę
 
-   Correct answer: **C**. Hydraulic action
+   Poprawna odpowiedź: D. Proces niszczenia brzegu rzeki przez wodę
 
-5. Jakie konsekwencje może dla ludzi mieć nadmierna erozja rzeczna i morska?
-   A. Uszkodzenie infrastruktury i budynków
-   B. Zagrożenie życia dla ludzi i zwierząt
-   C. Zanieczyszczenie wód
-   D. Zagrożenie dla upraw rolniczych
+5. Co to jest akumulacja?
+   A. Proces niszczenia brzegu morza przez fale
+   B. Proces transportu i odkładania materiału przez wodę
+   C. Proces wietrzenia skał na powierzchni ziemi
+   D. Proces rozpuszczania materiału w wodzie
 
-   Correct answer: **A**. Uszkodzenie infrastruktury i budynków, **B**. Zagrożenie życia dla ludzi i zwierząt, **D**. Zagrożenie dla upraw rolniczych
+   Poprawna odpowiedź: B. Proces transportu i odkładania materiału przez wodę
 
-# Fiszki (140. Erozja rzeczna i morze przykład)
+# Fiszki: Erozja rzeczna i morze przybrzeżne
 
-1. Erozja rzeczna to proces niszczenia i usuwania materiałów skalnych przez wodę.
-2. Wyróżniamy trzy rodzaje erozji rzecznej: denną, boczną i od szczytu.
-3. Przykładem erozji morskiej jest rozmywanie brzegów przez fale morskie.
-4. Zjawiskiem geologicznym, w którym erozja morska tworzy podwodne jaskinie lub tunele, jest hydraulic action.
-5. Nadmierna erozja rzeczna i morska może mieć negatywne skutki dla ludzi, w tym uszkadzanie infrastruktury, zagrożenie życia, utratę upraw rolniczych i zanieczyszczenie wód.
+1. Erozja rzeczna - proces niszczenia brzegu rzeki przez wodę, który prowadzi do transportu i odkładania materiału
+2. Główna przyczyna erozji rzecznej - woda
+3. Abrazyjna erozja rzeczna - erozja spowodowana przez siłę tarcia między materiałem a wodą
+4. Denudacja - proces niszczenia brzegu rzeki przez wodę, który prowadzi do usuwania materiału ze zboczy i dna doliny
+5. Akumulacja - proces transportu i odkładania materiału przez wodę, który prowadzi do tworzenia się osadów
 
-# Notatki (140. Erozja rzeczna i morze przykład, ~200 słów)
+# Notatki: Erozja rzeczna i morze przybrzeżne
 
-Erozja rzeczna to proces niszczenia i usuwania materiałów skalnych przez wodę. Występuje on w rzekach, strumieniach i innych ciekach wodnych. W erozji rzecznej wyróżniamy trzy rodzaje: denną, boczną i od szczytu.
+Erozja rzeczna to proces niszczenia brzegu rzeki przez wodę, który prowadzi do transportu i odkładania materiału. Główną przyczyną erozji rzecznej jest woda, która w wyniku swojej siły grawitacyjnej i ruchu płynięcia wywiera nacisk na brzegi rzeki, powodując ich niszczenie.
 
-Erozja denna to proces wysuwania materiału skalnego z dna cieku wodnego. Jest ona spowodowana siłą oporu, jaką dno cieku stawia przepływającej wodzie. Erozja denna jest odpowiedzialna za tworzenie dolin rzecznych, kanałów i innych cech terenu.
+Istnieją dwa główne typy erozji rzecznej: abrazyjna i denudacyjna. Abrazyjna erozja rzeczna to erozja spowodowana przez siłę tarcia między materiałem a wodą. Denudacja to proces niszczenia brzegu rzeki przez wodę, który prowadzi do usuwania materiału ze zboczy i dna doliny.
 
-Erozja boczna to proces niszczenia brzegów cieku wodnego. Jest ona spowodowana wodą, która przepływa wzdłuż brzegów i wymywa materiał skalny. Erozja boczna jest odpowiedzialna za poszerzanie koryta cieku wodnego i tworzenie nowych dopływów.
+W procesie erozji rzecznej materiał jest transportowany i odkładany w innych miejscach, tworząc osady. Ten proces nosi nazwę akumulacji. Akumulacja prowadzi do tworzenia się nowych terenów, takich jak delty rzeczne i wyspy rzeczne.
 
-Erozja od szczytu to proces niszczenia materiału skalnego na szczycie wzgórz i innych podniesień terenu. Jest ona spowodowana przez wodę deszczową, która spływa ze szczytu wzgórz i wymywa materiał skalny. Erozja od szczytu jest odpowiedzialna za utworzenie dolin rzecznych, kotlin i innych cech terenu.
+Erozja rzeczna ma także wpływ na krajobraz przybrzeżny. Morze przybrzeżne jest zbiornikiem wodnym, który styka się z lądem. Erozja przybrzeżna jest procesem niszczenia brzegu morza przez fale, wiatr i inne czynniki naturalne. Erozja przybrzeżna prowadzi do tworzenia się nowych formacji geologicznych, takich jak klify, plaże i laguny.
 
-Przykładem erozji morskiej jest rozmywanie brzegów przez fale morskie. To zjawisko powoduje uszkodzenie infrastruktury i budynków, a także zagrożenie życia dla ludzi i zwierząt. Inne przykłady erozji morskiej to abradacja, atricion i korazja. Abradacja to proces niszczenia skał przez piasek i żwir, unoszone przez fale morskie. Atricion to proces niszczenia skał przez kolidujące z nimi obiekty, takie jak kamienie i muszle morskie. Korazja to proces niszczenia skał przez substancje chemiczne, zawarte w wodzie morskiej.
+Erozja przybrzeżna jest spowodowana przez siły niszczące fal i wiatru, które wywierają nacisk na brzeg morza, powodując jego niszczenie. W wyniku erozji przybrzeżnej materiał jest transportowany i odkładany w innych miejscach, tworząc nowe formacje geologiczne.
 
-Zjawiskiem geologicznym, w którym erozja morska tworzy podwodne jaskinie lub tunele, jest hydraulic action. Jest ona spowodowana przez siłę ciśnienia wody morskiej, która uderza w skały. To zjawisko powoduje rozbijanie i usuwanie materiału skalnego, a także tworzenie nowych formacji skalnych.
-
-Nadmierna erozja rzeczna i morska może mieć negatywne skutki dla ludzi, w tym uszkadzanie infrastruktury, zagrożenie życia, utratę upraw rolniczych i zanieczyszczenie wód. Dlatego konieczne jest zabezpieczanie brzegów i nasłonecznionych stoków przed erozją, a także zapobieganie jej poprzez odpowiednie zarządzanie wodami i inżynierię środowiskową.
+Aby zapobiec erozji rzecznej i przybrzeżnej, należy podjąć działania ochronne, takie jak zalesianie brzegów rzek i morza, budowa grobli i falochronów, a także ograniczanie działalności gospodarczej w obszarach narażonych na erozję.

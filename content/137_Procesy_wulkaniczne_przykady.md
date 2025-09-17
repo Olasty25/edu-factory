@@ -1,57 +1,60 @@
- ### Quiz
+ # Quiz: Processes of Volcanic Activity (Examples)
 
-1. Jaka jest główna przyczyna procesów wulkanicznych?
-   A. Odsunięcie się płyt tektonicznych
-   B. Gwiazdowe burze pyłowe
-   C. Magma podpiera ziemską skorupę
-   D. Życie na innej planecie
+1. What type of volcanic eruption is characterized by the release of viscous, gas-rich lava?
+A. Hawaiian
+B. Strombolian
+C. Vulcanian
+D. Pelean
+Answer: D. Pelean
+2. Which of the following is NOT a type of volcanic cone?
+A. Shield
+B. Composite
+C. Cinder
+D. Stratovolcano
+Answer: A. Shield
+3. Which of the following volcanic features is formed when lava cools and solidifies rapidly upon contact with water?
+A. Lava tube
+B. Pillow lava
+C. Lava dome
+D. Volcanic bomb
+Answer: B. Pillow lava
+4. Which of the following is a common feature of volcanic arcs?
+A. Shield volcanoes
+B. Hotspots
+C. Subduction zones
+D. Rift valleys
+Answer: C. Subduction zones
+5. Which of the following is an example of a volcano located above a hotspot?
+A. Mount Everest
+B. Krakatoa
+C. Mauna Loa
+D. Mount Kilimanjaro
+Answer: C. Mauna Loa
 
-   Poprawna odpowiedź: C (Magma podpiera ziemską skorupę, a gdy jej ilość zwiększa się, dochodzi do erupcji wulkanów)
+# Flashcards: Processes of Volcanic Activity (Examples)
 
-2. Co to jest magma?
-   A. Skorupa ziemska na powierzchni
-   B. Gorąca skała płynna w środku Ziemi
-   C. Gazy wydobywające się podczas erupcji
-   D. Góry powstałe z erupcji
+1. **Hawaiian Eruption**
+   - Characterized by the effusive eruption of low-viscosity, basaltic lava
+   - Often forms shield volcanoes
+2. **Strombolian Eruption**
+   - Characterized by the explosive eruption of gas-rich, viscous lava
+   - Often forms cinder cones
+3. **Vulcanian Eruption**
+   - Characterized by the explosive eruption of gas-rich, viscous lava
+   - Often forms composite cones
+4. **Pelean Eruption**
+   - Characterized by the release of viscous, gas-rich lava
+   - Often forms lava domes
+5. **Pillow Lava**
+   - Formed when lava cools and solidifies rapidly upon contact with water
+   - Common feature of mid-ocean ridges
 
-   Poprawna odpowiedź: B (Magma to gorąca skała płynna w środku Ziemi, składająca się z skał, gazów i płynów)
+# Notes: Processes of Volcanic Activity (Examples)
 
-3. Jakie są rodzaje wulkanów?
-   A. Droga, Stratowulkan, Ślepy
-   B. Stratowulkan, Piszuł, Rozpył
-   C. Kryptodroga, Stratowulkan, Piszuł
-   D. Stratowulkan, Wodny, Magmowy
+Volcanic activity is the result of the movement of molten rock, or magma, from the Earth's mantle to its surface. The type of volcanic eruption and the resulting landforms depend on the composition of the magma, as well as the processes that occur as the magma rises through the Earth's crust.
 
-   Poprawna odpowiedź: C (Rodzaje wulkanów to: kryptodroga, stratowulkan i piszuł)
+There are several types of volcanic eruptions, including Hawaiian, Strombolian, Vulcanian, and Pelean. Hawaiian eruptions are characterized by the effusive eruption of low-viscosity, basaltic lava, and often form shield volcanoes. Strombolian eruptions are characterized by the explosive eruption of gas-rich, viscous lava, and often form cinder cones. Vulcanian eruptions are similar to Strombolian eruptions, but are more explosive and often form composite cones. Pelean eruptions are characterized by the release of viscous, gas-rich lava, and often form lava domes.
 
-4. Co to jest lawa?
-   A. Magma na powierzchni
-   B. Gazy wydobywające się z magmy
-   C. Wyniesiona przez wulkan skała
-   D. Gorąca, stopiona skorupa
+Volcanic landforms include volcanic cones, lava tubes, and pillow lava. Volcanic cones are formed by the accumulation of volcanic material, such as ash, lava, and rock fragments, around a volcanic vent. Lava tubes are formed when lava flows through the Earth's surface and cools, forming a hollow, tube-like structure. Pillow lava is formed when lava cools and solidifies rapidly upon contact with water, and is a common feature of mid-ocean ridges.
 
-   Poprawna odpowiedź: A (Lawa to magma, która ujrzawszy światło dzienne na powierzchni ziemi)
-
-5. Co to jest strumień lawy?
-   A. Gorąca skała płynąca w dół
-   B. Magma wydobywająca się w powietrze
-   C. Lawa z wulkanów wodnych
-   D. Wydobywająca się lawa na dużą odległość
-
-   Poprawna odpowiedź: D (Strumień lawy to wydobywająca się lawa na dużą odległość)
-
-### Fiszki
-
-1. Magma - gorąca skała płynna w środku Ziemi, zawierająca skały, gazy i płyny.
-2. Lawa - magma po dotarciu na powierzchnię Ziemi.
-3. Stratowulkan - wysokie wulkany zbudowane warstwami lawy i popiołu.
-4. Piszuł - wulkany o kształcie stożkowym, które wytryskują lawę w postaci krateru.
-5. Kryptodroga - wulkany bez wyraźnego krateru, z którego wydostaje się lawa.
-
-### Notatki
-
-Procesy wulkaniczne to zjawiska geologiczne, w których magma wydostaje się na powierzchnię Ziemi, stając się lawą. Przyczyną tego zjawiska jest wzrost ilości magmy pod powierzchnią ziemi, która pod wpływem swojej objętości i temperatury stopniowo wydobywa się na zewnątrz. Magma składa się z rozmaitych składników, takich jak skały, gazy i płyny, które są w ciągłym ruchu.
-
-Według klasyfikacji wulkany dzielimy na trzy grupy: kryptodroga, stratowulkan i piszuł. Kryptodroga to wulkan bez wyraźnego krateru, z którego wydostaje się lawa, stratowulkan to wysokie wulkany zbudowane warstwami lawy i popiołu, a piszuł to wulkan o kształcie stożkowym, z którego wydobywa się lawa w postaci krateru.
-
-Procesy te mogą być niespodziewane i niebezpieczne, ale biorą również udział w tworzeniu nowych fragmentów skorupy ziemskiej oraz zmianie jej stałych cech. Dzięki tym procesom możemy badać skład skał, gazy i płyny wewnątrz Ziemi, co pomaga nam w zrozumieniu jej struktury i pochodzenia.
+Volcanic activity is often associated with tectonic plate boundaries, such as subduction zones and mid-ocean ridges. Volcanic arcs, which are chains of volcanoes that form above subduction zones, are characterized by composite cones and Strombolian eruptions. Hotspots, which are areas of intense volcanic activity located away from tectonic plate boundaries, are characterized by shield volcanoes and Hawaiian eruptions. Examples of hotspots include the Hawaiian Islands and Yellowstone National Park.
