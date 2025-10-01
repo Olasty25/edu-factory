@@ -1,63 +1,64 @@
- # Quiz: Erozja rzeczna i morze przybrzeżne
+ ### Quiz
 
 1. Co to jest erozja rzeczna?
-   A. Proces niszczenia brzegu morza przez fale
-   B. Proces wietrzenia skał na powierzchni ziemi
-   C. Proces transportu i odkładania materiału przez wodę
-   D. Proces niszczenia brzegu rzeki przez wodę
+   A. Zjawisko polegające na wietrzeniu skał
+   B. Zjawisko polegające na wmyciu i wywozie przez wodę materiałów skalnych
+   C. Zjawisko polegające na osadzaniu się materiałów skalnych
+   D. Zjawisko polegające na parowaniu wody z gleby
 
-   Poprawna odpowiedź: D. Proces niszczenia brzegu rzeki przez wodę
+   **Poprawna odpowiedź:** B. Zjawisko polegające na wmyciu i wywozie przez wodę materiałów skalnych
 
-2. Jaka jest główna przyczyna erozji rzecznej?
-   A. Wiatr
-   B. Lodowiec
-   C. Woda
-   D. Lądslajs
+2. Jaka jest rola erozji rzecznej w kształtowaniu rzeźby terenu?
+   A. Utrudnia kształtowanie rzeźby terenu
+   B. Przyczynia się do rozwoju rzeźby terenu
+   C. Nie ma żadnego wpływu na kształtowanie rzeźby terenu
+   D. Uniemożliwia kształtowanie rzeźby terenu
 
-   Poprawna odpowiedź: C. Woda
+   **Poprawna odpowiedź:** B. Przyczynia się do rozwoju rzeźby terenu
 
-3. Co to jest abrazyjna erozja rzeczna?
-   A. Erozja spowodowana przez siłę tarcia między materiałem a wodą
-   B. Erozja spowodowana przez wywiewanie materiału przez wiatr
-   C. Erozja spowodowana przez obrywanie materiału ze stromych brzegów
-   D. Erozja spowodowana przez roztopy lodowców
+3. Co to jest przybrzeżne erozja morska?
+   A. Zjawisko polegające na wietrzeniu skał
+   B. Zjawisko polegające na wmyciu i wywozie przez wodę materiałów skalnych
+   C. Zjawisko polegające na erozji wybrzeża przez fale morskie
+   D. Zjawisko polegające na parowaniu wody z gleby
 
-   Poprawna odpowiedź: A. Erozja spowodowana przez siłę tarcia między materiałem a wodą
+   **Poprawna odpowiedź:** C. Zjawisko polegające na erozji wybrzeża przez fale morskie
 
-4. Co to jest denudacja?
-   A. Proces wietrzenia skał na powierzchni ziemi
-   B. Proces transportu i odkładania materiału przez wodę
-   C. Proces niszczenia brzegu morza przez fale
-   D. Proces niszczenia brzegu rzeki przez wodę
+4. Jaka jest rola erozji morskiej w kształtowaniu wybrzeża?
+   A. Utrudnia kształtowanie wybrzeża
+   B. Przyczynia się do rozwoju wybrzeża
+   C. Nie ma żadnego wpływu na kształtowanie wybrzeża
+   D. Uniemożliwia kształtowanie wybrzeża
 
-   Poprawna odpowiedź: D. Proces niszczenia brzegu rzeki przez wodę
+   **Poprawna odpowiedź:** B. Przyczynia się do rozwoju wybrzeża
 
-5. Co to jest akumulacja?
-   A. Proces niszczenia brzegu morza przez fale
-   B. Proces transportu i odkładania materiału przez wodę
-   C. Proces wietrzenia skał na powierzchni ziemi
-   D. Proces rozpuszczania materiału w wodzie
+5. Jaka jest różnica między erozją rzeczną a erozją morską?
+   A. Erozja rzeczna dotyczy tylko rzek, a erozja morska tylko mórz
+   B. Erozja rzeczna to zjawisko wietrzeniowe, a erozja morska to zjawisko erozyjne
+   C. Erozja rzeczna to zjawisko erozyjne, a erozja morska to zjawisko wietrzeniowe
+   D. Erozja rzeczna dotyczy tylko wodnych procesów erozyjnych, a erozja morska zarówno wodnych, jak i powietrznych
 
-   Poprawna odpowiedź: B. Proces transportu i odkładania materiału przez wodę
+   **Poprawna odpowiedź:** A. Erozja rzeczna dotyczy tylko rzek, a erozja morska tylko mórz
 
-# Fiszki: Erozja rzeczna i morze przybrzeżne
+### Fiszki
 
-1. Erozja rzeczna - proces niszczenia brzegu rzeki przez wodę, który prowadzi do transportu i odkładania materiału
-2. Główna przyczyna erozji rzecznej - woda
-3. Abrazyjna erozja rzeczna - erozja spowodowana przez siłę tarcia między materiałem a wodą
-4. Denudacja - proces niszczenia brzegu rzeki przez wodę, który prowadzi do usuwania materiału ze zboczy i dna doliny
-5. Akumulacja - proces transportu i odkładania materiału przez wodę, który prowadzi do tworzenia się osadów
+1. Erozja rzeczna
+   - Zjawisko erozyjne, w którym woda płynąca wypreparowuje w materiale skalnym wgłębienia i rowki, a następnie wywozi materiał skalny
+2. Erozja denna
+   - Erozja rzeczna, w której materiał skalny jest usuwany z dna rzeki
+3. Erozja boczna
+   - Erozja rzeczna, w której materiał skalny jest usuwany z brzegów rzeki
+4. Przybrzeżna erozja morska
+   - Erozja morska, w której fale morskie wypreparowują w brzegu klify i rowki, a następnie wywożą materiał skalny
+5. Akumulacja
+   - Proces przeciwstawny erozji, w którym materiał skalny jest odkładany w innym miejscu, tworząc osady
 
-# Notatki: Erozja rzeczna i morze przybrzeżne
+### Notatki
 
-Erozja rzeczna to proces niszczenia brzegu rzeki przez wodę, który prowadzi do transportu i odkładania materiału. Główną przyczyną erozji rzecznej jest woda, która w wyniku swojej siły grawitacyjnej i ruchu płynięcia wywiera nacisk na brzegi rzeki, powodując ich niszczenie.
+Erozja rzeczna to zjawisko erozyjne, w którym woda płynąca wypreparowuje w materiale skalnym wgłębienia i rowki, a następnie wywozi materiał skalny. Erozja rzeczna może być podzielona na erozję denną i erozję boczną. Erozja denna to erozja rzeczna, w której materiał skalny jest usuwany z dna rzeki, co prowadzi do pogłębiania się koryta rzeki i tworzenia się w nim głębokich miejsc. Erozja boczna to erozja rzeczna, w której materiał skalny jest usuwany z brzegów rzeki, co prowadzi do ich obrywania się i tworzenia się nowych meandrów.
 
-Istnieją dwa główne typy erozji rzecznej: abrazyjna i denudacyjna. Abrazyjna erozja rzeczna to erozja spowodowana przez siłę tarcia między materiałem a wodą. Denudacja to proces niszczenia brzegu rzeki przez wodę, który prowadzi do usuwania materiału ze zboczy i dna doliny.
+Przybrzeżna erozja morska to zjawisko erozyjne, w którym fale morskie wypreparowują w brzegu klify i rowki, a następnie wywożą materiał skalny. Erozja morska może być również spowodowana przez inne czynniki, takie jak wiatr i prądy morskie.
 
-W procesie erozji rzecznej materiał jest transportowany i odkładany w innych miejscach, tworząc osady. Ten proces nosi nazwę akumulacji. Akumulacja prowadzi do tworzenia się nowych terenów, takich jak delty rzeczne i wyspy rzeczne.
+Akumulacja to proces przeciwstawny erozji, w którym materiał skalny jest odkładany w innym miejscu, tworząc osady. Osady te mogą być później zmyte przez wodę i przeniesione w inne miejsce, co prowadzi do tworzenia się nowych form rzeźby terenu, takich jak delty rzeczne i plaże.
 
-Erozja rzeczna ma także wpływ na krajobraz przybrzeżny. Morze przybrzeżne jest zbiornikiem wodnym, który styka się z lądem. Erozja przybrzeżna jest procesem niszczenia brzegu morza przez fale, wiatr i inne czynniki naturalne. Erozja przybrzeżna prowadzi do tworzenia się nowych formacji geologicznych, takich jak klify, plaże i laguny.
-
-Erozja przybrzeżna jest spowodowana przez siły niszczące fal i wiatru, które wywierają nacisk na brzeg morza, powodując jego niszczenie. W wyniku erozji przybrzeżnej materiał jest transportowany i odkładany w innych miejscach, tworząc nowe formacje geologiczne.
-
-Aby zapobiec erozji rzecznej i przybrzeżnej, należy podjąć działania ochronne, takie jak zalesianie brzegów rzek i morza, budowa grobli i falochronów, a także ograniczanie działalności gospodarczej w obszarach narażonych na erozję.
+Erozja rzeczna i morska mają duży wpływ na kształtowanie rzeźby terenu i wybrzeża. Bez erozji rzecznej i morskiej nie było by możliwe powstawanie nowych form rzeźby terenu, takich jak doliny rzeczne, klify i wyspy. Jednak erozja rzeczna i morska mogą również przynosić szkody, takie jak podmywanie nabrzeży i zatapianie budynków. Dlatego jest ważne, aby zrozumieć mechanizmy erozji rzecznej i morskiej i podejmować odpowiednie środki zapobiegawcze, aby ograniczyć ich negatywne skutki.

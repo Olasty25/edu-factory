@@ -1,60 +1,59 @@
- # Quiz - Trzęsienia ziemi
+ ### Quiz
+
 1. Co to jest trzęsienie ziemi?
-   A. Ruchy górotworu wywołane przez falę dźwiękową
-   B. Ruchy górotworu wywołane przez fale sejsmiczne
-   C. Ruchy powierzchni Ziemi wywołane przez meteoryt
-   D. Ruchy powierzchni Ziemi wywołane przez falę morską
+   A. Wibracja Ziemi wywołana przez wiatr
+   B. Wibracja Ziemi wywołana przez falę tsunami
+   C. Wibracja Ziemi wywołana przez gwałtowne ruchy litosfery
+   D. Wibracja Ziemi wywołana przez erupcję wulkanu
 
-   Korrektna odpowiedź: B
+   Correct answer: C
 
-2. Co oznacza magnituda trzęsienia ziemi?
-   A. Wielkość ruchu górotworu
-   B. Liczba ofiar trzęsienia ziemi
-   C. Wielkość energii wyzwolonej przez trzęsienie ziemi
-   D. Czas trwania trzęsienia ziemi
+2. Jaka jest przyczyna trzęsień ziemi?
+   A. Gwałtowne ruchy płyt litosfery
+   B. Wibracje Ziemi wywołane przez wiatr
+   C. Erupcje wulkaniczne
+   D. Aktywność gwiazd
 
-   Korrektna odpowiedź: C
+   Correct answer: A
 
-3. Co oznacza intensywność trzęsienia ziemi?
-   A. Wielkość ruchu górotworu
-   B. Liczba ofiar trzęsienia ziemi
-   C. Wielkość energii wyzwolonej przez trzęsienie ziemi
-   D. Siła wstrząsów odczuwanych na powierzchni Ziemi
+3. Co to jest epicentrum trzęsienia ziemi?
+   A. Punkt na Ziemi najbliższy do ogniska trzęsienia ziemi
+   B. Punkt na Ziemi najdalszy od ogniska trzęsienia ziemi
+   C. Ognisko trzęsienia ziemi
+   D. Falę sejsmiczną
 
-   Korrektna odpowiedź: D
+   Correct answer: A
 
-4. Gdzie występują najczęściej trzęsienia ziemi?
-   A. W strefach strefie śródziemnomorskiej
-   B. W strefach strefie pacyficznej
-   C. W strefach strefie atlantyckiej
-   D. W strefach strefie indyjskiej
+4. Co to jest ognisko trzęsienia ziemi?
+   A. Punkt na Ziemi najbliższy do epicentrum trzęsienia ziemi
+   B. Punkt na Ziemi najdalszy od epicentrum trzęsienia ziemi
+   C. Punkt na Ziemi, w którym występuje największa intensywność wibracji
+   D. Falę sejsmiczną
 
-   Korrektna odpowiedź: B
+   Correct answer: C
 
-5. Jakie są główne skutki trzęsienia ziemi?
+5. Jakie mogą być skutki trzęsień ziemi?
    A. Straty materialne i ofiary w ludziach
-   B. Zmiana klimatu
-   C. Wygaszenie gatunków
-   D. Powstanie nowych wysp
+   B. Zmiany w krajobrazie
+   C. Powstawanie nowych wysp
+   D. Spadek temperatury na Ziemi
 
-   Korrektna odpowiedź: A
+   Correct answer: A, B
 
-# Fiszki - Trzęsienia ziemi
+### Fiszki
 
-1. **Epicentrum** - miejsce na powierzchni Ziemi bezpośrednio nad hipocentrum, gdzie wstrząsy są najsilniejsze.
-2. **Hipocentrum** - miejsce na głębokości Ziemi, w którym rozpoczyna się proces wstrząsowy.
-3. **Magnituda** - miara wielkości energii wyzwolonej przez trzęsienie ziemi.
-4. **Intensywność** - miara siły wstrząsów odczuwanych na powierzchni Ziemi.
-5. **Strefy sejsmiczne** - obszary na Ziemi, w których występują trzęsienia ziemi z dużą częstotliwością.
+1. **Litosfera** - najwyższa warstwa Ziemi, składa się z płyt tektonicznych
+2. **Ognisko trzęsienia ziemi** - punkt na Ziemi, w którym występuje największa intensywność wibracji
+3. **Epicentrum trzęsienia ziemi** - punkt na Ziemi najbliższy do ogniska trzęsienia ziemi
+4. **Fala sejsmiczna** - fala rozchodząca się w skorupie ziemskiej po wystąpieniu trzęsienia ziemi
+5. **Intensywność trzęsienia ziemi** - miara siły wibracji wywołanych przez trzęsienie ziemi
 
-# Notatki - Trzęsienia ziemi
+### Notatki
 
-Trzęsienie ziemi to ruchy górotworu wywołane przez fale sejsmiczne. Powstają one wskutek nagłych ruchów skorupy ziemskiej, które mogą być spowodowane przez różne czynniki, takie jak ruchy płyt tektonicznych, wybuchy wulkanów, czy obsuwania się zboczy.
+Trzęsienie ziemi to gwałtowne wibracje Ziemi, wywołane przez ruchy litosfery. Jest to zjawisko naturalne, które występuje w wyniku ruchów płyt tektonicznych, które tworzą litosferę.
 
-Epicentrum to miejsce na powierzchni Ziemi bezpośrednio nad hipocentrum, gdzie wstrząsy są najsilniejsze. Hipocentrum to miejsce na głębokości Ziemi, w którym rozpoczyna się proces wstrząsowy.
+Litosfera to najwyższa warstwa Ziemi, składa się z siedmiu wielkich płyt tektonicznych i wielu mniejszych. Ruchy te są spowodowane przez ruchy konwekcyjne w płaszczu Ziemi. Gdy dwie płyty stykają się ze sobą, jedna z nich może zostać zmuszona do zanurzenia pod drugą, co prowadzi do wytworzenia naprężeń w skorupie ziemskiej. Gdy te naprężenia przekraczają pewną wartość, dochodzi do ich rozładowania w postaci trzęsienia ziemi.
 
-Magnituda to miara wielkości energii wyzwolonej przez trzęsienie ziemi. Intensywność to miara siły wstrząsów odczuwanych na powierzchni Ziemi. Im wyższa magnituda, tym większa energia została wyzwolona, a im wyższa intensywność, tym silniejsze wstrząsy są odczuwane na powierzchni.
+Ognisko trzęsienia ziemi to punkt na Ziemi, w którym występuje największa intensywność wibracji. Epicentrum trzęsienia ziemi to punkt na Ziemi najbliższy do ogniska trzęsienia ziemi. Fala sejsmiczna to fala rozchodząca się w skorupie ziemskiej po wystąpieniu trzęsienia ziemi. Intensywność trzęsienia ziemi to miara siły wibracji wywołanych przez trzęsienie ziemi.
 
-Trzęsienia ziemi mogą mieć różne skutki, takie jak straty materialne i ofiary w ludziach, uszkodzenia infrastruktury, powodzie, pożary, a nawet tsunami. Najczęściej występują w strefach sejsmicznych, takich jak strefa pacyficzna, strefa śródziemnomorska, strefa atlantycka i strefa indyjska.
-
-Aby zapobiec skutkom trzęsień ziemi, należy stosować odpowiednie metody ochrony przed trzęsieniami ziemi, takie jak wzmocnienie konstrukcji budynków, zapobieganie pożarom, planowanie przestrzenne i edukacja społeczeństwa.
+Skutki trzęsień ziemi mogą być bardzo poważne. Może dojść do dużych strat materialnych i ofiar w ludziach. Zmiany w krajobrazie, takie jak wytworzenie nowych rowów czy wzniesień, również są częstym zjawiskiem. Ponadto trzęsienia ziemi mogą spowodować tsunami, które mogą spowodować dalsze straty i ofiary w ludziach na wybrzeżach.

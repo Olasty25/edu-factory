@@ -1,60 +1,61 @@
- # Quiz: Processes of Volcanic Activity (Examples)
+ ### Quiz
 
-1. What type of volcanic eruption is characterized by the release of viscous, gas-rich lava?
-A. Hawaiian
-B. Strombolian
-C. Vulcanian
-D. Pelean
-Answer: D. Pelean
-2. Which of the following is NOT a type of volcanic cone?
-A. Shield
-B. Composite
-C. Cinder
-D. Stratovolcano
-Answer: A. Shield
-3. Which of the following volcanic features is formed when lava cools and solidifies rapidly upon contact with water?
-A. Lava tube
-B. Pillow lava
-C. Lava dome
-D. Volcanic bomb
-Answer: B. Pillow lava
-4. Which of the following is a common feature of volcanic arcs?
-A. Shield volcanoes
-B. Hotspots
-C. Subduction zones
-D. Rift valleys
-Answer: C. Subduction zones
-5. Which of the following is an example of a volcano located above a hotspot?
-A. Mount Everest
-B. Krakatoa
-C. Mauna Loa
-D. Mount Kilimanjaro
-Answer: C. Mauna Loa
+1. Jaka jest główna przyczyna procesów wulkanicznych?
+A. Osuwanie się ziemi
+B. Aktywność magmy
+C. Erozja wodna
+D. Wietrzenie
 
-# Flashcards: Processes of Volcanic Activity (Examples)
+Correct answer: B. Aktywność magmy
 
-1. **Hawaiian Eruption**
-   - Characterized by the effusive eruption of low-viscosity, basaltic lava
-   - Often forms shield volcanoes
-2. **Strombolian Eruption**
-   - Characterized by the explosive eruption of gas-rich, viscous lava
-   - Often forms cinder cones
-3. **Vulcanian Eruption**
-   - Characterized by the explosive eruption of gas-rich, viscous lava
-   - Often forms composite cones
-4. **Pelean Eruption**
-   - Characterized by the release of viscous, gas-rich lava
-   - Often forms lava domes
-5. **Pillow Lava**
-   - Formed when lava cools and solidifies rapidly upon contact with water
-   - Common feature of mid-ocean ridges
+2. Jaki rodzaj skał wulkanicznych powstaje z magmy, która stygła i zastygała pod powierzchnią ziemi?
+A. Skały wulkaniczne
+B. Skały magmowe
+C. Skały osadowe
+D. Skały metamorficzne
 
-# Notes: Processes of Volcanic Activity (Examples)
+Correct answer: A. Skały wulkaniczne
 
-Volcanic activity is the result of the movement of molten rock, or magma, from the Earth's mantle to its surface. The type of volcanic eruption and the resulting landforms depend on the composition of the magma, as well as the processes that occur as the magma rises through the Earth's crust.
+3. Jaki rodzaj wybuchu wulkanicznego jest najbardziej destrukcyjny?
+A. Wybuch plinia
+B. Wybuch pumeksowy
+C. Wybuch piroplastyczny
+D. Wybuch freatomagmowy
 
-There are several types of volcanic eruptions, including Hawaiian, Strombolian, Vulcanian, and Pelean. Hawaiian eruptions are characterized by the effusive eruption of low-viscosity, basaltic lava, and often form shield volcanoes. Strombolian eruptions are characterized by the explosive eruption of gas-rich, viscous lava, and often form cinder cones. Vulcanian eruptions are similar to Strombolian eruptions, but are more explosive and often form composite cones. Pelean eruptions are characterized by the release of viscous, gas-rich lava, and often form lava domes.
+Correct answer: D. Wybuch freatomagmowy
 
-Volcanic landforms include volcanic cones, lava tubes, and pillow lava. Volcanic cones are formed by the accumulation of volcanic material, such as ash, lava, and rock fragments, around a volcanic vent. Lava tubes are formed when lava flows through the Earth's surface and cools, forming a hollow, tube-like structure. Pillow lava is formed when lava cools and solidifies rapidly upon contact with water, and is a common feature of mid-ocean ridges.
+4. Jaka jest najwyższy wulkan na Ziemi?
+A. Kilauea
+B. Mauna Loa
+C. Ojos del Salado
+D. Everest
 
-Volcanic activity is often associated with tectonic plate boundaries, such as subduction zones and mid-ocean ridges. Volcanic arcs, which are chains of volcanoes that form above subduction zones, are characterized by composite cones and Strombolian eruptions. Hotspots, which are areas of intense volcanic activity located away from tectonic plate boundaries, are characterized by shield volcanoes and Hawaiian eruptions. Examples of hotspots include the Hawaiian Islands and Yellowstone National Park.
+Correct answer: C. Ojos del Salado
+
+5. Jaki rodzaj wulkanu nie posiada krateru szczytowego?
+A. Wulkan tarczowy
+B. Wulkan stratowolkan
+C. Wulkan щиtowy
+D. Wulkan somma
+
+Correct answer: A. Wulkan tarczowy
+
+### Fiszki
+
+1. Magma - płynna, gorąca masa skalna wytworzona w płaszczu ziemskim.
+2. Skały wulkaniczne - skały powstałe z zastygniętej magmy na powierzchni ziemi.
+3. Wybuch plinia - spokojny wybuch wulkaniczny, wyrzucający duże ilości popiołu wulkanicznego.
+4. Wybuch freatomagmowy - wybuch wulkaniczny, w którym para wodna z magmy tworzy potężne eksplozje.
+5. Wulkan tarczowy - szeroki i płaski wulkan, zbudowany z płynnej magmy.
+
+### Notatki
+
+Procesy wulkaniczne są spowodowane przez aktywność magmy w płaszczu ziemskim. Magma jest płynną masą skalną, która może się znaleźć pod powierzchnią ziemi lub zostać wyrzucona na jej powierzchnię. W zależności od składu chemicznego, temperatury i ciśnienia, magma może zastygać pod powierzchnią, tworząc skały magmowe, lub zostać wyrzucona na powierzchnię, tworząc skały wulkaniczne.
+
+Istnieją dwa rodzaje wybuchów wulkanicznych: wybuchy eksplozywne i wybuchy spokojne. Wybuchy eksplozywne są spowodowane przez gwałtowne reakcje chemiczne pomiędzy magmą a wodą, natomiast wybuchy spokojne są spowodowane przez wypływanie magmy na powierzchnię.
+
+Wulkany mogą przyjmować różne kształty i wielkości, w zależności od rodzaju magmy, która się w nich znajduje. Wulkany tarczowe są szerokie i płaskie, a w ich wnętrzu znajduje się płynna magma. Wulkany stratowulkany są wysokie i strome, a w ich wnętrzu znajduje się lepka magma.
+
+Niektóre wulkany mogą tworzyć nowe ziemie, podnosząc poziom gruntu i tworząc nowe obszary lądowe. Inne wulkany mogą być bardzo destrukcyjne, niszcząc całe obszary i tworząc wielkie erupcje.
+
+Procesy wulkaniczne mają ogromne znaczenie dla środowiska naturalnego i dla ludzi. Mogą one tworzyć nowe ziemie, ale również niszczyć obszary zamieszkane. Zrozumienie procesów wulkanicznych jest kluczowe do ochrony ludzi i środowiska naturalnego przed destrukcyjnymi skutkami erupcji wulkanicznych.
