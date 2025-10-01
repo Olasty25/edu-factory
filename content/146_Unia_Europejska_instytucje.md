@@ -1,63 +1,67 @@
  # Quiz - Unia Europejska: Instytucje
 
-1. Co to jest Unia Europejska?
-   A. Organizacja gospodarcza
-   B. Organizacja polityczna
-   C. Organizacja gospodarczo-polityczna
-   D. Organizacja wojskowa
-   &nbsp;
-   Poprawna odpowiedź: C. Organizacja gospodarczo-polityczna
+1. Jaką rolę odgrywa Parlament Europejski w strukturze Unii Europejskiej?
+   A. Przyjmuje ustawy i decyzje
+   B. Nominuje członków Komisji Europejskiej
+   C. Wybiera Przewodniczącego Rady Europejskiej
+   D. Kontroluje działalność innych instytucji UE
 
-2. Ile instytucji jest w Unii Europejskiej?
-   A. 4
-   B. 5
-   C. 6
-   D. 7
-   &nbsp;
-   Poprawna odpowiedź: C. 6
+   Poprawna odpowiedź: D. Kontroluje działalność innych instytucji UE
+
+2. Jakie jest zadanie Europejskiej Komisji?
+   A. Reprezentowanie interesów państw członkowskich
+   B. Wdrażanie prawa unijnego i polityk UE
+   C. Przyjmowanie decyzji w sprawach zagranicznych i bezpieczeństwa
+   D. Wybieranie i nominowanie członków Parlamentu Europejskiego
+
+   Poprawna odpowiedź: B. Wdrażanie prawa unijnego i polityk UE
 
 3. Co to jest Rada Europejska?
-   A. Instytucja, w której zasiadają szefowie państw i rządów członkowskich UE
-   B. Instytucja, w której zasiadają premierzy członkowskich państw UE
-   C. Instytucja, w której zasiadają ministrowie spraw zagranicznych członkowskich państw UE
-   D. Instytucja, w której zasiadają przewodniczący parlamentów członkowskich państw UE
-   &nbsp;
-   Poprawna odpowiedź: A. Instytucja, w której zasiadają szefowie państw i rządów członkowskich UE
+   A. Instytucja odpowiedzialna za reprezentowanie interesów obywateli UE
+   B. Organ, w którym zasiadają szefowie państw i rządów członkowskich UE
+   C. Ciało, które uchwala budżet UE
+   D. Instytucja, która monitoruje przestrzeganie praw obywatelskich w UE
 
-4. Co to jest Europejski Komisarz?
-   A. Członek Rady Europejskiej
-   B. Członek Parlamentu Europejskiego
-   C. Członek Europejskiej Komisji
-   D. Członek Europejskiego Trybunału Sprawiedliwości
-   &nbsp;
-   Poprawna odpowiedź: C. Członek Europejskiej Komisji
+   Poprawna odpowiedź: B. Organ, w którym zasiadają szefowie państw i rządów członkowskich UE
 
-5. Co to jest Europejski Trybunał Sprawiedliwości?
-   A. Instytucja, która rozstrzyga spory pomiędzy państwami członkowskimi UE
-   B. Instytucja, która rozstrzyga spory pomiędzy obywatelami UE a instytucjami UE
-   C. Instytucja, która rozstrzyga spory pomiędzy obywatelami UE
-   D. Instytucja, która rozstrzyga spory pomiędzy państwami członkowskimi UE a instytucjami UE
-   &nbsp;
-   Poprawna odpowiedź: D. Instytucja, która rozstrzyga spory pomiędzy państwami członkowskimi UE a instytucjami UE
+4. Jakie jest zadanie Trybunału Sprawiedliwości Unii Europejskiej?
+   A. Rozstrzyganie sporów między państwami członkowskimi a instytucjami UE
+   B. Opracowywanie nowych aktów prawnych UE
+   C. Wspieranie dialogu między społeczeństwem obywatelskim a instytucjami UE
+   D. Monitorowanie przestrzegania praw człowieka w UE
+
+   Poprawna odpowiedź: A. Rozstrzyganie sporów między państwami członkowskimi a instytucjami UE
+
+5. Jakie jest zadanie Europejskiego Banku Centralnego?
+   A. Wspieranie rozwoju gospodarczego i zatrudnienia w UE
+   B. Ustanawianie polityki monetarnej dla państw członkowskich UE
+   C. Rozstrzyganie sporów między państwami członkowskimi a instytucjami UE
+   D. Reprezentowanie interesów gospodarczych UE na arenie międzynarodowej
+
+   Poprawna odpowiedź: B. Ustanawianie polityki monetarnej dla państw członkowskich UE
 
 # Fiszki - Unia Europejska: Instytucje
 
-1. **Unia Europejska (UE)** - organizacja gospodarczo-polityczna zrzeszająca 27 państw europejskich.
-2. **Rada Europejska** - instytucja Unii Europejskiej, w której zasiadają szefowie państw i rządów członkowskich UE.
-3. **Europejska Komisja** - instytucja Unii Europejskiej, która jest organem wykonawczym UE.
-4. **Parlament Europejski** - instytucja Unii Europejskiej, w której zasiadają deputowani wybrani w wyborach powszechnych.
-5. **Europejski Trybunał Sprawiedliwości** - instytucja Unii Europejskiej, która rozstrzyga spory pomiędzy państwami członkowskimi UE a instytucjami UE.
+1. **Parlament Europejski** - Instytucja Unii Europejskiej, której zadaniem jest reprezentowanie interesów obywateli UE i uchwalanie prawa unijnego.
+2. **Europejska Komisja** - Instytucja Unii Europejskiej, której zadaniem jest inicjowanie i wdrażanie prawa unijnego oraz polityk UE.
+3. **Rada Europejska** - Organ Unii Europejskiej, w którym zasiadają szefowie państw i rządów członkowskich UE, odpowiedzialny za kierowanie polityką i strategią UE.
+4. **Trybunał Sprawiedliwości Unii Europejskiej** - Instytucja Unii Europejskiej, której zadaniem jest rozstrzyganie sporów między państwami członkowskimi a instytucjami UE oraz interpretacja prawa unijnego.
+5. **Europejski Bank Centralny** - Instytucja Unii Europejskiej, której zadaniem jest ustanawianie i wdrażanie polityki monetarnej dla państw członkowskich UE, które uczestniczą w strefie euro.
 
 # Notatki - Unia Europejska: Instytucje
 
-Unia Europejska (UE) to organizacja gospodarczo-polityczna zrzeszająca 27 państw europejskich. Głównymi celami UE są promowanie wzrostu gospodarczego, zapewnienie zatrudnienia, ochrona interesów obywateli UE oraz wspieranie wymiany i wolności ruchu pomiędzy państwami członkowskimi.
+Unia Europejska to organizacja międzynarodowa, której celem jest promowanie pokoju, współpracy i dobrobytu w Europie. Składa się z siedmiu instytucji, które odpowiadają za różne aspekty działalności UE.
 
-UE składa się z sześciu instytucji: Rady Europejskiej, Europejskiej Komisji, Parlamentu Europejskiego, Europejskiego Trybunału Sprawiedliwości, Europejskiego Banku Centralnego oraz Europejskiego Banku Inwestycyjnego.
+- **Parlament Europejski** jest instytucją, która reprezentuje interesy obywateli UE i uczestniczy w uchwalaniu prawa unijnego. Składa się z 705 deputowanych wybieranych w wyborach powszechnych co pięć lat.
 
-Rada Europejska to instytucja Unii Europejskiej, w której zasiadają szefowie państw i rządów członkowskich UE. Rada Europejska jest odpowiedzialna za kierowanie polityką i strategią UE, a także za podejmowanie decyzji w sprawach najważniejszych dla UE.
+- **Europejska Komisja** jest instytucją, której zadaniem jest inicjowanie i wdrażanie prawa unijnego oraz polityk UE. Składa się z 27 komisarzy, w tym Przewodniczącego i Wiceprzewodniczących, którzy są nominowani przez państwa członkowskie i zatwierdzani przez Parlament Europejski.
 
-Europejska Komisja to instytucja Unii Europejskiej, która jest organem wykonawczym UE. Komisja jest odpowiedzialna za inicjowanie nowych praw i zarządzanie budżetem UE. Komisja składa się z 27 Komisarzy, po jednym z każdego państwa członkowskiego UE.
+- **Rada Europejska** jest organem, w którym zasiadają szefowie państw i rządów członkowskich UE. Odpowiada za kierowanie polityką i strategią UE. Przewodniczący Rady Europejskiej jest wybierany przez jej członków na okres dwuipółletniego kadencji.
 
-Parlament Europejski to instytucja Unii Europejskiej, w której zasiadają deputowani wybrani w wyborach powszechnych. Parlament Europejski jest odpowiedzialny za uchwalanie praw UE, a także za nadzór nad działalnością innych instytucji UE.
+- **Rada Unii Europejskiej** jest organem, w którym zasiadają ministrowie poszczególnych resortów z państw członkowskich UE. Odpowiada za negocjowanie i przyjmowanie aktów prawnych UE.
 
-Europejski Trybunał Sprawiedliwości to instytucja Unii Europejskiej, która rozstrzyga spory pomiędzy państwami członkowskimi UE a instytucjami UE. Trybunał Sprawiedliwości jest również odpowiedzialny za zapewnienie jednolitej interpretacji prawa UE w całej Unii Europejskiej.
+- **Trybunał Sprawiedliwości Unii Europejskiej** jest instytucją, której zadaniem jest rozstrzyganie sporów między państwami członkowskimi a instytucjami UE oraz interpretacja prawa unijnego. Składa się z 27 sędziów i 11 adwokatów generalnych, wybieranych przez państwa członkowskie na okres sześcioletniej kadencji.
+
+- **Europejski Bank Centralny** jest instytucją, której zadaniem jest ustanawianie i wdrażanie polityki monetarnej dla państw członkowskich UE, które uczestniczą w strefie euro. Składa się z Przewodniczącego, Wiceprzewodniczących i czterech członków Zarządu, wybieranych przez Radę Europejską na okres ośmiuletniej kadencji.
+
+- **Europejski Urząd Statystyczny** jest instytucją, której zadaniem jest zbieranie i analizowanie danych statystycznych na potrzeby UE. Składa się z Dyrektora Generalnego i około 850 pracowników.
