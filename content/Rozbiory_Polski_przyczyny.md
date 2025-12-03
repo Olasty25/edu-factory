@@ -1,48 +1,53 @@
- # Quiz - Przyczyny Rozbiorów Polski
-1. Co to są Rozbiory Polski?
-    A. Przywileje dla możnowładztwa
-    B. Ograniczenie władzy króla
-    C. Podział terytorium Rzeczypospolitej Obojga Narodów przez mocarstwa europejskie
-    D. Pomysł samego Jana III Sobieskiego
+# Quiz - Przyczyny Rozbiorów Polski
+1. Kto wydał akt rozbiorowy Polski w 1772 roku?
+   A. Król Prus Fryderyk II
+   B. Cesarz Rosji Katarzyna II
+   C. Król Austrii Maria Teresa
+   D. Król Francji Ludwik XV
+   * Poprawna odpowiedź: B, Cesarz Rosji Katarzyna II
 
-    Poprawna odpowiedź: C
+2. Jakie były przyczyny rozbiorów Polski?
+   A. Słaba pozycja gospodarcza Polski
+   B. Brak scentralizowanej władzy w Polsce
+   C. Wpływ państw ościennych na politykę wewnętrzną Polski
+   D. Wszystkie z powyższych
+   * Poprawna odpowiedź: D, Wszystkie z powyższych
 
-2. Kiedy miał miejsce pierwszy Rozbiór Polski?
-    A. 1764
-    B. 1772
-    C. 1788
-    D. 1793
+3. Kiedy miało miejsce III rozbioru Polski?
+   A. 1772
+   B. 1793
+   C. 1795
+   D. 1797
+   * Poprawna odpowiedź: C, 1795
 
-    Poprawna odpowiedź: B
+4. Kto był inicjatorem III rozbioru Polski?
+   A. Król Prus Fryderyk Wilhelm II
+   B. Cesarz Rosji Paweł I
+   C. Cesarz Austrii Franciszek II
+   D. Król Francji Ludwik XVI
+   * Poprawna odpowiedź: A, Król Prus Fryderyk Wilhelm II
 
-3. Które państwa były zaangażowane w Rozbiory Polski?
-    A. Rosja, Prusy, Austria
-    B. Francja, Hiszpania, Anglia
-    C. Szwecja, Norwegia, Dania
-    D. Niemcy, Włochy, Grecja
-
-    Poprawna odpowiedź: A
-
-4. Dlaczego doszło do Rozbiorów Polski?
-    A. Dążenie mocarstw do rozszerzenia swoich terytoriów
-    B. Słabe władztwo króla w Polsce
-    C. Brak możliwości obrony przed atakiem z zewnątrz
-    D. Zaproszenie obcych wojsk przez polskich szlachciców
-
-    Poprawna odpowiedź: A+B+C
-
-5. Kiedy miał miejsce ostatni Rozbiór Polski?
-    A. 1772
-    B. 1793
-    C. 1795
-    D. 1797
-
-    Poprawna odpowiedź: C
+5. Ile ziem utraciła Polska w wyniku rozbiorów?
+   A. 30%
+   B. 50%
+   C. 60%
+   D. 70%
+   * Poprawna odpowiedź: C, 60%
 
 # Fiszki - Przyczyny Rozbiorów Polski
-- Rzeczpospolita Obojga Narodów (do 1795 r.) - państwo składające się z Korony Królestwa Polskiego oraz Wielkiego Księstwa Litewskiego
-- Konfederacja warszawska (1773 r.) - porozumienie szlachty polskiej, mające na celu ograniczenie władzy króla Stanisława Augusta Poniatowskiego, popieranego przez Rosję
-- Utrata suwerenności - wynik Rozbiorów Polski: I Rozbiór - wspólnie Rosja i Prusy, II Rozbiór - Rosja, Prusy i Austria, III Rozbiór - Rosja, Prusy, Austria
+1. Słaba pozycja gospodarcza Polski
+2. Brak scentralizowanej władzy w Polsce
+3. Wpływ państw ościennych na politykę wewnętrzną Polski
+4. Akt rozbiorowy Polski w 1772 roku
+5. III rozbior Polski w 1795 roku
 
 # Notatki - Przyczyny Rozbiorów Polski
-W XVIII wieku Rzeczpospolita Obojga Narodów była państwem słabo zarządzanym i podatnym na ingerencje mocarstw europejskich. Konfederacja warszawska, podpisana w 1773 r., ograniczyła władzę króla i doprowadziła do osłabienia państwa. To zaowocowało I Rozbiorem Polski w 1772 r., w którym wspólnie Rosja i Prusy zajęły część terytorium Rzeczypospolitej. II Rozbiór w 1793 r., w którym Rosja, Prusy i Austria podzieliły między sobą tereny dawnego państwa, a III Rozbiór w 1795 r., w którym ostatecznie zlikwidowali Rzeczpospolitą Obojga Narodów. Głównymi powodami Rozbiorów Polski były: dążenie mocarstw do rozszerzenia swoich terytoriów, słabe władztwo króla w Polsce oraz brak możliwości obrony przed atakiem z zewnątrz. Rozbiory Polski były również wynikiem słabości polskiej gospodarki i braku zintegrowanego systemu obrony.
+Rozbiory Polski były wynikiem słabości gospodarczej i politycznej Rzeczypospolitej Obojga Narodów. Brak scentralizowanej władzy, konfederacje szlacheckie oraz zabory przez państwa ościenne doprowadziły do rozbiorów Polski w latach 1772, 1793 i 1795.
+
+W 1772 roku Rosja, Prusy i Austria dokonały I rozbioru Polski, zajmując ok. 30% terytorium państwa. Głównymi przyczynami były słaba pozycja gospodarcza Polski oraz brak scentralizowanej władzy.
+
+W 1793 roku miało miejsce II rozbior Polski, w wyniku którego Rosja i Prusy zajęły kolejne 50% terytorium państwa. Przyczyną była ingerencja państw ościennych w politykę wewnętrzną Polski.
+
+W 1795 roku miało miejsce ostateczne rozbicie Polski, w wyniku którego Rosja, Prusy i Austria zajęły resztę terytorium państwa. Przyczyną była słaba pozycja gospodarcza Polski oraz brak scentralizowanej władzy.
+
+W wyniku rozbiorów Polska utraciła ok. 60% terytorium i 35% ludności. Rozbiory Polski były jednym z najtragiczniejszych wydarzeń w historii Polski.

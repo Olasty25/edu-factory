@@ -1,52 +1,73 @@
- ## Quiz
+ # Quiz: Powstanie Styczniowe - Przyczyny i Skutki
 
-1. Kiedy rozpoczęło się Powstanie Styczniowe?
-   A. 1830
-   B. 1846
-   C. 1861
-   D. 1863
-   **Poprawna odpowiedź: D. 1863**
+1. Co było główną przyczyną wybuchu Powstania Styczniowego w 1863 roku?
+   A. Brak demokracji w Królestwie Polskim
+   B. Rosyjska dominacja i rusyfikacja
+   C. Gospodarcze kryzysy
+   D. Wpływy pruskie
 
-2. Jakie były główne przyczyny Powstania Styczniowego?
-   A. Zmiana granic
-   B. Oburzenie wobec polityki carskiej
-   C. Brak dostępu do morza
-   D. Upadek gospodarczy
-   **Poprawna odpowiedź: B. Oburzenie wobec polityki carskiej**
+   Poprawna odpowiedź: B. Rosyjska dominacja i rusyfikacja
 
-3. Kto był przywódcą powstania?
-   A. Józef Piłsudski
-   B. Tadeusz Kościuszko
-   C. Romuald Traugutt
-   D. Ignacy Jan Paderewski
-   **Poprawna odpowiedź: C. Romuald Traugutt**
+2. Który z wymienionych przywódców polskich nie był związany z Powstaniem Styczniowym?
+   A. Romuald Traugutt
+   B. Ludwik Mierosławski
+   C. Apollo Korzeniowski
+   D. Józef Hauke-Bosak
 
-4. Ile czasu trwało Powstanie Styczniowe?
-   A. Rok
-   B. Dwa lata
-   C. Półtora roku
-   D. Dwa miesiące
-   **Poprawna odpowiedź: C. Półtora roku**
+   Poprawna odpowiedź: C. Apollo Korzeniowski
 
-5. Jakim miało być hasłem powstania?
-   A. Wolność, równość, braterstwo
-   B. Bóg, Honor, Ojczyzna
-   C. Nie poddamy się
-   D. Federacja lub śmierć
-   **Poprawna odpowiedź: A. Wolność, równość, braterstwo**
+3. Jakie były główne skutki Powstania Styczniowego dla ludności polskiej?
+   A. Wzrost represji i carskich restrykcji
+   B. Rozwój polskiego przemysłu i gospodarki
+   C. Odbudowa niepodległości Polski
+   D. Liberalizacja ustroju społecznego
 
-## Fiszki
+   Poprawna odpowiedź: A. Wzrost represji i carskich restrykcji
 
-1. **Powstanie Styczniowe** - zbrojne powstanie, które miało miejsce w zaborze rosyjskim w latach 1863-1864.
-2. **Przyczyny:** represje po powstaniu listopadowym, próby rusyfikacji, brak swobód obywatelskich.
-3. **Przywódca:** Romuald Traugutt - generał i naczelnik powstania.
-4. **Przebieg:** rozejm w marcu 1864, upadek powstania w październiku 1864.
-5. **Skutki:** represje po upadku powstania, wzrost rusyfikacji, kult czynu powstańczego.
+4. Która z wymienionych organizacji nie była związana z Powstaniem Styczniowym?
+   A. Komitet Centralny Narodowy
+   B. Czerwony Batalion
+   C. Towarzystwo Demokratyczne Polskie
+   D. Rząd Narodowy na emigracji
 
-## Notatki
+   Poprawna odpowiedź: B. Czerwony Batalion (powstał dopiero w 1918 roku)
 
-Powstanie Styczniowe było zbrojnym wystąpieniem przeciwko caratowi, które miało miejsce w zaborze rosyjskim w latach 1863-1864. Główne przyczyny Powstania Styczniowego to represje po powstaniu listopadowym, próby rusyfikacji, brak swobód obywatelskich. Przywódcą powstania był Romuald Traugutt - generał i naczelnik powstania.
+5. Jakie były długofalowe skutki Powstania Styczniowego dla narodu polskiego?
+   A. Zwiększenie dążeń niepodległościowych
+   B. Ograniczenie praw obywatelskich
+   C. Rozwój polskiego ruchu robotniczego
+   D. Przyznanie autonomii Królestwu Polskiemu
 
-Powstanie rozpoczęło się 22 stycznia 1863 roku i trwało półtora roku. Pomimo początkowych sukcesów, siły carskie szybko przejęły kontrolę i ostatecznie powstanie upadło w październiku 1864 roku.
+   Poprawna odpowiedź: A. Zwiększenie dążeń niepodległościowych
 
-Skutki Powstania Styczniowego były poważne. Car wydał nowe represje, które wzmogły rusyfikację i zmniejszyły swobody obywatelskie. Mimo to, Powstanie Styczniowe było bardzo ważne dla narodów zaboru rosyjskiego, które znalazły w nim symbol walki o wolność i niezależność. Powstanie Styczniowe stało się zaczątkiem nowego ruchu niepodległościowego i przyczyniło się do wzrostu świadomości narodowej w kręgach inteligencji i szlachty. Współcześnie Powstanie Styczniowe jest postrzegane jako symbol walki o wolność i niezależność narodu polskiego.
+# Fiszki: Powstanie Styczniowe - Przyczyny i Skutki
+
+1. Rosyjska dominacja i rusyfikacja: polityka carska zmierzająca do scentralizowania władzy i ograniczenia wpływów polskich w Królestwie Polskim.
+2. Komitet Centralny Narodowy: tajna organizacja powstańcza, założona w październiku 1861 roku, której celem było przygotowanie i przeprowadzenie zbrojnego powstania przeciwko Rosji.
+3. Ludwik Mierosławski: generał, dowódca i strateg Powstania Styczniowego, który planował i kierował działaniami powstańczymi.
+4. Wzrost represji i carskich restrykcji: skutki Powstania Styczniowego, które doprowadziły do ograniczenia wolności osobistej i zwiększenia represji wobec ludności polskiej.
+5. Zwiększenie dążeń niepodległościowych: długofalowy skutek Powstania Styczniowego, który przyczynił się do wzrostu świadomości narodowej i dążeń do odzyskania niepodległości przez Polskę.
+
+# Notatki: Powstanie Styczniowe - Przyczyny i Skutki
+
+Powstanie Styczniowe było zbrojnym wystąpieniem ludności polskiej przeciwko zacieśnianej rosyjskiej dominacji i rusyfikacji w Królestwie Polskim w 1863 roku. Głównymi przyczynami były:
+
+- Rosyjska dominacja i rusyfikacja: polityka carska zmierzająca do scentralizowania władzy i ograniczenia wpływów polskich w Królestwie Polskim.
+- Brak demokracji i praw obywatelskich: brak możliwości uczestniczenia w życiu politycznym i brak swobód obywatelskich.
+- Gospodarcze kryzysy: słabe wyniki gospodarcze i kryzysy ekonomiczne, które pogłębiły trudną sytuację ludności polskiej.
+
+Powstanie Styczniowe było przygotowywane i koordynowane przez Komitet Centralny Narodowy, tajną organizację powstańczą, założoną w październiku 1861 roku. Powstanie poparło wielu Polaków, w tym inteligencja, arystokracja i chłopi.
+
+Skutki Powstania Styczniowego dla ludności polskiej były negatywne i obejmowały:
+
+- Wzrost represji i carskich restrykcji: ograniczenie wolności osobistej, konfiskaty majątków, represje wobec uczestników powstania i ich rodzin.
+- Rozwój polskiego ruchu niepodległościowego: wzrost świadomości narodowej i dążeń do odzyskania niepodległości przez Polskę.
+- Ograniczenie praw obywatelskich: brak możliwości uczestniczenia w życiu politycznym i brak swobód obywatelskich.
+
+Długofalowe skutki Powstania Styczniowego to:
+
+- Zwiększenie dążeń niepodległościowych: wzrost świadomości narodowej i dążeń do odzyskania niepodległości przez Polskę.
+- Rozwój polskiego ruchu robotniczego: wzrost aktywności społecznej i politycznej ludności polskiej, w tym robotników i inteligencji.
+- Ograniczenie wpływów zachodnich: wzrost wpływów rosyjskich w Królestwie Polskim i ograniczenie wpływów zachodnich.
+
+Powstanie Styczniowe było ważnym wydarzeniem w historii Polski, które przyczyniło się do wzrostu świadomości narodowej i dążeń do odzyskania niepodległości przez Polskę. Mimo negatywnych skutków, Powstanie Styczniowe było ważnym krokiem w kierunku odzyskania niepodległości przez Polskę.
