@@ -1,57 +1,51 @@
- # Quiz - Izotopy: Definicja i Przykłady
+# Quiz
 
-1. Jakie jest jednoznaczne określenie izotopu?
-   A. Wariant naturalnie występujący danego pierwiastka
-    B. Element o tej samej liczbie protonów, ale różnych liczbach neutronów
-    C. Nagromadzenie izomerów danego pierwiastka
-    D. Wszystkie poprzednie odpowiedzi są nieprawidłowe
-    *B. Element o tej samej liczbie protonów, ale różnych liczbach neutronów*
+1. Jaka jest definicja izotopu?
+   A. Jądro atomowe o tej samej liczbie neutronów, ale różnej liczbie protonów.
+   B. Jądro atomowe o tej samej liczbie protonów, ale różnej liczbie neutronów. (Poprawna odpowiedź)
+   C. Rodzina atomów o tej samej liczbie elektronów, ale różnej liczbie protonów i neutronów.
+   D. Rodzina atomów o tej samej liczbie protonów, ale różnej liczbie elektronów i neutronów.
 
-2. Czy izotopy danego pierwiastka mogą różnić się swoimi właściwościami chemicznymi?
-   A. Tak, mają różne właściwości chemiczne
-    B. Nie, mają takie same właściwości chemiczne
-    C. Zależy od rodzaju izotopu
-    D. Nie wiem
-    *B. Nie, mają takie same właściwości chemiczne*
+2. Czy izotopy danego pierwiastka różnią się swoimi właściwościami chemicznymi?
+   A. Tak
+   B. Nie (Poprawna odpowiedź)
+   C. Zależy od konkretnych izotopów
+   D. Nie zależy od konkretnych izotopów
 
-3. Ile neutronów znajduje się w stabilnym izotopie wodoru?
-    A. 0
-    B. 1
-    C. 2
-    D. 3
-    *A. 0*
+3. Ile izotopów ma w przybliżeniu wodór?
+   A. 1
+   B. 2 (Poprawna odpowiedź)
+   C. 3
+   D. 4
 
-4. Jaki jest przykład niestabilnego izotopu, który ulega rozpadowi radioaktywnego?
-    A. Wodór-3 (trit)
-    B. Hel-4 (helium)
-    C. Cyna-123 (stabilny)
-    D. Uran-238
-    *D. Uran-238*
+4. Jaki z pierwiastków ma najwięcej naturalnie występujących izotopów?
+   A. Wodór (Poprawna odpowiedź)
+   B. Hel
+   C. Neon
+   D. Carbon
 
-5. Jaki izotop tlenu jest najpowszechniejszy w przyrodzie?
-    A. Tlen-16
-    B. Tlen-17
-    C. Tlen-18
-    D. Wszystkie poprzednie odpowiedzi są poprawne
-    *A. Tlen-16*
+5. Czy wszystkie izotopy są stabilne?
+   A. Tak
+   B. Nie (Poprawna odpowiedź)
+   C. Zależy od konkretnych izotopów
+   D. Wszystkie izotopy są niestabilne
 
-# Fiszki - Izotopy: Definicja i Przykłady
+# Fiszki
 
-1. **Izotop**
-    * Wariant danego pierwiastka o tej samej liczbie protonów, ale różnej liczbie neutronów
-2. **Izotopy stabilne i niestabilne**
-    * Izotopy stabilne nie ulegają rozpadowi radioaktywnemu
-    * Izotopy niestabilne ulegają rozpadowi radioaktywnemu, tworząc nowe jądro atomowe oraz emitując promieniowanie
-3. **Przykład stabilnego izotopu**
-    * Wodór-1 (prot) - składa się z 1 protonu i 0 neutronów
-4. **Przykład niestabilnego izotopu**
-    * Uran-238 - składa się z 92 protonów i 146 neutronów, rozpada się na tor-234 i emituje promieniowanie alfa
-5. **Izotopy wodoru**
-    * Wodór ma 3 izotopy: prot (H-1), deuter (H-2) i trit (H-3)
+1. **Izotop** - jądro atomowe o tej samej liczbie protonów, ale różnej liczbie neutronów.
+2. **Liczba masowa** - suma liczby protonów i neutronów w jądrze atomowym.
+3. **Izotopy stabilne** - izotopy, które nie ulegają rozpadowi radioaktywnego.
+4. **Izotopy niestabilne** - izotopy, które ulegają rozpadowi radioaktywnemu.
+5. **Licznik izotopowy** - liczba neutronów w jądrze atomowym danego izotopu.
 
-# Notatki - Izotopy: Definicja i Przykłady
+# Notatki
 
-Izotopy to warianty danego pierwiastka, które różnią się liczbą neutronów, ale mają tę samą liczbę protonów. Istnieją dwa rodzaje izotopów: stabilne i niestabilne.
-Izotopy stabilne nie podlegają rozpadowi radioaktywnemu i występują naturalnie w środowisku. Przykładem stabilnego izotopu jest wodór-1 (prot), który składa się z 1 protonu i 0 neutronów.
-Z drugiej strony, izotopy niestabilne ulegają rozpadowi radioaktywnemu, tworząc nowe jądro atomowe i emitując promieniowanie. Przykładem niestabilnego izotopu jest uran-238, który rozpada się na tor-234 i emituje promieniowanie alfa.
-Ponadto, wiele pierwiastków ma izotopy, które mogą występować w naturze lub być syntetycznie stworzone w laboratoriach. Na przykład, wodór ma trzy izotopy: prot (H-1), deuter (H-2) i trit (H-3). Prot jest stabilny, a deuter i trit są niestabilne.
+Izotopy to atomy tego samego pierwiastka, które różnią się liczbą neutronów w swoich jądrach. Wszystkie izotopy danego pierwiastka mają tę samą liczbę protonów, dzięki czemu zachowują się tak samo chemicznie. Różnice w liczbie neutronów mogą jednak wpłynąć na stabilność jądra atomowego, co prowadzi do rozpadu radioaktywnego w przypadku izotopów niestabilnych.
+
+Liczba masowa to suma liczby protonów i neutronów w jądrze atomowym. Dla przykładu, wodór-2 (deuter) ma liczbę masową równą 2 (jeden proton i jeden neutron), podczas gdy wodór-1 (prot) ma liczbę masową równą 1 (tylko jeden proton).
+
+Większość pierwiastków ma wiele izotopów, zarówno stabilnych, jak i niestabilnych. Na przykład wodór ma 3 izotopy: prot (stabilny), deuter (stabilny) i tryt (niestabilny). Hel również ma wiele izotopów, w tym hel-3 (niestabilny) i hel-4 (stabilny).
+
+Izotopy stabilne występują naturalnie i są stosowane w szerokim zakresie zastosowań, w tym w medycynie, przemyśle i badaniach naukowych. Izotopy niestabilne mogą być stosowane w medycynie do leczenia nowotworów, ale mogą też stanowić zagrożenie dla zdrowia i środowiska z powodu ich radioaktywności.
+
+Licznik izotopowy to liczba neutronów w jądrze atomowym danego izotopu. Na przykład licznik izotopowy wodoru-2 (deutera) wynosi 1, a wodoru-3 (trytu) wynosi 2. Licznik izotopowy jest często stosowany do oznaczania izotopów, ponieważ umożliwia łatwe rozróżnienie między nimi.

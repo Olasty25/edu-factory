@@ -1,22 +1,60 @@
- Reakcje redoks - przykłady
-=========================
+# Reakcje redoks - przykłady
 
-Quiz
-----
+## Quiz
 
-1. (A) Co to są reakcje redoks? (B) Co oznacza stosunek  oxydacji / redukcji? (C) Jaką rolę odgrywa elektron w reakcjach redoks? (D) Która z reakcji jest redoks: 2H2 + O2 -> 2H2O czy 2H2 + O2 -> 2H2O2?
-    - Reakcje redoks to reakcje, w których jeden z uczestników (lub więcej) oddaje lub przyjmuje elektron.
-    - Stosunek  oxydacji / redukcji jest równy liczbie elektronów wymienianych między pierwszym uczestnikiem odwracającym swój stan redoks (oxydacja) a drugim (redukcja).
-    - Elektron pełni tutaj rolę cząstki przenoszonej, dzięki której odbywają się zmiany w stopniu utlenienia.
-    - Prawidłowa odpowiedź to druga reakcja, gdzie oba reagenty zachodzą w stan redoks jako 2H2(0) + O2(0) -> 2H2(+1) + O2(-1).
-2. (A) Która para jonów mają tę samą liczbę elektronów? (B) Które z tych jonów będą oddawać elektron w reakcji redoks? (C) Ion Cl- (chlorowodoru) jest jonem...? (D) Ia- (Jodku aromatycznego) jest jonem...?
-    - W zależności od rodzaju jonu, jony o jednakowej ilości elektronów to jony izoelektronowe.
-    - Zwykle, jony o najmniejszej liczbie elektronów będą skłonne oddać jakiś elektron na inną część cząsteczki, więc tu odpowiedź to pierwszym wypadku.
-    - Ion Cl- jest jonem ujemnym, ponieważ zostało na nim zbyt wiele elektronów, przez co posiada dodatkowy (niezwiązany) elektron.
-    - Ion Ia- również posiada dodatkowy (niezwiązany) elektron, przez co jest jonem ujemnym.
-3. (A) Która para jonów będzie miała sumaryczny ładunek równy 0? (B) Które z tych jonów będą brać udział w reakcjach redoks? (C) Który z wymienionych jonów ma wartości atomowe najbliższe siebie? (D) Jaki jest stosunek atomowy molekuły 2CuCl2 i CuCl?
-    - Prawidłową odpowiedzią jest drugi przypadek, gdzie sumaryczny ładunek jonów jest równy 0.
-    - Wszystkie jony wymienione w tym przypadku mogą uczestniczyć w reakcjach redoks.
-    - Dwie najbliższe sobie wartości atomowe wyrażają się na przykład jako: Ca (40,078 a.m.) i S (32,06 a.m.).
-    - Stosunek atomowy w pierwszym przypadku wynosi 2:1, a w drugim 3:1.
-4. (A) Która rola odgrywa cykl volharda? (B) Czym się różni reakcja redoks z zapalnikiem i zwykłą reakcją? (C) Jak wyznaczyć stopień utlenienia atomów w cząsteczce za pomocą struktury
+1. Czym są reakcje redoks?
+   A. Reakcje, w których zachodzi wymiana protonów
+   B. Reakcje, w których zachodzi wymiana elektronów
+   C. Reakcje, w których zachodzi wymiana cząstek o różnym ładunku
+   D. Reakcje, w których zachodzi wymiana cząstek o jednakowym ładunku
+   **Poprawna odpowiedź: B. Reakcje, w których zachodzi wymiana elektronów**
+
+2. Które z następujących związków jest utleniaczem?
+   A. Woda (H2O)
+   B. Tlen (O2)
+   C. Wodór (H2)
+   D. Sód (Na)
+   **Poprawna odpowiedź: B. Tlen (O2)**
+
+3. Czym jest para elektrod?
+   A. Dwóch różnych metali, które reagują ze sobą
+   B. Dwóch różnych metali, pomiędzy którymi istnieje różnica potencjałów elektrycznych
+   C. Dwóch tych samych metali, które reagują ze sobą
+   D. Dwóch tych samych metali, pomiędzy którymi istnieje równowaga potencjałów elektrycznych
+   **Poprawna odpowiedź: B. Dwóch różnych metali, pomiędzy którymi istnieje różnica potencjałów elektrycznych**
+
+4. Które z następujących związków jest reduktorem?
+   A. Związek glukozy (C6H12O6)
+   B. Tlenek wapnia (CaO)
+   C. Kwas siarkowy (H2SO4)
+   D. Sód (Na)
+   **Poprawna odpowiedź: A. Związek glukozy (C6H12O6)**
+
+5. Czym jest standardowy potencjał elektrodowy?
+   A. Wartość bezwzględna potencjału elektrycznego elektrody
+   B. Różnica potencjałów elektrycznych pomiędzy elektrodą a roztworem
+   C. Różnica potencjałów elektrycznych pomiędzy dwiema elektrodami
+   D. Wartość potencjału elektrycznego elektrody w stosunku do odniesienia
+   **Poprawna odpowiedź: D. Wartość potencjału elektrycznego elektrody w stosunku do odniesienia**
+
+## Fiszki
+
+1. **Redukcja** - proces, w którym cząstka przyjmuje elektrony i zwiększa swój stopień utlenienia
+2. **Oksydacja** - proces, w którym cząstka traci elektrony i zmniejsza swój stopień utlenienia
+3. **Utaleniacz** - cząstka, która przyjmuje elektrony i powoduje utlenianie innej cząstki
+4. **Reduktor** - cząstka, która traci elektrony i powoduje redukcję innej cząstki
+5. **Para elektrod** - dwie elektrody, pomiędzy którymi istnieje różnica potencjałów elektrycznych
+
+## Notatki
+
+Reakcje redoks to rodzaj reakcji chemicznych, w których zachodzi wymiana elektronów między cząstkami. W tego typu reakcjach występuje zarówno proces utleniania, jak i redukcji.
+
+Utaleniacz to cząstka, która przyjmuje elektrony i powoduje utlenianie innej cząstki. Przykładem utleniacza może być tlen (O2).
+
+Reduktor to cząstka, która traci elektrony i powoduje redukcję innej cząstki. Przykładem reduktora może być związek glukozy (C6H12O6).
+
+W reakcjach redoks można wyróżnić dwie elektrody: anodę i katodę. Na anodzie zachodzi proces utleniania, a na katodzie proces redukcji. Różnica potencjałów elektrycznych między anodą a katodą nazywamy potencjałem elektrodowym.
+
+Standardowy potencjał elektrodowy to wartość potencjału elektrodowego w stosunku do odniesienia. Wartości standardowych potencjałów elektrodowych dla różnych par elektrod umożliwiają porównanie ich redukcyjnych właściwości.
+
+Warto pamiętać, że w reakcjach redoks zachodzi wymiana elektronów, a nie protonów. Reakcje, w których zachodzi wymiana protonów, to reakcje kwasowo-zasadowe.

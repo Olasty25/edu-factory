@@ -1,56 +1,61 @@
- # Prawo Zachowania Masy
-
-## Quiz
+ # Prawo Zachowania Masy Quiz
 
 1. Co to jest prawo zachowania masy?
    A. Zasada, że masa nie może być stworzona ani zniszczona
-   B. Zasada, że masa zawsze jest taka sama
-   C. Zasada, że masa może być przenoszona z jednego ciała na drugie
-   D. Zasada, że masa zawsze rośnie
-   *Poprawna odpowiedź: A. Zasada, że masa nie może być stworzona ani zniszczona*
+   B. Zasada, że masa zawsze zwiększa się podczas kolizji
+   C. Zasada, że masa zawsze zmniejsza się podczas kolizji
+   D. Zasada, że masa jest stała w układzie zamkniętym
+
+   Poprawna odpowiedź: D. Zasada, że masa jest stała w układzie zamkniętym
 
 2. Kiedy prawo zachowania masy zostało odkryte?
-   A. W starożytności
-   B. W czasach nowożytnych
-   C. Na początku XX wieku
-   D. Na początku XX wieku
-   *Poprawna odpowiedź: B. W czasach nowożytnych*
+   A. W starożytnej Grecji
+   B. W XVII wieku przez Galileusza
+   C. W XVIII wieku przez Newtona
+   D. W XIX wieku przez Einsteina
 
-3. Jakie eksperymenty zostały przeprowadzone, aby potwierdzić prawo zachowania masy?
-   A. Eksperyment z wagami
-   B. Eksperyment z bilami i pojemnikami
-   C. Eksperyment z wodą i cantileverem
-   D. Wszystkie poprzednie odpowiedzi
-   *Poprawna odpowiedź: D. Wszystkie poprzednie odpowiedzi*
+   Poprawna odpowiedź: A. W starożytnej Grecji
 
-4. Czy prawo zachowania masy nadal jest prawdziwe w świetle teorii względności Einsteina?
-   A. Taka sama zasada jest nadal prawdziwa
-   B. Zasada została zupełnie wycofana
-   C. Zasada zastąpiona nową zasadą
-   D. Nic o tej zasadzie w teorii względności Einsteina nie wspomina
-   *Poprawna odpowiedź: A. Taka sama zasada jest nadal prawdziwa*
+3. Czy prawo zachowania masy jest prawdziwe wszędzie?
+   A. Tak, jest uniwersalnie prawdziwe
+   B. Nie, jest prawdziwe tylko na Ziemi
+   C. Nie, jest prawdziwe tylko w próżni
+   D. Nie, jest prawdziwe tylko w układach zamkniętych
 
-5. Jakie znaczenie ma prawo zachowania masy w dzisiejszym rozumieniu fizyki?
-   A. To podstawowe pojęcie w fizyce
-   B. To przestarzałe pojęcie już nie używane
-   C. To słowo używane tylko w kontekście chemii
-   D. To pojęcie stosowane tylko w astronomii
-   *Poprawna odpowiedź: A. To podstawowe pojęcie w fizyce*
+   Poprawna odpowiedź: D. Nie, jest prawdziwe tylko w układach zamkniętych
 
-## Fiszki
+4. Co to jest układ zamknięty w kontekście prawa zachowania masy?
+   A. Układ, w którym nie ma żadnych zewnętrznych sił działających
+   B. Układ, w którym nie ma żadnych wewnętrznych sił działających
+   C. Układ, w którym masa nie może być dodawana ani usuwana
+   D. Układ, w którym energia nie może być dodawana ani usuwana
 
-1. Prawo zachowania masy: Zasada, że masa nie może być stworzona ani zniszczona
-2. Antoine Lavoisier: Francuski chemik, który odkrył prawo zachowania masy w XVIII wieku
-3. Eksperyment z wagami: Doświadczenie wykazujące, że masa przed i po reakcji chemicznej jest taka sama
-4. Eksperyment z bilami i pojemnikami: Doświadczenie, które pokazuje, że masa materiałów wchodzących i wychodzących z reakcji jest taka sama
-5. Eksperyment z wodą i cantileverem: Doświadczenie, które wykazuje, że masa wody przed i po wrzenie nie zmienia się
+   Poprawna odpowiedź: C. Układ, w którym masa nie może być dodawana ani usuwana
 
-## Notatki
+5. Czy prawo zachowania masy jest nadal aktualne w kontekście fizyki współczesnej?
+   A. Tak, jest nadal aktualne
+   B. Nie, zostało zastąpione przez prawo zachowania energii
+   C. Nie, zostało zastąpione przez teorię względności
+   D. Nie, zostało zastąpione przez mechanikę kwantową
 
-Prawo zachowania masy zostało odkryte przez francuskiego chemika Antoine Lavoisiera w XVIII wieku. Jest to jedno z podstawowych zasad fizyki i chemii, która stanowi, że masa nie może być stworzona ani zniszczona. Zasada ta została potwierdzona przez liczne eksperymenty, takie jak eksperyment z wagami, eksperyment z bilami i pojemnikami oraz eksperyment z wodą i cantileverem.
+   Poprawna odpowiedź: B. Nie, zostało zastąpione przez prawo zachowania energii
 
-Według tego prawa, całkowita masa substancji wejściowych w reakcji chemicznej musi być równa całkowitej masie substancji wyjściowych. Czyli, jeśli mamy reakcję chemiczną między dwiema substancjami, masa tych substancji pozostanie taka sama zarówno przed, jak i po reakcji.
+# Prawo Zachowania Masy Fiszki
 
-Prawo zachowania masy miało ogromne znaczenie w rozwoju chemii. Przez wieki ludzie mylnie twierdzili, że w procesach fermentacji i gnitwi są wytwarzane nowe substancje. Dopiero prawo zachowania masy potwierdziło, że masa substancji przed i po tych reakcjach jest taka sama.
+1. Prawo zachowania masy: masa jest stała w układzie zamkniętym
+2. Układ zamknięty: masa nie może być dodawana ani usuwana
+3. Prawo zachowania masy nie jest uniwersalnie prawdziwe, tylko w układach zamkniętych
+4. Prawo zachowania masy zostało odkryte w starożytnej Grecji
+5. Prawo zachowania masy zostało zastąpione przez prawo zachowania energii w fizyce współczesnej
 
-Współcześnie, w ramach teorii względności Einsteina, masa i energia są ze sobą powiązane. W związku z tym, zmiana energii będzie powodować odpowiednią zmianę masy. Jednakże, można powiedzieć, że prawo zachowania masy jest wciąż spełnione, ponieważ wyrażane jest równaniem E=mc², w którym zmiana energii jest w związku z masą, co oznacza, że zmiana energii nie jest stworzona ani zniszczona, lecz tylko przekształcona w masę lub odwrotnie.
+# Prawo Zachowania Masy Notatki
+
+Prawo zachowania masy to podstawowa zasada fizyki, która mówi, że masa jest stała w układzie zamkniętym. Oznacza to, że masa nie może być stworzona ani zniszczona, tylko może być przekształcana z jednej formy w drugą.
+
+Prawo zachowania masy zostało odkryte w starożytnej Grecji i było powszechnie akceptowane aż do początku XX wieku. Jednak wraz z rozwojem fizyki jądrowej i teorii względności, zaczęto rozumieć, że prawo to nie jest uniwersalnie prawdziwe. W kontekście fizyki współczesnej, prawo zachowania masy zostało zastąpione przez prawo zachowania energii.
+
+Układ zamknięty to takie układ, w którym nie ma żadnych zewnętrznych sił działających. W takim układzie masa nie może być dodawana ani usuwana, tylko może być przekształcana z jednej formy w drugą.
+
+Prawo zachowania masy ma wiele zastosowań w fizyce, chemii i inżynierii. Na przykład pozwala ono nam przewidywać, jakie ilości substancji będą wytworzone podczas reakcji chemicznej, lub jak będą się zachowywać obiekty w przestrzeni kosmicznej.
+
+Warto jednak pamiętać, że prawo zachowania masy nie jest uniwersalnie prawdziwe i nie dotyczy sytuacji, w których mamy do czynienia z przemianami jądrowymi lub zjawiskami związanymi z relatywistyką. W takich sytuacjach należy stosować inne prawa fizyki, takie jak prawo zachowania energii czy równania Einsteina.

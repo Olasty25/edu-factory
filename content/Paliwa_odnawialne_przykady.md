@@ -1,61 +1,69 @@
- ## Quiz
+# Paliwa Odnawialne - Przykłady
 
-1. Jaka roślina jest najczęściej wybieraną surowcem do produkcji biopaliw?
-   A. Słonecznik
-   B. Kukurydza
-   C. Rapsod
-   D. Soja
+## Quiz
 
-   Poprawna odpowiedź: C. Rapsod
+1. Jaki rodzaj paliwa odnawialnego jest stosowany w samochodach hybrydowych?
+   A) Biodiesel
+   B) Etanol
+   C) Biogaz
+   D) Hydrogen
 
-2. Jakie paliwo odnawialne jest produkowane ze zwierzęcych odchodów?
-   A. Biodiesel
-   B. Bioetanol
-   C. Biogaz
-   D. Hydrogen
+   Poprawna odpowiedź: B) Etanol
 
-   Poprawna odpowiedź: C. Biogaz
+2. Który z wymienionych źródeł jest odnawialny?
+   A) Węgiel
+   B) Ropa naftowa
+   C) Gaz ziemny
+   D) Słońce
 
-3. Jaka maszyna wymaga użycia dodatkowego startera w celu uruchomienia silnika na paliwo odnawialne?
-   A. Samochód
-   B. Łódź
-   C. Samolot
-   D. Helikopter
+   Poprawna odpowiedź: D) Słońce
 
-   Poprawna odpowiedź: D. Helikopter
+3. Jaki rodzaj paliwa odnawialnego jest produkowany z odpadków organicznych?
+   A) Biodiesel
+   B) Biogaz
+   C) Etanol
+   D) Hydrogen
 
-4. Jaka roślina nie nadaje się do produkcji bioetanolu?
-   A. Trzcina cukrowa
-   B. Ziemniaki
-   C. Sorgo
-   D. Świniec
+   Poprawna odpowiedź: B) Biogaz
 
-   Poprawna odpowiedź: D. Świniec
+4. Które z wymienionych państw jest liderem w produkcji energii wiatrowej?
+   A) Stany Zjednoczone
+   B) Niemcy
+   C) Chiny
+   D) Dania
 
-5. Jaka organizacja promuje używanie biopaliw na całym świecie?
-   A. Global Environment Facility
-   B. Global Gas Flaring Reduction Partnership
-   C. Renewable Energy and Energy Efficiency Partnership
-   D. Global Bioenergy Partnership
+   Poprawna odpowiedź: D) Dania
 
-   Poprawna odpowiedź: D. Global Bioenergy Partnership
+5. Jaki rodzaj paliwa odnawialnego jest stosowany w samochodach z napędem wodorowym?
+   A) Biodiesel
+   B) Etanol
+   C) Biogaz
+   D) Hydrogen
+
+   Poprawna odpowiedź: D) Hydrogen
 
 ## Fiszki
 
-1. **Biopaliwa** - paliwa wyprodukowane z biomasy, która może być odnawialna dzięki zdolności fotosyntezy roślin zwiększających biomasę w krótkim czasie.
-2. **Biodiesel** - rodzaj biopaliwa mogącego zostać użyte w silniku zasilanym olejem napędowym. Najczęściej wytwarzany z oleju rzepakowego lub roślinnej olejiny.
-3. **Bioetanol** - alkohol etylowy otrzymywany z biomasy, który jest mieszany z benzyną w różnym stosunku (E5 - 5% bioetanolu, E10 - 10% bioetanolu) jako benzyna E85 zawiera 85% bioetanolu.
-4. **Biogaz** - mieszanina dwutlenku węgla (CO2) oraz metanu (CH4), która powstaje w procesie fermentacji beztlenowej - najczęściej z zielonych części roślin, odchodów zwierzęcych lub opadków.
-5. **Hydrogen** - paliwo odnawialne otrzymywane z wody za pomocą elektrolizy lub z biomasy w procesie fermentacji.
+- **Biodiesel** - paliwo odnawialne produkowane z olejów roślinnych lub tłuszczów zwierzęcych.
+- **Etanol** - alkohol wyprodukowany z ziemniaków, kukurydzy, trzciny cukrowej lub innych roślin.
+- **Biogaz** - mieszanina gazów, w tym metanu, powstająca w wyniku rozkładu materii organicznej w warunkach beztlenowych.
+- **Hydrogen** - gaz lekki, bezbarwny, bezwonny, palny i łatwo lotny, który może być używany jako paliwo odnawialne.
+- **Energia wiatrowa** - forma energii odnawialnej wykorzystująca moc wiatru do generowania prądu elektrycznego.
 
 ## Notatki
 
-Biopaliwa przykłady to: biodiesel, bioetanol, biogaz i hydrogen. Każdy z powyższych rodzajów paliw pochodzi z biomasy, która jest odnawialna poprzez zdolność roślin do fotosyntezy oraz tworzenia nowych komórek w krótkim czasie.
+Paliwa odnawialne to źródła energii, które mogą być odnowione w krótkim okresie czasu. Są one odmienne od paliw nierenewalnych, takich jak węgiel, ropa naftowa i gaz ziemny, które są skończone i mogą być wyczerpane.
 
-Biodiesel jest rodzajem biopaliwa podobnego do oleju napędowego, który istnieje w stanie stałym, co upraszcza jego stosowanie w silnikach Diesla. Jest on zazwyczaj otrzymywany z oleju rzepakowego lub roślinnej olejiny. Wynalezienie biodiesla pozwala zmniejszyć zużycie paliw kopalnych, a także zredukować negatywne emisje CO2 z ich spalania w komorze spalania w stosunku do dawnego spalania oleju napędowego.
+Przykłady paliw odnawialnych to:
 
-Bioetanol to odnowialne paliwo, które jest otrzymywane z biomasy za pomocą procesu fermentacji i destylacji. Jest on wykorzystywany w spalarkach i pojazdach samochodowych. Bioetanol mieszany jest z benzyną w różnych proporcjach, a najczęściej używane są proporcje E5 (5% bioetanolu + 95% benzyny) lub E10 (10% bioetanolu + 90% benzyny). Natomiast wytwarzana w bardziej nowoczesnych instalacjach benzyna E85 zawiera 85% bioetanolu.
+- **Biodiesel** - paliwo odnawialne produkowane z olejów roślinnych lub tłuszczów zwierzęcych. Może być stosowane w samochodach z silnikami diesla, zarówno w czystej postaci, jak i w mieszankach z dieselem.
 
-Biogaz jest stabilną mieszaniną gazów (CO2, CH4) otrzymywaną w trakcie fermentacji beztlenowej, która najczęściej odbywa się w specjalnych zbiornikach z materiałami organicznymi (zielone części roślin, odchody zwierząt lub opady). Biogaz może być używany do ogrzewania, przemysłu i produkcji energii elektrycznej.
+- **Etanol** - alkohol wyprodukowany z ziemniaków, kukurydzy, trzciny cukrowej lub innych roślin. Może być stosowany w samochodach benzynowych, zarówno w czystej postaci, jak i w mieszankach z benzyną.
 
-Hydrogen jest paliwem odnawialnym uzyskiwanym z biomasy lub wodoru z wody poprzez elektrolizę. Hydrogen może być przenoszony, przechowywany i używany w instalacjach infrastruktury, które zostały zaprojektowane do użycia z paliwem wodorowym. Waga tej substancji jest mniejsza niż paliw tradycyjnych, co zmniejsza zużycie paliwa i emisję CO2.
+- **Biogaz** - mieszanina gazów, w tym metanu, powstająca w wyniku rozkładu materii organicznej w warunkach beztlenowych. Może być stosowany jako paliwo do generatorów prądu, samochodów i ogrzewania.
+
+- **Hydrogen** - gaz lekki, bezbarwny, bezwonny, palny i łatwo lotny, który może być używany jako paliwo odnawialne. Może być stosowany w samochodach z napędem wodorowym, które emitują tylko parę wodną.
+
+- **Energia wiatrowa** - forma energii odnawialnej wykorzystująca moc wiatru do generowania prądu elektrycznego. Może być stosowana do zasilania domów, przedsiębiorstw i miast.
+
+Paliwa odnawialne mają wiele korzyści, w tym zmniejszenie zależności od paliw nierenewalnych, zmniejszenie emisji gazów cieplarnianych i poprawę bezpieczeństwa energetycznego. Jednak mają też wady, takie jak wysokie koszty produkcji, ograniczona dostępność i konieczność zachowania odpowiednich warunków do produkcji.
