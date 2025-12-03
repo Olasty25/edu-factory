@@ -1,63 +1,61 @@
- # Quiz
+# Quiz
 
 1. Kiedy rozpoczęła się Rewolucja Francuska?
-A. 1789
-B. 1799
-C. 1815
-D. 1830
+   A. 1787
+   B. 1789
+   C. 1792
+   D. 1794
 
-Correct answer: A. 1789
+   Poprawna odpowiedź: B. 1789
 
-2. Kto był przywódcą Rewolucji Francuskiej i stał się później Cesarzem Francji?
-A. Ludwik XVI
-B. Napoleon Bonaparte
-C. Maximilien Robespierre
-D. Marquis de Lafayette
+2. Kto była liderką Rewolucyjnego Rządu Terroru?
+   A. Olympe de Gouges
+   B. Charlotte Corday
+   C. Jeanne Roland
+   D. Maximilienne Robespierre
 
-Correct answer: B. Napoleon Bonaparte
+   Poprawna odpowiedź: D. Maximilienne Robespierre
 
-3. Co to było „Gilotyna”?
-A. Rewolucyjny dokument
-B. Republikański trybunał
-C. Sposób egzekucji przez zgilotynowanie
-D. Rodzinna rezydencja królewska
+3. Co to było Wielkie Strach?
+   A. Okres paniki i nieuzasadnionych oskarżeń o spisek przeciwko rewolucjonistom
+   B. Reforma rolna
+   C. Powstanie chłopskie
+   D. Francusko-austriacka wojna
 
-Correct answer: C. Sposób egzekucji przez zgilotynowanie
+   Poprawna odpowiedź: A. Okres paniki i nieuzasadnionych oskarżeń o spisek przeciwko rewolucjonistom
 
-4. Kiedy i dlaczego zostało zniesione uznawanie arystokracji we Francji?
-A. W 1791 roku na mocy konstytucji
-B. W 1793 roku po obaleniu króla
-C. W 1794 roku po upadku Robespierre'a
-D. W 1804 roku po proklamowaniu Cesarstwa
+4. Kiedy została przyjęta Deklaracja Praw Człowieka i Obywatela?
+   A. 1789
+   B. 1791
+   C. 1793
+   D. 1795
 
-Correct answer: B. W 1793 roku po obaleniu króla
+   Poprawna odpowiedź: A. 1789
 
-5. Jaka była rola kobiet we Francuskiej Rewolucji?
-A. Uczestniczyły głównie w demonstracjach
-B. Prowadziły Walkę w imię Praw Kobiet i obywatelki
-C. Miały wpływ na zmiany polityczne i społeczne
-D. Brali udział w tworzeniu nowej konstytucji
+5. Kto był ostatnim królem Francji przed Rewolucją Francuską?
+   A. Ludwik XV
+   B. Ludwik XVI
+   C. Ludwik XVII
+   D. Ludwik XVIII
 
-Correct answer: B. Prowadziły Walkę w imię Praw Kobiet i obywatelki
+   Poprawna odpowiedź: B. Ludwik XVI
 
 # Fiszki
 
-1. Departament - Jednostka administracyjna oraz niejako elektorat, która zastąpiła wielkie, średnie i małe prowincje.
-2. Anarchia - Stan polityczny, gdy państwo nie może lub nie chce spełniać swojej funkcji kontrolnej i stabilizującej społeczeństwo (Doznała Francja pod koniec rządów Robespierr'a).
-3. Termidor - Miesiąc w rewolucyjnym kalendarzu francuskim (lipiec/sierpień), w którym doszło do przewrotu.
-4. Deklaracja Praw Człowieka i Obywatela - Dokument ukazujący dążenia i cele Rewolucji Francuskiej, została uchwalona przez Zgromadzenie Narodowe 26 sierpnia 1789 roku i ogłoszona 3 września 1789 roku.
-5. Przysięga w sali gwardii - Wydarzenie historyczne, gdy trzeci stan złożył przysięgę, że nie rozdzieli się, dopóki nie przeciwstawi się uciskowi i nie zapewni Francji konstytucji.
+1. Bastylia - twierdza w Paryżu, która symbolizowała monarchię i represję. Została zdobyta przez tłum 14 lipca 1789 roku, co uznaje się za początek Rewolucji Francuskiej.
+2. Deklaracja Praw Człowieka i Obywatela - dokument przyjęty 26 sierpnia 1789 roku, który definiował podstawowe prawa i wolności obywatelskie.
+3. Rewolucyjny Rząd Terroru - okres rządów rewolucjonistów, który trwał od 1793 do 1794 roku, kiedy to stosowano represje wobec przeciwników rewolucji.
+4. Wielkie Strach - okres paniki i nieuzasadnionych oskarżeń o spisek przeciwko rewolucjonistom, który trwał od 1793 do 1794 roku.
+5. Napoleon Bonaparte - generał, który zdobył władzę w wyniku zamachu stanu w 1799 roku i stał się władcą Francji.
 
 # Notatki
 
-Rewolucja Francuska była jednym z najważniejszych wydarzeń w dziejach Nowożytnych. Rozpoczęła się w 1789 roku w wyniku kryzysu finansowego i społecznego oraz ideałów wolności i równości. Jednym z kluczowych wydarzeń było zwołanie Stanów Generalnych w maju 1789 roku i zerwanie przez trzeci stan ze starym ład Better days.
+Rewolucja Francuska była wydarzeniem, które miało miejsce w latach 1789-1799 i zmieniło oblicze Francji i Europy. Była to rewolucja społeczna, polityczna i gospodarcza, której celem było obalenie monarchii i stworzenie nowego porządku społecznego.
 
-Kulminacyjnym momentem roku 1789 było zdobycie Bastylii, twierdzy–więzienia znajdującej się w centrum Paryża, w której więziono „nebezpiecznych dla monarchii”. Wydarzenie to miało miejsce 14 lipca 1789 roku i oznaczało koniec monarchii.
+Rewolucja rozpoczęła się 14 lipca 1789 roku, kiedy tłum zdobył Bastylię, twierdzę w Paryżu, która symbolizowała monarchię i represję. W rezultacie tego wydarzenia król Ludwik XVI zgodził się na utworzenie Zgromadzenia Narodowego, które miało za zadanie napisać nową konstytucję.
 
-Kolejne lata były wypełnione szybkimi przemianami, walką o władzę i ciągłymi kryzysami. Ustanowiono nowy, rewolucyjny kalendarz, a rok 1792 stał się rokiem 1 Republiki. W tym samym roku króla Ludwika XVI osądzono i stracono, a Republika została uznana za *„jedyną formę rządu akceptowalną dla Narodu”*.
+W sierpniu 1789 roku Zgromadzenie Narodowe przyjęło Deklarację Praw Człowieka i Obywatela, która definiowała podstawowe prawa i wolności obywatelskie. W kolejnych latach Rewolucja stała się coraz bardziej radykalna, a rewolucjoniści zaczęli atakować Kościół i arystokrację.
 
-W okresie Terroru (1793-1794), kiedy władzę sprawował Maximilien Robespierre, miała miejsce dalsza destabilizacja państwa. Egzekucje przez zgilotynowanie stały się codziennością. W okresie tym działały grupy radykałów: hebertiści, dantonistów i indygeni, które przestały istnieć po obaleniu Robespierre'a i jego straceniu w lipcu 1794 roku.
+W 1792 roku monarchia została obalona, a Francja stała się republiką. W kolejnych latach Rewolucja stała się coraz bardziej brutalna, a rewolucjoniści stosowali represje wobec przeciwników rewolucji. W 1793 roku utworzono Rewolucyjny Rząd Terroru, który stosował represje wobec przeciwników rewolucji. W tym okresie miało miejsce Wielkie Strach, kiedy to stosowano nieuzasadnione oskarżenia o spisek przeciwko rewolucjonistom.
 
-Rewolucja zakończyła się w 1799 roku po zamachu stanu Napoleona Bonapartego, który później został cesarzem Francji.
-
-Rewolucja Francuska miała ogromny wpływ na historię, nie tylko Francji, ale i Europy i świata w ogóle. Miała ogromny wpływ na zmiany demograficzne, przemysłowe, społeczne i kulturowe. Doprowadziła do upadku feudalizmu, powszechnej sekularyzacji i wprowadzenia nowoczesnych demokratycznych idei i rozwiązań, które były kluczowe w całym światowym układzie sił.
+W 1799 roku w wyniku zamachu stanu władzę przejął Napoleon Bonaparte, który stał się władcą Francji. Rewolucja Francuska miała ogromny wpływ na historię Europy i świata, a jej idee rozprzestrzeniły się na inne kraje, inspirowały ruchy rewolucyjne i demokratyczne.
