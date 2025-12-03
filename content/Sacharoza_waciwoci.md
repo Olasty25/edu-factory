@@ -1,10 +1,18 @@
- Sacharoza - Właściwości
-=====================
+Sacharoza - Właściwości
+======================
 
 Quiz
 ----
 
-1. Jaka jest sumaryczna liczba atomów w molu sacharozy (C~12~H~22~O~11~)?
+1. Jaka jest chemiczna nazwa cukru pokarmowego?
+   A. Glukoza
+   B. Fruktoza
+   C. **Sacharoza**
+   D. Maltodekstryna
 
-   A. 6 × 10^23^
-   B. 12 × 1
+2. Jaką postać cukru przyjmuje sacharoza w temperaturze 186 °C?
+   A. Ciecz
+   B. Gaz
+   C. **Cukier płynny**
+   D. Twardy kryształ
+
