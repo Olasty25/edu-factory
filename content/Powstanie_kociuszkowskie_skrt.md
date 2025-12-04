@@ -1,60 +1,70 @@
- Powstanie Kościuszkowskie (1794) - Krótki Overview
+Powstanie Kościuszkowskie (1794) - Krótki Zarys
 =============================================
 
 Quiz
 ----
 
-1. Kiedy rozpoczęło się Powstanie Kościuszkowskie?
-   A. 1788
-   B. 1791
-   C. 1794
-   D. 1797
-   *C. 1794*
+1. Kto był głównym organizatorem i dowódcą Powstania Kościuszkowskiego?
 
-2. Kto był wodzem i głównym organizatorem Powstania Kościuszkowskiego?
-   A. Józef Poniatowski
+   A. Tadeusz Kościuszko
    B. Hugo Kołłątaj
-   C. Tadeusz Kościuszko
-   D. Ignacy Potocki
-   *C. Tadeusz Kościuszko*
+   C. Ignacy Potocki
+   D. Józef Poniatowski
 
-3. Gdzie Kościuszko ogłosił akt powstańczy?
-   A. Warszawa
-   B. Kraków
-   C. Lublin
-   D. Lwów
-   *B. Kraków*
+   Poprawna odpowiedź: A
 
-4. Czym była idea Rządu Centralnego Powstańczego?
-   A. Triumwirat władzy cywilnej
-   B. Dyktatura wojskowa
-   C. Rząd tymczasowy aż do wyborów
-   D. Władza monarsza
-   *A. Triumwirat władzy cywilnej*
+2. Kiedy rozpoczęło się Powstanie Kościuszkowskie?
 
-5. Kiedy i gdzie doszło do ostatecznej klęski powstania?
-   A. 1794, Warszawa
-   B. 1794, Praga
-   C. 1795, Warszawa
-   D. 1795, Kraków
-   *B. 1794, Praga*
+   A. 24 marca 1794
+   B. 4 kwietnia 1794
+   C. 12 maja 1794
+   D. 17 czerwca 1794
+
+   Poprawna odpowiedź: A
+
+3. Gdzie odbyła się bitwa pod Racławicami?
+
+   A. Kraków
+   B. Warszawa
+   C. Racławice
+   D. Praga
+
+   Poprawna odpowiedź: C
+
+4. Czym było aktualne rozporządzenie o zniesieniu pańszczyzny?
+
+   A. Deklaracja praw człowieka
+   B. Akt powstańczy
+   C. Proklamacja o wolności osobistej
+   D. Uniwersał połaniecki
+
+   Poprawna odpowiedź: D
+
+5. Kiedy i gdzie zakończyło się Powstanie Kościuszkowskie?
+
+   A. 4 listopada 1794, Warszawa
+   B. 10 listopada 1794, Kraków
+   C. 16 listopada 1794, Praga
+   D. 24 listopada 1794, Maciejowice
+
+   Poprawna odpowiedź: C
 
 Fiszki
 -----
 
-1. **Tadeusz Kościuszko** (1746-1817) - generał i inżynier wojskowy, narodził się w Polsce i walczył z sukcesami w amerykańskiej wojnie o niepodległość, powrócił do Polski aby pomóc w walce o niepodległość kraju.
-2. **Rada Zastępcza Tymczasowa** (RZT) - polityczne ciało założone w celu przygotowania ustaw i rozpoczęcia rokowań z Królestwem Prus i Rosji.
-3. **Akt powstańczy** - akt wprowadzający mobilizację przeciwko agresji zaborców, wygłoszony przez Kościuszkę 24 marca 1794 roku w Krakowie.
-4. **Rząd Centralny Powstańczy** - tymczasowy rząd powstańczy z trzema dyrektorami (Ignacy Potocki, Tomasz Maruszewski i Julian Ursyn Niemcewicz), utworzony 10 maja 1794 roku.
-5. **Bitwa pod Maciejowicami** (10 października 1794) - jedno z najważniejszych starć wojsk powstańczych, Kościuszko został raniony i wzięty do niewoli.
+1. **Tadeusz Kościuszko** - główny organizator i dowódca Powstania Kościuszkowskiego, bohater wojen z Anglikami w Ameryce Północnej, inżynier wojskowy.
+2. **Hugo Kołłątaj** - polski polityk, publicysta, ksiądz i filozof, jeden z przywódców konfederacji targowickiej, później współorganizator i ideolog Powstania Kościuszkowskiego.
+3. **Ignacy Potocki** - marszałek wielki koronny, jeden z przywódców konfederacji targowickiej, później współorganizator i dowódca Powstania Kościuszkowskiego.
+4. **Uniwersał połaniecki** - akt znoszący pańszczyznę, wydany 7 maja 1794 roku w Połańcu przez Tadeusza Kościuszkę.
+5. **Bitwa pod Racławicami** - bitwa stoczona 4 kwietnia 1794 roku, w której oddziały polskie pod dowództwem Tadeusza Kościuszki pokonały armię rosyjską.
 
 Notatki
--------
+------
 
-Powstanie Kościuszkowskie było jednym z najważniejszych momentów w historii Polski, które miało miejsce w 1794 roku. Celem powstania była obrona kraju przed zaborcami, Prusami i Rosją, które zajęły większość terytorium Polski po II rozbiorze w 1793 roku. Tadeusz Kościuszko, generał i inżynier wojskowy, został wodzem i głównym organizatorem powstania.
+Powstanie Kościuszkowskie było zbrojnym wystąpieniem narodu polskiego przeciwko zaborcom: Rosji, Prusom i Austrii, które w wyniku I rozbioru Polski w 1772 roku podzieliły między siebie terytorium Rzeczypospolitej. Powstanie rozpoczęło się 24 marca 1794 roku w Krakowie, gdzie Tadeusz Kościuszko ogłosił akt powstania i przyjął nominację na naczelnika sił zbrojnych.
 
-Aby przygotować się do walki, Kościuszko utworzył Rząd Centralny Powstańczy, który był tymczasową władzą do czasu wyborów. RZT została powołana w celu przygotowania ustaw i rozpoczęcia rokowań z Królestwem Prus i Rosji. 24 marca 1794 roku, Kościuszko ogłosił Akt powstańczy w Krakowie, który wprowadzał mobilizację wojskową przeciwko agresji zaborców.
+Pierwszym sukcesem powstańców była bitwa pod Racławicami, w której oddziały polskie pod dowództwem Kościuszki pokonały armię rosyjską. Wydarzenie to miało ogromne znaczenie propagandowe i przyczyniło się do rozszerzenia powstania na inne regiony kraju.
 
-W trakcie powstania, Kościuszko wziął udział w bitwie pod Racławicami, gdzie dowodził siłami powstańczymi i odniósł zwycięstwo. Jednak, 10 października 1794 roku, rosyjskie siły wojskowe pod dowództwem Aleksandra Suworowa pokonały powstańców w bitwie pod Maciejowicami, gdzie Kościuszko został ranny i wzięty do niewoli.
+W maju 1794 roku Kościuszko wydał Uniwersał połaniecki, w którym zniósł pańszczyznę i zapewnił chłopom wolność osobistą. Był to akt bardzo istotny, ponieważ pańszczyzna była głównym czynnikiem wyzysku chłopów przez szlachtę.
 
-Chociaż powstanie zakończyło się klęską, miało ono ogromne znaczenie dla historii Polski, ponieważ zwiększyło świadomość narodową i spowodowało wzrost dążeń do niepodległości.
+Powstanie zakończyło się klęską pod Maciejowicami 10 października 1794 roku, gdzie Kościuszko został ranny i wzięty do niewoli. Pomimo klęski, Powstanie Kościuszkowskie miało ogromne znaczenie dla polskiego ducha narodowego i stało się symbolem walki o niepodległość.

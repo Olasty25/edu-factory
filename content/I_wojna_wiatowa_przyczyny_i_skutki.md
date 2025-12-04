@@ -1,63 +1,58 @@
- # Quiz: I wojna światowa - przyczyny i skutki
+ # Quiz - I wojna światowa: przyczyny i skutki
 
-1. Co to było system balansu sił, którego nie potrafił zachować cesarz Niemiec Wilhelm II?
-   A. System cola
-   B. System alkoholu
-   C. System równowagi sił
-   D. System handlu
+1. Co to było dla Niemiec przyczyną wybuchu I wojny światowej?
+   A. Zabójstwo arcyksięcia Ferdynanda
+   B. Ambicje terytorialne
+   C. Wsparcie finansowe dla Austro-Węgier
+   D. Złamanie układu Ententy
+   **Poprawna odpowiedź:** B. Ambicje terytorialne
 
-   Poprawna odpowiedź: C. System równowagi sił
+2. Które państwo było głównym winowajcą wybuchu I wojny światowej?
+   A. Niemcy
+   B. Wielka Brytania
+   C. Rosja
+   D. Austria-Węgry
+   **Poprawna odpowiedź:** A. Niemcy
 
-2. Która tragiczna porażka w bitwie pod Sarajewem była katalizatorem wybuchu I wojny światowej?
-   A. Śmierć arcyksięcia Ferdynanda i jego żony Zofii
-   B. Śmierć cesarza Franciszka Józefa I
-   C. Śmierć marszałka polnego Conrada von Hötzendorf
-   D. Śmierć Adolfa Hitlera
+3. Która z poniższych konsekwencji była najbardziej istotna dla Niemiec?
+   A. Traktat wersalski
+   B. Powstanie Związku Socjalistycznych Republik Radzieckich
+   C. Zmiana granic państw europejskich
+   D. Rozpad Austro-Węgier
+   **Poprawna odpowiedź:** A. Traktat wersalski
 
-   Poprawna odpowiedź: A. Śmierć arcyksięcia Ferdynanda i jego żony Zofii
+4. Która z poniższych konsekwencji była najbardziej istotna dla Rosji?
+   A. Traktat wersalski
+   B. Powstanie Związku Socjalistycznych Republik Radzieckich
+   C. Zmiana granic państw europejskich
+   D. Rozpad Austro-Węgier
+   **Poprawna odpowiedź:** B. Powstanie Związku Socjalistycznych Republik Radzieckich
 
-3. Które państwo nie było członkiem Ententy w czasie I wojny światowej?
-   A. Francja
-   B. Włochy
-   C. Niemcy
-   D. Wielka Brytania
+5. Która z poniższych konsekwencji była najbardziej istotna dla Wielkiej Brytanii?
+   A. Traktat wersalski
+   B. Powstanie Związku Socjalistycznych Republik Radzieckich
+   C. Zmiana granic państw europejskich
+   D. Rozpad Austro-Węgier
+   **Poprawna odpowiedź:** C. Zmiana granic państw europejskich
 
-   Poprawna odpowiedź: C. Niemcy
+# Fiszki - I wojna światowa: przyczyny i skutki
 
-4. Jaki był jeden z ważniejszych skutków politycznych I wojny światowej?
-   A. Powstanie Ligi Narodów
-   B. Upadek monarchii w Europie
-   C. Zakończenie kolonializmu
-   D. Ożywienie ruchu komunistycznego na świecie
+1. **Austro-Węgry:** Imperium, którego upadek przyczynił się do wybuchu I wojny światowej.
+2. **Traktat wersalski:** Pokój kończący I wojnę światową, który narzucił Niemcom wysokie kontrybucje i ograniczył ich siły zbrojne.
+3. **Związek Socjalistycznych Republik Radzieckich:** Państwo powstałe po I wojnie światowej, które objęło obszar dawnego Imperium Rosyjskiego.
+4. **Układ Ententy:** Sojusz militarny zawarty w 1907 roku pomiędzy Wielką Brytanią, Francją i Rosją.
+5. **Zabójstwo arcyksięcia Ferdynanda:** Zabójstwo arcyksięcia Austro-Węgier w Sarajewie, które było pretekstem do wybuchu I wojny światowej.
 
-   Poprawna odpowiedź: B. Upadek monarchii w Europie
+# Notatki - I wojna światowa: przyczyny i skutki
 
-5. Jaki był główny powód kryzysu gospodarczego po I wojnie światowej?
-   A. Wysokie koszty walki
-   B. Reparacje wojenne
-   C. Brak pomocy międzynarodowej
-   D. Upadek handlu międzynarodowego
+I wojna światowa była konfliktem zbrojnym, który miał miejsce w latach 1914-1918. Była to pierwsza wojna w historii, w której użyto broni chemicznej i czołgów. Wojna była wynikiem wielu czynników, w tym ambicji terytorialnych, nacjonalizmu, imperializmu i rywalizacji gospodarczej.
 
-   Poprawna odpowiedź: B. Reparacje wojenne
+Głównymi winowajcami wybuchu I wojny światowej były Niemcy i Austro-Węgry. W lipcu 1914 roku, po zabójstwie arcyksięcia Ferdynanda w Sarajewie, Austro-Węgry wypowiedziały wojnę Serbii. To zabójstwo było tylko pretekstem do wybuchu wojny, gdyż Austro-Węgry już wcześniej planowały atak na Serbię.
 
-# Fiszki: I wojna światowa - przyczyny i skutki
+Niemcy poparły Austro-Węgry i wypowiedziały wojnę Rosji, Francji i Wielkiej Brytanii. Wojna rozprzestrzeniła się na cały świat, gdy Stany Zjednoczone wypowiedziały wojnę Niemcom w 1917 roku.
 
-1. **System równowagi sił** - pojęcie przez króla Prus Fryderyka Wilhelma II używane w stosunkach międzynarodowych, które nigdy nie zostało w pełni zrealizowane przez jego wnuka Wilhelma II podczas jego panowania w latach 1888-1918.
-2. **Arcyksiążę Franz Ferdinand** - pretendent do tronu Austro-Węgier, którego zamordowanie w 1914 roku przez serbskiego nacjonalistę podłożyło ogień do prochu, stając się przyczyną wybuchu I wojny światowej.
-3. **Traktat wersalski** - traktat pokojowy po I wojnie światowej podpisany w 1919 roku, który nałożył wysokie reparacje na Niemcy i wiele innych warunków, które później były uważane za przyczynę rosnącego niezadowolenia w Niemczech, które później wybuchło w postaci nazizmu.
-4. **Liga Narodów** - organizacja międzynarodowa utworzona po I wojnie światowej w 1920 roku, której celem było rozwiązywanie sporów na drodze pokojowej, a nie wojennej.
-5. **Kryzys gospodarczy po I wojnie światowej** - kryzys gospodarczy po I wojnie światowej spowodowany przez wysokie reparacje wojenne nałożone głównie na Niemcy.
+I wojna światowa miała katastrofalne skutki dla wielu państw europejskich. Najbardziej dotkliwe skutki miała dla Niemiec, które musiały podpisać traktat wersalski. Traktat wersalski narzucił Niemcom wysokie kontrybucje i ograniczył ich siły zbrojne. W wyniku traktatu Niemcy straciły także część swojego terytorium.
 
-# Notatki: I wojna światowa - przyczyny i skutki
+Skutkiem wojny było także powstanie Związku Socjalistycznych Republik Radzieckich po rewolucji październikowej w Rosji. W wyniku wojny zmieniły się także granice państw europejskich, a Austro-Węgry rozpadły się na wiele mniejszych państw.
 
-I wojna światowa była pierwszą w historii wojną światową, która miała miejsce w latach 1914-1918. To, co zaczęło się jako stosunkowo niewielki konflikt pomiędzy Serbią i Austro-Węgrami, szybko przybrało rozmiary globalne.
-
-Początkiem tej wojny była niesławnego słynna **bitwa pod Sarajewem**, w której zginął arcyksiążę Ferdynand i jego żona Zofia. To zamach serbskiego nacjonalisty zapalił rurę prochową i stał się bezpośrednią przyczyną wybuchu I wojny światowej, której przebieg i następstwa są ciągle tematem zainteresowania historyków i badaczy.
-
-I wojna światowa była pierwszą wojną w historii w której użyto broni chemicznej, lotnictwa i gwałtownie wzrosła liczba ofiar na wszystkich frontach, zarówno wojskowych, jak i cywilnych.
-
-Poziom zniszczenia, który ów wielki konflikt wniósł w Europę i świat, był niemal niepojmlimy. W wyniku **traktatu wersalskiego**, podpisanego w 1919 roku, nałożono na Niemcy olbrzymie reparacje i wiele innych warunków, które doprowadziły do ogromnego niezadowolenia narodowego i pomogły w powstaniu nazizmu. Powojenna gospodarka była w stanie katastrofalnym, a kryzys gospodarczy po I wojnie światowej był skutkiem tych ogromnych kosztów związanych z wojną.
-
-I wojna światowa przyniosła poważne zmiany w stosunkach międzynarodowych, które przyczyniły się do upadku wielu wcześniejszych monarchii europejskich, m.in. Niemiec, Austro-Węgier, Rosji czy Turcji. Jedną z reakcji na zniszczenia wojenne było utworzenie **Ligi Narodów** - organizacji adresowanej do rozwiązywania konfliktów na drodze pokojowej.
-
-Mimo tych wysiłków, jakie podjęto w celu zapobiegania przyszłym konfliktom, świat bardzo szybko wrócił do walk. II wojna światowa była po prostu następstwem brutalnych mocarstw, które zupełnie nie nauczyły się lekcji z I wojny światowej - konfliktu, który wstrząsnął do fundamentów Europę i jego gospodarkę, jak i świat.
+I wojna światowa była pierwszym konfliktem zbrojnym w historii, w którym użyto broni chemicznej i czołgów. Wojna była wynikiem wielu czynników, w tym ambicji terytorialnych, nacjonalizmu, imperializmu i rywalizacji gospodarczej. Skutki wojny były katastrofalne dla wielu państw europejskich, a jej konsekwencje miały wpływ na cały świat.
