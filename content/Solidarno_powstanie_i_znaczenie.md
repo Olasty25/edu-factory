@@ -1,60 +1,57 @@
- # Quiz - Solidarność: Powstanie i Znaczenie
-1. Kiedy i gdzie powstał Polski ruch związkowy Solidarność?
+# Quiz - Solidarność: Powstanie i Znaczenie
+
+1. Kiedy i gdzie powstała „Solidarność”?
    A. W 1980 roku w Gdańsku
-   B. W 1970 roku w Szczecinie
-   C. W 1976 roku w Radomiu
-   D. W 1989 roku w Warszawie
+   B. W 1978 roku w Krakowie
+   C. W 1981 roku w Warszawie
+   D. W 1979 roku w Łodzi
 
    Poprawna odpowiedź: A
 
-2. Kto był liderem i twarzą ruchu Solidarność?
+2. Kto był liderem „Solidarności”?
    A. Lech Wałęsa
-   B. Andrzej Wajda
-   C. Tadeusz Mazowiecki
-   D. Ryszard Kukliński
+   B. Tadeusz Mazowiecki
+   C. Bronisław Geremek
+   D. Jacek Kuroń
 
    Poprawna odpowiedź: A
 
-3. Co było przyczyną strajków i protestów, które doprowadziły do powstania Solidarności?
-   A. Wysokie ceny żywności
-   B. Brak wolności słowa i zgromadzeń
-   C. Zmiany kadrowe w aparacie partyjnym
-   D. Wprowadzenie stanu wojennego
+3. Jakie były główne postulaty „Solidarności”?
+   A. Zwiększenie płac i poprawa warunków pracy
+   B. Reforma systemu politycznego i wprowadzenie demokracji
+   C. Ochrona środowiska naturalnego
+   D. Wsparcie dla rozwoju nauki i techniki
 
-   Poprawna odpowiedź: A
+   Poprawna odpowiedź: A i B
 
-4. Po wprowadzeniu stanu wojennego, co stało się z Solidarnością?
-   A. Została zdelegalizowana i prześladowana przez władze
-   B. Przemieniła się w partię polityczną
-   C. Zjednoczyła się z PZPR
-   D. Zakończyła swoją działalność
+4. Kiedy i w jaki sposób została zakończona „Solidarność”?
+   A. W wyniku rozmów Okrągłego Stołu w 1989 roku
+   B. Przez wprowadzenie stanu wojennego w 1981 roku
+   C. Poprzez interwencję wojsk radzieckich w 1982 roku
+   D. Poprzez samorozwiązanie organizacji w 1980 roku
 
-   Poprawna odpowiedź: A
+   Poprawna odpowiedź: B
 
-5. W jaki sposób Solidarność przyczyniła się do zmian w Europie Wschodniej?
-   A. Poprzez organizację strajków i protestów
-   B. Dzięki dialogowi i współpracy z władzami komunistycznymi
-   C. Poprzez swoją inspirację dla innych ruchów opozycyjnych
-   D. Poprzez rezygnację z roli związku zawodowego i zaangażowanie w politykę
+5. Jakie znaczenie miała „Solidarność” dla przemian ustrojowych w Polsce?
+   A. Była główną siłą przeprowadzająca przemiany ustrojowe
+   B. Była siłą inspirującą przemiany ustrojowe
+   C. Była siłą przeciwstawiającą się przemianom ustrojowym
+   D. Nie miała żadnego znaczenia dla przemian ustrojowych
 
-   Poprawna odpowiedź: C
+   Poprawna odpowiedź: B
 
 # Fiszki - Solidarność: Powstanie i Znaczenie
 
-1. **Polski Ruch Wolnościowy „Solidarność”** - pierwszy związek zawodowy w bloku socjalistycznym istniejący od 1980 do 1990 roku.
-2. **Wałęsa, Lech** - lider, współzałożyciel, i twarz związku Solidarność, laureat Nagrody Nobla w dziedzinie pokoju w 1983 roku, prezydent Polski w latach 1990-1995.
-3. **Strajk w Gdańsku** - początek powstania Solidarności, który rozpoczął się 14 sierpnia 1980 roku w Stoczni Gdańskiej im. Lenina na znak protestu przeciwko zwolnieniu działacza związkowego Anny Walentynowicz.
-4. **Stan wojenny** - okres od 13 grudnia 1981 do 22 lipca 1983, w którym wprowadzono cenzurę, ograniczono swobody obywatelskie oraz zdelegalizowano Solidarność.
-5. **Okrągły Stół** - rozmowy, które odbyły się w 1989 roku w celu ustalić warunki pokojowej transformacji systemowej w Polsce.
+1. „Solidarność” to największy w historii Polski ruch społeczno-zawodowy, który powstał w sierpniu 1980 roku w Gdańsku.
+2. Liderem „Solidarności” był Lech Wałęsa, który w 1983 roku otrzymał Nagrodę Nobla za działalność na rzecz solidarności i demokracji w Polsce.
+3. Główne postulaty „Solidarności” to zwiększenie płac i poprawa warunków pracy, a także reforma systemu politycznego i wprowadzenie demokracji.
+4. „Solidarność” została zakończona w wyniku wprowadzenia stanu wojennego w grudniu 1981 roku, który miał na celu zlikwidowanie ruchu.
+5. „Solidarność” miała ogromne znaczenie dla przemian ustrojowych w Polsce, ponieważ była siłą inspirującą przemiany i stanowiła podstawę dla nowego porządku demokratycznego.
 
 # Notatki - Solidarność: Powstanie i Znaczenie
 
-Polski Ruch Wolnościowy „Solidarność” był pierwszym związkiem zawodowym w bloku socjalistycznym. Powstał 17 września 1980 roku w Gdańsku, w wyniku serii strajków i protestów pracowników, których przywódcą został Lech Wałęsa.
+„Solidarność” to największy w historii Polski ruch społeczno-zawodowy, który powstał w sierpniu 1980 roku w Gdańsku. Liderem ruchu był Lech Wałęsa, który w 1983 roku otrzymał Nagrodę Nobla za działalność na rzecz solidarności i demokracji w Polsce. Główne postulaty „Solidarności” to zwiększenie płac i poprawa warunków pracy, a także reforma systemu politycznego i wprowadzenie demokracji.
 
-Powstanie Solidarności było punktem zwrotnym w historii Polski oraz całego bloku socjalistycznego. Protesty pracowników skierowane były przeciwko wysokim cenom żywności, brakowi swobód obywatelskich, w tym braku wolności zrzeszania się i słowa. Strajk w Stoczni Gdańskiej im. Lenina był początkiem sukcesu Solidarności, która w kolejnych miesiącach zyskiwała coraz więcej zwolenników w całym kraju.
+„Solidarność” została zakończona w wyniku wprowadzenia stanu wojennego w grudniu 1981 roku, który miał na celu zlikwidowanie ruchu. W wyniku represji wobec działaczy „Solidarności” wiele osób trafiło do więzienia, a ruch został zdelegalizowany. Jednak idea „Solidarności” nie zniknęła i stała się podstawą dla nowego porządku demokratycznego w Polsce.
 
-W grudniu 1981 roku, na skutek wzrostu wpływów Solidarności oraz zagrożenia jej szybką legalizacją, władze wprowadziły stan wojenny, który doprowadził do represji i prześladowania działaczy Solidarności. Działalność związku została zdelegalizowana, a wielu jego członków internowano.
-
-Pomimo represji i sytuacji politycznej w kraju, Solidarność zdołała zachować swoje wpływy, równocześnie rozwijając współpracę z ruchem opozycyjnym w innych krajach Europy Wschodniej. W 1989 roku, po upadku systemu komunistycznego w Europie Środkowo-Wschodniej, doszło do rozmów polsko-polskich, zwanych „Okrągłym Stołem”, które doprowadziły do ustaleń warunków pokojowej transformacji systemowej w Polsce.
-
-Solidarność nie tylko przyczyniła się do końca rządów komunistycznych w Polsce, ale również zainspirowała inne ruchy opozycyjne w krajach bloku socjalistycznego. Dzięki swoim działaniom, Solidarność znacząco przyczyniła się do upadku komunizmu w Europie Środkowo-Wschodniej i przemian transformacyjnych w tych krajach. Dzięki swoim działaniom, twórcy Solidarności zostali uhonorowani w 2019 roku Pokojową Nagrodą Nobla za ich wkład w budowanie społeczeństwa obywatelskiego i demokracji w Polsce i Europie.
+„Solidarność” miała ogromne znaczenie dla przemian ustrojowych w Polsce, ponieważ była siłą inspirującą przemiany i stanowiła podstawę dla nowego porządku demokratycznego. Dzięki „Solidarności” Polska stała się państwem demokratycznym i wolnym, a idea solidarności stała się symbolem walki o wolność i demokrację w całym świecie.

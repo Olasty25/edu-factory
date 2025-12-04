@@ -1,67 +1,61 @@
- # Quiz: Transformacja Ustrojowa 1989
+ # Quiz - Transformacja ustrojowa 1989
 
-1. Co było głównym bodźcem do transformacji ustrojowej w państwach Europy Wschodniej w 1989 roku?
-A. Działalność Rady Europy
-B. Upadek muru berlińskiego
-C. Kryzys gospodarczy
-D. Wyniki wyborów w Polsce
+1. Co było głównym bodźcem do transformacji ustrojowej w Europie Środkowo-Wschodniej w 1989 roku?
+   A. Wzrost cen
+   B. Brak wolności słowa
+   C. Pragnienie niepodległości
+   D. Upadek Muru Berlińskiego
 
- Answer: B. Upadek muru berlińskiego
+   Poprawna odpowiedź: A. Wzrost cen
 
-2. Jakie państwo było pionierem przemian demokratycznych w Regionie?
-A. Czechosłowacja
-B. Węgry
-C. Niemcy Wschodnie
-D. Polska
+2. Jaka była rola Solidarności w transformacji ustrojowej w Polsce?
+   A. Była ona jednym z liderów opozycji
+   B. Była ona organizacją terrorystyczną
+   C. Była ona partią rządzącą
+   D. Była ona organizacją związkową
 
- Answer: D. Polska
+   Poprawna odpowiedź: D. Była ona organizacją związkową
 
-3. Jaki był termin transformacji gospodarczej w Polsce?
-A. Balcerowicz-plan
-B. Mazowiecki-plan
-C. Kaczyński-plan
-D. Walesa-plan
+3. Która była pierwszą wolną elekcją w Polsce po transformacji ustrojowej?
+   A. Wybory w 1989 roku
+   B. Wybory w 1991 roku
+   C. Wybory w 1993 roku
+   D. Wybory w 1997 roku
 
- Answer: A. Balcerowicz-plan
+   Poprawna odpowiedź: A. Wybory w 1989 roku
 
-4. Czym była Solidarność w Polsce?
-A. Przywództwo polityczne
-B. Niezależny związek zrzeszający pracowników
-C. Partia polityczna
-D. Organizacja ekonomiczna
+4. Jaki był cel transformacji ustrojowej w Czechosłowacji?
+   A. Odbudowa monarchii
+   B. Przejście do ustroju parlamentarnego
+   C. Przejście do ustroju prezydenckiego
+   D. Przejście do ustroju komunistycznego
 
- Answer: B. Niezależny związek zrzeszający pracowników
+   Poprawna odpowiedź: B. Przejście do ustroju parlamentarnego
 
-5. Jakie państwo było ostatnim, które dokonało transformacji demokratycznej w regionie?
-A. Rumunia
-B. Bułgaria
-C. Albania
-D. Jugosławia
+5. Kto był ostatnim przywódcą NRD?
+   A. Erich Honecker
+   B. Egon Krenz
+   C. Hans Modrow
+   D. Lothar de Maizière
 
- Answer: C. Albania
+   Poprawna odpowiedź: B. Egon Krenz
 
-# Fiszki: Transformacja Ustrojowa 1989
+# Fiszki - Transformacja ustrojowa 1989
 
-1. Termin **transformacja ustrojowa** odnosi się do fundamentalnych zmian politycznych, gospodarczych i społecznych w państwach Europy Wschodniej, które rozpoczęły się w 1989 roku.
+1. Solidarność - polska organizacja związkowa, która odgrywała kluczową rolę w transformacji ustrojowej w Polsce.
+2. Okrągły Stół - rozmowy między rządem a opozycją, które doprowadziły do demokratycznych wyborów w Polsce w 1989 roku.
+3. Porażka komunizmu - upadek komunizmu w Europie Środkowo-Wschodniej w 1989 roku.
+4. Samorzędność - zasada, według której lokalne władze powinny być wybierane przez mieszkańców danego obszaru.
+5. Shock Therapy - gwałtowna terapia uderzeniowa, czyli szybkie wprowadzenie reform gospodarczych w krajach postkomunistycznych.
 
-2. **Upadek muru berlińskiego** w 1989 roku był poważnym impulsem do transformacji ustrojowej w regionie, ponieważ oznaczał koniec podziału kontynentu przez żelazną kurtynę.
+# Notatki - Transformacja ustrojowa 1989
 
-3. **Solidarność** była polskim związkiem zawodowym, który przekształcił się w siłę polityczną i odegrał kluczową rolę w transformacji demokratycznej w Polsce.
+Transformacja ustrojowa w Europie Środkowo-Wschodniej w 1989 roku była głęboką zmianą polityczną, gospodarczą i społeczną. Był to okres, w którym komunizm upadł w krajach tego regionu, a demokracja i wolny rynek stały się nowymi zasadami życia politycznego i gospodarczego.
 
-4. **Balcerowicz-plan** to polski plan transformacji gospodarczej z 1989 roku, który zakładał wprowadzenie gospodarki rynkowej i zmniejszenie kontroli państwa nad gospodarką.
+Głównym bodźcem do transformacji ustrojowej były wzrastające ceny, które doprowadziły do protestów społecznych. W Polsce rola Solidarności była kluczowa, ponieważ była ona organizacją, która reprezentowała interesy społeczeństwa i dążyła do demokratycznych zmian. Rozmowy między rządem a opozycją, które odbyły się w 1989 roku, były znane jako Okrągły Stół i doprowadziły do demokratycznych wyborów w tym samym roku.
 
-5. **Rewolucja róż** była bezbolesną rewolucją, która miała miejsce w Czechosłowackiej Pradze w 1989 roku. W wyniku tej rewolucji rozwiązano Komunistyczną Partię Czechosłowacji i powołano demokratyczny system rządów.
+W Czechosłowacji transformacja ustrojowa była znana jako "Aksamitna Rewolucja" i doprowadziła do przejścia do ustroju parlamentarnego. W NRD upadek Muru Berlińskiego w 1989 roku był symbolem upadku komunizmu w Europie Środkowo-Wschodniej.
 
-# Notatki: Transformacja Ustrojowa 1989
+Transformacja ustrojowa miała również duży wpływ na gospodarkę. W krajach postkomunistycznych wprowadzono zasadę samorzędności, która umożliwiła lokalnym władzom decydowanie o sprawach lokalnych. Ponadto wprowadzono gwałtowną terapię uderzeniową, czyli szybkie wprowadzenie reform gospodarczych, które miały na celu przestawienie gospodarek krajów postkomunistycznych na wolny rynek.
 
-Transformacja ustrojowa w Europie Wschodniej, która rozpoczęła się w 1989 roku, oznaczała bardzo poważne i fundamentalne zmiany w dziedzinie politycznej, ekonomicznej i społecznej w tych krajach. Była ona spowodowana łącznie przez działania zarówno wewnętrzne, jak i zewnętrzne.
-
-Jeden z głównych impulsów do transformacji ustrojowej w Europie Wschodniej było wprowadzenie wolności podróżowania przez Czechosłowację, Węgry i Polskę, co ostatecznie doprowadziło do upadku muru berlińskiego w Niemczech Wschodnich w listopadzie 1989 roku. Upadek muru berlińskiego zakończył trwający pół wieku podział kontynentu i wzmógł pragnienie zmian w regionie.
-
-Solidarność, polski ruch związkowy i społeczny, odegrał kluczową rolę w przekształceniu się polskiej gospodarki i systemu politycznego. Wkrótce po radykalizacji działań Solidarności, rząd ogłosił stan wyjątkowy i wprowadzono stan wojenny. W 1989 roku odbyły się wolne wybory do Sejmu i Senatu, a Solidarność uzyskała w nich bezwzględną większość. W czerwcu 1989 roku Tadeusz Mazowiecki został desygnowany na premiera i stał się pierwszym niekomunistycznym premierem w Europie Wschodniej po drugiej wojnie światowej.
-
-Kolejnym ważnym krokiem w transformacji ustrojowej było opracowanie Balcerowicz-planu - polskiego planu transformacji gospodarczej z 1989 roku. Plan ten był zaprojektowany, aby wprowadzić gospodarkę rynkową na rynku polskim i zmniejszyć kontrolę państwa nad gospodarką.
-
-Transformacja ustrojowa w Europie Wschodniej zakończyła się w Albanii, której rząd komunistyczny pozostał przy władzy do 1992 roku. Jednakże, transformacja ustrojowa w Albanii była nieco inna niż w pozostałych państwach regionu. Rewolucja róż w Pradze i zorganizowane demonstracje w Sofii i Budapeszcie były znacznie mniej przemocowe niż w Bukareszcie. W Albanii doszło do wojny domowej, w wyniku której doszło do obalenia rządu komunistycznego.
-
-Transformacja ustrojowa w Europie Wschodniej była bardzo poważnym wydarzeniem, które miało ogromne znaczenie dla regionu. Spowodowała ona odejście od autorytarnego i scentralizowanego modelu gospodarki i systemu politycznego i wprowadziła gospodarkę rynkową i demokrację. Transformacja ustrojowa otworzyła także nowe perspektywy dla integracji regionu z Zachodem.
+Transformacja ustrojowa w Europie Środkowo-Wschodniej w 1989 roku była więc głęboką zmianą, która miała ogromny wpływ na politykę, gospodarkę i społeczeństwo tego regionu.
