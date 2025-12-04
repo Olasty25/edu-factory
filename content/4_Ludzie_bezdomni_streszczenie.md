@@ -1,59 +1,52 @@
- # Quiz: Ludzie bezdomni
+# Quiz
 
-1. Co to znaczy być bezdomnym?
-   A) Mieszkać w nowoczesnym i wygodnym apartamencie
-   B) Mieszkać w namiocie w lesie
-   C) Nie mieć ustalonego miejsca zamieszkania
-   D) Mieszkać u przyjaciół lub rodziny
+1. Co oznacza pojęcie "ludzie bezdomni"?
+   A. Osoby, które mieszkają w biednych dzielnicach miast
+   B. Osoby, które nie mogą znaleźć stałego miejsca pracy
+   C. Osoby, które nie mają stałego miejsca zamieszkania
+   D. Osoby, które podróżują po świecie w poszukiwaniu przygód
+   *Correct answer: C*
 
-   Poprawa: C) Nie mieć ustalonego miejsca zamieszkania
+2. Ile jest osób bezdomnych w świecie?
+   A. 100 milionów
+   B. 150 milionów
+   C. 200 milionów
+   D. 250 milionów
+   *Correct answer: C*
 
-2. Ile jest bezdomnych w Polsce?
-   A) 20 000
-   B) 40 000
-   C) 60 000
-   D) 80 000
+3. Dlaczego ludzie stają się bezdomni?
+   A. Brak dostępu do edukacji
+   B. Brak dostępu do opieki zdrowotnej
+   C. Brak miejsc pracy i niska płaca
+   D. Wszystkie z powyższych
+   *Correct answer: D*
 
-   Poprawa: B) 40 000
+4. Jakie jest największe zagrożenie dla osób bezdomnych?
+   A. Brak dostępu do żywności
+   B. Brak dostępu do schronienia
+   C. Brak dostępu do opieki zdrowotnej
+   D. Brak dostępu do edukacji
+   *Correct answer: B*
 
-3. Kto jest narażony na bezdomność?
-   A) Według badań szczególnie narażone są osoby po 60. roku życia
-   B) Według badań szczególnie narażone są osoby w wieku 18-24
-   C) Nie istnieją badania na ten temat
-   D) Według badań szczególnie narażone są osoby w wieku 30-40
+5. Jakie jest rozwiązanie problemu bezdomności?
+   A. Budowa więcej schronisk
+   B. Zapewnienie dostępu do edukacji i miejsc pracy
+   C. Zapewnienie dostępu do opieki zdrowotnej
+   D. Wszystkie z powyższych
+   *Correct answer: D*
 
-   Poprawa: B) Według badań szczególnie narażone są osoby w wieku 18-24
+# Fiszki
 
-4. Co można zrobić, aby pomóc bezdomnym?
-   A) Ignorować problem
-   B) Pomagać finansowo organizacjom wspierającym bezdomnych
-   C) Pomagać w dystrybucji posiłków i paczek sanitarnych
-   D) Wszystkie wyżej wymienione
+1. Bezdomność - stan osoby, która nie ma stałego miejsca zamieszkania
+2. Schronisko - miejsce, w którym osoby bezdomne mogą znaleźć schronienie
+3. Edukacja - proces uczenia się w szkole lub uniwersytecie
+4. Opieka zdrowotna - usługi medyczne zapewniające leczenie i opiekę nad zdrowiem
+5. Miejsce pracy - miejsce, w którym osoba zatrudniona wykonuje swoje obowiązki
 
-   Poprawa: D) Wszystkie wyżej wymienione
+# Notatki
 
-5. Co oznacza termín "bezdomność ukryta"?
-   A) Bezdomni znajdują się w schroniskach lub hotelach
-   B) Bezdomni nie są liczeni w spisie statystycznym
-   C) Bezdomni mieszkają w namiotach lub w budynkach opuszczonych
-   D) Bezdomni mieszkają u swoich rodzin
+Bezdomność to zjawisko występujące na całym świecie, które dotyczy osób, które nie mają stałego miejsca zamieszkania. Szacuje się, że jest ich około 200 milionów. Ludzie stają się bezdomni z różnych przyczyn, takich jak brak dostępu do edukacji, niska płaca, bezrobocie, problemy zdrowotne, alkoholizm i uzależnienia. Bezdomność ma negatywny wpływ na zdrowie, bezpieczeństwo i jakość życia osób, które do niej doświadczają.
 
-   Poprawa: B) Bezdomni nie są liczeni w spisie statystycznym
+Istnieją różne rozwiązania problemu bezdomności, takie jak budowa więcej schronisk, zapewnienie dostępu do edukacji i miejsc pracy, a także opieki zdrowotnej. Schroniska oferują bezdomnym schronienie i podstawowe usługi, takie jak posiłki i prysznice. Jednak schroniska same w sobie nie mogą rozwiązać problemu bezdomności. Aby rozwiązać ten problem, należy zapewnić osobom bezdomnym dostęp do edukacji, miejsc pracy i opieki zdrowotnej.
 
-# Fiszki: Ludzie bezdomni
-
-* Bezdomność to stan braku stałego miejsca zamieszkania.
-* W Polsce jest ok. 40 000 bezdomnych.
-* Szczególnie narażone na bezdomność są osoby w wieku 18-24.
-* Pomocą można być finansową, materialną lub poprzez dzielenie się czasem i umiejętnościami.
-* Termin "bezdomność ukryta" oznacza, że bezdomni nie są liczeni w spisie statystycznym.
-
-# Notatki: Ludzie bezdomni
-
-Bezdomność to trudna sytuacja, w której znajduje się coraz więcej osób, szczególnie w wieku 18-24 lat. Problem ten dotyka społeczeństwo wszystkich krajów, również Polskę.
-
-W Polsce szacuje się, że jest ok. 40 000 bezdomnych, ale rzeczywista liczba może być większa, zważając na pojęcie "bezdomność ukryta", które odnosi się do osób, które nie są liczone w spisach statystycznych, ponieważ mają dostęp do schronisk lub mieszkają u swoich rodzin.
-
-Należy zwracać szczególną uwagę na osoby w wieku 18-24, które są szczególnie narażone na withoutność, a także na osoby po 60. roku życia, których sytuacja może być jeszcze bardziej skomplikowana.
-
-Można pomóc bezdomnym na wiele sposobów, w tym finansowo, materialnie lub poprzez dzielenie się czasem i umiejętnościami. Można też wspierać organizacje, które pomagają bezdomnym, zarówno w zakresie dystrybucji posiłków, jak i innych paczek sanitarnych.
+Działania na rzecz rozwiązania problemu bezdomności powinny obejmować także zapobieganie bezdomności poprzez zapewnienie dostępu do edukacji i miejsc pracy, a także poprzez pomoc osobom zagrożonym bezdomnością. Działania te powinny być skierowane zarówno przeciwko przyczynom, jak i skutkom bezdomności.

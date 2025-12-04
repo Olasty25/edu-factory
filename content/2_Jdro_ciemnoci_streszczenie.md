@@ -1,51 +1,59 @@
- # Quiz - Jądro Ciemności
+ # Quiz: Jadro Ciemności - Streszczenie
+
 1. Co to jest jądro ciemności?
-   A. Część mózgu odpowiedzialna za sen i marzenia
-   B. Część mózgu odpowiedzialna za pamięć krótermalną
-   C. Część mózgu odpowiedzialna za emocje i nagrody
-   D. Część mózgu odpowiedzialna za wzrok i obrazowanie
-   **Poprawna odpowiedź:** D. Część mózgu odpowiedzialna za wzrok i obrazowanie
+   A. Część mózgu odpowiedzialna za wzrok
+   B. Część mózgu odpowiedzialna za słuch
+   C. Część mózgu odpowiedzialna za zmysł równowagi
+   D. Część mózgu odpowiedzialna za kontrolę podstawowych funkcji życiowych
 
-2. W jaki sposób jest powiązane jądro ciemności z percepcją widzenia?
-   A. Jądro ciemności przekształca bodźce wzrokowe w obrazy
-   B. Jądro ciemności umożliwia rozpoznawanie kształtów i ruchu
-   C. Jądro ciemności wywołuje reakcje na światło i ciemność
-   D. Wszystkie z powyższych
-   **Poprawna odpowiedź:** D. Wszystkie z powyższych
+   Poprawna odpowiedź: **D. Część mózgu odpowiedzialna za kontrolę podstawowych funkcji życiowych**
 
-3. Który z poniższych regionów nie jest połączony z jądrem ciemności?
-   A. Talamus
-   B. Kora nowowa
-   C. Kora wzrokowa
-   D. Płat czołowy
-   **Poprawna odpowiedź:** D. Płat czołowy
+2. Które z poniższych funkcji nie jest związane z jądrem ciemności?
+   A. Czuwanie
+   B. Oddech
+   C. Serce
+   D. Żywienie
 
-4. Co to jest ślepa plamka?
-   A. Obszar płatu potylicznego, który nie może widzieć
-   B. Obszar wzrokowego pola widzenia, który nie rejestruje stimulacji
-   C. Obszar mózgu, który wykrywa ruch
-   D. Część mózgu odpowiedzialna za percepcję kolorów
-   **Poprawna odpowiedź:** B. Obszar wzrokowego pola widzenia, który nie rejestruje stimulacji
+   Poprawna odpowiedź: **D. Żywienie**
 
-5. Czym różni się percepcja widzenia u ludzi i zwierząt?
-   A. Percepcja widzenia u ludzi jest lepsza niż u zwierząt
-   B. Percepcja widzenia u zwierząt jest lepsza niż u ludzi
-   C. Różnica polega na rozmiarze pola widzenia
-   D. Różnica polega na uzyskiwaniu informacji przez jądro ciemności
-   **Poprawna odpowiedź:** C. Różnica polega na rozmiarze pola widzenia
+3. Które z poniższych struktur nie należy do jądra ciemności?
+   A. Midbrain
+   B. Pons
+   C. Medulla oblongata
+   D. Thalamus
 
-# Fiszki - Jądro Ciemności
-- Jądro ciemności przekształca bodźce wzrokowe w obrazy
-- Część mózgu odpowiedzialna za rozpoznawanie kształtów i ruchu
-- Wydziela substancję P, związek chemiczny odpowiedzialny za nagrody i gratyfikacje
-- Ślepa plamka to obszar widełek wzrokowych, który nie rejestruje stimulacji
-- Niewielkie jądro położone przyśrodkowo od kresy przedniej w zakręcie pokrętła wzrokowego
+   Poprawna odpowiedź: **D. Thalamus**
 
-# Notatki - Jądro Ciemności
-Jądro ciemności jest małym, położonym przyśrodkowo jądrem mózgu, które graniczy z pierwszym przełącznikiem nerwu wzrokowego, talamusem. Jest ono odpowiedzialne za przekształcanie bodźców wzrokowych z siatkówki w obrazy zdeterminowane przez występujące ruchy i ułożenie obiektów. Jądro ciemności wysyła te obrazy do różnych obszarów kory nowej, co pozwala nam rozpoznawać i interpretować tę informację wzrokowa.
+4. Co to jest rdzeniowy odruch oddechowy?
+   A. Odruch odpowiedzialny za koordynację ruchów mięśni oddechowych
+   B. Odruch odpowiedzialny za kontrolę częstości oddechów
+   C. Odruch odpowiedzialny za koordynację ruchów migowych
+   D. Odruch odpowiedzialny za kontrolę ciśnienia krwi
 
-Jądro ciemności składa się z kilku różnych regionów, w tym z lśniącego kąta, który umożliwia nam widzenie w ślepych plamkach. Ślepa plamka to obszar, w którym ludzie i zwierzęta nie rejestrują stimulacji wzrokowych, ponieważ komórki siatkówki tych obszarów nie przekazują sygnału do jądra ciemności. Mimo to, ludzie i zwierzęta mogą zauważyć w tych plamkach ruch, dzięki temu, że kąt ślepy wydaje sygnały w przypadku ekspozycji na ruchome wzorce.
+   Poprawna odpowiedź: **A. Odruch odpowiedzialny za koordynację ruchów mięśni oddechowych**
 
-Jądro ciemności jest również odpowiedzialne za uzyskiwanie informacji o kolorze oraz rozróżnianie lewo od prawa. Część jądra ciemności, zlokalizowana w jego centrum, wydziela substancję P - związek chemiczny, który jest ważny dla nagrod i gratyfikacji.
+5. Co to jest rdzeniowy odruch sercowy?
+   A. Odruch odpowiedzialny za koordynację ruchów serca
+   B. Odruch odpowiedzialny za kontrolę częstości oddechów
+   C. Odruch odpowiedzialny za koordynację ruchów migowych
+   D. Odruch odpowiedzialny za kontrolę ciśnienia krwi
 
-Różnice w percepcji widzenia u ludzi i zwierząt zależą głównie od różnic w rozmiarze pola widzenia. U ludzi, jądro ciemności odbiera informacje z około 150°, podczas gdy u zwierząt, takich jak krowy czy koń, pola widzenia są dużo szersze - aż do 360°. Jednak różnice strukturalne w jądrze ciemności u człowieka i zwierzęcia są nieznaczne.
+   Poprawna odpowiedź: **A. Odruch odpowiedzialny za koordynację ruchów serca**
+
+# Fiszki: Jadro Ciemności - Streszczenie
+
+1. Jadro ciemności - część mózgu odpowiedzialna za kontrolę podstawowych funkcji życiowych, takich jak czuwanie, oddech i funkcje serca.
+2. Midbrain, Pons i Medulla oblongata to trzy główne struktury jądra ciemności.
+3. Rdzeniowy odruch oddechowy odpowiedzialny jest za koordynację ruchów mięśni oddechowych.
+4. Rdzeniowy odruch sercowy odpowiedzialny jest za koordynację ruchów serca.
+5. Jadro ciemności nie kontroluje funkcji żołądkowo-jelitowych.
+
+# Notatki: Jadro Ciemności - Streszczenie
+
+Jądro ciemności to część mózgu, która odpowiada za kontrolę podstawowych funkcji życiowych, takich jak czuwanie, oddech i funkcje serca. Jest ono zlokalizowane w dół mózgu i składa się z trzech głównych struktur: midbrain, pons i medulla oblongata.
+
+Midbrain odpowiada za kontrolę ruchów oczu i słuchu. Pons jest odpowiedzialny za koordynację ruchów twarzy i żucia, a także za transmisję informacji między mózgiem a rdzeniem kręgowym. Medulla oblongata jest najniższą częścią mózgu i odpowiada za kontrolę podstawowych funkcji życiowych, takich jak oddech, krążenie i żołądkowo-jelitowe.
+
+Rdzeniowy odruch oddechowy odpowiedzialny jest za koordynację ruchów mięśni oddechowych, a rdzeniowy odruch sercowy odpowiedzialny jest za koordynację ruchów serca. Te odruchy są niezbędne do utrzymania homeostazy w organizmie i zapewniania prawidłowego funkcjonowania ciała.
+
+Jądro ciemności nie kontroluje funkcji żołądkowo-jelitowych, które są kontrolowane przez inne obszary mózgu, takie jak podwzgórze i móżdżek.

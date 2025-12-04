@@ -1,61 +1,65 @@
  # Quiz
 
-1. Który akt dramatu „Kordian” Słowackiego rozpoczyna się słowami: „Poszukaj tego Człowieka”?
+1. Który akt tragedii "Kordian" Słowackiego rozpoczyna się w klasztorze?
 A. Akt I
 B. Akt II
 C. Akt III
 D. Akt IV
 
-Poprawna odpowiedź: C. Akt III
+Correct answer: A. Akt I
 
-2. Która postaci w „Kordianie” Słowackiego reprezentuje ideał wolności i niezależności?
-A. Kordian
-B. Faust
-C. Wąż
-D. Diabeł
+2. Która postać w "Kordianie" reprezentuje ideał wyidealizowanej kobiecości?
+A. Julia
+B. Kordian
+C. Księżna Bona
+D. Leonora
 
-Poprawna odpowiedź: B. Faust
+Correct answer: D. Leonora
 
-3. Gdzie odbywa się scena śniadania u księcia?
-A. W zamku na wzgórzu
-B. W lesie na drodze do wioski
-C. W pałacu w Warszawie
-D. W puszczy
+3. Którym aktem "Kordian" kończy się na Wzgórzu Calvary?
+A. Akt I
+B. Akt II
+C. Akt III
+D. Akt IV
 
-Poprawna odpowiedź: A. W zamku na wzgórzu
+Correct answer: C. Akt III
 
-4. Kordian w Kościele Łaski poznaje Julię. Co jest jej obowiązkiem w stosunku do ojca?
-A. Ukarać go
-B. Opiekować się nim
-C. Zabić go
-D. Zaniechać kontaktu z nim
+4. Kordian w "Kordianie" Słowackiego jest reprezentantem:
+A. klasy robotniczej
+B. młodego pokolenia
+C. arystokracji
+D. duchowieństwa
 
-Poprawna odpowiedź: B. Opiekować się nim
+Correct answer: B. młodego pokolenia
 
-5. Kordiana męczą więzy rodzinne i społeczne, które zmuszają ją do poślubienia........
-A. księcia
-B. króla
-C. bogatego mieszczanina
-D. przyjaciela ojca
+5. Kordian w ostatnim akcie "Kordian" Słowackiego jest:
+A. zdeterminowany do dokonania zamachu stanu
+B. zrozpaczony i zrezygnowany
+C. szczęśliwy i spełniony
+D. rozdarty emocjonalnie
 
-Poprawna odpowiedź: A. księcia
+Correct answer: A. zdeterminowany do dokonania zamachu stanu
 
 # Fiszki
 
-1. Kordian - tytułowy bohater dramatu, młody poeta, pragnący uwolnić Polskę spod obcych rządów.
-2. Faust - czarnoksiężnik, reprezentujący wolność i niezależność myśli.
-3. Julia - córka księcia, zakochana w Kordianie, odgrywaąca kluczową rolę w akcie III.
-4. Demon - postać uosabiająca zło, przekonuje Kordiana do popełnienia zabójstwa.
-5. Książę - postać symbolizująca tyranię, ojciec Julii.
+1. **Kordian** - główny bohater tragedii Słowackiego, reprezentant młodego pokolenia, który pragnie uwolnić Polskę spod obcej niewoli.
+2. **Julia** - postać kobieca w "Kordianie", symbolizująca kobiecość w jej najniższych przejawach.
+3. **Księżna Bona** - postać historyczna w "Kordianie", symbolizująca ideał wyidealizowanej kobiecości.
+4. **Leonora** - postać kobieca w "Kordianie", reprezentująca ideał wyidealizowanej kobiecości.
+5. **Wzgórze Calvary** - miejsce, w którym rozgrywa się akcja aktu trzeciego "Kordian", symbolizujące Golgotę, gdzie został rozpuszczony Jezus Chrystus.
 
 # Notatki
 
-Juliusz Słowacki, polski romantyk, napisał dramat „Kordian” w latach 1833-1842. Akcja toczy się w Polsce i w piekle. „Kordian” to dramat filozoficzny, w którym bohater szuka odpowiedzi na pytania o wolność, niepodległość i sens życia.
+"Kordian" to tragedia napisana przez Juliusza Słowackiego w 1834 roku. Jest ona uznawana za jedno z najważniejszych dzieł romantycznej literatury polskiej.
 
-Bohaterem dramatu jest młody poeta Kordian, który pragnie uwolnić Polskę spod okupacji obcej. Nie może tego jednak dokonać, gdyż podlega więzom rodzinnym i społecznym. Słowacki ukazuje w nim dramat romantycznego heroizmu, który nie może być zrealizowany z powodu wpływu rzeczywistości.
+Głównym bohaterem tragedii jest Kordian, młody Polak, który pragnie uwolnić Polskę spod obcej niewoli. Jest on reprezentantem młodego pokolenia, które pragnie zmian i postępu.
 
-Kordiana męczą więzy rodzinne i społeczne, które zmuszają go do poślubienia księcia. W wyniku tego rozpacza i decyduje się popełnić zabójstwo. W tym momencie pojawia się Demon, który przekonuje Kordiana do popełnienia czynu.
+W tragedii pojawiają się również postacie kobiece, które symbolizują kobiecość w jej różnych przejawach. Julia reprezentuje kobiecość w jej najniższych przejawach, natomiast Księżna Bona i Leonora symbolizują ideał wyidealizowanej kobiecości.
 
-W dramacie występuje również postać Fausta, czarnoksiężnika, który symbolizuje wolność i niezależność myśli. Faust wędruje po Polsce i szuka istoty człowieczeństwa. Jest ona antagonistą Kordiana, gdyż przedstawia idealne pojęcie wolności, którego ten ostatni nie może osiągnąć.
+Akcja tragedii rozgrywa się w różnych miejscach, w tym w klasztorze, w pałacu królewskim i na Wzgórzu Calvary. Wzgórze Calvary jest miejscem, w którym rozgrywa się akcja aktu trzeciego i symbolizuje Golgotę, gdzie został rozpuszczony Jezus Chrystus.
 
-„Kordian” to dzieło, w którym Słowacki porusza tematy społeczne, polityczne i filozoficzne. Bohaterowie dramatu szukają odpowiedzi na pytania dotyczące wolności i niepodległości. Słowacki w sposób krytyczny ukazuje warunki społeczne i polityczne w Polsce, w której żył.
+"Kordian" to dzieło, w którym Słowacki porusza wiele istotnych tematów, takich jak wolność, miłość, ideał i zdrada. Jest to również dzieło, w którym autor krytykuje ówczesne społeczeństwo polskie i jego wady.
+
+W ostatnim akcie Kordian jest już zdeterminowany do dokonania zamachu stanu, aby zmienić sytuację Polski. Jest to moment, w którym bohater musi zdecydować, czy jest w stanie pójść do końca ze swoimi ideałami i przekonań.
+
+"Kordian" to dzieło, które nadal jest aktualne i inspiruje do refleksji nad istotnymi kwestiami życia. Jest to również dzieło, które stanowi niezaprzeczalny wkład w rozwój romantycznej literatury polskiej.
