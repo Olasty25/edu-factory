@@ -1,59 +1,59 @@
- # Quiz
+# Quiz
 
-1. Co to jest "Kamienie na szaniec"?
-   A. Książka z 1943 roku
-   B. Film z 2008 roku
-   C. Piosenka zespołu Elektryczne Gitary
-   D. Sztuka teatralna opowiadająca o powstaniu warszawskim
+1. Która z poniższych postaci jest autorem książki "Kamienie na szaniec"?
+A. Jan Karski
+B. Aleksander Kamiński
+C. Witold Pilecki
+D. Tadeusz Borowski
 
-   **Poprawna odpowiedź: A**
+Correct answer: B. Aleksander Kamiński
 
-2. Którzy autorzy stanowili trzon grupy "Kamienie na szaniec"?
-   A. Aleksander Kamiński, Tadeusz Zawadzki, Jan Bytnar
-   B. Jan Bytnar, Stanisław Broniewski, Kazimierz Kumański
-   C. Tadeusz Zawadzki, Czesław Sadłowski, Aleksander Kamiński
-   D. Aleksander Kamiński, Tadeusz Zawadzki, Czesław Sadłowski
+2. Kiedy i gdzie została opublikowana książka "Kamienie na szaniec"?
+A. 1943 w Warszawie
+B. 1944 w Warszawie
+C. 1945 w Londynie
+D. 1946 w Londynie
 
-   **Poprawna odpowiedź: A**
+Correct answer: D. 1946 w Londynie
 
-3. Po co służyła organizacja "Szare Szeregi"?
-   A. Była ukrytą organizacją podziemną
-   B. Była zorganizowanym ruchem oporu
-   C. Była grupą niezależnych partyzantów
-   D. Była organizacją charytatywną wspierającą Żydów
+3. Kto towarzyszył Aleksandrowi Kamińskiemu w pracy nad książką "Kamienie na szaniec"?
+A. Jan Bytnar
+B. Tadeusz Zawadzki
+C. Maciej Aleksy Dawidowski
+D. Kazimierz Jurgielewicz
 
-   **Poprawna odpowiedź: B**
+Correct answer: A. Jan Bytnar
 
-4. Gdzie doszło do bitwy w Walendowie?
-   A. Na ulicach Warszawy
-   B. W lesie koło Starej Miłośni
-   C. W forcie Radiowo
-   D. W bunkrze na Woli
+4. Która z poniższych organizacji była głównym przedmiotem działalności konspiracyjnej w książce "Kamienie na szaniec"?
+A. Armia Krajowa
+B. Związek Walki Zbrojnej
+C. Szare Szeregi
+D. Gwardia Ludowa
 
-   **Poprawna odpowiedź: C**
+Correct answer: C. Szare Szeregi
 
-5. Kiedy zostały wydane "Kamienie na szaniec"?
-   A. W 1943 roku
-   B. W 1945 roku
-   C. W 1939 roku
-   D. W 1937 roku
+5. Która z poniższych akcji nie została opisana w książce "Kamienie na szaniec"?
+A. Akcja Wilanów
+B. Akcja N
+C. Akcja V-1
+D. Akcja Burza
 
-   **Poprawna odpowiedź: A**
+Correct answer: D. Akcja Burza
 
 # Fiszki
 
-1. Organizacja "Szare Szeregi" była **ukrytą** organizacją podziemną działającą w czasie II wojny światowej w okupowanej Polsce.
-2. **Trzonem** grupy "Kamienie na szaniec" byli Aleksander Kamiński, Tadeusz Zawadzki i Jan Bytnar.
-3. Aleksander Kamiński został głównym **opiekunem** grupy po śmierci Tadeusza Zawadzkiego.
-4. "Walendów" to **miejsce** bitwy pomiędzy grupą "Kamienie na szaniec" a Niemcami.
-5. **Bitwa** zakończyła się śmiercią całej grupy i Jana Bytnara, który zginął po zranieniu przez Niemców.
+1. **Aleksander Kamiński** - autor książki "Kamienie na szaniec", działacz konspiracyjny, redaktor pisma "Szare Szeregi".
+2. **Szare Szeregi** - konspiracyjna organizacja harcerska, której głównym celem było przygotowanie i prowadzenie akcji zbrojnej przeciwko okupantom.
+3. **Jan Bytnar** - postać fikcyjna, oparta na autentycznej osobie, dowódca plutonu "Parasol" w Szarych Szeregach.
+4. **Akcja N** - akcja konspiracyjna przeprowadzona przez Szare Szeregi, mająca na celu zdobycie dokumentów z niemieckiej komendy zajmującej się werbunkiem Polaków do Wehrmachtu.
+5. **Kamienie na szaniec** - tytuł książki opisującej działalność konspiracyjną grupy harcerzy z Szarych Szeregów.
 
 # Notatki
 
-"Kamienie na szaniec" to książka wydana w 1943 roku, opowiadająca o losach grupy harcerzy z organizacji "Szare Szeregi", którzy działali w okupowanej Polsce w czasie II wojny światowej. Autorami książki są Aleksander Kamiński, Tadeusz Zawadzki i Jan Bytnar.
+"Kamienie na szaniec" to książka autorstwa Aleksandra Kamińskiego, opisująca działalność konspiracyjną grupy harcerzy z Szarych Szeregów w okupowanej Warszawie. Głównymi postaciami książki są Jan Bytnar, Tadeusz Zawadzki, Maciej Aleksy Dawidowski i Kazimierz Jurgielewicz.
 
-Grupa, złożona z trzech głównych bohaterów i wielu innych harcerzy, była trzonem organizacji "Szare Szeregi", która określała się jako zorganizowany ruch oporu. Grupa miała za zadanie pomagać Żydom i wyzwalać więźniów z obozów.
+Książka opisuje szereg akcji konspiracyjnych, w tym m.in. akcję N, mającą na celu zdobycie dokumentów z niemieckiej komendy zajmującej się werbunkiem Polaków do Wehrmachtu. Autor opisuje także szczegółowo przygotowania i przebieg powstania warszawskiego.
 
-Najważniejsze wydarzenie w książce to bitwa pomiędzy grupą a Niemcami w forcie Radiowo, która zakończyła się śmiercią całej grupy i Jana Bytnara, który zginął po zranieniu przez Niemców. Tadeusz Zawadzki, zwany "Zośką", zastępca Bytnara, zginął wcześniej, chroniąc pozostałych przed Niemcami.
+"Kamienie na szaniec" to nie tylko relacja z działań konspiracyjnych, ale także studium psychologiczne młodych ludzi, którzy w obliczu grozy wojny i okupacji podejmują walkę o wolność ojczyzny. Książka ta stała się symbolem męstwa i poświęcenia młodych Polaków w walce z okupantem.
 
-Po śmierci Zośki, Aleksander Kamiński stał się głównym opiekunem grupy i kontynuował ich działalność w duchu idei harcerskich. "Kamienie na szaniec" stanowią ważne świadectwo czasów wojny i uznawane są za jedną z najważniejszych książek, które wyjaśniają losy młodych Polaków w okupowanym kraju.
+Dzięki swojej wartości historycznej i literackiej "Kamienie na szaniec" stały się kanonem literatury polskiej XX wieku i obowiązkowym lekturą w szkołach polskich.

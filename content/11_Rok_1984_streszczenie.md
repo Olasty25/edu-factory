@@ -1,51 +1,49 @@
- ### Quiz
+# Quiz - Rok 1984: Streszczenie
 
-1. W którym roku zostało opublikowane oryginalne dzieło George’a Orwella, 1984?
-   A) 1948
-   B) 1950
-   C) 1954
-   D) 1949 (poprawna odpowiedź)
+1. Która książka George'a Orwella była inspiracją do nazwania roku 1984?
+   A. Animal Farm
+   B. Coming Up for Air
+   C. 1984
+   D. Keep the Aspidistra Flying
 
-2. Która fraza jest symbolem nadrzędnym w totalitarnym państwie w 1984?
-   A) Śmierć do wrogów
-   B) Wola Wielkiego Brata
-   C) Wszechmoc Wielkiego Brata
-   D) Mędrość Wielkiego Brata (poprawna odpowiedź)
+2. Która frasa stała się symbolem nadzoru i braku prywatności w totalitarnym świecie 1984?
+   A. Big Brother
+   B. Room 101
+   C. Newspeak
+   D. Thoughtcrime
 
-3. Która partia sprawuje władzę w Oceanii w 1984?
-   A) Partia Demokratyczna
-   B) Partia Komunistyczna
-   C) Innere Partei (poprawna odpowiedź)
-   D) Partia Wolności
+3. Która partia zdobyła władzę w kraju w roku 1984?
+   A. The Inner Party
+   B. The Outer Party
+   C. The Proles
+   D. The Brotherhood
 
-4. Gdzie pracuje Winston Smith w Ministerstwie Prawdy?
-   A) Oddział Statystyk
-   B) Oddział Historyczny (poprawna odpowiedź)
-   C) Oddział Prawa
-   D) Oddział Architektury
+4. Która postać była głównym bohaterem książki 1984?
+   A. Emmanuel Goldstein
+   B. Julia
+   C. Winston Smith
+   D. O'Brien
 
-5. Jakie dwa znaki występują na flagach państw, których Winston nie może pomylić?
-   A) Plus i Gwiazda
-   B) Plus i Róg Obfitości
-   C) Minus i Róg Obfitości (poprawna odpowiedź)
-   D) Dolar i Róg Obfitości
+5. Jakie hasło było używane do wymuszania lojalności wobec Wielkiego Brata?
+   A. War is Peace
+   B. Freedom is Slavery
+   C. Ignorance is Strength
+   D. All of the above
 
-### Fiszki
+# Fiszki - Rok 1984: Streszczenie
 
-1. Totalitaryzm
-2. Nowomowa
-3. Wielki Brat
-4. Dwójka myśli
-5. Partyjna członkostwo
+1. **Wielki Brat (Big Brother)** - symbol nadzoru i braku prywatności, rządząca partia w kraju w roku 1984.
+2. **Nowspeak (Newspeak)** - sztuczny język stworzony przez Wielkiego Brata, mający na celu ograniczenie zdolności wyrażania sprzeciwu wobec rządu.
+3. **Półmrok (The Half-Light)** - termin oznaczający czas przed wschodem słońca, kiedy Winston rozpoczynał swoją pracę w Ministerstwie Prawdy.
+4. **Ministerstwo Prawdy (Ministry of Truth)** - departament odpowiedzialny za propagandę, kontrolę myśli i fałszowanie historii w kraju w roku 1984.
+5. **Zdrada myśli (Thoughtcrime)** - pojęcie odnoszące się do myślenia lub marzenia sprzecznego z ideologią Wielkiego Brata.
 
-### Notatki
+# Notatki - Rok 1984: Streszczenie
 
-1984, napisane przez George’a Orwella w 1949, to dystopijny utwór, który opisuje świat rządzony przez totalitarny reżim. Każde państwo, część świata w tym uniwersum, walczy z dwoma innymi w wiecznej wojnie. Nastąpiłaby utrata wolności indywidualnej, nadzór, dehumanizacja i praniem mózgów.
+Rok 1984 to dystopijna powieść science fiction napisana przez George'a Orwella, opublikowana w 1949 roku. Akcja rozgrywa się w totalitarnym państwie Oceanii, gdzie Wielki Brat sprawuje nadzór nad każdym aspektem życia obywateli.
 
-Główny bohater, Winston Smith, pracuje w Ministerstwie Prawdy, zajmującym się fałszowaniem historii oraz ściganiem tych, którzy sprzeciwiają się nowomowie, czyli językowi kontrolowanemu przez rząd. Nowomowa zakłada wprowadzanie prostych słów, zastępowanie ich bardziej złożonymi formami oraz eliminowanie niejasnych terminów. Wszystko to ma na celu kontrolę i ułatwienie nadzorowania przez reżim.
+Główny bohater, Winston Smith, pracuje w Ministerstwie Prawdy, gdzie fałszuje historię, aby pasowała do obecnej linii partii. Pewnego dnia, Winston zaczyna pisać dziennik, co jest uznawane za zdradę myśli (thoughtcrime). W tym samym czasie, Winston zaczyna spotykać się z Julią, koleżanką z pracy, z którą dzieli swoje sprzeciwy wobec Wielkiego Brata.
 
-Osoba Wielkiego Brata, symbolu nadrzędnego w Oceanii, obserwuje całą populację. Winston postanawia powstrzymać się przed zaakceptowaniem tego stanu rzeczy, co prowadzi do konfliktu z rządzącą partią. Odkrywa nielegalne magazyny literatury zakazanej i rozpoczyna sekretny romans z Julią.
+Winston i Julia zostają zdradzeni i aresztowani. Więziony i torturowany, Winston zostaje zmuszony do wiary w Wielkiego Brata i jego ideologię. Ostatecznie, Winston zostaje zwolniony, ale jego umysł został zniszczony, a on sam stał się lojalnym obywatelem Oceanii.
 
-Występuje tutaj również koncept dwójek myśli, który oznacza to, że wszyscy są przekonani, iż są obserwowani cały czas i muszą kontrolować swoje myśli. W rezultacie tego procesu nikt nie potrafi zaufać komukolwiek.
-
-Bez względu na to, jak dalece Winston i Julia pogrążają się w zakazanych czynnościach, wiedzą, że w końcu zostaną złapani i ukarani, co prowadzi do dramatycznego finału. Ostatecznie Winston zostaje ukarany w wymyślnym i przerażającym sposobie przez służby specjalne Oceanii.
+Rok 1984 stał się symbolem nadzoru, braku prywatności i kontroli myśli w totalitarnym państwie. Frazy "Wojna to pokój, wolność to niewola, a nieznajomość siły to siła" ilustrują nowsze hasła propagandy, które mają na celu kontrolę umysłów obywateli.

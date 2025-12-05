@@ -1,63 +1,58 @@
  # Quiz
-
 1. Co oznacza fraza "Zdążyć przed Panem Bogiem"?
-A. Przygotować się do spowiedzi
-B. Dopełnić obowiązków religijnych
-C. Pogodzić się z winami
-D. Uczestniczyć w mszach św.
+   A. Przygotować się na śmierć
+   B. Przygotować się do spowiedzi
+   C. Przygotować się do niespodziewanego spotkania
+   D. Przygotować się do sądu ostatecznego
 
-Poprawna odpowiedź: A. Przygotować się do spowiedzi
+   D. Przygotować się do sądu ostatecznego
 
-2. Jakie czynności wchodzą w skład tzw. "zdążenia przed Panem Bogiem"?
-A. Samookieńnia i refleksja nad swoim postępowaniem
-B. Oczyszczenie serca i umysłu
-C. Przystąpienie do sakramentu spowiedzi
-D. Wszystkie wyżej wymienione
+2. Kiedy chrześcijanie wierzą, że nastąpi sąd ostateczny?
+   A. Po śmierci każdego człowieka
+   B. Po śmierci wszystkich ludzi
+   C. Po zakończeniu czasów
+   D. Po zakończeniu życia na ziemi
 
-Poprawna odpowiedź: D. Wszystkie wyżej wymienione
+   C. Po zakończeniu czasów
 
-3. Kiedy należy się spowiadać w Kościele katolickim?
-A. Przed każdą Komunią św.
-B. Co najmniej dwa razy w roku
-C. Nie ma określonych zasad czasowych
-D. W przeddzień Wielkiej Soboty
+3. Co oznacza pojęcie "spowiedź"?
+   A. Wyznanie win
+   B. Przebaczenie grzechów
+   C. Modlitwa do Boga
+   D. Uczestnictwo w sakramencie
 
-Poprawna odpowiedź: B. Co najmniej dwa razy w roku
+   A. Wyznanie win
 
-4. Co jest konsekwencją grzechu śmiertelnego, jeśli nie zostanie on spowiedziany?
-A. Wpływ na relacje ze świętymi
-B. Odstepstwo od Kościoła katolickiego
-C. Brak przebaczenia
-D. Wszystkie wyżej wymienione
+4. Jakie są rodzaje spowiedzi w Kościele katolickim?
+   A. Publiczna i prywatna
+   B. Ustna i pisemna
+   C. Pełna i częściowa
+   D. Indywidualna i zbiorowa
 
-Poprawna odpowiedź: C. Brak przebaczenia
+   A. Publiczna i prywatna
 
-5. Co oznacza wyraz "contritio" w kontekście spowiedzi?
-A. Rozkosz ze grzechu
-B. Skrucha i żal za grzech
-C. Pozew do Boga
-D. Porażka w grzechu
+5. Co oznacza pojęcie "grzech"?
+   A. Błąd lub złe uczynki
+   B. Przestępstwo przeciwko prawu
+   C. Choroba fizyczna
+   D. Problem psychiczny
 
-Poprawna odpowiedź: B. Skrucha i żal za grzech
+   A. Błąd lub złe uczynki
 
 # Fiszki
-
-1. Zdążyć przed Panem Bogiem - spowiedź
-2. Sakrament spowiedzi - spowiedź jako jeden z siedmiu sakramentów
-3. Samookieńnia - rozważanie własnego postępowania w celu zidentyfikowania grzechów
-4. Skrucha - żal i smutek z powodu popełnionego grzechu
-5. Grzech śmiertelny - grzech pozbawiający łaski Bożej i wymagający spowiedzi
+1. Sąd ostateczny - ostatni sąd, w którym Bóg osądzi wszystkich ludzi i zdecyduje o ich wiecznym losie.
+2. Spowiedź - akt wyznania win i prośby o przebaczenie.
+3. Grzech - błąd lub złe uczynki, które oddalają człowieka od Boga.
+4. Spowiedź publiczna - forma spowiedzi, w której wierni wyznają swoje grzechy przed zgromadzeniem wiernych.
+5. Spowiedź prywatna - forma spowiedzi, w której wierni wyznają swoje grzechy kapłanowi indywidualnie.
 
 # Notatki
+"Zdążyć przed Panem Bogiem" oznacza przygotować się do sądu ostatecznego, który chrześcijanie wierzą, że nastąpi po zakończeniu czasów. W Kościele katolickim przygotowanie to obejmuje uczestnictwo w sakramencie spowiedzi, w którym wierni wyznają swoje grzechy i proszą o przebaczenie.
 
-"Zdążyć przed Panem Bogiem" to fraza odnosząca się do procesu spowiedzi w Kościele katolickim. Spowiedź to sakrament, w którym wierzący wyznaje swoje grzechy kapłanowi, który w imieniu Boga daruje je. Obejmuje ona dwie główne części: samookieńnię i wyznanie grzechów.
+Sąd ostateczny oznacza ostatni sąd, w którym Bóg osądzi wszystkich ludzi i zdecyduje o ich wiecznym losie. Wierni, którzy żyli w stanie łaski i spełnili wszystkie warunki wymagane przez Kościół, będą mogli wstąpić do nieba, podczas gdy ci, którzy żyli w stanie grzechu śmiertelnego i nie poprosili o przebaczenie, będą musieli spędzić wieczność w piekle.
 
-Samookieńnia to rozważanie własnego postępowania w celu zidentyfikowania grzechów. Polega na rozważaniu myśli, słów i uczynków, które były złe i potrzebują przebaczenia.
+Spowiedź to akt wyznania win i prośby o przebaczenie. W Kościele katolickim istnieją dwie formy spowiedzi: publiczna i prywatna. W spowiedzi publicznej wierni wyznają swoje grzechy przed zgromadzeniem wiernych, podczas gdy w spowiedzi prywatnej wyznają je kapłanowi indywidualnie.
 
-Następnie, wierzący wyznaje swoje grzechy kapłanowi w spowiedzi tajnej. Poprzez wyznanie grzechów, wierzący podejmuje odpowiedzialność za swoje czyny i przyjmuje obowiązek naprawienia szkód, jeśli to możliwe.
+Grzech to błąd lub złe uczynki, które oddalają człowieka od Boga. Grzechy można podzielić na grzechy śmiertelne i grzechy pochybne. Grzechy śmiertelne to grzechy, które całkowicie łamią prawdę wiary lub prawa Boże i wymagają spowiedzi, aby być przebaczone. Grzechy pochybne to grzechy, które nie łamią prawdziwości wiary lub prawa Bożego, ale są złe i wymagają pokuty.
 
-W Kościele katolickim zaleca się spowiadać co najmniej dwa razy w roku, ale wierni mogą się spowiedzić częściej, jeśli tylko uważają to za stosowne. Ważne jest również, aby wierni byli dobrze przygotowani do spowiedzi, poprzez odpowiednią samookieńnię i skruchę przed Panem Bogiem.
-
-Grzechy mogą być zarówno lekkie, jak i śmiertelne. Grzechy lekkie to te, które nie łamią związków z Bogiem i Kościołem, ale wymagają troskliwej modlitwy i pokuty. Grzechy śmiertelne to te, które całkowicie łamią związek z Bogiem i Kościołem, i wymagają natychmiastowej spowiedzi, aby uniknąć wiecznej potępienia. Przykładem grzechu śmiertelnego może być bezczeszczenie Boga, popełnianie morderstwa lub cudzołóstwa.
-
-Dlatego też przygotowanie się do spowiedzi, czyli "zdążenie przed Panem Bogiem", jest niezbędne dla każdego wierzącego, aby być w pełni zżytym z Bogiem i Kościołem.
+Przygotowanie do sądu ostatecznego obejmuje również życie w stanie łaski i spełnianie wszystkich warunków wymaganych przez Kościół. To oznacza uczestniczenie w sakramentach, modlitwie i dobrych uczynkach, aby umocnić wiarę i miłość do Boga.
