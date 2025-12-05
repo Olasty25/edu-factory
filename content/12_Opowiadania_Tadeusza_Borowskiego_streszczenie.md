@@ -1,64 +1,61 @@
- # Quiz
+# Quiz
 
-1. Które z opowiadań Tadeusza Borowskiego stanowi pierwszą część trylogii *Pożegnania z Marią*?
-A. *Dzingel bajsa*
-B. *Matka i syn*
-C. *Na samotnym guzie*
-D. *Wysmakowana sprawa*
+1. Które z poniższych opowiadań Tadeusza Borowskiego nie należy do cyklu "Kamienny świat"?
+A. Szpital
+B. Matka i blyskawica
+C. Pożegnanie z Marią
+D. Dzień na stacji benzynowej
 
-Correct answer: C. *Na samotnym guzie*
+ Answer: D. Dzień na stacji benzynowej
 
-2. W którym obozie koncentracyjnym Tadeusz Borowski był więźniem?
-A. Buchenwald
-B. Dachau
-C. Auschwitz-Birkenau
-D. Sachsenhausen
+2. W którym opowiadaniu Borowski opisuje swoje doświadczenia z pobytu w Auschwitz-Birkenau?
+A. Kamienny świat
+B. Szpital
+C. Matka i blyskawica
+D. Pożegnanie z Marią
 
-Correct answer: C. Auschwitz-Birkenau
+ Answer: A. Kamienny świat
 
-3. W którym opowiadaniu Borowskiego po raz pierwszy pojawiają się Temerson i Kalina - współwięźniowie opowiadającego?
-A. *Cmentarna szychta*
-B. *Lekcja anatomii*
-C. *Piękni dwudziestoletni*
-D. *Dwa szklanki wody*
+3. Które z poniższych opowiadań jest opowieścią o miłości?
+A. Szpital
+B. Matka i blyskawica
+C. Pożegnanie z Marią
+D. Kamienny świat
 
-Correct answer: A. *Cmentarna szychta*
+ Answer: C. Pożegnanie z Marią
 
-4. W którym opowiadaniu Borowski opisuje wysiedlanie robotników przymusowych z Niemiec do ZSRR?
-A. *Jak niektórzy zadbali o swe ocalenie*
-B. *Pocztą z Auschwitz*
-C. *Selekcja w Birkenau*
-D. *Wysiedlanie*
+4. W którym opowiadaniu Borowski opisuje swoje doświadczenia z pobytu w obozie pracy na terenie Niemiec?
+A. Kamienny świat
+B. Szpital
+C. Matka i blyskawica
+D. Dzień na stacji benzynowej
 
-Correct answer: D. *Wysiedlanie*
+ Answer: D. Dzień na stacji benzynowej
 
-5. Które z opowiadań jest ostatnią częścią trylogii *Pożegnania z Marią*?
-A. *Wysmakowana sprawa*
-B. *Tren*
-C. *Kamienny świat*
-D. *Ludzie, których znam*
+5. Które z poniższych opowiadań jest opowieścią o śmierci?
+A. Szpital
+B. Matka i blyskawica
+C. Pożegnanie z Marią
+D. Kamienny świat
 
-Correct answer: B. *Tren*
+ Answer: B. Matka i blyskawica
 
 # Fiszki
 
-1. Trylogia Tadeusza Borowskiego: *Pożegnania z Marią*
-	* Na samotnym guzie
-	* Kamienny świat
-	* Tren
-2. *Dzingel bajsa*
-3. *Matka i syn*
-4. Temerson i Kalina
-5. *Wysmakowana sprawa*
+1. Kamienny świat - cykl opowiadań Tadeusza Borowskiego opisujących doświadczenia autora z pobytu w Auschwitz-Birkenau.
+2. Szpital - opowiadanie Tadeusza Borowskiego opisujące doświadczenia autora z pobytu w szpitalu obozowym w Auschwitz-Birkenau.
+3. Matka i blyskawica - opowiadanie Tadeusza Borowskiego opisujące śmierć matki autora w obozie koncentracyjnym.
+4. Pożegnanie z Marią - opowiadanie Tadeusza Borowskiego opisujące historię miłości autora do Marii.
+5. Dzień na stacji benzynowej - opowiadanie Tadeusza Borowskiego opisujące doświadczenia autora z pracy na stacji benzynowej w Niemczech.
 
 # Notatki
 
-Tadeusz Borowski był polskim pisarzem i poetą, który przeżył obóz koncentracyjny Auschwitz-Birkenau. Jego opowiadania, w tym trylogia *Pożegnania z Marią*, są jednymi z najbardziej znanych i wpływowych świadectw Holocaustu.
+Tadeusz Borowski był polskim pisarzem i poetą, który przeżył pobyt w Auschwitz-Birkenau i innych obozach koncentracyjnych. Jego opowiadania, które zostały opublikowane po wojnie, stały się jednymi z najbardziej znanych i kontrowersyjnych dzieł literackich o doświadczeniach Holocaustu.
 
-*Pożegnania z Marią* składają się z trzech części: *Na samotnym guzie*, *Kamienny świat* oraz *Tren*. W każdej z nich Borowski opisuje swoje przeżycia z okresu II wojny światowej, w tym pobyt w obozie koncentracyjnym. Jest to wyjątkowo szczere i mroczne spojrzenie na istnienie więźniów i strażników obozów.
+Najbardziej znanym cyklem opowiadań Borowskiego jest "Kamienny świat", który opisuje doświadczenia autora z pobytu w Auschwitz-Birkenau. W tych opowiadaniach Borowski ukazuje okrutność i bezsensowność życia w obozie koncentracyjnym, a także złożoność ludzkich relacji w tak trudnych warunkach.
 
-W opowiadaniach zwraca szczególną uwagę na relacje między ludźmi w obozie, zwłaszcza na relacje więźniów. Pisze o współzawodnictwie, szpiegostwie i lojalności. Mimo nieustającego terroru i śmierci porusza też tematy nadziei, siły do życia i miłości.
+Inne znane opowiadania Borowskiego to "Szpital", "Matka i blyskawica", "Pożegnanie z Marią" i "Dzień na stacji benzynowej". Każde z tych opowiadań ma unikalny temat i ton, ale wszystkie one ukazują trudności i wyzwania, z którymi Borowski i inni więźniowie musieli się zmierzyć w obozach koncentracyjnych.
 
-Ważne motywy w jego twórczości to przetrwanie, nadzieja i moralność. Jego opowiadania zawierają refleksje na temat ludzkiej natury i zdolności do sprawiedliwości lub bezwzględności w ekstremalnych warunkach. Jest krytyczny wobec współpracy więźniów z systemem obozowym i wobec tych, którzy zachowują się okrutnie w stosunku do innych.
+"Szpital" opisuje doświadczenia Borowskiego z pobytu w szpitalu obozowym w Auschwitz-Birkenau, gdzie był leczony za gruźlicę. "Matka i blyskawica" to opowiadanie o śmierci matki autora w obozie koncentracyjnym. "Pożegnanie z Marią" to opowieść o miłości Borowskiego do Marii, która była więźniarką w innym obozie koncentracyjnym. "Dzień na stacji benzynowej" opisuje doświadczenia autora z pracy na stacji benzynowej w Niemczech po opuszczeniu obozu koncentracyjnego.
 
-Borowskiego śmierć w wieku 28 lat przerwała jego karierę literacką, jednak jego dzieła nadal cieszą się dużym uznaniem ze względu na wyjątkową moc i autentyczność opisów. Jego twórczość pomogła zrozumieć trauma Holocaustu i zdecydowanie wpłynęła na późniejsze pokolenia pisarzy.
+Całe dzieło Borowskiego jest pełne brutalnej szczerości i przenikliwej obserwacji, a jego opowiadania nadal inspirują i dysturują czytelników na całym świecie.

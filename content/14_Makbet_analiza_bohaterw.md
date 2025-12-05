@@ -1,65 +1,63 @@
- # Quiz: Makbet Analysis of Characters
+# Quiz: Makbet - Analiza bohaterów
 
-1. Who is Macbeth in Shakespeare's play?
-A) A brave soldier
-B) A power-hungry king
-C) A loyal friend
-D) A helpless victim
+1. Który z wymienionych poniżej opisów najlepiej odzwierciedla postać Makbeta na początku tragedii?
+   A. Potężny i pewny siebie wódz
+   B. Wyrzuty sumienia i niepewność
+   C. Bezlitosny i żądny władzy tyran
+   D. Chory umysłowo i wyalienowany
 
-Answer: A) A brave soldier
+   Poprawna odpowiedź: B. Wyrzuty sumienia i niepewność
 
-2. Who is Lady Macbeth in Shakespeare's play?
-A) A loyal wife
-B) A manipulative queen
-C) A loving mother
-D) A damsel in distress
+2. Kim jest Lady Makbet w dramacie Makbet autorstwa Williama Szekspira?
+   A. Przyjaciółka i sojuszniczka Makbeta
+   B. Cicha i posłuszna żona Makbeta
+   C. Ambitna i wpływowa kobieta, która nakłania Makbeta do zabójstwa
+   D. Przeciwniczka Makbeta, która próbuje powstrzymać go przed dokonaniem zbrodni
 
-Answer: B) A manipulative queen
+   Poprawna odpowiedź: C. Ambitna i wpływowa kobieta, która nakłania Makbeta do zabójstwa
 
-3. Which character is Macbeth's loyal friend and a brave soldier?
-A) Banquo
-B) Fleance
-C) Macduff
-D) Ross
+3. Jakie jest prawdziwe imię drugoplanowego bohatera, Banquo?
+   A. Banquo to prawdziwe imię Makbeta
+   B. Banquo to imię żony Makbeta
+   C. Banquo to przyjaciel i towarzysz Makbeta
+   D. Banquo to imię córki Makbeta
 
-Answer: A) Banquo
+   Poprawna odpowiedź: C. Banquo to przyjaciel i towarzysz Makbeta
 
-4. Who is the rightful king of Scotland, whom Macbeth kills to gain the crown?
-A) Duncan
-B) Malcolm
-C) Donalbain
-D) Edward
+4. Która z wymienionych poniżej cech charakteryzuje postać Makbeta po dokonaniu zabójstwa Dunekana?
+   A. Uczciwość i poczucie winy
+   B. Brak wyrzutów sumienia i bezwzględność
+   C. Strach i niepewność
+   D. Empatia i współczucie
 
-Answer: A) Duncan
+   Poprawna odpowiedź: B. Brak wyrzutów sumienia i bezwzględność
 
-5. Which character ultimately kills Macbeth to avenge the murder of his family?
-A) Banquo
-B) Fleance
-C) Macduff
-D) Ross
+5. Która z wymienionych poniżej postaci jest świadkiem ducha Banquo na uroczystości bankietowej?
+   A. Lady Makbet
+   B. Rosencrantz
+   C. Król Duncan
+   D. Malcolm
 
-Answer: C) Macduff
+   Poprawna odpowiedź: A. Lady Makbet
 
-# Flashcards: Makbet Analysis of Characters
+# Fiszki: Makbet - Analiza bohaterów
 
-1. **Macbeth** - A brave soldier, who becomes power-hungry and kills Duncan to become king of Scotland.
-2. **Lady Macbeth** - A manipulative queen, who convinces Macbeth to commit regicide and become king, but ultimately goes mad with guilt.
-3. **Banquo** - Macbeth's loyal friend and a brave soldier, who is killed by Macbeth to prevent him from becoming king.
-4. **Duncan** - The rightful king of Scotland, who is murdered by Macbeth to gain the crown.
-5. **Macduff** - A Scottish nobleman, who seeks revenge for the murder of his family and ultimately kills Macbeth.
+1. Makbet - początkowo jest on wątpliwy i niepewny, lecz po dokonaniu zabójstwa staje się bezwzględny i pozbawiony wyrzutów sumienia.
+2. Lady Makbet - ambitna i wpływowa kobieta, która nakłania Makbeta do dokonania zbrodni, lecz później pogrąża się w szaleństwie z powodu wyrzutów sumienia.
+3. Banquo - przyjaciel i towarzysz Makbeta, którego duch pojawia się na uroczystości bankietowej.
+4. Król Duncan - ofiara zabójstwa Makbeta, który jest opisywany jako dobry i sprawiedliwy władca.
+5. Malcolm - syn króla Duncana, który ukrywa się przed Makbetem i później staje się nowym królem Szkocji.
 
-# Notes: Makbet Analysis of Characters
+# Notatki: Makbet - Analiza bohaterów
 
-Macbeth is a tragic play written by William Shakespeare, which revolves around the character of Macbeth, a brave and noble Scottish general, who is led to commit regicide by his ambitious wife, Lady Macbeth. The play explores the themes of ambition, guilt, and the corrupting influence of unchecked power, as Macbeth and Lady Macbeth's initial desires for power and wealth escalate into a spiral of violence and paranoia.
+Makbet to tragedia autorstwa Williama Szekspira, która skupia się na postaci Makbeta, generała szkockiej armii, który zostaje namówiony przez swoją żonę, Lady Makbet, do zabójstwa króla Duncana, aby samemu zostać królem.
 
-Macbeth, initially a brave and loyal soldier, is corrupted by his ambition and the prophecy of the three witches that he will become king. He becomes consumed by the desire to seize the throne, even if it means murdering the rightful king, Duncan. Macbeth's hesitation to commit the murder is quickly overcome by Lady Macbeth's manipulations, and he kills Duncan off-stage.
+Na początku dramatu Makbet jest wątpliwy i niepewny, lecz po dokonaniu zabójstwa staje się bezwzględny i pozbawiony wyrzutów sumienia. Jego charakter ewoluuje w miarę rozwoju akcji, a jego postępowanie staje się coraz bardziej okrutne i bezwzględne.
 
-Lady Macbeth, who is portrayed as a powerful and manipulative character, is initially the driving force behind Macbeth's ambition to become king. She encourages and urges him to commit regicide, and when he hesitates, she calls him a coward. However, after Duncan's murder, Lady Macbeth is haunted by guilt and eventually goes mad.
+Lady Makbet jest kluczową postacią w dramacie. Jest ona opisywana jako ambitna i wpływowa kobieta, która nakłania Makbeta do dokonania zbrodni. Jednak po dokonaniu zabójstwa Lady Makbet pogrąża się w szaleństwie z powodu wyrzutów sumienia i umiera w końcowej części dramatu.
 
-Banquo, Macbeth's loyal friend, is a brave soldier who is aware of Macbeth's ambition. He is killed by Macbeth to prevent the witches' prophecy that he will become the father of future kings from coming true. Fleance, Banquo's son, escapes and becomes a threat to Macbeth's reign.
+Inna ważna postać to Banquo, przyjaciel i towarzysz Makbeta. Jego duch pojawia się na uroczystości bankietowej, co sprawia, że Makbet jest przekonany, że jest prześladowany przez duchy.
 
-Duncan, the rightful king of Scotland, is portrayed as a wise and just ruler, who is loved by his subjects. His murder is a turning point in the play and marks the beginning of Macbeth's downfall.
+Król Duncan jest ofiarą zabójstwa Makbeta i jest opisywany jako dobry i sprawiedliwy władca. Jego śmierć jest momentem zwrotnym w dramacie i skłania Makbeta do popełniania kolejnych zbrodni, aby zachować władzę.
 
-Macduff, a Scottish nobleman, seeks revenge for the murder of his family and ultimately kills Macbeth in the final act. He represents the forces of good and justice that oppose Macbeth's tyranny and evil.
-
-In conclusion, the characters in Shakespeare's Macbeth are complex and multifaceted, each representing different aspects of human nature, such as ambition, loyalty, guilt, and the corrupting influence of power. The play explores the consequences of unchecked ambition and the destructive power of guilt, as Macbeth and Lady Macbeth's desire for power leads to their downfall.
+Ostatecznie Makbet zostaje pokonany i zabity, a nowym królem Szkocji zostaje Malcolm, syn króla Duncana. Dramat kończy się refleksją nad konsekwencjami popełniania zbrodni i koniecznością płacenia za swoje czyny.
