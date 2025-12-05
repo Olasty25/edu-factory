@@ -1,56 +1,64 @@
- # Quiz - Quo vadis - analiza bohaterów
+ Quiz
+----
 
-1. Jaka postać jest głównym bohaterem powieści Henryka Sienkiewicza "Quo vadis"?
-   A. Petroniusz
-   B. Ligia
-   C. Wincenty
-   D. Ursus
-   (Poprawna odpowiedź: D. Ursus)
+1. Co oznacza łacińska fraza "Quo vadis"?
+A. Gdzie idziesz?
+B. Kiedy wrócisz?
+C. Dlaczego tak?
+D. Jak to zrobić?
 
-2. Jaką rolę odgrywa postać Piotra Apostoła w powieści "Quo vadis"?
-   A. Jest on wrogiem głównych bohaterów
-   B. Jest on męczennikiem chrześcijańskim
-   C. Przekonuje głównego bohatera do nawrócenia się na chrześcijaństwo
-   D. Nie pojawia się w książce
-   (Poprawna odpowiedź: C. Przekonuje głównego bohatera do nawrócenia się na chrześcijaństwo)
+Correct answer: A. Gdzie idziesz?
 
-3. Jakie jest prawdziwe imię Chrystusa w powieści "Quo vadis"?
-   A. Jesus
-   B. Yeshua
-   C. Emmanuel
-   D. Iisus
-   (Poprawna odpowiedź: D. Iisus)
+2. Który z bohaterów powieści Henryka Sienkiewicza "Quo vadis" jest chrześcijaninem?
+A. Petroniusz
+B. Chilon Chilonides
+C. Wincenty
+D. Ursus
 
-4. Która z postaci "Quo vadis" była autentyczną osobistością historyczną?
-   A. Ligia
-   B. Ursus
-   C. Petroniusz
-   D. Vinicius
-   (Poprawna odpowiedź: C. Petroniusz)
+Correct answer: D. Ursus
 
-5. Które z następujących postaci nie zostało ukrzyżowane w "Quo vadis"?
-   A. Chrystus
-   B. Ursus
-   C. Vinicius
-   D. Petroniusz
-   (Poprawna odpowiedź: D. Petroniusz)
+3. Która z postaci w "Quo vadis" jest niewolnikiem?
+A. Petroniusz
+B. Chilon Chilonides
+C. Ligia
+D. Neron
 
-# Fiszki - Quo vadis - analiza bohaterów
+Correct answer: C. Ligia
 
-1. Ursus - główny bohater powieści "Quo vadis", chrześcijański niewolnik i gladiator, skłonny do przemocy, ale równocześnie lojalny i odważny
-2. Ligia - postać kobieca w "Quo vadis", chrześcijanka i niewolnica, o skomplikowanej historii rodzinnej, uwielbia muzykę i tańczy
-3. Petroniusz - historyczna postać w "Quo vadis", rzymski arystokrata i namiestnik, known for his hedonism and cynicism, a close friend to emperor Nero
-4. Piotr - postać biblijna w "Quo vadis", jeden z apostołów Chrystusa, jego wiara i oddanie stają się wzorcem dla głównego bohatera, Ursusa
-5. Neron - postać historyczna w "Quo vadis", rzymski cesarz, despotyczny i bez skrupułów, oskarżony o podpalenie Rzymu
+4. Która z postaci w "Quo vadis" jest cesarzem rzymskim?
+A. Petroniusz
+B. Chilon Chilonides
+C. Ligia
+D. Neron
 
-# Notatki - Quo vadis - analiza bohaterów
+Correct answer: D. Neron
 
-"Quo vadis" to powieść Henryka Sienkiewicza, która została opublikowana w 1896 roku. Książka ma miejsce w Rzymie w pierwszym wieku naszej ery i opowiada historię miłosną między głównym bohaterem, Ursusem, a chrześcijańską niewolnicą, Ligią.
+5. Która z postaci w "Quo vadis" jest filozofem stoickim?
+A. Petroniusz
+B. Chilon Chilonides
+C. Ligia
+D. Seneka
 
-Główny bohater, Ursus, to chrześcijański niewolnik i gladiator o skomplikowanej przeszłości, który jest gotów do przemocy, by osiągnąć swoje cele. Jednak wraz z poznaniem Ligi, zaczyna kwestionować swoje wierzenia i zwyczaje. Postać Ligi, z kolei, jest złożona i interesująca – to chrześcijanka i niewolnica, która ceni sobie muzykę i tańczy.
+Correct answer: B. Chilon Chilonides
 
-W książce pojawiają się również inne ważne postacie, takie jak Petroniusz – historyczna postać, rzymski arystokrata i namiestnik, który jest bliskim przyjacielem cesarza Nerona. Jego postawa cyniczna i hedonistyczna stanowi kontrast z wiarą i oddaniem Ursusa i Ligi.
+Fiszki
+-----
 
-Inną kluczową postacią w "Quo vadis" jest postać biblijna św. Piotra, którego wiara i oddanie stają się wzorcem dla Ursusa. Jego spotkanie z bohaterem powieści ma decydujący wpływ na jego drogę życiową i nawrócenie się na chrześcijaństwo.
+1. **Quo vadis** - łacińska fraza oznaczająca "gdzie idziesz?"
+2. **Henryk Sienkiewicz** - polski pisarz, laureat Nagrody Nobla w dziedzinie literatury w 1905 roku
+3. **Petroniusz** - postać fikcyjna, arystokrata i satyryk z czasów Nerona
+4. **Chilon Chilonides** - postać fikcyjna, filozof stoicki z czasów Nerona
+5. **Wincenty** - postać fikcyjna, chrześcijanin, który pomaga głównym bohaterom
 
-Ostatecznie, "Quo vadis" to nie tylko historia miłosna, ale również przypowieść o wierze, odwadze i poświęceniu. Powieść ta stanowi również interesujący obraz życia w Rzymie w pierwszym wieku naszej ery i daje nam szczegółowy obraz historii i kultury tamtych czasów.
+Notatki
+-------
+
+"Quo vadis" to powieść historyczna napisana przez Henryka Sienkiewicza w 1895 roku. Książka opisuje życie w Rzymie za czasów panowania cesarza Nerona. Głównymi bohaterami są: Petroniusz, Chilon Chilonides, Wincenty i Ursus. Petroniusz jest arystokratą i satyrykiem na dworze Nerona, Chilon Chilonides to filozof stoicki, Wincenty jest chrześcijaninem, a Ursus niewolnikiem, który jest zakochany w Lidii, która również jest niewolnicą.
+
+Powieść opisuje prześladowania chrześcijan przez Nerona i ich heroiczną postawę w obliczu śmierci. Głównym tematem książki jest konflikt między dobrem a złem, a także miłość i wiara.
+
+Sienkiewicz przedstawia Nerona jako bezwzględnego i okrutnego władcę, który jest skłonny do popełniania zbrodni w imię swojej własnej rozrywki. Petroniusz, chociaż jest arystokratą i człowiekiem zamożnym, jest rozczarowany życiem na dworze Nerona i staje się krytykiem jego rządów.
+
+Chilon Chilonides to filozof stoicki, który uczy głównych bohaterów, jak żyć w harmonii z naturą i znaleźć spokój wewnętrzny. Wincenty to chrześcijanin, który pomaga głównym bohaterom i staje się ich przyjacielem.
+
+"Quo vadis" to powieść, która porusza wiele istotnych tematów, takich jak wiara, miłość, konflikt między dobrem a złem, a także relacje między ludźmi. Jest to klasyczna powieść, która nadal jest ceniona za swój piękny język i głębokie przesłanie.

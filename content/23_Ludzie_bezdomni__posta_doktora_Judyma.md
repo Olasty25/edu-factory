@@ -1,51 +1,59 @@
- # Quiz
+ # Quiz - Ludzie bezdomni - Postać doktora Judyma
 
-1. Kim był doktor Judyma?
-A. Psycholog zajmujący się problematyką bezdomności
-B. Pracownik organizacji charytatywnej
-C. Lekarz pracujący w schronisku dla bezdomnych
-D. Socjolog specjalizujący się w zagadnieniach bezdomności (poprawna odpowiedź)
+1. Który z poniższych czynników jest najczęstszą przyczyną bezdomności w Polsce?
+   A. Brak pracy
+   B. Problem alkoholowy
+   C. Brak opieki zdrowotnej
+   D. Brak dostępu do edukacji
 
-2. Gdzie doktor Judyma spotkał Phillipa Parkera, bohatera książki „Postać doktora Judyma”?
-A. W schronisku dla bezdomnych
-B. Na ulicy
-C. W szpitalu
-D. W centrum dla bezdomnych (poprawna odpowiedź)
+   Poprawna odpowiedź: B. Problem alkoholowy
 
-3. Jaka była przyczyna, dla której Phillip Parker stracił dach nad głową?
-A. Utrata pracy
-B. Problem alkoholowy
-C. Problem z długami
-D. Brak bliskich osób, którymi mógłby się opiekować (poprawna odpowiedź)
+2. Ilość bezdomnych w Polsce szacowana jest na:
+   A. 10 tys. osób
+   B. 20 tys. osób
+   C. 30 tys. osób
+   D. 40 tys. osób
 
-4. Jaki był cel doktora Judyma w pracy z Phillipem Parkerem?
-A. Pomóc mu w znalezieniu pracy
-B. Pomóc mu w znalezieniu mieszkania
-C. Pomóc mu poradzić sobie z alkoholowym uzależnieniem
-D. Wszystkie powyższe (poprawna odpowiedź)
+   Poprawna odpowiedź: C. 30 tys. osób
 
-5. Jaką ważną lekcję nauczył doktor Judyma Phillipa Parkera?
-A. Konieczność poszukiwania pracy
-B. Ważność posiadania domu
-C. Waga społeczeństwa w zdobywaniu niezależności
-D. Wartość odbudowy relacji i więzi z innymi ludźmi (poprawna odpowiedź)
+3. Doktor Judym jest:
+   A. Organizacją pozarządową
+   B. Programem rządowym
+   C. Postacią fikcyjną
+   D. Lekarzem bezdomnym
 
-# Fiszki
+   Poprawna odpowiedź: D. Lekarzem bezdomnym
 
-1. **Doktor Judyma** - socjolog specjalizujący się w zagadnieniach bezdomności, główny bohater książki Jana Jacobs „Postać doktora Judyma”
-2. **Phillip Parker** – bohater książki „Postać doktora Judyma”, były bezdomny, który powoli zaczyna wychodzić z alienacji i uzależnień
-3. **Bezdomność** – stan bez dachu nad głową, nie posiadanie miejsca zamieszkania lub uchodźstwo
-4. **Uzależnienie od alkoholu** – poważny problem, powodujący negatywne skutki w życiu osobie uzależnionej
-5. **Integracja społeczna** – proces nawiązywania relacji i aktywnego uczestnictwa w społeczności
+4. Doktor Judym pomaga bezdomnym poprzez:
+   A. Leczenie medyczne
+   B. Pomoc prawną
+   C. Dostarczanie żywności
+   D. Wszystkie poprzednie odpowiedzi
 
-# Notatki
+   Poprawna odpowiedź: D. Wszystkie poprzednie odpowiedzi
 
-Doktor Judyma to fikcyjna postać stworzona przez Jana Jacobs, socjologa specjalizującego się w zagadnieniach bezdomności. Jest on głównym bohaterem książki „Postać doktora Judyma”, w której opowiada historię swojej pracy z Phillipem Parkerem, byłym bezdomnym, który dzięki pomocy doktora Judyma znajduje sens w życiu i próbuje wychodzić z alienacji i uzależnień.
+5. Doktor Judym otrzymał nagrodę:
+   A. Nobla
+   B. Obywatela Rzeczypospolitej Polskiej
+   C. Złotego Orła
+   D. Polcul
 
-Bezdomność to stan, w którym nie posiada się miejsca zamieszkania. Może być spowodowana różnymi czynnikami, takimi jak utrata pracy, problemy alkoholowe, problemy z długami, brak bliskich osób, którymi można się opiekować, albo inne czynniki, które mogą doprowadzić do trudności w znalezieniu miejsca do życia i dachu nad głową.
+   Poprawna odpowiedź: D. Polcul
 
-Phillip Parker to bohater książki „Postać doktora Judyma”, którego życie zmienia dzięki pomocy doktora Judyma. Przez wiele lat bezdomny, Phillip stara się znaleźć sens i przyczynę do życia oraz radzić sobie z uzależnieniami. Dzięki pomocy doktora Judyma, Phillip stopniowo się integruje ze społecznością i odnajduje swoje miejsce w świecie.
+# Fiszki - Ludzie bezdomni - Postać doktora Judyma
 
-Praca doktora Judyma z Phillipem Parkerem ma na celu pomóc mu w poradzeniu sobie z problemami, które spowodowały jego bezdomność. Pomaga mu w znalezieniu pracy, znalezieniu mieszkania oraz radzeniu sobie z problemem alkoholowym. Jednak doktor Judyma robi to na swój sposób, poprzez budowanie relacji i integrację społeczną, a nie poprzez przekazywanie jasnych instrukcji lub wydawanie poleceń.
+1. Bezdomność w Polsce - problem alkoholowy, brak pracy, brak opieki zdrowotnej, brak dostępu do edukacji
+2. Doktor Judym - lekarz bezdomny, pomoc medyczna, prawna i żywnościowa dla bezdomnych
+3. Program Doktora Judyma - organizacja pozarządowa, finansowana ze środków własnych i darowizn
+4. Nagroda Polcul - nagroda przyznawana osobom zasłużonym dla rozwoju kultury niezależnej w Polsce
+5. Statystyki bezdomności - 30 tys. osób w Polsce, w tym 4 tys. w Warszawie
 
-Dzięki pracy doktora Judyma, Phillip poznaje ważną lekcję - wartość cenienia relacji i współpracy z innymi ludźmi. Dzięki temu Phillip stopniowo wychodzi z alienacji i uzależnień, znajduje sens w życiu i integruje się ze społecznością.
+# Notatki - Ludzie bezdomni - Postać doktora Judyma
+
+Bezdomność to jeden z najpoważniejszych problemów społecznych w Polsce. Szacuje się, że w naszym kraju żyje ok. 30 tys. bezdomnych, w tym 4 tys. w Warszawie. Najczęstszą przyczyną bezdomności jest problem alkoholowy, ale również brak pracy, opieki zdrowotnej i dostępu do edukacji.
+
+Doktor Judym to postać, która stała się symbolem walki z bezdomnością w Polsce. Lekarz bezdomny, który sam przeżył problem alkoholowy i bezdomność, postanowił pomóc innym w tej sytuacji. Zaczął od niesienia pomocy medycznej na ulicach Warszawy, a obecnie jego Program Doktora Judyma oferuje pomoc medyczną, prawną i dostarczanie żywności dla bezdomnych.
+
+Program Doktora Judyma to organizacja pozarządowa, finansowana ze środków własnych i darowizn. Dzięki jego działalności wielu osobom udało się opuścić ulicę i odzyskać godność. Doktor Judym otrzymał wiele nagród i wyróżnień, w tym Nagrodę Polcul, przyznawaną osobom zasłużonym dla rozwoju kultury niezależnej w Polsce.
+
+Jednak mimo wysiłków organizacji i pojedynczych osób, problem bezdomności w Polsce wciąż istnieje. Wymaga on rozwiązań systemowych, w tym poprawy dostępu do opieki zdrowotnej, edukacji i pomocy prawnej dla osób bezdomnych. Dlatego warto wspierać organizacje, które pomagają tym ludziom, a także propagować wiedzę o tym problemie w społeczeństwie.
