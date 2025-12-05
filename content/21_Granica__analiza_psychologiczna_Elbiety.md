@@ -1,45 +1,59 @@
  # Quiz
 
-1. Która z poniższych jest główną motywacją Elżbiety dotyczącą granicy?
-A. Ochrona prywatności
-B. *Zabezpieczenie swojego statusu*
-C. Utrzymanie autentyczności
-D. Wyrażanie wolności
-2. Co to jest "granica płynna"?
-A. Granica całkowicie otwarta i nieokreślona
-B. *Granica której dokładność i stan może się zmieniać w zależności od sytuacji społecznej*
-C. Granica zupełnie niemożliwa do przekroczenia
-D. Granica stały i niewzruszony
-3. Dlaczego elastyczne granice nie są złe?
-A. Pomagają w budowaniu zaufania
-B. Pozwalają na wyrażanie większej ilości emocji
-C. Są łatwiejsze do przekroczenia
-D. *Wszystkie z powyższych*
-4. Kiedy granica może stać się zbyt rygorystyczna?
-A. Kiedy nie pozwala na wyrażanie emocji
-B. Kiedy chroni za bardzo przed zranieniem
-C. Kiedy jest całkowicie niemożliwa do zmiany
-D. *Wszystkie z powyższych*
-5. Co można zrobić, aby poprawić komunikację przez granicę?
-A. Poprosić osobę o to, by skontaktowała się z Tobą w innym czasie
-B. Użyć łagodnego głosu
-C. *Uzasadnić swoją pozycję i wyjaśnić swoje potrzeby*
-D. Wyciszyć się i pozwolić osobie zrobić to, czego chce
+1. Co to jest granica w kontekście analizy psychologicznej Elżbiety?
+   A. To fizyczna ściana między krajami
+   B. To psychologiczny mechanizm obronny
+   C. To rodzaj zwierzęcia żyjącego w lasach
+   D. To pojęcie z zakresu fizyki
+
+   Poprawna odpowiedź: B. To psychologiczny mechanizm obronny
+
+2. Kiedy granica może być szkodliwa?
+   A. Kiedy jest stosowana w małych ilościach
+   B. Kiedy jest stosowana w dużych ilościach
+   C. Kiedy jest niewidoczna dla innych
+   D. Kiedy jest widoczna dla innych
+
+   Poprawna odpowiedź: B. Kiedy jest stosowana w dużych ilościach
+
+3. Co to jest granica pionowa i granica horyzontalna w analizie psychologicznej Elżbiety?
+   A. Granica pionowa to granica pomiędzy umysłem a ciałem, a horyzontalna to granica pomiędzy myślami a emocjami
+   B. Granica pionowa to granica pomiędzy myślami a emocjami, a horyzontalna to granica pomiędzy umysłem a ciałem
+   C. Granica pionowa to granica pomiędzy przeszłością a przyszłością, a horyzontalna to granica pomiędzy teraźniejszością a wiecznością
+   D. Granica pionowa to granica pomiędzy teraźniejszością a wiecznością, a horyzontalna to granica pomiędzy przeszłością a przyszłością
+
+   Poprawna odpowiedź: A. Granica pionowa to granica pomiędzy umysłem a ciałem, a horyzontalna to granica pomiędzy myślami a emocjami
+
+4. Co to jest granica pochłaniająca w analizie psychologicznej Elżbiety?
+   A. To granica, która pozwala nam na selektywne przyjmowanie informacji
+   B. To granica, która uniemożliwia nam przyjmowanie nowych informacji
+   C. To granica, która pozwala nam na selektywne odrzucanie informacji
+   D. To granica, która uniemożliwia nam odrzucanie informacji
+
+   Poprawna odpowiedź: C. To granica, która pozwala nam na selektywne odrzucanie informacji
+
+5. Co to jest granica wychodząca w analizie psychologicznej Elżbiety?
+   A. To granica, która pozwala nam na kontrolowanie naszych myśli i emocji
+   B. To granica, która uniemożliwia nam kontrolowanie naszych myśli i emocji
+   C. To granica, która pozwala nam na kontrolowanie innych osób
+   D. To granica, która uniemożliwia nam kontrolowanie innych osób
+
+   Poprawna odpowiedź: B. To granica, która uniemożliwia nam kontrolowanie naszych myśli i emocji
 
 # Fiszki
 
-- Granica to liniowe rozgraniczenie pomiędzy Tobą a innymi
-- Granice istnieją w każdych relacjach
-- Główne motywacje Elżbiety dotyczące granicy to ochrona prywatności, zabezpieczenie swojego statusu, utrzymanie autentyczności i wyrażanie wolności
-- Granica płynna to granica, której dokładność i stan może się zmieniać w zależności od sytuacji społecznej
-- Elastyczne granice nie są złe, ponieważ pomagają w budowaniu zaufania, pozwalają na wyrażanie większej ilości emocji i są łatwiejsze do zmiany
-- Granica może stać się zbyt rygorystyczna, jeśli nie pozwala na wyrażanie emocji, chroni za bardzo przed zranieniem i jest całkowicie niemożliwa do zmiany
-- Aby poprawić komunikację przez granicę, można użyć łagodnego głosu, uzasadnić swoją pozycję i wyjaśnić swoje potrzeby
+1. Granica - psychologiczny mechanizm obronny, który chroni nasze ja przed niepożądanymi myślami, emocjami lub doświadczeniami.
+2. Granica pionowa - granica pomiędzy umysłem a ciałem.
+3. Granica horyzontalna - granica pomiędzy myślami a emocjami.
+4. Granica pochłaniająca - granica, która pozwala nam na selektywne odrzucanie informacji.
+5. Granica wychodząca - granica, która uniemożliwia nam kontrolowanie naszych myśli i emocji.
 
 # Notatki
 
-Elżbieta podkreśla znaczenie granic w relacjach międzyludzkich i ich rolę w ochronie prywatności, zabezpieczeniu swojego statusu, utrzymaniu autentyczności i wyrażaniu wolności. Zwraca ona uwagę na to, że granice istnieją w każdych relacjach i nie powinny być ignorowane ani ignorowane.
+Granica to psychologiczny mechanizm obronny, który chroni nasze ja przed niepożądanymi myślami, emocjami lub doświadczeniami. Może ona przyjmować różne formy, takie jak granica pionowa (granica pomiędzy umysłem a ciałem) lub granica horyzontalna (granica pomiędzy myślami a emocjami).
 
-Jedną z kluczowych koncepcji w analizie Elżbiety jest pojęcie granicy płynnej, która może się zmieniać w zależności od sytuacji społecznej. Takie granice mogą być elastyczne i mogą pozwalać na wyrażanie emocji, budowanie zaufania i łatwejsze zmiany. Elżbieta zwraca również uwagę na to, że granice nie powinny być zbyt rygorystyczne, ponieważ mogą uniemożliwiać wyrażanie emocji, chronić zbyt mocno przed zranieniem i być całkowicie niemożliwe do zmiany.
+Granice mogą być również klasyfikowane jako pochłaniające lub wychodzące. Granica pochłaniająca pozwala nam na selektywne odrzucanie informacji, które mogą być dla nas niepożądane lub zbyt trudne do przyswojenia. Natomiast granica wychodząca uniemożliwia nam kontrolowanie naszych myśli i emocji, co może być szkodliwe w sytuacjach, gdy potrzebujemy być w pełni świadomi sytuacji i kontrolować swoje emocje.
 
-Elżbieta zaleca stosowanie pewnych technik komunikacyjnych w celu poprawy komunikacji przez granicę. Można to zrobić poprzez użycie łagodnego głosu, uzasadnianie swojej pozycji i wyjaśnianie swoich potrzeb.
+Granice mogą być również stosowane w zbyt dużych ilościach, co może prowadzić do izolacji i alienacji od innych osób. Może to być również szkodliwe dla naszego wzrostu osobistego i rozwoju, gdyż uniemożliwia nam przyjmowanie nowych informacji i doświadczeń.
+
+W kontekście terapii, analiza granic może być przydatna w leczeniu zaburzeń osobowości, depresji, stresu pourazowego i innych zaburzeń emocjonalnych. Pozwala ona zidentyfikować i zrozumieć mechanizmy obronne, które mogą być szkodliwe dla naszego dobrostanu emocjonalnego i relacji z innymi. Dzięki temu możemy rozwijać strategie przeciwdziałania i umacniać nasze zdrowie emocjonalne.
