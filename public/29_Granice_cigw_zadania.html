@@ -70,62 +70,61 @@
         <div class="section quiz">
           <h1>Quiz - Granice ciągów</h1>
 <ol>
-<li><p>Co otrzymamy po podstawieniu nieskończonej ilości przyróstków $h$ do wzoru $\frac{(a+h)^2 - a^2}{h}$?
-A) $2a$
-B) $0$
-C) $\infty$
-D) Nie da się określić
-<strong>Poprawna odpowiedź:</strong> A) $2a$</p>
+<li><p>Co oznacza oznaczenie $\lim_{n\to\infty} a_n$?</p>
+<ul>
+<li>A: Ostatni element ciągu</li>
+<li>B: Suma elementów ciągu</li>
+<li>C: Granica ciągu</li>
+<li>D: Ilość elementów ciągu (odpowiedź: C)</li>
+</ul>
 </li>
-<li><p>Czy wartość graniczna $\lim_{n \to \infty} \frac{n^2 + 3n - 5}{n^2 + 1}$ istnieje?
-A) Tak
-B) Nie
-<strong>Poprawna odpowiedź:</strong> A) Tak</p>
+<li><p>Czy granica ciągu $\left{\frac{1}{n}\right}$ istnieje?</p>
+<ul>
+<li>A: Tak, jest równa 0</li>
+<li>B: Nie, nie istnieje</li>
+<li>C: Tak, jest równa 1</li>
+<li>D: Tak, jest równa -1 (odpowiedź: A)</li>
+</ul>
 </li>
-<li><p>Oblicz granicę: $\lim_{n \to \infty} \Big(\frac{n+1}{n-1}\Big)^n$
-A) $e$
-B) $-e$
-C) $1$
-D) Nie istnieje
-<strong>Poprawna odpowiedź:</strong> A) $e$</p>
+<li><p>Co oznacza oznaczenie $\lim_{n\to\infty} \frac{n^2-3n+2}{2n^2+n-1}$?</p>
+<ul>
+<li>A: Ostatni wyraz w zapisie n-tym ciągu</li>
+<li>B: Granica ciągu wyrażeń</li>
+<li>C: Suma elementów ciągu</li>
+<li>D: Ilość elementów ciągu (odpowiedź: B)</li>
+</ul>
 </li>
-<li><p>Co dostaniemy po podstawieniu wartości $x = 0$ do granicy $\lim_{x \to 0} \frac{\sin x}{x}$?
-A) $1$
-B) $0$
-C) $\infty$
-D) Nie da się określić
-<strong>Poprawna odpowiedź:</strong> A) $1$</p>
+<li><p>Czy granica ciągu $\left{(-1)^n\right}$ istnieje?</p>
+<ul>
+<li>A: Tak, jest równa 1</li>
+<li>B: Tak, jest równa -1</li>
+<li>C: Nie, nie istnieje</li>
+<li>D: Tak, jest równa 0 (odpowiedź: C)</li>
+</ul>
 </li>
-<li><p>Czy następująca własność jest prawdziwa? Jeżeli $\lim_{n \to \infty} a_n = a$, to $\lim_{n \to \infty} \frac{a_n}{n} = 0$
-A) Tak
-B) Nie
-<strong>Poprawna odpowiedź:</strong> B) Nie</p>
+<li><p>Co oznacza twierdzenie o zbieżności granicy ilorazu do granicy iloczynu?</p>
+<ul>
+<li>A: Jeżeli $\lim_{n\to\infty} a_n = a$ i $\lim_{n\to\infty} b_n = b$, to $\lim_{n\to\infty} (a_n \cdot b_n) = a \cdot b$</li>
+<li>B: Jeżeli $\lim_{n\to\infty} a_n = a$ i $\lim_{n\to\infty} b_n = b$, to $\lim_{n\to\infty} \left(\frac{a_n}{b_n}\right) = \frac{a}{b}$ (odpowiedź: B)</li>
+</ul>
 </li>
 </ol>
 <h1>Fiszki - Granice ciągów</h1>
 <ol>
-<li><strong>Definicja granicy ciągu</strong>: Direktorem oznaczamy granicę ciągu ${a_n}$ zborem liczbowym $A$ jeśli każdy otoczenie $U$ punktu $A$ zawiera wszystkie wyrazów ${a_n}$, z wyjątkiem z pewną skończoną liczbę wyrazów, tzn.:
-$$\forall U(A) \ \exists N \in \mathbb{N} \ \forall n \geq N \ a_n \in U(A)$$</li>
-<li><strong>Kryterium Heinego</strong>: Jeśli dla dowolnego ciągu ${x_n} \subset X$ przy $x_n \to x_0$ zachodzi $\lim_{n \to \infty} a_{x_n} = A$, to $\lim_{x \to x_0} a_x = A$.</li>
-<li><strong>Twierdzenie o trzech ciągach</strong>: Jeśli ${a_n}$ oraz ${b_n}$ są zbieżne do $a$ i $b$ odpowiednio, a $\alpha, \beta \in \mathbb{R}$, to:
-a) $\lim_{n \to \infty} (\alpha a_n + \beta b_n) = \alpha a + \beta b$
-b) $\lim_{n \to \infty} a_n b_n = ab$
-c) Jeśli $b_n \neq 0$ oraz $b \neq 0$, to $\lim_{n \to \infty} \frac{a_n}{b_n} = \frac{a}{b}$</li>
-<li><strong>Warunek wystarczający zbieżności potęgowej</strong> dla ${a_n}$ ciągu zdefiniowanego przez $a_n = b_1 b_2 \cdot ... \cdot b_n$: Jeśli $\forall_n \ b_n \in [1, +\infty)$ oraz $\sum_{n=1}^{\infty} |b_n - 1| &lt; +\infty$, to ${a_n}$ jest zbieżny do pewnej liczby dodatniej.</li>
-<li><strong>Zasada Tychoń braju</strong>: Jeśli ${a_n}$ jest ciągiem ograniczonym i każdy jego podciąg ma granicę, to także ${a_n}$ ma granicę.</li>
+<li><strong>Granica ciągu</strong> - wartość, do której przybliża się ciąg, gdy indeks ciągu dąży do nieskończoności.</li>
+<li><strong>Twierdzenie o zbieżności granicy ilorazu do granicy iloczynu</strong> - jeżeli $\lim_{n\to\infty} a_n = a$ i $\lim_{n\to\infty} b_n = b$, to $\lim_{n\to\infty} \left(\frac{a_n}{b_n}\right) = \frac{a}{b}$.</li>
+<li><strong>Twierdzenie o zbieżności granicy sumy do sumy granic</strong> - jeżeli $\lim_{n\to\infty} a_n = a$ i $\lim_{n\to\infty} b_n = b$, to $\lim_{n\to\infty} (a_n + b_n) = a + b$.</li>
+<li><strong>Twierdzenie o zbieżności granicy roznicy do roznicy granic</strong> - jeżeli $\lim_{n\to\infty} a_n = a$ i $\lim_{n\to\infty} b_n = b$, to $\lim_{n\to\infty} (a_n - b_n) = a - b$.</li>
+<li><strong>Twierdzenie o zbieżności granicy potęgi do potęgi granic</strong> - jeżeli $\lim_{n\to\infty} a_n = a$ i $p$ jest stałą, to $\lim_{n\to\infty} (a_n)^p = a^p$.</li>
 </ol>
 <h1>Notatki - Granice ciągów</h1>
-<p>Granice ciągów są jednym z podstawowych pojęć analizy matematycznej i bada się je za pomocą kilku fundamentalnych twierdzeń. Wśród nich wskażemy kryterium zbieżności bólzana, kryterium Cauchy&#39;ego, kryterium Heinego oraz twierdzenia o trzech ciągach. W przypadku badania ciągów związanych ze szeregami, możemy stosować twierdzenie Abela i kryterium D&#39;Alemberta.</p>
-<p>Granice funkcji i ciągów są powiązane. Zasadniczo mówiąc, granica ciągu to pojęcie specjalne granicy funkcji, w której miejsce zmiennej $x$ w funkcji zajmuje $n$-ty wyraz ciągu. Więc również często wykorzystujemy metody analizy funkcjonalnej do badania granic ciągów, jak np. twierdzenie Weierstrassa.</p>
-<p>Podobne zagadnienia pojawiają się m.in. w analizie numerycznej albo informatyce, szczególnie przy implementacji algorytmów, w których należy ustalać dokładność działań, dzięki której uzyskujemy satysfakcjonujące wyniki.</p>
-<p>Ważnym zagadnieniem związanym z granicami ciągów są własności ich zbieżności. Zapoznajmy się na przykład z poniższymi zasadami:</p>
-<ul>
-<li>Monotoniczność: jeśli ciąg ${a_n}$ jest monotoniczny, to jest on zbieżny wtedy i tylko wtedy, gdy jest ograniczony.</li>
-<li>Zasada Tychoń brzuja: jeśli ${a_n}$ jest ciągiem ograniczonym i każdy jego podciąg ma granicę, to także ${a_n}$ ma granicę (to kryterium nieuwzględnione w powyższych fiszkach).</li>
-<li>Teorema o granicy jednostajnej: granica ciągu funkcji jest równa jednostajnie granicy ciągu funkcji wszędzie na zbiorze.</li>
-<li>Twierdzenie Weierstrassa: jeśli granica ciągu ${a_n}$ ograniczonego ciągu liczb rzeczywistych istnieje, to granica ta jest równa pewnej z niniejszego ciągu.</li>
-</ul>
-<p>Samodzielne ćwiczenie w obliczaniu granic ciągów i szeregów rozwija umiejętności pracy z takimi pojęciami, jak limit liczbowy, otoczeniem, ciągami monotonicznymi oraz metodami szeregów.</p>
+<p>Granica ciągu to wartość, do której przybliża się ciąg, gdy indeks ciągu dąży do nieskończoności. Oznaczamy ją jako $\lim_{n\to\infty} a_n$.</p>
+<p>Istnieją różne twierdzenia dotyczące zbieżności granic, m.in. twierdzenie o zbieżności granicy ilorazu do granicy iloczynu, twierdzenie o zbieżności granicy sumy do sumy granic, twierdzenie o zbieżności granicy roznicy do roznicy granic i twierdzenie o zbieżności granicy potęgi do potęgi granic.</p>
+<p>Twierdzenie o zbieżności granicy ilorazu do granicy iloczynu mówi, że jeżeli $\lim_{n\to\infty} a_n = a$ i $\lim_{n\to\infty} b_n = b$, to $\lim_{n\to\infty} \left(\frac{a_n}{b_n}\right) = \frac{a}{b}$.</p>
+<p>Twierdzenie o zbieżności granicy sumy do sumy granic mówi, że jeżeli $\lim_{n\to\infty} a_n = a$ i $\lim_{n\to\infty} b_n = b$, to $\lim_{n\to\infty} (a_n + b_n) = a + b$.</p>
+<p>Twierdzenie o zbieżności granicy roznicy do roznicy granic mówi, że jeżeli $\lim_{n\to\infty} a_n = a$ i $\lim_{n\to\infty} b_n = b$, to $\lim_{n\to\infty} (a_n - b_n) = a - b$.</p>
+<p>Twierdzenie o zbieżności granicy potęgi do potęgi granic mówi, że jeżeli $\lim_{n\to\infty} a_n = a$ i $p$ jest stałą, to $\lim_{n\to\infty} (a_n)^p = a^p$.</p>
+<p>Granice ciągów są bardzo ważne w analizie matematycznej, gdyż pozwalają na badanie zachowania się funkcji w nieskończoności.</p>
 
         </div>
         <a href="index.html" class="back">← Powrót do spisu treści</a>

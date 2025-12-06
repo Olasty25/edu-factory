@@ -1,52 +1,63 @@
- ### Quiz
+ # Quiz - Funkcja Wykładnicza
 
 1. Co to jest funkcja wykładnicza?
-   A. Funkcja, która ma postać y = ax
-   B. Funkcja, która ma postać y = ax + b
-   C. Funkcja, która ma postać y = a(bx)
-   D. Funkcja, która ma postać y = ab^x
-   * D. Funkcja, która ma postać y = ab^x
+   A. Funkcja liniowa
+   B. Funkcja kwadratowa
+   C. Funkcja wykładnicza
+   D. Funkcja wielomianowa
 
-2. Czym się wyróżnia funkcja wykładnicza na tle innych funkcji?
-   A. Możliwością zerowania się funkcji w zadanym punkcie
-   B. Wiąza się z procentowym wzrostem lub spadkiem wartości
-   C. Możliwością przebiegając przez trzy osie układu kartezjańskiego
-   D. Możliwością zmiany przebiegu funkcji w zależności od współczynników a i b
-   * B. Wiąza się z procentowym wzrostem lub spadkiem wartości
+   **Poprawna odpowiedź: C. Funkcja wykładnicza**
 
-3. Jak wygląda wykres funkcji wykładniczej?
-   A. Prosta lub zakrzywiona linia prostopadła do osi y
-   B. Prosta lub zakrzywiona linia prostopadła do osi x
-   C. Prosta lub zakrzywiona linia prostopadła do obu osi
-   D. Krzywa w kształcie litery S
-   * D. Krzywa w kształcie litery S
+2. Jaka jest postać wzoru funkcji wykładniczej?
+   A. f(x) = ax + b
+   B. f(x) = ax^2 + bx + c
+   C. f(x) = a^x + b
+   D. f(x) = a \* b^x
 
-4. Dlaczego funkcja wykładnicza jest nieoznaczona w zadanym punkcie?
-   A. Z powodu dzielenia przez zero
-   B. Z powodu nieograniczonego wzrostu funkcji
-   C. Z powodu nieograniczonego spadku funkcji
-   D. Z powodu braku przecięcia się z osią x
-   * A. Z powodu dzielenia przez zero
+   **Poprawna odpowiedź: D. f(x) = a \* b^x**
 
-5. Jaka jest odmiana funkcji wykładniczej?
-   A. Logarytmiczna
-   B. Trigonometryczna
-   C. Irracjonalna
-   D. Wykładnicza
-   * A. Logarytmiczna
+3. Co to jest wykładnik w funkcji wykładniczej?
+   A. Stała, która mnożona jest przez x
+   B. Stała, która dzieli x
+   C. Liczba, na którą podnoszony jest bazę
+   D. Liczba, która jest mnożnikiem stałej
 
-### Fiszki
+   **Poprawna odpowiedź: C. Liczba, na którą podnoszony jest bazę**
 
-1. Postać funkcji wykładniczej to y = ab^x
-2. Funkcja wykładnicza jest wzrostowa lub malejąca w zależności od znaku wartości b
-3. Funkcja wykładnicza jest nieoznaczona w zadanym punkcie, ponieważ w wyniku podnoszenia liczby do potęgi o danej wartości uzyskujemy wartość nieograniczoną
-4. Funkcja wykładnicza jest funkcją ciągłą na całej prostej rzeczywistej
-5. Funkcja odwrotna do funkcji wykładniczej to funkcja logarytmiczna
+4. Jaka jest domena funkcji wykładniczej?
+   A. Zbiór wszystkich liczb rzeczywistych
+   B. Zbiór wszystkich liczb naturalnych
+   C. Zbiór wszystkich liczb całkowitych
+   D. Zbiór wszystkich liczb dodatnich
 
-### Notatki
+   **Poprawna odpowiedź: D. Zbiór wszystkich liczb dodatnich**
 
-Funkcja wykładnicza to funkcja, która przyjmuje postać y = ab^x, gdzie a, b to liczby rzeczywiste i b > 0. Funkcja ta jest wzrostowa, gdy b > 1 i malejąca, gdy 0 < b < 1. Funkcja wykładnicza jest nieoznaczona w zadanym punkcie, ponieważ w wyniku podnoszenia liczby do potęgi o danej wartości uzyskujemy wartość nieograniczoną. Funkcja ta jest ciągła na całej prostej rzeczywistej i ma odwracalną funkcję, która to funkcja logarytmiczna.
+5. Jaka jest obraz funkcji wykładniczej?
+   A. Zbiór wszystkich liczb rzeczywistych
+   B. Zbiór wszystkich liczb naturalnych
+   C. Zbiór wszystkich liczb dodatnich
+   D. Zbiór wszystkich liczb dodatnich i zer
 
-Wartości współczynników a i b mają duży wpływ na przebieg i kształt funkcji wykładniczej. Gdy współczynnik a jest równy 1, to funkcja przyjmuje postać y = b^x. Gdy współczynnik a nie jest równy 1, to funkcja wykładnicza jest wyróżniona na wykresie przez przesunięcie poziome lub pionowe.
+   **Poprawna odpowiedź: D. Zbiór wszystkich liczb dodatnich i zer**
 
-Funkcja wykładnicza jest często stosowana w rachunku prawdopodobieństwa i statystyce, gdyż wiąże się z procentowym wzrostem lub spadkiem wartości prawdopodobieństwa. Dzięki temu można ją stosować w analizie zjawisk gdzie wartości rosną lub maleją ekspo ponencjalnie, takich jak np. wzrost liczby populacji lub wzrost kapitału inwestycyjnego.
+# Fiszki - Funkcja Wykładnicza
+
+1. **Funkcja wykładnicza** to funkcja postaci f(x) = a \* b^x, gdzie a i b są stałymi, a b > 0 i różne od 1.
+2. Wykładnik w funkcji wykładniczej określa, jak szybko rośnie funkcja.
+3. Domena funkcji wykładniczej to zbiór wszystkich liczb dodatnich.
+4. Obraz funkcji wykładniczej to zbiór wszystkich liczb dodatnich i zera.
+5. Funkcja wykładnicza jest swoją własną odwrotnością, tzn. f(x) = 1/f(-x).
+
+# Notatki - Funkcja Wykładnicza
+
+Funkcja wykładnicza to funkcja postaci f(x) = a \* b^x, gdzie a i b są stałymi, a b > 0 i różne od 1. Funkcja wykładnicza jest często stosowana do modelowania szybkiego wzrostu lub spadku w matematyce, nauce i inżynierii.
+
+Wyrażenie b^x nazywamy wykładnikiem. Jest to liczba, na którą podnoszony jest bazowy wykładnik b. Wykładnik w funkcji wykładniczej określa, jak szybko rośnie funkcja. Im większy wykładnik, tym szybciej rośnie funkcja.
+
+Domena funkcji wykładniczej to zbiór wszystkich liczb dodatnich. Funkcja wykładnicza nie jest określona dla liczb ujemnych, ponieważ podnoszenie liczby ujemnej do potęgi dodatniej daje zawsze wartość rzeczywistą dodatnią.
+
+Obraz funkcji wykładniczej to zbiór wszystkich liczb dodatnich i zera. Funkcja wykładnicza nigdy nie przyjmuje wartości ujemnych, ponieważ podnoszenie liczby dodatniej do potęgi dodatniej zawsze daje wartość rzeczywistą dodatnią.
+
+Funkcja wykładnicza jest swoją własną odwrotnością, tzn. f(x) = 1/f(-x). To znaczy, że jeśli znamy wartość funkcji wykładniczej dla pewnej wartości x, to możemy łatwo obliczyć wartość funkcji wykładniczej dla odwrotności tej wartości, tj. -x.
+
+Funkcja wykładnicza ma wiele zastosowań w matematyce, nauce i inżynierii. Może być stosowana do modelowania wzrostu populacji, rozpadu radioaktywny, wzrostu kapitału w inwestycjach, itd.

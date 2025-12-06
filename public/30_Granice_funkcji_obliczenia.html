@@ -68,58 +68,53 @@
       <body>
         <h1>30_Granice_funkcji_obliczenia</h1>
         <div class="section quiz">
-          <h1>Granice funkcji obliczenia</h1>
-<h2>Quiz</h2>
+          <h1>Quiz: Granice funkcji obliczenia</h1>
 <ol>
-<li><p>Co to jest złożoność czasowa funkcji?
-A. Ilość pamięci potrzebnej do wykonania funkcji
-B. Ilość operacji matematycznych w funkcji
-C. Czas potrzebny do wykonania funkcji
-D. Zależność czasu wykonywania funkcji od wielkości danych wejściowych
-<strong>D. Zależność czasu wykonywania funkcji od wielkości danych wejściowych</strong></p>
+<li><p>Co oznacza pojęcie &quot;granica funkcji obliczenia&quot;?
+A. Maksymalna wartość, którą może przyjąć funkcja.
+B. Najmniejsza wartość, którą może przyjąć funkcja.
+C. Wartość, do której dąży funkcja, gdy argument dąży do określonej wartości. (poprawna)
+D. Wartość, która jest stała dla danej funkcji.</p>
 </li>
-<li><p>Jakie są podstawowe rodzaje złożoności czasowej?
-A. O(1), O(n), O(n^2)
-B. O(log n), O(n), O(n log n)
-C. O(1), O(log n), O(n!)
-D. O(n), O(n^2), O(2^n)
-<strong>B. O(log n), O(n), O(n log n)</strong></p>
+<li><p>Co oznacza oznaczenie $\lim_{x \to a} f(x)$?
+A. Funkcja $f(x)$ ma granicę $L$ w punkcie $a$. (poprawna)
+B. Funkcja $f(x)$ jest równa $L$ w punkcie $a$.
+C. Funkcja $f(x)$ dąży do nieskończoności w punkcie $a$.
+D. Funkcja $f(x)$ nie istnieje w punkcie $a$.</p>
 </li>
-<li><p>Co oznacza notacja dużego O oraz Ω w kontekście złożoności czasowej?
-A. O oznacza górne oszacowanie, Ω – dolne oszacowanie
-B. O oznacza średnie oszacowanie, Ω – maksymalne oszacowanie
-C. O i Ω są takie same
-D. O oznacza dolne oszacowanie, Ω – górne oszacowanie
-<strong>A. O oznacza górne oszacowanie, Ω – dolne oszacowanie</strong></p>
+<li><p>Co oznacza pojęcie &quot;prawej granicy funkcji&quot; $\lim_{x \to a^+} f(x)$?
+A. Granica funkcji, gdy argument $x$ dąży do $a$ z lewej strony.
+B. Granica funkcji, gdy argument $x$ dąży do $a$ z prawej strony. (poprawna)
+C. Granica funkcji, gdy argument $x$ jest większy od $a$.
+D. Granica funkcji, gdy argument $x$ jest mniejszy od $a$.</p>
 </li>
-<li><p>Czym jest stała złożoności czasowej funkcji?
-A. Liczba instrukcji w funkcji
-B. Liczba danych wejściowych
-C. Liczba operacji matematycznych
-D. Liczba bitów informacji potrzebnych do reprezentacji danych wejściowych
-<strong>D. Liczba bitów informacji potrzebnych do reprezentacji danych wejściowych</strong></p>
+<li><p>Co oznacza pojęcie &quot;lewej granicy funkcji&quot; $\lim_{x \to a^-} f(x)$?
+A. Granica funkcji, gdy argument $x$ dąży do $a$ z lewej strony. (poprawna)
+B. Granica funkcji, gdy argument $x$ dąży do $a$ z prawej strony.
+C. Granica funkcji, gdy argument $x$ jest większy od $a$.
+D. Granica funkcji, gdy argument $x$ jest mniejszy od $a$.</p>
 </li>
-<li><p>Dlaczego warto analizować złożoność czasową funkcji?
-A. Aby zmniejszyć ilość pamięci potrzebnej do wykonania funkcji
-B. Aby zwiększyć prędkość wykonywania funkcji
-C. Aby zrozumieć, jak zmienia się czas wykonywania funkcji wraz z rozmiarem danych wejściowych
-D. Aby zmniejszyć ilość instrukcji w funkcji
-<strong>C. Aby zrozumieć, jak zmienia się czas wykonywania funkcji wraz z rozmiarem danych wejściowych</strong></p>
+<li><p>Co oznacza pojęcie &quot;istnienia granicy funkcji&quot; $\lim_{x \to a} f(x)$?
+A. Granica funkcji istnieje, gdy $\lim_{x \to a^+} f(x) = \lim_{x \to a^-} f(x)$. (poprawna)
+B. Granica funkcji istnieje, gdy $\lim_{x \to a^+} f(x) \neq \lim_{x \to a^-} f(x)$.
+C. Granica funkcji istnieje, gdy $\lim_{x \to a} f(x)$ jest skończona.
+D. Granica funkcji istnieje, gdy $\lim_{x \to a} f(x)$ jest nieskończona.</p>
 </li>
 </ol>
-<h2>Fiszki</h2>
-<ul>
-<li><strong>Złożoność czasowa funkcji</strong>: pomaga zrozumieć, jak zmienia się czas wykonywania funkcji wraz z rozmiarem danych wejściowych.</li>
-<li><strong>Notacja dużego O</strong>: oznacza górne oszacowanie złożoności czasowej funkcji.</li>
-<li><strong>Notacja dużego Ω</strong>: oznacza dolne oszacowanie złożoności czasowej funkcji.</li>
-<li><strong>Stała złożoności czasowej</strong>: liczba bitów informacji potrzebnych do reprezentacji danych wejściowych.</li>
-<li><strong>Asymptotyczna złożoność</strong>: pomaga uzyskać lepsze wgląd w zachowanie funkcji przy dużych wartościach danych wejściowych.</li>
-</ul>
-<h2>Notatki</h2>
-<p>Złożoność czasowa funkcji jest miarą ilości czasu potrzebnego do wykonania danego zadania wraz ze wzrostem wielkości danych wejściowych. Istotne jest przy tym, aby zrozumieć, jak szybko wzrasta czas wykonywania funkcji przy dużych wartościach danych wejściowych.</p>
-<p>Notacja dużego O (O(f(n))) jest notacją asymptotyczną służącą do opisu górnego oszacowania czasu wykonywania danej funkcji. Z drugiej strony, notacja dużego Ω (Ω(f(n))) służy do opisu dolnego oszacowania czasu wykonywania funkcji.</p>
-<p>Asymptotyczna złożoność to sposób analizy funkcji, który pomaga zrozumieć, jak się ona zachowuje przy dużych wartościach danych wejściowych. Na ogół przyjmuje się, że większość algorytmów złożonych liniowo (O(n)) lub złożonych logarytmicznie (O(log n)) jest uważana za efektywne. Algorytmy o złożoności wyższej (np. O(n^2), O(n^3), itp.) mogą być znacznie wolniejsze przy dużych danych wejściowych.</p>
-<p>Stała złożoności czasowej funkcji to liczba bitów informacji potrzebnych do reprezentacji danych wejściowych. Może ona wpływać na szybkość działania funkcji, szczególnie jeśli jest bardzo duża. Jednak w kontekście złożoności czasowej, wartość stałej złożoności nie jest tak istotna jak asymptotyczna złożoność funkcji.</p>
+<h1>Fiszki: Granice funkcji obliczenia</h1>
+<ol>
+<li><strong>Granica funkcji</strong> - wartość, do której dąży funkcja, gdy argument dąży do określonej wartości. Oznaczana jako $\lim_{x \to a} f(x)$.</li>
+<li><strong>Prawa i lewa granica</strong> - granica funkcji, gdy argument dąży do wartości z prawej lub lewej strony. Oznaczane jako $\lim_{x \to a^+} f(x)$ i $\lim_{x \to a^-} f(x)$.</li>
+<li><strong>Istnienie granicy</strong> - granica funkcji istnieje, gdy prawa i lewa granica są równe.</li>
+<li><strong>Nieskończona granica</strong> - granica funkcji, która dąży do nieskończoności. Oznaczana jako $\lim_{x \to a} f(x) = \infty$ lub $\lim_{x \to a} f(x) = -\infty$.</li>
+<li><strong>Granica jednostronna</strong> - granica funkcji, która istnieje tylko z prawej lub lewej strony.</li>
+</ol>
+<h1>Notatki: Granice funkcji obliczenia</h1>
+<p>Granica funkcji to wartość, do której dąży funkcja, gdy argument dąży do określonej wartości. Możemy ją oznaczać jako $\lim_{x \to a} f(x)$, gdzie $a$ to wartość, do której dąży argument, a $f(x)$ to funkcja.</p>
+<p>Prawa i lewa granica to pojęcia, które pozwalają nam określić granicę funkcji, gdy argument dąży do wartości z prawej lub lewej strony. Oznaczamy je jako $\lim_{x \to a^+} f(x)$ i $\lim_{x \to a^-} f(x)$.</p>
+<p>Istnienie granicy oznacza, że prawa i lewa granica są równe. Jeśli prawa i lewa granica nie są równe, to granica nie istnieje. Możemy też mówić o granicy jednostronnej, która istnieje tylko z prawej lub lewej strony.</p>
+<p>Nie zawsze granica funkcji istnieje. Może się ona dążyć do nieskończoności. W takim przypadku oznaczamy to jako $\lim_{x \to a} f(x) = \infty$ lub $\lim_{x \to a} f(x) = -\infty$.</p>
+<p>Granice funkcji są bardzo ważne w analizie matematycznej, ponieważ pozwalają nam określić zachowanie funkcji w określonych punktach. Pozwalają również na obliczanie granic złożonych funkcji, co jest bardzo przydatne w rachunku różniczkowym i całkowym.</p>
 
         </div>
         <a href="index.html" class="back">← Powrót do spisu treści</a>
