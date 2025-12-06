@@ -1,57 +1,61 @@
- # Quiz (34. Pole pod wykresem funkcji (całki oznaczone))
+ # Quiz
 
-1. Co oznacza pojęcie "pole pod wykresem funkcji"?
-   A. Obliczenie ilorazu przyrostu zmiennej zależnej do przyrostu niezależnej.
-   B. Obliczenie granicy całki z funkcją jako integrandem w określonym obszarze. *(Poprawna odpowiedź)*
-   C. Obliczenie pochodnej funkcji w określonym punkcie.
-   D. Znalezienie szczególnych wartości, dla których funkcja przyjmuje określone wartości.
+1. Co to jest całka oznaczona?
+   A. Pole między osiami a wykresem funkcji
+   B. Obliczanie pochodnej funkcji
+   C. Obliczanie całki nieoznaczonej
+   D. Obliczanie pola pod wykresem funkcji
 
-2. Czym są całki oznaczone?
-   A. Odznaczone obszary pod wykresem funkcji.
-   B. Zadane wartości funkcji w określonych punktach.
-   C. Integrale nieokreślone podane w postaci granic. *(Poprawna odpowiedź)*
-   D. Wielokąty o wierzchołkach leżących na osiach współrzędnych.
+   Poprawna odpowiedź: D. Obliczanie pola pod wykresem funkcji
 
-3. Jak wyznaczyć całkę oznaczoną?
-   A. Poprzez użycie twierdzenia o całce funkcji continuousów. *(Poprawna odpowiedź)*
-   B. Wykonując iloczyn funkcji przez różniczkę.
-   C. Obliczając pochodną funkcji.
-   D. Poprzez zastosowanie metody podstawienia.
+2. Czym jest reguła Simpsona?
+   A. Metoda numeryczna do przybliżonego wyliczania całek oznaczonych
+   B. Metoda numeryczna do dokładnego wyliczania całek oznaczonych
+   C. Metoda analityczna do wyliczania całek oznaczonych
+   D. Metoda analityczna do przybliżonego wyliczania całek oznaczonych
 
-4. Jakie jest zastosowanie całek oznaczonych w praktyce?
-   A. Obliczanie długości łuku krzywej.
-   B. Obliczanie objętości ciała obrotowego. *(Poprawna odpowiedź)*
-   C. Obliczanie powierzchni ciała obrotowego.
-   D. Obliczanie pól powierzchni figur.
+   Poprawna odpowiedź: A. Metoda numeryczna do przybliżonego wyliczania całek oznaczonych
 
-5. Co oznacza oznaczenie $\int\_{a}\^{b} f(x) dx$?
-   A. Całka oznaczona funkcji $f(x)$ od $a$ do $b$. *(Poprawna odpowiedź)*
-   B. Całka nieokreślona funkcji $f(x)$ od $a$ do $b$.
-   C. Suma całkowita funkcji $f(x)$ od $a$ do $b$.
-   D. Suma całkowita funkcji $f(x)$ w punkcie $a$ i $b$.
+3. Co to jest punkt podziału w metodzie trapezów?
+   A. Punkt na osi OX
+   B. Punkt na osi OY
+   C. Punkt na wykreśle funkcji
+   D. Punkt na prostej łączącej dwa sąsiednie punkty na wykresie funkcji
 
-# Fiszki (34. Pole pod wykresem funkcji (całki oznaczone))
+   Poprawna odpowiedź: D. Punkt na prostej łączącej dwa sąsiednie punkty na wykresie funkcji
 
-1. **Pole pod wykresem funkcji** - obszar ograniczony wykresem danej funkcji i osiami współrzędnych.
-2. **Całki oznaczone** - inaczej całki ścisłe, określone przez granice całkowania.
-3. **Twierdzenie o całce funkcji continuousów** - metoda obliczania całek oznaczonych.
-4. **Całki oznaczone w zastosowaniach** - używane do obliczania objętości ciał obrotowych i innych ilorazów geometrycznych.
-5. **Oznaczenie $\int\_{a}\^{b} f(x) dx$** - całka oznaczona funkcji $f(x)$ od $a$ do $b$.
+4. Dlaczego przy obliczaniu całek oznaczonych stosuje się różne metody numeryczne?
+   A. Ze względu na dokładność
+   B. Ze względu na szybkość
+   C. Ze względu na łatwość obliczeń
+   D. Ze względu na nieistnienie wzoru analitycznego
 
-# Notatki (34. Pole pod wykresem funkcji (całki oznaczone))
+   Poprawna odpowiedź: A. Ze względu na dokładność
 
-Całki oznaczone to jedno z podstawowych pojęć rachunku całkowego, które ma zastosowanie w wielu dziedzinach matematyki i innych nauk. Pole pod wykresem funkcji to obszar ograniczony wykresem danej funkcji i osiami współrzędnych. Dla ułatwienia obliczania tych powierzchni wprowadzono pojęcie całki oznaczonej.
+5. Co to jest całka oznaczona o górnej i dolnej granicy?
+   A. Całka oznaczona bez granic
+   B. Całka oznaczona z jedną granicą
+   C. Całka oznaczona z dwiema granicami
+   D. Całka oznaczona z trzema granicami
 
-Całki oznaczone definiuje się jako granicę całki funkcji w określonym obszarze. Twierdzenie o całce funkcji continuousów jest jedną z metod obliczania tych całek. Pole pod wykresem funkcji $f(x)$ w przedziale $[a, b]$ wyraża się za pomocą całki oznaczonej następująco:
+   Poprawna odpowiedź: C. Całka oznaczona z dwiema granicami
 
-$\int\_{a}\^{b} f(x) dx$
+# Fiszki
 
-Całki oznaczone mają zastosowanie w zadaniach geometrii analitycznej, np. przy obliczaniu objętości ciał obrotowych i powierzchni ciał obrotowych.
+1. Całka oznaczona - metoda numeryczna do wyliczania pola pod wykresem funkcji.
+2. Reguła trapezów - metoda numeryczna do wyliczania całek oznaczonych, oparta na przybliżeniu figury przez trapezy.
+3. Punkt podziału - punkt na prostej łączącej dwa sąsiednie punkty na wykresie funkcji w metodzie trapezów.
+4. Metoda Simpsona - metoda numeryczna do wyliczania całek oznaczonych, oparta na przybliżeniu figury przez parabolę.
+5. Granica całki oznaczonej - dolna lub górna granica całki oznaczonej.
 
-Aby obliczyć pole pod wykresem funkcji w konkretnym przedziale, należy:
+# Notatki
 
-1. Określić funkcję, która opisuje wykres w danym przedziale.
-2. Sprawdzić, czy funkcja spełnia warunki continuousności w tym przedziale.
-3. Wykorzystać twierdzenie o całce funkcji continuousów lub inną metodę obliczania całek, aby policzyć wartość całki oznaczonej.
+Całki oznaczone to metoda numeryczna do wyliczania pola pod wykresem funkcji. Pole to jest równe różnicy między całkami oznaczonymi o górnej i dolnej granicy. Istnieje wiele metod numerycznych do wyliczania całek oznaczonych, w tym reguła trapezów i metoda Simpsona.
 
-Znajomość całek oznaczonych i sposobów ich obliczania jest istotna przy rozwiązywaniu zadań z rachunku całkowego i geometrii analitycznej.
+Reguła trapezów opiera się na przybliżeniu figury przez trapezy. Pole trapezu jest równe połowie iloczynu długości podstawy i różnicy wysokości. W metodzie trapezów wybieramy punkty podziału na wykresie funkcji i policzamy pole każdego trapezu. Następnie sumujemy pola wszystkich trapezów, aby uzyskać przybliżone wartość pola pod wykresem funkcji.
+
+Metoda Simpsona opiera się na przybliżeniu figury przez parabolę. Pole paraboli jest równe 1/3 iloczynu długości podstawy i różnicy wysokości. W metodzie Simpsona wybieramy punkty podziału na wykresie funkcji i policzamy pole każdej paraboli. Następnie sumujemy pola wszystkich parabol, aby uzyskać przybliżone wartość pola pod wykresem funkcji.
+
+Granice całki oznaczonej to dolna i górna granica całki. Dolna granica to punkt, z którego zaczynamy policzenie pola, a górna granica to punkt, do którego kończymy policzenie pola. Różnica między całkami oznaczonymi o górnej i dolnej granicy daje nam wartość pola pod wykresem funkcji.
+
+W zależności od dokładności potrzebnej, możemy stosować różne metody numeryczne do wyliczania całek oznaczonych. Reguła trapezów jest bardziej dokładna niż prosty przybliżony wzór, ale mniej dokładna niż metoda Simpsona. Metoda Simpsona jest bardziej dokładna niż reguła trapezów, ale wymaga więcej obliczeń.

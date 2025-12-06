@@ -1,54 +1,47 @@
- # Quiz - Pochodne w praktyce
-## 1. Co to jest pochodna funkcji f(x) w punkcie x=a?
-A) Funkcja odwzorowująca x na iloraz przyrosty funkcji f w punkcie a i przyrostu argumentu.
-B) Funkcja określona jako granica ilorazu różnicowego dla f w punkcie a.
-C) Funkcja opisująca prędkość zmiany funkcji f w punkcie x=a.
-D) Wszystkie poprzednie odpowiedzi są poprawne.
+# Quiz - Zastosowanie pochodnych w praktyce
 
-Poprawna odpowiedź: D) Wszystkie poprzednie odpowiedzi są poprawne.
+1. Co to jest numerowa zasada całkowania (ang. Fundamental Theorem of Calculus, FTC)?
+   A. Pochodna funkcji jest równa stałej.
+   B. Suma całkowita jest równa różnicy granicznej całki nieoznaczonej.
+   C. Całka funkcji jest stała.
+   D. Pochodna funkcji w danym punkcie jest równa ilorazowi przyrosty funkcji do przyrostu niezależnej zmiennej.
 
-## 2. Jak wyliczyć pochodną funkcji y = 3x^2 + 2x - 1?
-A) Przy pomocy wzoru na pochodną wielomianu.
-B) Przy pomocy ilorazu różnicowego.
-C) Przy pomocy granicy ilorazu różnicowego.
-D) Żadna z powyższych odpowiedzi nie jest poprawna.
+2. Gdy mamy daną funkcję g(x) = 3x^3 - 2x^2 + 5x - 3, to jej pochodna g'(x) jest równa:
+   A. 6x^2 - 4x + 5
+   B. 9x^2 - 4x + 5
+   C. 3x^2 - 2x + 5
+   D. 3x^3 - 2x^2 + 5
 
-Poprawna odpowiedź: A) Przy pomocy wzoru na pochodną wielomianu.
+3. Co to jest reguła łańcuchowa w rachunku różniczkowym?
+   A. Metoda obliczania pochodnej złożonej funkcji.
+   B. Metoda całkowania złożonych funkcji.
+   C. Metoda znajdowania ekstremów funkcji.
+   D. Metoda obliczania całek nieoznaczonych.
 
-## 3. Jaka jest pochodna funkcji f(x) = ln(x)?
-A) f'(x) = x
-B) f'(x) = 1/x
-C) f'(x) = x^2
-D) f'(x) = 2x
+4. Dla funkcji f(x) = (2x - 1)^4, jej pochodna f'(x) jest równa:
+   A. 8(2x - 1)^3
+   B. 4(2x - 1)^3 * 2
+   C. 2(2x - 1)^3 * 4
+   D. 4(2x - 1)^2
 
-Poprawna odpowiedź: B) f'(x) = 1/x
+5. Co to jest reguła Newtona-Leibniza?
+   A. Metoda znajdowania przybliżonej wartości pierwiastka funkcji.
+   B. Metoda znajdowania pochódnej funkcji za pomocą granic.
+   C. Metoda znajdowania całki funkcji za pomocą pochodnej.
+   D. Metoda znajdowania pochódnej funkcji w punkcie.
 
-## 4. Co to jest reguła ilorazu i reguła łuku?
-A) Reguły pozwalające na obliczenie pochodnej funkcji złożonej.
-B) Reguły pozwalające na obliczenie pochodnej funkcji wymiernej i niewymiernej.
-C) Reguły pozwalające na obliczenie pochodnej funkcji wielomianu.
-D) Reguły pozwalające na obliczenie pochodnej funkcji parametrycznej.
+# Fiszki - Zastosowanie pochodnych w praktyce
 
-Poprawna odpowiedź: A) Reguły pozwalające na obliczenie pochodnej funkcji złożonej.
+1. Numerowa zasada całkowania (FTC) - pozwala obliczać całki określone za pomocą całek nieoznaczonych.
+2. Reguła łańcuchowa - umożliwia obliczanie pochodnej złożonej funkcji.
+3. Wzór Taylora - służy do przybliżania funkcji za pomocą wielomianów.
+4. Reguła Newtona-Leibniza - pozwala obliczać całki funkcji za pomocą pochodnej.
+5. Pochodna wyższych rzędów - służy do badania własności funkcji, takich jak ekstrema lokalne, zgięcia i rozwinięcia.
 
-## 5. Co to jest różniczkowanie i czemu służy?
-A) Różniczkowanie to proces obliczania pochodnej funkcji.
-B) Różniczkowanie to proces integralnego obliczania areału pod krzywą.
-C) Różniczkowanie to proces przybliżania funkcji wartościami z okolicznych punktów.
-D) Różniczkowanie to proces wyznaczania punktów krytycznych funkcji.
+# Notatki - Zastosowanie pochodnych w praktyce
 
-Poprawna odpowiedź: A) Różniczkowanie to proces obliczania pochodnej funkcji.
+Pochodne to kluczowy element rachunku różniczkowego, który umożliwia analizę własności funkcji i obliczanie całek. Numerowa zasada całkowania (FTC) łączy pochodne z całkami, umożliwiając obliczanie całek określonych za pomocą całek nieoznaczonych. Reguła łańcuchowa pozwala obliczać pochodne złożonych funkcji, co jest niezbędne do rozwiązywania wielu zastosowań praktycznych.
 
-# Fiszki - Pochodne w praktyce
-1. Wzór na pochodną wielomianu: (ax^n)' = nax^(n-1).
-2. Iloraz różnicowy: (f(x+h) - f(x))/h.
-3. Reguła ilorazu: (f(g(x)))' = f'(g(x)) * g'(x).
-4. Reguła łuku: (f(g(x)))' = f'(g(x)) / g'(x), g'(x) ≠ 0.
-5. Pochodna funkcji odwrotnej: (f^(-1))'(x) = 1/f'(f^(-1)(x)).
+Wzór Taylora służy do przybliżania funkcji za pomocą wielomianów, co jest przydatne w fizyce, inżynierii i innych dziedzinach, gdzie wymagana jest dokładna analiza funkcji. Reguła Newtona-Leibniza łączy pochodne z całkami, umożliwiając obliczanie całek funkcji za pomocą pochodnej.
 
-# Notatki - Pochodne w praktyce
-Pochodne funkcji są wartościami, które opisują prędkość zmiany funkcji w danych punktach.
-Przyrostek funkcji to iloraz różnicy wartości funkcji z uwzględnieniem przyrostu argumentu.
-Reguły pozwalają na obliczenie pochodnych skomplikowanych funkcji, które są złożeniem innych prostszych funkcji.
-Pochodna funkcji odwrotnej pomaga w znalezieniu punktów krytycznych funkcji.
-Pochodna w postaci parametrycznej pomaga w opisie ruchu punktów, jest to para funkcji zależnych od tego samego parametru.
+Pochodne wyższych rzędów służą do badania własności funkcji, takich jak ekstrema lokalne, zgięcia i rozwinięcia. To pozwala na lepsze zrozumienie funkcji i jej zachowania, co jest kluczowe do rozwiązywania wielu problemów praktycznych. W szczególności, pochodne są niezbędne do rozwiązywania problemów optymalizacji, w których szukamy ekstremów funkcji.

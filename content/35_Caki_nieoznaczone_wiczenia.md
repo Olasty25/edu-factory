@@ -1,57 +1,56 @@
- # Quiz (5 pytań ABCD + poprawna odpowiedź)
+# Quiz - Całki nieoznaczone ćwiczenia
 
-1. Co otrzymamy, gdy obliczymy całkę nieoznaczoną?
-A) Liczbę
-B) Funkcję
-C) Granicę
-D) Żadne z powyższych
+1. Co otrzymamy, gdy do całki $\int x^2 dx$ dodamy całkę $\int 5 dx$?
+    - A) $\int x^2 + 5 dx$
+    - B) $\int (x^2 + 5) dx$
+    - C) $5x^2 + C$
+    - D) $5x + C$
+    - **Poprawna odpowiedź: B**
 
-   Poprawna odpowiedź: C) Granicę
+2. Czy całka $\int e^x dx$ jest równa $\frac{1}{2}e^{2x} + C$?
+    - A) Tak
+    - B) Nie
+    - **Poprawna odpowiedź: B**
 
-2. Czym jest reguła ułamkowa w kontekście całkowania nieoznaczonego?
-A) Metoda do obliczania całek jednorodnych
-B) Metoda do obliczania całek wielomianów
-C) Metoda do obliczania całek różnych funkcji podstawowych
-D) Metoda do obliczania całek wielokrotnych
+3. Całka $\int \sin(x) dx$ jest równa:
+    - A) $-\cos(x) + C$
+    - B) $\cos(x) + C$
+    - C) $-\sin(x) + C$
+    - D) $\sin(x) + C$
+    - **Poprawna odpowiedź: A**
 
-   Poprawna odpowiedź: A) Metoda do obliczania całek jednorodnych
+4. Czy całka $\int \frac{1}{x} dx$ jest równa $\ln|x^2| + C$?
+    - A) Tak
+    - B) Nie
+    - **Poprawna odpowiedź: B**
 
-3. Dla której funkcji nieoznaczonej wszystkie całki jednorodne istnieją?
-A) e^x
-B) sin(x)
-C) ln(x)
-D) 1/x
+5. Całka $\int (3x^2 + 2x + 1) dx$ jest równa:
+    - A) $x^3 + x^2 + x + C$
+    - B) $\frac{3}{3}x^3 + \frac{2}{2}x^2 + \frac{1}{1}x + C$
+    - C) $x^3 + x^2 + C$
+    - D) $\frac{3}{3}x^3 + \frac{2}{2}x + C$
+    - **Poprawna odpowiedź: A**
 
-   Poprawna odpowiedź: B) sin(x)
+# Fiszki - Całki nieoznaczone Ćwiczenia
 
-4. Co oznacza oznaczenie ~ przy całce?
-A) Sumowanie wszystkich wyrazów parzystych
-B) Sumowanie wszystkich wyrazów nieparzystych
-C) Całka całkowana
-D) Całka nieoznaczona
+1. $\int k dx = kx + C$ (gdzie $k$ jest stałą)
+2. $\int x^n dx = \frac{x^{n+1}}{n+1} + C$ (dla $n \neq -1$)
+3. $\int e^x dx = e^x + C$
+4. $\int \sin(x) dx = -\cos(x) + C$
+5. $\int \frac{1}{x} dx = \ln|x| + C$
 
-   Poprawna odpowiedź: C) Całka całkowana
+# Notatki - Całki nieoznaczone Ćwiczenia
 
-5. Co wyraża twierdzenie Newtona-Leibniza?
-A) Związek pomiędzy różniczką a całką
-B) Związek pomiędzy całką a sumą
-C) Związek pomiędzy całką, różniczką i granicą
-D) Związek pomiędzy całką i iloczynem
+Całki nieoznaczone to pojęcie w analizie matematycznej, które pozwala obliczać pewne rodzaje funkcji antyderywacyjne. Poniżej przedstawiono kilka reguł obliczania całek nieoznaczonych:
 
-   Poprawna odpowiedź: C) Związek pomiędzy całką, różniczką i granicą
+- **Stała:** $\int k dx = kx + C$ (gdzie $k$ jest stałą)
+- **Potęga:** $\int x^n dx = \frac{x^{n+1}}{n+1} + C$ (dla $n \neq -1$)
+- **Eksponencja:** $\int e^x dx = e^x + C$
+- **Sinus:** $\int \sin(x) dx = -\cos(x) + C$
+- **Ln:** $\int \frac{1}{x} dx = \ln|x| + C$
 
-# Fiszki (5 sztuk)
+Całki nieoznaczone są bardzo przydatne w matematyce i fizyce, ponieważ pozwalają na obliczanie wielu rodzajów funkcji antyderywacyjnych. Jednak należy pamiętać, że całka nieoznaczona nie jest jednoznacznie określona, dlatego dodajemy do każdej całki stałą $C$.
 
-1. Całki nieoznaczone - są one równoznaczne z zbiorem wszystkich funkcji, których pochodna jest równa danej funkcji.
-2. Reguła ułamkowa - służy do obliczania całek jednorodnych, tj. funkcji postaci: 1/(ax^n + b).
-3. Funkcja x^(-1) - całka nieoznaczona istnieje dla tej funkcji, ale jest ona wyrażona w postaci logarytmu naturalnego.
-4. Całka całkowana - oznaczana poprzez tilde (~), wyraża całkę, w której granice są dowolne, lecz muszą być wskazane.
-5. Twierdzenie Newtona-Leibniza - określa związek pomiędzy różniczką, całką i granicą. Dla dowolnej funkcji f(x) i dla a<b, zachodzi równość: ∫[a,b] f'(x) dx = f(b) - f(a).
+Podczas obliczania całek należy zwracać szczególną uwagę na wyrażenia w nawiasach i stałe przed całkami, ponieważ mogą one wpływać na wynik końcowy. Na przykład, $\int (3x^2 + 2x + 1) dx$ nie jest równa $\int 3x^2 dx + \int 2x dx + \int 1 dx$, ale $\int (3x^2 + 2x + 1) dx = x^3 + x^2 + x + C$.
 
-# Notatki (~200 słów)
-
-Całki nieoznaczone są wartościami funkcji, dla których istnieje pochodna danej funkcji. Można je wyrazić w postaci: ∫f(x) dx. Odpowiadają one na pytanie: jaka jest funkcja, której pochodna jest równa danej funkcji. Całki nieoznaczone mogą być liczone przez regułę ułamkową, która jest stosowana w wyrażeniach postaci 1/(ax^n + b). Innym przykładem jest funkcja x^(-1), dla której całka nieoznaczona istnieje, lecz jest wyrażona w postaci logarytmu naturalnego.
-
-Czasami warto jest liczyć całki, dla których granice są określone. W takim przypadku mamy do czynienia z całką oznaczoną i wyraża się ona jako ∫[a, b] f(x) dx. Gdy chcemy opisać dowolną całkę ograniczoną, w której granice nie są jeszcze wskazane, wtedy stosujemy oznaczenie ~. Całka oznaczona przez ~ może być wyrażona jako suma całek oznaczonych, tj. ∫[a, b] f(x) dx = ∫[a, c] f(x) dx + ∫[c, b] f(x) dx.
-
-Twierdzenie Newtona-Leibniza określa związek pomiędzy różniczką, całką i granicą. Dla dowolnej funkcji f(x) i dla a<b, zachodzi równość: ∫[a,b] f'(x) dx = f(b) - f(a). Twierdzenie to umożliwia obliczenie całki całkowanej, poprzez podstawienie granic do całki nieoznaczonej i obliczenie różnicy wynikającej z wyrażenia, dzięki któremu otrzymujemy wartość całki.
+Aby być pewnym, że całka została prawidłowo obliczona, należy zwykle wykonać kontrolną różniczkowanie całki obliczonej. Jeśli otrzymamy wyrażenie, z którego zaczynamy, to oznacza, że całka została prawidłowo obliczona.

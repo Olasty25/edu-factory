@@ -1,59 +1,51 @@
- # Quiz
+# Quiz
 
-1. Co to jest asymptota funkcji?
-A. Gerowa linia
-B. Pionowa lub pozioma linia, do której dąży wykreślna funkcji
-C. Poprzeczka na osi y
-D. Domena funkcji
+1. Co to są asymptoty funkcji?
+   A. Proste równoległe do osi OX lub OY, do których dana funkcja zbliża się, gdy zmienna x dąży do plus lub minus nieskończoności.
+   B. Zbiory punktów, w których funkcja nie jest ciągła.
+   C. Równe sobie wartości funkcji dla dwóch różnych argumentów.
+   D. Proste prostopadłe do osi OX lub OY, do których dana funkcja zbliża się, gdy zmienna x dąży do plus lub minus nieskończoności.
 
-Correct Answer: B
+2. Jakie rodzaje asymptot mogą występować dla funkcji y = f(x)?
+   A. Pionowe i poziome.
+   B. Pionowe, poziome i skośne.
+   C. Tylko pionowe.
+   D. Tylko poziome.
 
-2. Jakie rodzaje asymptot mogą posiadać funkcje?
-A. Pionowe i poziome
-B. Pionowe i horyzontalne
-C. Poprzeczne i pionowe
-D. Poprzeczne i horyzontalne
+3. Co oznacza oznaczenie asymptoty poziomej funkcji y = f(x) jako y = a?
+   A. Przyjmuje ona wartość stałą a, gdy x dąży do plus lub minus nieskończoności.
+   B. Przyjmuje ona wartość stałą a dla wszystkich wartości x.
+   C. Różnica pomiędzy funkcją a a funkcją y = f(x) dąży do zera, gdy x dąży do plus lub minus nieskończoności.
+   D. Iloraz funkcji a i funkcji y = f(x) dąży do jedności, gdy x dąży do plus lub minus nieskończoności.
 
-Correct Answer: A i B
+4. Dla funkcji y = (3x^2 + 2x + 1) / (x^2 + 1) określ asymptotę poziomą.
+   A. y = 3
+   B. y = 2
+   C. y = 1
+   D. Nie istnieje asymptota pozioma
 
-3. Dlaczego niektóre funkcje mają asymptoty?
-A. Ze względu na dziedzinę funkcji
-B. Z powodu suspicionowego działania funkcji
-C. Z powodu nieskończoności liczb w funkcji
-D. Ze względu na iloraz funkcji
-
-Correct Answer: C i D
-
-4. Co to jest asymptota pionowa?
-A. Gerowa linia prostopadła do osi y
-B. Linia prostopadła do wektora gradientu
-C. Zbiór punktów, w których funkcja nie istnieje
-D. Zbiór punktów, do których dąży wykres funkcji
-
-Correct Answer: A
-
-5. Jak określić asymptotę poziomą danego wykresu?
-A. Sprawdź granice funkcji dla dużych argumentów
-B. Sprawdź czy istnieje zwroty dla funkcji
-C. Sprawdź czy asymptota istnieje przy zerowaniu mianownika
-D. Sprawdź czy asymptota istnieje w punkcie nieciągłości
-
-Correct Answer: A i C
+5. Dla funkcji y = (2x + 3) / (x - 1) określ asymptotę pionową.
+   A. x = 1
+   B. x = -1
+   C. x = 0
+   D. Nie istnieje asymptota pionowa
 
 # Fiszki
 
-1. Asymptota - linia, do której dąży wykres funkcji lub dąży granica funkcji.
-2. Asymptoty pionowe występują wówczas, gdy rozpatrywanym Argumentom przyjmują wartości bliskie kierunku nieciągłości, czyli przy $x\rightarrow a$, gdzie $a \in \mathbb{R}$.
-3. Asymptoty poziome występują wówczas, gdy rozpatrywanym Argumentom przyjmują wartości dowolnie duże lub małe, czyli przy $x\rightarrow \pm \infty$.
-4. Asymptoty horyzontalne dla funkcji wielu zmiennych mogą być także wyznaczane poprzez badanie układu współrzędnych kartezjańskich $(x, y)$ oraz $(x, z)$.
-5. Istnieją również asymptoty kołowe i krzywe, które mogą być bardziej złożone niż asymptoty proste.
+1. Asymptota pozioma - prosta pozioma, do której dana funkcja zbliża się, gdy zmienna x dąży do plus lub minus nieskończoności.
+2. Asymptota pionowa - prosta pionowa, do której dana funkcja zbliża się, gdy zmienna x dąży do określonej wartości.
+3. Asymptota skośna - prosta o nachyleniu, do której dana funkcja zbliża się, gdy zmienna x dąży do plus lub minus nieskończoności.
+4. Otrzymuje się ją, szukając granicy ilorazu funkcji podzielonej przez zmienną x dążącą do plus lub minus nieskończoności.
+5. Jeżeli granica ta istnieje i jest różna od zera, to otrzymujemy asymptotę poziomą.
 
 # Notatki
 
-Asymptota funkcji to linia, do której dąży wykres funkcji lub do której dąży wartość funkcji, gdy argument dąży do określonej wartości. Asymptoty mogą być poziome, pionowe lub skośne. Asymptoty pionowe występują wówczas, gdy funkcja nie istnieje po jednej z stron osi y, asymptoty poziome pojawiają się, gdy granica funkcji dąży do określonej wartości, kiedy argument dąży do nieskończoności. Asymptoty te mogą być wyznaczone poprzez badanie granic funkcji.
+Asymptoty funkcji to proste, do których dana funkcja zbliża się, gdy zmienna niezależna dąży do określonej wartości lub plus lub minus nieskończoności. Są one użyteczne przy opisywaniu zachowania funkcji w tych granicznych przypadkach.
 
-Asymptoty horyzontalne dla funkcji wielu zmiennych mogą być także wyznaczane poprzez badanie układu współrzędnych kartezjańskich $(x, y)$ oraz $(x, z)$. Istnieją również asymptoty krzywe, które mogą być bardziej złożone niż asymptoty proste.
+Istnieją trzy rodzaje asymptot: poziome, pionowe i skośne.
 
-Asymptoty są bardzo ważne w analizie matematycznej, ponieważ pozwalają na lepsze poznanie funkcji i jej właściwości. Dzięki asymptotom możemy oszacować, jakie wartości może przyjmować funkcja oraz w których rejonach układu współrzędnych zachowuje się ona w określony sposób. Asymptoty mogą być również pomocne w określaniu granic funkcji, w szczególności w przypadku funkcji o nieciągłościach czy nieograniczonych.
+Asymptota pozioma jest osią asymptotyczną, do której dana krzywa zbliża się, gdy zmienna x dąży do plus lub minus nieskończoności. Otrzymuje się ją, szukając granicy ilorazu funkcji podzielonej przez zmienną x dążącą do plus lub minus nieskończoności. Jeżeli granica ta istnieje i jest różna od zera, to otrzymujemy asymptotę poziomą.
 
-W niektórych przypadkach asymptoty są łatwo rozpoznawalne, w innych trzeba je wyznaczać metodami matematycznymi, takimi jak badanie granic funkcji lub rozpatrywanie zachowania funkcji w nieskończoności. Niemniej jednak, nawet jeśli asymptoty nie są łatwo rozpoznawalne, warto je szukać, ponieważ mogą one pomóc w lepszym zrozumieniu funkcji i jej właściwości.
+Asymptota pionowa jest osią asymptotyczną, do której dana krzywa zbliża się, gdy zmienna x dąży do określonej wartości. Otrzymuje się ją, szukając wartości, dla których daną funkcję można zapisać w postaci ilorazu, w którym wyznacznik dąży do zera, a licznik nie dąży do zera.
+
+Asymptota skośna to prosta o nachyleniu, do której dana krzywa zbliża się, gdy zmienna x dąży do plus lub minus nieskończoności. Otrzymuje się ją, szukając wzajemnej asymptoty funkcji i prostej y = ax + b. Jeżeli granica ilorazu funkcji i prostej dąży do wartości stałej, to otrzymujemy asymptotę skośną.
