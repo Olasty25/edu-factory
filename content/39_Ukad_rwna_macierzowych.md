@@ -1,64 +1,54 @@
- # Quiz - Układ równań macierzowych
+# Quiz - Układ równań macierzowych
 
-1. Co to są ustalone uogólnione rozwiązania (CSS) w kontekście układu równań macierzowych?
-   a) rozwiązania, które zależą od wartości macierzy
-   b) rozwiązania, które nie zależą od wartości macierzy
-   c) rozwiązania, które są mniejsze od wartości macierzy
-   d) rozwiązania, które są większe od wartości macierzy
-   **Poprawna odpowiedź: a**
+1. Jakie jest najprostsze równanie macierzowe?
+   - A) 2x + 3y = 1
+   - B) x + y = 2
+   - C) [2x + 3y = 1]
+   - D) [[2x + 3y = 1], [x - y = 2]]
+   Correct answer: C
 
-2. Czym jest wyznacznik macierzy kwadratowej?
-   a) suma elementów diagonalnych macierzy
-   b) iloczyn determinantów wszystkich mniejszych macierzy, które można utworzyć z macierzy kwadratowej
-   c) suma odwrotności elementów diagonalnych macierzy
-   d) iloczyn elementów diagonalnych macierzy
-   **Poprawna odpowiedź: d**
+2. Co oznaczają symbole A, b, x w poniższym równaniu macierzowym?
+   - A) A - macierz współczynników, b - macierz stałych, x - wektor rozwiązań
+   - B) A - wektor współczynników, b - wektor stałych, x - macierz rozwiązań
+   - C) A - macierz współczynników, b - wektor stałych, x - wektor rozwiązań
+   - D) A - wektor współczynników, b - macierz stałych, x - macierz rozwiązań
+   Correct answer: C
 
-3. Kiedy układ równań macierzowych ma rozwiązania zależne?
-   a) gdy wyznacznik macierzy współczynników jest równy zero
-   b) gdy wyznacznik macierzy współczynników jest różny od zera
-   c) gdy liczba równań jest większa od liczby niewiadomych
-   d) gdy liczba równań jest mniejsza od liczby niewiadomych
-   **Poprawna odpowiedź: a**
+3. Co oznacza rozwiązanie układu równań macierzowych?
+   - A) Zbiór wszystkich wektorów, które spełniają dane równanie macierzowe
+   - B) Liczba, która spełnia dane równanie macierzowe
+   - C) Macierz, która spełnia dane równanie macierzowe
+   - D) Wektor, który spełnia dane równanie macierzowe
+   Correct answer: D
 
-4. Co to jest rozwiązanie trywialne układu równań macierzowych?
-   a) rozwiązanie, które zależy od wyznacznika macierzy współczynników
-   b) rozwiązanie, które jest równe zero dla wszystkich niewiadomych
-   c) rozwiązanie, które zależy od liczby równań i niewiadomych
-   d) rozwiązanie, które zależy od wartości stałych w równaniach
-   **Poprawna odpowiedź: b**
+4. Jakie jest zastosowanie układów równań macierzowych?
+   - A) Rozwiązywanie problemów z dziedziny fizyki
+   - B) Rozwiązywanie problemów z dziedziny ekonomii
+   - C) Rozwiązywanie problemów z dziedziny informatyki
+   - D) Rozwiązywanie problemów z dziedziny matematyki
+   Correct answer: D
 
-5. Jak policzyć iloczyn macierzy?
-   a) pomnożyć odpowiednie elementy macierzy i ich transpozycji
-   b) pomnożyć elementy macierzy według reguł iloczynu macierzy
-   c) dodawać elementy macierzy i ich transpozycji
-   d) odejmować elementy macierzy i ich transpozycji
-   **Poprawna odpowiedź: b**
+5. Co oznacza macierz odwrotna?
+   - A) Macierz, która pomnożona przez oryginalną daje macierz jednostkową
+   - B) Macierz, która pomnożona przez oryginalną daje wektor zerowy
+   - C) Macierz, która pomnożona przez oryginalną daje macierz zerową
+   - D) Macierz, która nie ma odwrotnej
+   Correct answer: A
 
 # Fiszki - Układ równań macierzowych
 
-1. Macierz składająca się wyłącznie z zer jest to macierz zerowa.
-2. Wyznacznik macierzy kwadratowej o wymiarach `n x n` jest iloczynem determinantów wszystkich `(n-1) x (n-1)` mniejszych macierzy, które można utworzyć z macierzy kwadratowej.
-3. Jeśli iloczyn macierzy, który ma macierz jednostkową, to odwrotność tej macierzy istnieje.
-4. Jeśli liczba równań jest równa liczbie niewiadomych, to rozwiązanie układu równań macierzowych jest dokładnie jedno i jest to rozwiązanie niezależne.
-5. Ustalone uogólnione rozwiązania to rozwiązania układu równań macierzowych, które mogą zależeć tylko od wartości macierzy współczynników.
+1. Układ równań macierzowych to zbiór równań liniowych, w których współczynniki i stałe są zapisane w postaci macierzy.
+2. Rozwiązaniem układu równań macierzowych jest wektor, który spełnia wszystkie równania w zbiorze.
+3. Macierz współczynników A zawiera współczynniki każdego równania w zbiorze.
+4. Macierz stałych b zawiera stałe z każdego równania w zbiorze.
+5. Wektor rozwiązań x zawiera rozwiązania każdej zmiennej w zbiorze.
 
 # Notatki - Układ równań macierzowych
 
-Układ równań macierzowych to zbiór równań liniowych, w których niewiadome są uporządkowane w macierzy. Aby rozwiązać układ równań macierzowych, można skorzystać z niewiadomej pomocniczej i policzyć wyznaczniki macierzy.
+Układ równań macierzowych to zbiór równań liniowych, w których współczynniki i stałe są zapisane w postaci macierzy. Rozwiązaniem takiego układu jest wektor, który spełnia wszystkie równania w zbiorze.
 
-Istnieją trzy rodzaje rozwiązań układu równań macierzowych:
+Macierz współczynników A zawiera współczynniki każdego równania w zbiorze, a macierz stałych b zawiera stałe z każdego równania w zbiorze. Wektor rozwiązań x zawiera rozwiązania każdej zmiennej w zbiorze.
 
-- rozwiązania niezależne
-- rozwiązania zależne
-- rozwiązania trywialne
+Aby rozwiązać układ równań macierzowych, można skorzystać z metody eliminacji Gaussa, metody odwracania macierzy lub innych metod numerycznych.
 
-Rozwiązania niezależne są dokładnie jedno i mogą być znalezione przez wykorzystanie metody eliminacji Gaussa.
-
-Rozwiązania zależne to rozwiązania układu równań macierzowych, które są określone tylko wtedy, gdy wyznacznik macierzy współczynników jest równy zero.
-
-Rozwiązania trywialne to rozwiązania, które są równe zero dla wszystkich niewiadomych.
-
-Aby policzyć iloczyn macierzy, należy pomnożyć odpowiednie elementy macierzy i ich transpozycji. Metoda eliminacji Gaussa pozwala na przekształcenie układu równań macierzowych w postać schodkową, dzięki czemu można znaleźć ustalone uogólnione rozwiązania.
-
-Wyznacznik macierzy kwadratowej jest iloczynem determinantów wszystkich mniejszych macierzy, które można utworzyć z macierzy kwadratowej, a jego obliczenie jest istotne, gdyż pozwala określić, czy dana macierz jest odwracalna. Odwracalna macierz (z wyznacznikiem odejmującym od zera) ma odwrotność wynikającą z wzoru `inverse(A) = adjugate(A) / det(A)`, gdzie `adjugate(A)` oznacza macierz adjugatną (względem macierzy `A`).
+Układy równań macierzowych mają szerokie zastosowanie w różnych dziedzinach, w tym fizyce, ekonomii, informatyce i matematyce. Dzięki nim można efektywnie rozwiązywać problemy związane z liniową zależnością między zmiennymi.

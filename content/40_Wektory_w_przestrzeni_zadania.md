@@ -1,66 +1,61 @@
- # Quiz - Wektory w przestrzeni
+ # Quiz
 
-1. Jakie są składowe wektora przestrzennego?
-   A. Dwie
-   B. Trzy
-   C. Cztery
-   D. Jedna
+1. Co to jest wektor w przestrzeni trójwymiarowej?
+A. Kierunek i odległość w płaszczyźnie
+B. Kierunek i odległość w przestrzeni trójwymiarowej
+C. Liczba skalarna
+D. Funkcja
 
-   Poprawna odpowiedź: B. Trzy
+Correct answer: B. Kierunek i odległość w przestrzeni trójwymiarowej
 
-2. Co oznacza iloczyn skalarny wektora?
-   A. Długość wektora
-   B. Kąt między wektorami
-   C. Ilość wektorów
-   D. Współliniowość wektorów
+2. Co oznacza iloczyn wektorowy dwóch wektorów w przestrzeni trójwymiarowej?
+A. Suma wektorów
+B. Iloczyn skalarny
+C. Wektor prostopadły do płaszczyzny zdefiniowanej przez dwa wektory
+D. Suma długości wektorów
 
-   Poprawna odpowiedź: B. Kąt między wektorami
+Correct answer: C. Wektor prostopadły do płaszczyzny zdefiniowanej przez dwa wektory
 
-3. Kiedy dwie proste w przestrzeni 3D są parami wzajemnie równoległe?
-   A. Gdy ich wektory kierunkowe sa prostopadłe
-   B. Gdy ich wektory kierunkowe są tylko równe
-   C. Gdy ich wektory kierunkowe są liniowo zależne
-   D. Gdy ich wektory kierunkowe są liniowo niezależne
+3. Co oznacza długość wektora w przestrzeni trójwymiarowej?
+A. Suma składowych wektora
+B. Kwadrat z sumy składowych wektora
+C. Pochodna wektora
+D. Kwadratowa średnia z składowych wektora
 
-   Poprawna odpowiedź: C. Gdy ich wektory kierunkowe są liniowo zależne
+Correct answer: D. Kwadratowa średnia z składowych wektora
 
-4. Co oznacza dodawanie wektorów w przestrzeni 3D?
-   A. Iloczyn kartezjański wektorów
-   B. Dopełnienie przestrzenne
-   C. Suma wektorów
-   D. Różnica wektorów
+4. Co oznacza wektor jednostkowy?
+A. Wektor o długości równej 1
+B. Wektor o długości równej 0
+C. Wektor o długości równej 2
+D. Wektor o długości równej 3
 
-   Poprawna odpowiedź: C. Suma wektorów
+Correct answer: A. Wektor o długości równej 1
 
-5. Co reprezentuje iloczyn wektorowy wektorów?
-   A. Długość wektora
-   B. Pole powierzchni
-   C. Kąt między wektorami
-   D. Objętość
+5. Co oznacza iloczyn wektorowy wektora z samym sobą?
+A. Wektor o długości równej 0
+B. Wektor o długości równej 1
+C. Wektor o długości równej 2
+D. Wektor o długości równej 3
 
-   Poprawna odpowiedź: D. Objętość
+Correct answer: A. Wektor o długości równej 0
 
-# Fiszki - Wektory w przestrzeni
+# Fiszki
 
-1. Składowe wektora przestrzennego
-   - Wektor przestrzenny ma trzy składowe: x, y, z, które pokazują jego położenie na osiach koordynatnych.
-2. Wektor jednostkowy
-   - Wektor jednostkowy jest wektorem o długości równej 1, który pokazuje kierunek i jest używany do określenia kierunku wektora na osiach koordynatnych.
-3. Dodawanie wektorów
-   - Do przypisania nowego wektora dosumowaniu wektorów przy użyciu paradygmatu "głowa do głowy, ogon do ogona".
-4. Iloczyn skalarny
-   - Iloczyn skalarny wektorów to liczba rzeczywista, która odzwierciedla kąt między nimi.
-5. Iloczyn wektorowy
-   - Iloczyn wektorowy trzech wektorów w przestrzeni trójwymiarowej jest polem powierzchni figury, jaką wypełniają wektory.
+1. Wektor w przestrzeni trójwymiarowej to kierunek i odległość w przestrzeni trójwymiarowej.
+2. Iloczyn wektorowy to wektor prostopadły do płaszczyzny zdefiniowanej przez dwa wektory.
+3. Długość wektora to kwadratowa średnia z składowych wektora.
+4. Wektor jednostkowy to wektor o długości równej 1.
+5. Iloczyn wektorowy wektora z samym sobą to wektor o długości równej 0.
 
-# Notatki - Wektory w przestrzeni
+# Notatki
 
-Wektory w przestrzeni 3D składają się z trzech składowych (x, y, z), które odpowiadają położeniu wektora względem trzech osi koordynatnych. Wektory mają mocne powiązania z geometrią, matematyką i fizyką, szczególnie z koncepcjami takimi co odległość, prędkość, przyspieszenie i grawitacja.
+Wektory w przestrzeni trójwymiarowej to kierunek i odległość w przestrzeni trójwymiarowej. Są one reprezentowane przez trzy składowe, każda z nich odpowiada jednej z osi przestrzeni trójwymiarowej.
 
-W niektórych przypadkach można potraktować wektory jako wektory jednostkowe, które wyznaczają kierunek, jednak nie wszędzie. Aby obliczyć długość wektora w przestrzeni 3D, używamy wzoru:
+Iloczyn wektorowy to operacja na dwóch wektorach w przestrzeni trójwymiarowej, która zwraca wektor prostopadły do płaszczyzny zdefiniowanej przez dwa wektory. Iloczyn wektorowy jest reprezentowany przez trzy składowe, które są iloczynami skrzyżowanymi składowych wektorów.
 
-`dlugosc = sqrt(x^2 + y^2 + z^2)`
+Długość wektora to wartość bezwzględna wektora, która reprezentuje odległość punktu od początku układu współrzędnych. Długość wektora jest obliczana jako kwadratowa średnia z jego składowych.
 
-Dodawanie wektorów w przestrzeni 3D odbywa się przez Dodawanie ich odpowiednio składowych. Zwaną to Paradygmatem "głowa do głowy, ogon do ogona". Niezależnie od tego, w której pozycji wektory są, suma wektorów pozostanie taka sama.
+Wektor jednostkowy to wektor o długości równej 1. Jest on używany do reprezentacji kierunku w przestrzeni trójwymiarowej. Wektor jednostkowy jest obliczany przez podzielenie wektora przez jego długość.
 
-Iloczyn skalarn
+Iloczyn wektorowy wektora z samym sobą to wektor o długości równej 0. Jest on równy wektorowi zerowemu, który nie ma żadnego kierunku ani odległości.

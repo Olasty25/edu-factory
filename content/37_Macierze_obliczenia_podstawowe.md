@@ -1,56 +1,49 @@
- # Quiz
+# Macierze obliczenia podstawowe - Quiz
 
-1. Co to jest macierz?
-   A. Tabela zawierająca wiersze i kolumny
-   B. Obiekt matematyczny reprezentujący zbiór wierszy i kolumn
-   C. Narzędzie ułatwiające rozwiązywanie równań
-   D. Metoda obliczeń numerycznych
-   Poprawna odpowiedź: B
+1. Jaka jest wymiar macierzy 3x2?
+   A - 2x3
+   B - 3x2 (poprawna)
+   C - 3x3
+   D - 2x2
 
-2. Jaka jest transpozycja macierzy?
-   A. Operacja zawracania wierszy i kolumn macierzy
-   B. Operacja pomnożenia wszystkich elementów macierzy przez skalar
-   C. Operacja dodawania do każdego elementu macierzy stałej wartości
-   D. Operacja odejmowania od każdego elementu macierzy stałej wartości
-   Poprawna odpowiedź: A
+2. Co oznacza oznaczenie A = [a, b; c, d]?
+   A - Macierz 2x2, gdzie a, b, c, d to elementy macierzy
+   B - Macierz 3x3
+   C - Macierz 2x1
+   D - Macierz 1x2
 
-3. Jak określa się wyznacznik macierzy kwadratowej?
-   A. Iloczyniem elementów głównych diagonalnych
-   B. Iloczynem elementów poza główną diagonalą
-   C. Różnicą iloczynu elementów głównych diagonalnych i iloczynu elementów poza główną diagonalną
-   D. Sumą iloczynu elementów głównych diagonalnych i iloczynu elementów poza główną diagonalną
-   Poprawna odpowiedź: A
+3. Jak wygląda iloczyn macierzy A = [a, b] i B = [c, d; e, f]?
+   A - Nie można wykonać tej operacji
+   B - [ac, ad; ae, af; bc, bd; be, bf]
+   C - [ac, bc; ae, be; cd, ce; df, ef] (poprawna)
+   D - [ac, ad, bc, bd; ae, af, be, bf]
 
-4. Jakie jest znaczenie odwracalności macierzy?
-   A. Możliwość pomnożenia macierzy przez swoją odwrotność
-   B. Możliwość dodawania do macierzy jej transpozycji
-   C. Możliwość mnożenia macierzy przez stałą wartość
-   D. Możliwość odejmowania od macierzy jej transpozycji
-   Poprawna odpowiedź: A
+4. Co oznacza transpozycja macierzy A = [a, b; c, d]?
+   A - [a, c; b, d]
+   B - [b, a; d, c] (poprawna)
+   C - [a, b, c, d]
+   D - [c, a; d, b]
 
-5. Co oznacza reguła Sarrusa w przeliczeniach macierzy?
-   A. Metoda obliczania wyznacznika macierzy kwadratowej
-   B. Metoda obliczania iloczynu macierzy
-   C. Metoda obliczania transpozycji macierzy
-   D. Metoda obliczania obliczania odwrotności macierzy
-   Poprawna odpowiedź: A
+5. Iloczyn macierzy A = [a, b] i wektora v = [c, d] to...
+   A - Macierz 2x2
+   B - Macierz 2x1
+   C - Wektor 1x2 (poprawna)
+   D - Wektor 1x1
 
-# Fiszki
+# Macierze obliczenia podstawowe - Fiszki
 
-1. Macierz - obiekt matematyczny reprezentujący zbiór wierszy i kolumn.
-2. Transpozycja - operacja zawracania wierszy i kolumn macierzy.
-3. Wyróżnik - liczbowy parametr wskazujący czy istnieje rozwiązanie układu równań liniowych.
-4. Macierz odwracalna - macierz kwadratowa, której wyznacznik jest różny od zera.
-5. Reguła Sarrusa - metoda obliczania wyznacznika macierzy kwadratowej 3x3.
+1. **Macierz** - prostokątna tablica liczb, zwykle o wymiarze m x n, gdzie m i n to liczby naturalne większe od zera.
+2. **Wymiar macierzy** - ilość wierszy i kolumn macierzy, np. macierz 3x2 ma 3 wiersze i 2 kolumny.
+3. **Iloczyn macierzy** - operacja na dwóch macierzach o odpowiednich wymiarach, której wynikiem jest nowa macierz.
+4. **Transpozycja macierzy** - operacja polegająca na zamianie wierszy na kolumny i odwrotnie.
+5. **Wektor** - specjalny przypadek macierzy, gdzie ilość wierszy lub kolumn wynosi 1.
 
-# Notatki
+# Macierze obliczenia podstawowe - Notatki
 
-Macierze to obiekty matematyczne, które służą do reprezentacji zbiorów wierszy i kolumn. Każdy wiersz i każda kolumna składa się z elementów, które mogą być reprezentowane przez liczby, funkcje lub nawet inne macierze. Macierze są bardzo użyteczne w obliczeniach numerycznych, gdyż pozwalają zapisać dużą ilość danych w sposób zorganizowany.
+Macierze to bardzo użyteczna w matematyce i informatyce konstrukcja, która pozwala na uproszczenie i uporządkowanie obliczeń. Są one stosowane m.in. w grafice komputerowej, algorytmach liniowych i uczeniu maszynowym.
 
-Niektóre operacje na macierzach są szczególnie przydatne, takie jak transpozycja, wyznacznik i odwracanie. Transpozycja macierzy to operacja polegająca na zamianie wierszy
- na kolumny i odwrotnie. Wyznacznik matrycy kwadratowej to liczbowy parametr
- wskazujący czy istnieje rozwiązanie układu równań liniowych reprezentowanych przez macierz. Macierz kwadratowa jest odwracalna, jeśli jej wyznacznik jest różny od zera.
+Wymiar macierzy to ilość wierszy i kolumn, której musimy zwracać szczególną uwagę, gdyż wpływa ona na operacje, które możemy na nich wykonać. Przykładowo, iloczyn dwóch macierzy jest możliwy tylko wtedy, gdy ilość kolumn pierwszej macierzy jest równa ilości wierszy drugiej macierzy.
 
-Istnieje również reguła Sarrusa, która jest metodą obliczania wyznacznika macierzy kwadratowej 3x3. Dzięki tej regule możemy obliczyć wyznacznik maksymalnie w 8 operacjach.
+Iloczyn macierzy to nowa macierz, która jest sumą iloczynów elementów z wierszy pierwszej macierzy i kolumn drugiej macierzy. Transpozycja macierzy to operacja, która zamienia wiersze na kolumny i odwrotnie.
 
-Dodatkowo, macierze odgrywają dużą rolę w rozwiązywaniu układów równań, gdyż pozwalają zapisać układ w sposób bardziej zorganizowany i uproszczony.
+Wektor to specjalny przypadek macierzy, gdzie ilość wierszy lub kolumn wynosi 1. Są one stosowane m.in. w algorytmach liniowych, gdzie służą do reprezentacji punktów w przestrzeni n-wymiarowej.
