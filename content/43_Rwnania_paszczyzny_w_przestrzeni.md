@@ -1,66 +1,64 @@
- # Quiz - Równania płaszczyzny w przestrzeni
+# Quiz (43. Równania płaszczyzny w przestrzeni)
 
-1. Jaka ma płaszczyzna równanie, którego wektor normalny jest rowny wektorowi (1, 2, 3)?
+1. Jakie są współrzędne punktu $P(x, y, z)$ leżącego na płaszczyźnie $5x - 3y + 6z = 12$?
 
-   A) 1x + 2y + 3z = 0
-   B) x - 2y + 3z = 1
-   C) x + 2y - 3z = 2
-   D) -x - 2y - 3z = 3
+   a) $(2, 1, 1)$
+   b) $(1, 2, 1)$
+   c) $(1, 1, 2)$
+   d) $(2, 2, 2)$
 
-   Poprawna odpowiedź: A
+   Poprawna odpowiedź: d) $(2, 2, 2)$
 
-2. Podaj równanie płaszczyzny, zawierającej dwa punkty A(1, 2, 3) i B(4, 5, 6).
+2. Czy płaszczyzna $4x + 2y - z = 0$ jest równoległa do płaszczyzny $4x + 2y + 3 = 0$?
 
-   A) x + y + z = 10
-   B) 3x - 2y + z = 0
-   B) nie ma takiej płaszczyzny
-   D) x - y + z = 1
+   a) Tak
+   b) Nie
 
-   Poprawna odpowiedź: A
+   Poprawna odpowiedź: a) Tak
 
-3. Wektor normalny do płaszczyzny 2x + y - z = 3 jest równy:
+3. Czy płaszczyzna $x - 2y + 3z = 5$ jest prostopadła do prostej $x = 2t + 1, y = t - 1, z = 3t + 2$?
 
-   A) <2, 1, -1>
-   B) <-2, -1, 1>
-   C) <2, -1, 1>
-   D) <-2, 1, -1>
+   a) Tak
+   b) Nie
 
-   Poprawna odpowiedź: D
+   Poprawna odpowiedź: a) Tak
 
-4. Na jakiej płaszczyznie znajduje się punkt (3, 4, 5), którego wektor stały jest równy wektorowi (1, 1, 1)?
+4. Znajdź równanie płaszczyzny przechodzącej przez trzy punkty $A(1, 2, 3), B(4, 5, 6), C(7, 8, 9)$.
 
-   A) x + y + z = 9
-   B) x - y + z = 3
-   B) 3x - 3y + 3z = 9
-   D) x + y - z = 1
+   a) $x + y + z = 15$
+   b) $x + y + z = 20$
+   c) $x + y + z = 25$
+   d) $x + y + z = 30$
 
-   Poprawna odpowiedź: C
+   Poprawna odpowiedź: c) $x + y + z = 25$
 
-5. Podaj wektor normalny do płaszczyzny o równaniu 4x - 3y + z = 0.
+5. Znajdź równanie płaszczyzny prostopadłej do wektora normalnego $\vec{n} = (2, 3, -1)$ i przechodzącej przez punkt $P(1, 2, 3)$.
 
-   A) <4, -3, 1>
-   B) <-4, 3, -1>
-   C) <4, 3, -1>
-   D) <-4, -3, 1>
+   a) $2x + 3y - z = 7$
+   b) $2x - 3y + z = 7$
+   c) $-2x + 3y - z = 7$
+   d) $-2x - 3y + z = 7$
 
-   Poprawna odpowiedź: A
+   Poprawna odpowiedź: a) $2x + 3y - z = 7$
 
-# Fiszki - Równania płaszczyzny w przestrzeni
+# Fiszki (43. Równania płaszczyzny w przestrzeni)
 
-- Równanie płaszczyzny można zapisać w postaci kanonicznej: Ax + By + Cz = D, gdzie wektor <A, B, C> jest wektorem normalnym do płaszczyzny.
-- Płaszczyzna przechodząca przez trzy dane punkty w przestrzeni istnieje zawsze.
-- Równanie płaszczyzny zawierającej dany punkt oraz prostopadłe do danej wektora można zapisać jako (r - r0) · n = 0, gdzie r0 jest wektorem położenia punktu, a n jest wektorem normalnym do płaszczyzny.
-- Płaszczyzna prostopadła do prostej o wektorze kierunkowym n jest dana przez równanie n · (r - r0) = 0.
-- Dwie płaszczyzny są równolegle, jeżeli ich wektory normalne są prostopadłe.
+1. **Płaszczyzna** to zbiór wszystkich punktów w przestrzeni trójwymiarowej spełniających pewne równanie liniowe.
+2. **Równanie płaszczyzny** ma postać $ax + by + cz = d$, gdzie $a, b, c$ są współczynnikami wiernopodobieństwa, a $d$ jest stałą.
+3. **Współczynniki wiernopodobieństwa** to liczby rzeczywiste takie, że przynajmniej jedna z nich jest różna od zera.
+4. **Wektor normalny** do płaszczyzny jest prostopadły do płaszczyzny i ma postać $\vec{n} = (a, b, c)$.
+5. **Równanie parametryczne** płaszczyzny jest postaci $x = at + x_0, y = bt + y_0, z = ct + z_0$.
 
-# Notatki - Równania płaszczyzny w przestrzeni
+# Notatki (43. Równania płaszczyzny w przestrzeni)
 
-Równanie płaszczyzny w przestrzeni może być zapisane w postaci kanonicznej Ax + By + Cz = D, gdzie wektor <A, B, C> jest wektorem normalnym do płaszczyzny. To znaczy, że dla każdego punktu płaszczyzny spełnione jest to żeby iloczyn skalarny wektora z punktu i wektora normalnego było równe D. Płaszczyzna może być także opisana za pomocą równania wektorowego (r - r0) · n = 0, gdzie r0 jest wektorem położenia dowolnie wybranego punktu na płaszczyźnie, a n jest wektorem normalnym do płaszczyzny.
+Płaszczyzna jest zbiorem wszystkich punktów w przestrzeni trójwymiarowej spełniających pewne równanie liniowe. Równanie to ma postać $ax + by + cz = d$, gdzie $a, b, c$ są współczynnikami wiernopodobieństwa, a $d$ jest stałą.
 
-Podstawową zaletą równania kanonicznego jest łatwość wizualizacji płaszczyzny, gdyż wektor normalny wskazuje kierunek prostopadły do płaszczyzny. Jednak równanie wektorowe jest bardziej uniwersalne, gdyż pozwala nam na znalezienie płaszczyzny zawierającej dany punkt i prostopadłej do danej prostej (o wektorze kierunkowym n) poprzez zastosowanie równania n · (r - r0) = 0.
+Współczynniki wiernopodobieństwa to liczby rzeczywiste takie, że przynajmniej jedna z nich jest różna od zera. Współczynniki te determinują kierunek prostopadłej do płaszczyzny.
 
-Dwie płaszczyzny są równoległe, jeśli ich wektory normalne są prostopadłe, tzn. jeśli iloczyn ich iloczynu skalarnego jest równy zero. Jeśli płaszczyzny mają wspólne punkty, to są one paraalelne. Natomiast jeśli płaszczyzny przecinają się, ich przecięcie jest prosta o równaniu zależnym od równań obu płaszczyzn.
+Wektor normalny do płaszczyzny jest prostopadły do płaszczyzny i ma postać $\vec{n} = (a, b, c)$. Wektory prostopadłe do płaszczyzny są iloczynami skalarnymi wektora normalnego i wektorów leżących w płaszczyźnie równe zero.
 
-Kształt płaszczyzny możemy ocenić za pomocą iloczynu wektora normalnego z wektorem zwrotnym osi z, który jest jednocześnie miarą nachylenia płaszczyzny do osi współrzędnych. Im mniejsza wartość bezwzględna iloczynu tych wektorów, tym bardziej płaszczyzna nachylona jest do osi z.
+Równanie parametryczne płaszczyzny jest postaci $x = at + x_0, y = bt + y_0, z = ct + z_0$. Współczynniki $a, b, c$ determinują kierunek płaszczyzny, a $x_0, y_0, z_0$ są współrzędnymi punktu przecięcia płaszczyzny z osiami układu współrzędnych.
 
-Podsumowując, równania płaszczyzny w przestrzeni są podstawowym pojęciem geometrii analitycznej. Pozwalają na dokładne matematyczne opisy kształtów geometrycznych występujących w trzech wymiarach oraz wykonywanie na nich obliczeń i operacji geometrycznych, takich jak obliczanie przecięć, nachylenia czy odległości.
+Aby znaleźć równanie płaszczyzny przechodzącej przez trzy punkty, należy obliczyć współczynniki wiernopodobieństwa z iloczynów skalarnych wektorów łączących pary punktów. Następnie należy użyć tych współczynników do sformułowania równania płaszczyzny.
+
+Aby znaleźć równanie płaszczyzny prostopadłej do wektora normalnego i przechodzącej przez punkt, należy użyć postaci $ax + by + cz = d$, gdzie $d$ jest iloczynem skalarnym wektora normalnego i wektora łączącego punkt z początkiem układu współrzędnych.

@@ -1,54 +1,65 @@
- # Quiz - Logarytmy, równania i nierówności
+# Quiz - Logarytmy równania i nierówności
 
-1. Co oznacza oznaczenie $\log\_b a$?
-   A. Logarytm o podstawie $a$ oparty na liczbie $b$
-   B. Logarytm o podstawie $b$ oparty na liczbie $a$
-   C. Logarytm o podstawie $a$ oparty na liczbie $b \neq 1$
-   D. Logarytm o podstawie $b$ oparty na liczbie $a \neq 1$
-   **Poprawna odpowiedź:** D. Logarytm o podstawie $b$ oparty na liczbie $a \neq 1$
+1. Co oznacza $\log\_5 125$?
+A) 5
+B) 3
+C) 4
+D) 2
+**Poprawna odpowiedź: C**
 
-2. Czym jest różnica między równaniami i nierównościami?
-   A. W równaniach porównujemy wielkości, natomiast w nierównościach określamy relacje dodatkową
-   B. W nierównościach porównujemy wielkości, natomiast w równaniach określamy relacje dodatkową
-   C. W równaniach i nierównościach porównujemy wielkości
-   D. Nic z tego, bo równania i nierówności to pojęcia niespokrewnione
-   **Poprawna odpowiedź:** A. W równaniach porównujemy wielkości, natomiast w nierównościach określamy relacje dodatkową
+2. Rozwiąż nierówność $\log\_2 x > 3$.
+A) $x > 8$
+B) $x < 8$
+C) $x > 2$
+D) $x < 2$
+**Poprawna odpowiedź: A**
 
-3. Jakie jest rozwiązanie równania $\log\_2 x = 3$?
-   A. $x = 2$
-   B. $x = 4$
-   C. $x = 8$
-   D. $x= \frac{1}{2}$
-   **Poprawna odpowiedź:** B. $x = 4$
+3. Jakie jest rozwiązanie równania $\log\_3 (x - 2) = 2$?
+A) $x = 9$
+B) $x = 7$
+C) $x = 5$
+D) $x = 3$
+**Poprawna odpowiedź: A**
 
-4. Jakie jest rozwiązanie nierówności $\log\_3 x < 2$?
-   A. $x < 3$
-   B. $3 < x < 9$
-   C. $x > 9$
-   D. $1 < x < 3$
-   **Poprawna odpowiedź:** D. $1 < x < 3$
+4. Czy zachodzi równość $\log\_5 125 + \log\_5 5 = \log\_5 625$?
+A) Tak
+B) Nie
+**Poprawna odpowiedź: A**
 
-5. Jakie jest rozwiązanie równania $\log\_{10}(5x - 15) = 1$?
-   A. $x = 5$
-   B. $x = 10$
-   C. $x = 15$
-   D. $x = 20$
-   **Poprawna odpowiedź:** B. $x = 10$
+5. Rozwiąż nierówność $\log\_2 (x + 2) + \log\_2 (x - 2) > 2$.
+A) $2 < x < 6$
+B) $x > 6$
+C) $-2 < x < 2$
+D) $x < -2 \text{ lub } x > 6$
+**Poprawna odpowiedź: D**
 
-# Fiszki - Logarytmy, równania i nierówności
+# Fiszki - Logarytmy równania i nierówności
 
-1. **Podstawa logarytmu** - dowolna liczba dodatnia, różna od 1, która wykorzystujemy w definicji logarytmu. Zwykle oznaczana jako $b$ w $\log\_b a$
-2. **Logarytm o podstawie 10** - zwany krótko logarytmem dziesiętnym - logarytm o podstawie 10
-3. **Logarytm naturalny** - logarytm o podstawie e, przybliżonym do wartości około 2,71828. Zwykle oznaczany jako $\ln a$
-4. **Równanie logarytmowe** - równanie, którego rozwiązaniem są wartości, dla których wyrażenie logarytmiczne przyjmuje wartości rzeczywiste
-5. **Nierówność logarytmowa** - nierówność, którego rozwiązaniami są wartości, dla których wyrażenie logarytmiczne przyjmuje wartości rzeczywiste
+1. $\log\_a b = c \iff a^c = b$
+2. $\log\_a 1 = 0$
+3. $\log\_a a = 1$
+4. $\log\_a (b \cdot c) = \log\_a b + \log\_a c$
+5. $\log\_a (b / c) = \log\_a b - \log\_a c$
 
-# Notatki - Logarytmy, równania i nierówności
+# Notatki - Logarytmy równania i nierówności
 
-Logarytmy to oparte na potędziowości funkcje, które dostarczają wartości będącej odwrotnością potęgowania, tzn. $\log\_b a = x \Leftrightarrow a = b^x$.
+Logarytm jest operacją odwrotną do potęgowania. Logarytm o podstawie $a$ wyraża liczbę $x$, dla której $a$ podniesione do potęgi $x$ daje liczbę $b$. Zapisujemy to jako $\log\_a b = c$.
 
-**Kluczowym jest, aby zwrócić uwagę, że wartość podstawy logarytmu powinna być liczbą dodatnią różną od 1**, ponieważ dopiero wówczas logarytmy miałyby zastosowanie do dziedziny rzeczywistych liczb.
+Podstawą logarytmu najczęściej jest liczba 10, 2 lub e. W tym przypadku zapisujemy $\log_{10} b = c$, $\log\_2 b = c$ lub $\log\_e b = c$ jako $\ln b = c$.
 
-Można istotnie wyróżnić dwa rodzaje logarytmów: **logarytm dziesiętny**, który ma stałą podstawę równą 10 i oznacza się $\log_{10}x$, a także **logarytm naturalny** o podstawie $e$ (liczbie Eulerowej, przybliżonej do $2.71828$), oznaczany jako $\ln x$.
+Aby rozwiązać równanie z logarytmem, należy przekształcić je do postaci $\log\_a b = c$. Można to zrobić przez podniesienie obu stron do potęgi $a$.
 
-Inne logarytmy o innej podstawie to logarytmy względem tej podstawy. Zaliczamy do nich np. logarytm dwójkowy ( Licensed under […]
+Aby rozwiązać nierówność z logarytmem, należy pamiętać o następujących regułach:
+
+* Jeśli $a > 1$, to $\log\_a x$ jest rosnąca dla $x > 0$.
+* Jeśli $0 < a < 1$, to $\log\_a x$ jest malejąca dla $x > 0$.
+
+Dzięki temu można znaleźć przedział rozwiązań nierówności z logarytmem.
+
+Ważne jest także pamiętać o zasadach działania logarytmów:
+
+* $\log\_a (b \cdot c) = \log\_a b + \log\_a c$
+* $\log\_a (b / c) = \log\_a b - \log\_a c$
+* $\log\_a b^c = c \cdot \log\_a b$
+
+Dzięki temu można uprościć wyrażenia z logarytmami i rozwiązać równania i nierówności.
