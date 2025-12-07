@@ -1,57 +1,70 @@
  # Quiz - Regulacja genów u bakterii (operon laktozowy)
 
-1. Co to jest operon?
-A. Kompleksowy gen
-B. Zespół genów kodujących białka wiążące DNA
-C. Zespół genów i ich regulatora transkrypcji
-D. Niezależny gen kodujący enzymy
+1. Co to jest operon laktozowy?
+   A. System kodowania białek
+   B. Zespół genów kodujących enzymy rozkładu laktozy
+   C. Jednostka replikacji DNA
+   D. System transkrypcji i translacji
 
-Correct answer: C. Zespół genów i ich regulatora transkrypcji
+   Poprawna odpowiedź: B
 
-2. Jakie enzymy koduje operon laktozowy?
-A. β-galaktozydaza, permeaza lactozowa, transacetylaza
-B. Laktaza, β-galaktozydaza, dehydrogenaza laktozy
-C. Permeaza lactozowa, β-galaktozydaza, ligaza
-D. Laktaza, permeaza lactozowa, transacetylaza
+2. Jakie enzymy są kodowane przez geny w operonie laktozowym?
+   A. β-galaktozydaza, permeaza laktozy, transaketolaza
+   B. β-galaktozydaza, permeaza laktozy, transacylaza
+   C. α-galaktozydaza, permeaza laktozy, dehydrogenaza
+   D. β-galaktozydaza, permeaza laktozy, lac repressor
 
-Correct answer: A. β-galaktozydaza, permeaza lactozowa, transacetylaza
+   Poprawna odpowiedź: B
 
-3. Co to jest regulator allolaktozy?
-A. Związek indukujący transkrypcję operonu laktozowego
-B. Enzym rozkładający allolaktozę
-C. Represor transkrypcji operonu laktozowego
-D. Transkrypcyjny czynnik aktywujący
+3. Co to jest allolaktoza?
+   A. Induktor operonu laktozowego
+   B. Inhibitor operonu laktozowego
+   C. Produkt po rozkładzie laktozy
+   D. Enzym rozkładający laktozę
 
-Correct answer: C. Represor transkrypcji operonu laktozowego
+   Poprawna odpowiedź: A
 
-4. Co to jest indukcja genów?
-A. Aktywacja genów przez inducent
-B. Represja genów przez regulator allolaktozy
-C. Zatrzymanie transkrypcji genów
-D. Zwiększenie ilości enzymów kodowanych przez geny
+4. Jakie czynniki wpływają na ekspresję genów w operonie laktozowym?
+   A. Promotor, operator, repressor
+   B. Promotor, terminator, rybosom
+   C. Operator, terminator, allolaktoza
+   D. Promotor, operator, allolaktoza
 
-Correct answer: A. Aktywacja genów przez inducent
+   Poprawna odpowiedź: A
 
-5. Czym różni się rozkład laktozy przez laktazę u bakterii i ssaków?
-A. Laktaza u ssaków rozkłada laktozę na glukozę i galaktozę, a u bakterii na allolaktozę i glukozę
-B. Laktaza u bakterii rozkłada laktozę na glukozę i galaktozę, a u ssaków na allolaktozę i glukozę
-C. Laktaza u ssaków nie rozkłada laktozy, a u bakterii rozkłada ją na glukozę i galaktozę
-D. Laktaza u ssaków nie rozkłada laktozy, a u bakterii rozkłada ją na allolaktozę i glukozę
+5. Co to jest repressor?
+   A. Enzym rozkładający laktozę
+   B. Białko blokujące aktywność promotora
+   C. Białko aktywujące transkrypcję
+   D. Enzym syntezujący allolaktozę
 
-Correct answer: A. Laktaza u ssaków rozkłada laktozę na glukozę i galaktozę, a u bakterii na allolaktozę i glukozę
+   Poprawna odpowiedź: B
 
 # Fiszki - Regulacja genów u bakterii (operon laktozowy)
 
-1. Operon - zespół genów i ich regulatora transkrypcji.
-2. Enzymy kodowane przez operon laktozowy: β-galaktozydaza, permeaza lactozowa, transacetylaza.
-3. Represor transkrypcji operonu laktozowego - regulator allolaktozy.
-4. Indukcja genów - aktywacja genów przez inducent.
-5. Rozkład laktozy - u ssaków na glukozę i galaktozę, u bakterii: na allolaktozę i glukozę.
+1. Operon laktozowy:
+   - Zespół genów kodujących enzymy rozkładu laktozy
+   - W bakterii E. coli
+2. Enzymy kodowane przez operon laktozowy:
+   - β-galaktozydaza (lacZ)
+   - Permeaza laktozy (lacY)
+   - Transacylaza (lacA)
+3. Allolaktoza:
+   - Induktor operonu laktozowego
+   - Powstaje z laktozy w obecności β-galaktozydazy
+4. Represor:
+   - Białko blokujące aktywność promotora
+   - Związane z operatorem w obecności allolaktozy
+5. Ekspresja genów w operonie laktozowym:
+   - Kontrolowana przez promotor, operator i repressor
+   - Indukowana przez allolaktozę
 
 # Notatki - Regulacja genów u bakterii (operon laktozowy)
 
-Operon to zespół genów i ich regulatora transkrypcji. Operon laktozowy koduje enzymy niezbędne do rozkładu laktozy: β-galaktozydazę, permeazę lactozową i transacetylazę. W warunkach beztlenowych wzrost na laktozie wymaga indukcji genów przez allolaktozę. Regulator allolaktozy to represor transkrypcji, który wiąże się z DNA i blokuje transkrypcję genów operonu laktozowego.
+Operon laktozowy to zespół genów kodujących enzymy rozkładu laktozy w bakterii E. coli. Składa się z trzech genów: lacZ, lacY i lacA, kodujących odpowiednio β-galaktozydazę, permeazę laktozy i transacylazę.
 
-W obecności allolaktozy represor ulega denaturacji, w wyniku czego uwalniane są operony, mogą być transkrybowane i tłumaczona. Uwolnione enzymy katalizują rozkład laktozy na allolaktozę i glukozę. Natomiast u ssaków laktaza rozkłada laktozę na glukozę i galaktozę.
+Ekspresja genów w operonie laktozowym jest kontrolowana przez promotor, operator i repressor. W stanie spoczynku repressor związany z operatorem blokuje aktywność promotora, uniemożliwiając transkrypcję. W obecności allolaktozy, induktora operonu laktozowego, repressor ulega zmianie konformacyjnej i odłącza się od operonu, umożliwiając transkrypcję.
 
-Regulacja genów operonu laktozowego jest klasycznym przykładem negatywnej regulacji genów i mechanizmów kontroli ekspresji genów u bakterii. Pozwala ona na efektywną regulację metabolizmu przez bakterie w zależności od dostępności pożywienia.
+β-galaktozydaza rozkłada laktozę na glukozę i galaktozę, a permeaza laktozy umożliwia transport laktozy do wnętrza komórki. Transacylaza nie odgrywa bezpośredniej roli w rozkładzie laktozy, ale jest niezbędna do syntezy allolaktozy, induktora operonu laktozowego.
+
+Operon laktozowy jest przykładem regulacji genów przez indukcję enzymów metabolicznych, umożliwiając bakteriom adaptację do zmiennych warunków środowiskowych i efektywniejsze wykorzystanie dostępnych substratów odżywczych.

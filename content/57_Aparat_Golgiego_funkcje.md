@@ -1,51 +1,63 @@
- # Quiz - Aparat Golgiego funkcje
-1. Co to jest Aparat Golgiego?
-   A. System transportu w komórce
-   B. Struktura komórki odpowiedzialna za produkcję białka
-   C. System odpowiedzialny za regulację wzrostu komórki
-   D. System odpowiedzialny za syntezę materiałów genetycznych
-   **Poprawna odpowiedź:** B. Struktura komórki odpowiedzialna za produkcję białka
+ # Quiz - Aparat Golgiego Functions
 
-2. Jakie zadania pełni Aparat Golgiego w komórce?
-   A. Transport i sortowanie białek
-   B. Produkcja ATP
-   C. Synteza kwasu nukleinowego
-   D. Podział komórki
-   **Poprawna odpowiedź:** A. Transport i sortowanie białek
+1. What is the function of the Golgi apparatus in protein processing?
+A. Protein synthesis
+B. Protein degradation
+C. Protein modification and sorting
+D. Protein storage
 
-3. Czym różni się Aparat Golgiego od siateczki śródplazmatycznej?
-   A. Struktura i funkcja
-   B. Liczba i rozmiar
-   C. Lokalizacja w komórce
-   D. Skład chemiczny
-   **Poprawna odpowiedź:** A. Struktura i funkcja
+Answer: C. Protein modification and sorting
 
-4. Jakie komponenty tworzą Aparat Golgiego?
-   A. Cysterny i wakuola
-   B. Cysterny i welamy
-   C. Welamy i siateczka śródplazmatyczna
-   D. Ribosomy i cysterny
-   **Poprawna odpowiedź:** B. Cysterny i welamy
+2. Which of the following is a function of the Golgi apparatus in lipid processing?
+A. Lipid synthesis
+B. Lipid degradation
+C. Lipid modification
+D. Lipid storage
 
-5. Co to są welamy?
-   A. Cysterny Aparatu Golgiego
-   B. Małe pęcherzyki odpowiedzialne za transport białek
-   C. Struktury biorące udział w tworzeniu błon komórkowych
-   D. Funkcjonalny odpowiednik jądra komórkowego
-   **Poprawna odpowiedź:** B. Małe pęcherzyki odpowiedzialne za transport białek
+Answer: C. Lipid modification
 
-# Fiszki - Aparat Golgiego funkcje
-1. **Aparat Golgiego**: system odpowiedzialny za produkcję białek oraz transport i sortowanie ich do odpowiednich miejsc w komórce.
-2. **Cysterny**: jednostki strukturalne Aparatu Golgiego, w których zachodzi synteza i modyfikacja białek.
-3. **Welamy**: małe pęcherzyki odpowiedzialne za transport białek do różnych miejsc w komórce.
-4. **Golgi**: synonim Aparatu Golgiego, upamiętniający hiszpańskiego lekarza Camillo Golgiego, który go odkrył.
-5. **Sortowanie białek**: proces selekcji białek do odpowiednich miejsc wewnątrz lub na zewnątrz komórki.
+3. What is the name of the process in which the Golgi apparatus modifies and sorts proteins?
+A. Protein maturation
+B. Protein transport
+C. Protein secretion
+D. Protein localization
 
-# Notatki - Aparat Golgiego funkcje
-Aparat Golgiego to struktura w komórce odpowiedzialna za produkcję białek, ich modyfikację i transport. Składa się on z wypukłych, płaskich cystern oraz welamów, czyli małych pęcherzyków.
+Answer: A. Protein maturation
 
-Funkcjonuje on jako centrum sortowania białek. Po ich syntezie w różnych miejscach komórki, białka są transportowane do Aparatu Golgiego, gdzie są modyfikowane, otrzymując różne modyfikacje, w tym procesie zwanym glikosylaacją. Następnie są sortowane do odpowiednich miejsc w komórce lub są pakowane w pęcherzyki, które są transportowane na zewnątrz komórki.
+4. Which organelle receives proteins and lipids from the ER and modifies them in the Golgi apparatus?
+A. Lysosome
+B. Endosome
+C. Vesicle
+D. Ribosome
 
-Aparat Golgiego ma kluczowe znaczenie dla komórki, gdyż umożliwia sprawny transport i sortowanie białek, co jest niezbędne do prawidłowego funkcjonowania komórki. Jest on nieodzowny w procesie tworzenia błon komórkowych, odpowiada też za produkcję licznych innych substancji w komórce.
+Answer: C. Vesicle
 
-W skrócie, Aparat Golgiego to niezwykle ważny system komórkowy, zaangażowany w produkcję, modyfikację i transport białek. Jest on centralnym punktem w regulacji procesów komórkowych, a jego prawidłowa praca jest istotna dla właściwego funkcjonowania komórki.
+5. What is the name of the vesicles that bud off from the Golgi apparatus and transport proteins and lipids to their final destinations?
+A. Transport vesicles
+B. Secretory vesicles
+C. Clathrin-coated vesicles
+D. Endoplasmic reticulum (ER) vesicles
+
+Answer: B. Secretory vesicles
+
+# Fiszki - Aparat Golgiego Functions
+
+1. The Golgi apparatus modifies and sorts proteins and lipids for transport to their final destinations.
+2. The Golgi apparatus plays a crucial role in the modification and sorting of proteins, including the addition of carbohydrates to form glycoproteins.
+3. The Golgi apparatus modifies lipids by adding fatty acids and other molecules to form complex lipids.
+4. The Golgi apparatus is composed of stacks of flattened membrane-bound sacs called cisternae.
+5. The Golgi apparatus is located near the nucleus and is surrounded by a network of membranes called the endoplasmic reticulum (ER).
+
+# Notatki - Aparat Golgiego Functions
+
+The Golgi apparatus, also known as the Golgi complex or Golgi body, is a membrane-bound organelle found in eukaryotic cells. It plays a crucial role in the processing and transport of proteins and lipids.
+
+The Golgi apparatus is composed of stacks of flattened membrane-bound sacs called cisternae. These stacks are typically arranged in a parallel fashion, with the cis face (the side closest to the endoplasmic reticulum) and the trans face (the side closest to the plasma membrane).
+
+Proteins and lipids synthesized in the endoplasmic reticulum (ER) are transported to the Golgi apparatus in vesicles. Once they arrive at the Golgi apparatus, they undergo a series of modifications, including the addition of carbohydrates to form glycoproteins, the addition of fatty acids and other molecules to form complex lipids, and the removal of signal sequences that direct the proteins to their final destinations.
+
+The Golgi apparatus sorts the modified proteins and lipids into vesicles, which bud off from the trans face and are transported to their final destinations. These vesicles can be transported to the plasma membrane for exocytosis, to lysosomes for degradation, or to other organelles for further processing.
+
+The Golgi apparatus also plays a role in the formation of lysosomes, which are membrane-bound organelles that contain enzymes for breaking down and recycling cellular waste. The Golgi apparatus modifies and sorts proteins that will become part of the lysosomal membrane, and it also produces vesicles that fuse with lysosomes to deliver hydrolytic enzymes.
+
+Overall, the Golgi apparatus is a vital organelle for the proper functioning of eukaryotic cells. Its role in the modification and sorting of proteins and lipids ensures that these molecules reach their correct destinations and perform their intended functions.
