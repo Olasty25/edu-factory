@@ -1,64 +1,67 @@
- # Quiz (Cykl Calvina)
+ Cykl Calvina schemat
+===================
+
+Quiz
+----
 
 1. Co to jest cykl Calvina?
-A. Cykl rozwojowy roślin
-B. Cykl komercyjny butików mody
-C. Cykl produkcyjny w hodowli bydła
-D. Cykl rekreacyjny w ośrodkach wypoczynkowych
+A. Cykl biogeochemiczny wodoru
+B. Cykl biogeochemiczny węgla
+C. Cykl biogeochemiczny azotu
+D. Cykl biogeochemiczny tlenu
 
-Correct answer: A
+Poprawna odpowiedź: B. Cykl biogeochemiczny węgla
 
-2. Ile etapów zawiera cykl Calvina?
-A. 3
-B. 5
-C. 6
-D. 8
+2. Gdzie rozpoczyna się cykl Calvina?
+A. W liściach roślin
+B. W glebie
+C. W atmosferze
+D. W wodzie
 
-Correct answer: C
+Poprawna odpowiedź: A. W liściach roślin
 
-3. Jakie związki chemiczne wchodzą w skład cyklu Calvina?
-A. Glukoza i fruktoza
-B. Ryboflawina i NADP
-C. Trikolorofil i kwas fumarowy
-D. Ribuloza-1,5-bisfosforan i 3-fosfooglicerynian
-
-Correct answer: D
-
-4. Gdzie znajdują się enzymy cyklu Calvina?
-A. Stroma chloroplastów
-B. Tyłaczki mitochondrium
-C. Membrana chloroplastów
-D. Pora mitochondrium
-
-Correct answer: A
-
-5. Jaki jest produktem końcowym cyklu Calvina?
+3. Co jest produktem końcowym cyklu Calvina?
 A. Glukoza
-B. Kwas masłowy
-C. Oksyglukoza-6-fosforan
-D. Fruktoza-6-fosforan
+B. Kwas octowy
+C. Kwas mlekowy
+D. Kwas cytrynowy
 
-Correct answer: D
+Poprawna odpowiedź: A. Glukoza
 
-# Fiszki (Cykl Calvina)
+4. Które z enzymów bierze udział w cyklu Calvina?
+A. RuBisCO
+B. Fumaraza
+C. Pirofosfataza
+D. Hexoza-fosfataza
 
-1. Cykl Calvina - ciąg reakcji chemicznych przebiegający w chloroplastach roślin zielonych oraz w cyjanobakteriach, stanowiący etap wykorzystywania energii świetlnej z procesu fotosyntezy do wytwarzania cukrów.
-2. Podstawowym substratem cyklu Calvina jest ryboflawina fosforanowana, która ma kluczowe znaczenie w procesie asymilacji CO2.
-3. W cyklu Calvina znajdujemy etap związany z regeneracją ryboflawiny-1,5-bisfosforanu, który jest potrzebny do następnej fazy cyklu.
-4. W końcowym etapie cyklu Calvina powstaje fruktoza-6-fosforan i jest jednym z ważniejszych produktów transportowych stosowanych przez rośliny.
-5. Podczas fotosyntezy, energia świetlna rozpędza elektrony i prowadzi do tworzenia NADPH i ATP, które z kolei mogą być wykorzystane przez cykl Calvina do uzyskiwania cukrów i asymilacji CO2.
+Poprawna odpowiedź: A. RuBisCO
 
-# Notatki (Cykl Calvina)
+5. Czy cykl Calvina zachodzi tylko w roślinach?
+A. Tak
+B. Nie, także w zwierzętach
+C. Nie, także w bakteriach
+D. Nie, także w glonach
 
-Cykl Calvina jest ważnym etapem fotosyntezy, w którym energia świetlna jest wykorzystywana do asymilacji CO2. Cykl odkrył Melvin Calvin w latach 50. XX wieku, w badaniach nad fotosyntezą u glonów zielenicowych. Ponieważ cykl Calvina zaobserwowano tylko u roślin, wszystkich glonów oraz u niektórych bakterii (zwanych cyjanobakteriami), zalicza się go do procesów charakterystycznych dla fotosyntezy tzw. Oksygenowej (ang. oxygenic).
+Poprawna odpowiedź: D. Nie, także w glonach
 
-W procesie otrzymuje ATP i NADPH, które to związki potrzebne są cyklowi Calvina do przebiegu reakcji asymilacji CO2. Cykl Calvina składa się z trzech etapów, z których pierwszy i trzeci stanowią dwie fazy regeneracji ryboflawiny-1,5-bisfosforanu, który jest substratem i produktem końcowym w tym cyklu.
+Fiszki
+------
 
-Etap I (karboksylacja) - Poczyna się on od wiązania CO2 z ryboflawiną-1,5-bisfosforanem tworząc dwutlenek 3-fosfooglicerynianu za pomocą karboksylazy ryboflawinianowej.
+1. **Cykl Calvina** - cykl biogeochemiczny węgla, w którym rośliny przetwarzają dwutlenek węgla z atmosfery na glukozę.
+2. **RuBisCO** - enzym w cyklu Calvina, który katalizuje wiązanie dwutlenku węgla z rybulozo-1,5-bisfosforanem.
+3. **Trifosforan rybulozowy** - związek chemiczny biorący udział w cyklu Calvina, który rozpada się na dwa molekuły 3-fosfoglicerynianu.
+4. **Fotosynteza C3** - forma fotosyntezy, w której pierwszy produkt to 3-fosfoglicerynian.
+5. **Fotosynteza C4** - forma fotosyntezy, w której pierwszy produkt to czterowęglowy związek organiczny.
 
-Etap II (redukcja) - Dwutlenek 3-fosfooglicerynianu zostaje redukowany przy użyciu dwóch cząsteczek NADPH, tworząc dwie cząsteczki 3-fosfooglicerynetu za pomocą reduktazy 3-fosfooglicerynowej.
+Notatki
+-------
 
-Etap III (regeneracja) - Ten etap podzielony jest na 5 kolejnych reakcji, kończących się przywróceniem substratu początkowego, ryboflawiny-1,5-bisfosforanu. Na tym etapie 3-fosfooglicerynet zostaje przekształcony w fruktozę-6-fosforan, która jest substratem w kolejnych etapach metabolizmu cukrów w roślinach.
+Cykl Calvina jest cyklem biogeochemicznym węgla, w którym rośliny przetwarzają dwutlenek węgla z atmosfery na glukozę. Jest to proces odwracalny, co oznacza, że węgiel może być przekształcany związków organicznych na dwutlenek węgla i odwrotnie.
 
-W cyklu Calvina zaangażowane są trzy główne związki, które przemieniają się w określonej sekwencji chemicznej: ryboflawina-1,5-bisfosforan, trójfosforan glukozy oraz fruktoza-6-fosforan. Cały cykl Calvina zachodzi w stromie chloroplastów i potrzebuje energii oraz elektronów pochodzących z procesu fotosyntezy do wytworzenia NADPH i ATP z fotosystemu II i fotosystemu I. Podsumowując, cykl Calvina to kluczowy etap fotosyntezy, w którym produkowane jest dużo związków organicznych, które mogą
-być wykorzystane przez rośliny jako materiały budulcowe. Poza tym, cykl Calvina jest także jednym z ważniejszych czynników asymilujących CO2 w ekosystemie '
+Cykl Calvina rozpoczyna się w liściach roślin, gdzie dwutlenek węgla jest wiązany z rybulozo-1,5-bisfosforanem przez enzym RuBisCO. Powstaje trifosforan rybulozowy, który rozpada się na dwa molekuły 3-fosfoglicerynianu. Następnie, za pomocą enzymów, 3-fosfoglicerynian jest przekształcany na glukozę.
+
+Cykl Calvina jest procesem energetycznie wymagającym, więc rośliny muszą pobierać energię z słońca, aby go zapewnić. Energia słoneczna jest przekształcana w ATP i NADPH w procesie fotosyntezy. ATP i NADPH są używane do przekształcania 3-fosfoglicerynianu na glukozę.
+
+Cykl Calvina zachodzi także w glonach, które są organizmami jednokomórkowymi, które mogą wytwarzać glukozę za pomocą tego cyklu. Nie zachodzi tylko w roślinach, ale także w niektórych bakteriach.
+
+W zależności od warunków środowiskowych, rośliny mogą używać różnych form fotosyntezy. Cykl Calvina jest używany w fotosyntezie C3, w której pierwszy produkt to 3-fosfoglicerynian. Jednak w warunkach wysokiej temperatury i niskiej wilgotności powietrza, rośliny mogą używać fotosyntezy C4, w której pierwszy produkt to czterowęglowy związek organiczny. Fotosynteza CAM jest kolejną formą fotosyntezy, w której rośliny przeprowadzają cykl Calvina w nocy, gdy temperatura jest niższa.

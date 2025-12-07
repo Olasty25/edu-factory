@@ -1,52 +1,61 @@
- # Quiz - Transport przez błonę komórkową
+# Quiz (Transport przez błonę komórkową)
+
 1. Jakie są główne mechanizmy transportu przez błonę komórkową?
-   a) Difuzja
-   b) Transport bierny
-   c) Transport aktywny
-   d) Endocytoza i egzocytoza
-   &nbsp;&nbsp;&nbsp;&nbsp;Poprawna odpowiedź: d) Endocytoza i egzocytoza
-2. Co odróżnia transport bierny od transportu aktywnego?
-   a) Transport bierny to wymuszony transport, w przeciwieństwie do transportu aktywnego
-   b) Transport bierny toniciek możliwy w obecności gradientu stężenia, w przeciwieństwie do transportu aktywnego
-   c) Transport bierny zachodzi bez zużycia ATP, w przeciwieństwie do transportu aktywnego
-   d) Transport bierny dokonuje się poprzez otwarcie odpowiednich kanałów białkowych, w przeciwieństwie do transportu aktywnego
-   &nbsp;&nbsp;&nbsp;&nbsp;Poprawna odpowiedź: c) Transport bierny zachodzi bez zużycia ATP, w przeciwieństwie do transportu aktywnego
-3. Gdy stosujemy termin „cotransport”?
-   a) Gdy mówimy o przemieszczaniu dwóch cząsteczek w przeciwnych kierunkach
-   b) Gdy mówimy o przemieszczaniu dwóch identycznych cząsteczek w tym samym kierunku
-   c) Gdy mówimy o współpracy dwóch kanałów białkowych w ruchu cząsteczki
-   d) Gdy mówimy o sposobie transportu, w którym jedna cząsteczka popycha drugą bezpośrednio
-   &nbsp;&nbsp;&nbsp;&nbsp;Poprawna odpowiedź: b) Gdy mówimy o przemieszczaniu dwóch identycznych cząsteczek w tym samym kierunku
-4. Która z podanych cząsteczek nie może być transportowana przez endocytozę?
-   a) Cząsteczka białkowa
-   b) Cholesterol
-   c) Pochodnie insuliny
-   d) DNS
-   &nbsp;&nbsp;&nbsp;&nbsp;Poprawna odpowiedź: d) DNS
-5. Jakie rodzaje endocytozy istnieją?
-   a) Endocytoza mediowana przez ligand
-   b) Endocytoza intervalsowa
-   c) Endocytoza wędrówkowa
-   d) Endocytoza żelazista
-   &nbsp;&nbsp;&nbsp;&nbsp;Poprawna odpowiedź: a) Endocytoza mediowana przez ligand, endocytoza klasyczna; b) Endocytoza z cloam
-```
+A. Difuzja
+B. Transport czynny
+C. Transport bierny
+D. Endocytoza i exocytoza
 
-# Fiszki - Transport przez błonę komórkową
+Answer: A, B, C, D
 
-- Difuzja: niezależny od gradientu stężenia mechanizm tłoczący cząsteczki przez błonę zarówno w kierunku wzrostu, jak i obniżenia stężenia
-- Transport bierny: ruch cząsteczki zgodnie z gradientem stężenia, bez zużycia energii
-- Transport aktywny: cząsteczki zgodnie z gradientem stężenia glewy z użyciem ATP
-- Cotransport: synergiczny ruch cząsteczek przez błonę, często białkami transportującymi
-- Endocytoza: zatrzymywanie cząsteczek przez komórkę przy użyciu zawijania się pęcherzyka błonowego wewnątrz komórki
+2. Co odróżnia transport czynny od biernego?
+A. Transport czynny wymaga energii, a bierny nie
+B. Transport bierny wymaga energii, a czynny nie
+C. Transport czynny i bierny wymagają tej samej ilości energii
+D. Transport czynny i bierny to te same mechanizmy
 
-# Notatki - Transport przez błonę komórkową
+Answer: A
 
-Transport przez błonę komórkową odgrywa kluczową rolę w funkcjonowaniu komórek i systemów biologicznych. Pomaga on w utrzymaniu homeostazy, przesyłaniu sygnałów oraz wymianie substancji z otoczeniem.
+3. Co to jest gradient koncentracyjny?
+A. Różnica stężeń substancji po obu stronach błony komórkowej
+B. Równowaga stężeń substancji po obu stronach błony komórkowej
+C. Brak różnicy stężeń substancji po obu stronach błony komórkowej
+D. Przepływ substancji z wnętrza komórki na zewnątrz
 
-Różne techniki istnieją w celu umożliwienia przepływu substancji przez błony. Najprostsza z nich to difuzja, polegająca na ruchu cząsteczek przez błonę, zarówno w kierunku zwiększonego, jak i zmniejszonego stężenia, bez zużycia energii.
+Answer: A
 
-Pozostałe techniki transportu związane są z gradientem stężenia cząsteczek, zgodnie z którym jest transportowane. Mechanizm w takim przypadku nazywa się transportem biernym, gdzie cząsteczki poruszają się zgodnie z gradientem bez zużycia energii. Natomiast, w przypadku konieczności transportu przeciwnie do gradientu stężenia, włącza się proces transportu aktywnego, polegający na stałym zużyciu ATP.
+4. Jakie rodzaje transportu czynnego istnieją?
+A. Transport aktywny wymagający enzymów
+B. Transport aktywny wymagający ATP
+C. Transport aktywny wymagający wody
+D. Transport aktywny wymagający gradientu stężeń
 
-Transportery mogą być również wspomagane w swojej pracy, przez kotransport, w którym dwie różne cząsteczki wspólnie podążają w tym samym kierunku przez błonę.
+Answer: B
 
-Na koniec, komórki mogą zapętlająć błony oraz zawijać je wewnątrz, tworząc pęcherzyki, proces ten nazywany jest endocytozą, który pozwala na wewnątrzkomórkowy transport różnych substancji.
+5. Co to jest endocytoza?
+A. Mechanizm wychwytu cząsteczek przez błonę komórkową wewnątrz komórki
+B. Mechanizm wydalania cząsteczek przez błonę komórkową na zewnątrz komórki
+C. Mechanizm transportu cząsteczek przez błonę komórkową bez udziału energii
+D. Mechanizm transportu cząsteczek przez błonę komórkową wymagający gradientu stężeń
+
+Answer: A
+
+# Fiszki (Transport przez błonę komórkową)
+
+1. Difuzja - rodzaj transportu przez błonę komórkową, w którym cząsteczki poruszają się swobodnie z obszaru o wyższym stężeniu do obszaru o niższym stężeniu, aż osiągną równowagę.
+2. Transport czynny - rodzaj transportu przez błonę komórkową, w którym cząsteczki są przenoszone przeciw gradientowi stężeń, wymaga udziału energii.
+3. Transport bierny - rodzaj transportu przez błonę komórkową, w którym cząsteczki są przenoszone wzdłuż gradientu stężeń, nie wymaga udziału energii.
+4. Endocytoza - mechanizm wychwytu cząsteczek przez błonę komórkową wewnątrz komórki, w wyniku czego powstają pęcherzyki, zawierające substancje z otoczenia.
+5. Exocytoza - mechanizm wydalania cząsteczek przez błonę komórkową na zewnątrz komórki, w wyniku czego powstają pęcherzyki, które łączą się z błoną komórkową i uwalniają zawartość na zewnątrz.
+
+# Notatki (Transport przez błonę komórkową)
+
+Transport przez błonę komórkową to proces, w którym substancje są przenoszone z wnętrza komórki na zewnątrz lub odwrotnie. Istnieją dwa główne rodzaje transportu: bierny i czynny.
+
+Difuzja jest rodzajem transportu biernego, w którym cząsteczki poruszają się swobodnie z obszaru o wyższym stężeniu do obszaru o niższym stężeniu, aż osiągną równowagę. Difuzja nie wymaga udziału energii i zachodzi przez błonę komórkową dzięki różnicy stężeń substancji po obu stronach błony.
+
+Transport czynny wymaga udziału energii, gdyż cząsteczki są przenoszone przeciw gradientowi stężeń. Istnieją dwa rodzaje transportu czynnego: transport aktywny wymagający ATP i transport wymagający gradientu stężeń.
+
+Transport bierny to rodzaj transportu, w którym cząsteczki są przenoszone wzdłuż gradientu stężeń, nie wymaga udziału energii.
+
+Endocytoza i exocytoza to specyficzne mechanizmy transportu przez błonę komórkową. Endocytoza to mechanizm wychwytu cząsteczek przez błonę komórkową wewnątrz komórki, w wyniku czego powstają pęcherzyki, zawierające substancje z otoczenia. Exocytoza to mechanizm wydalania cząsteczek przez błonę komórkową na zewnątrz komórki, w wyniku czego powstają pęcherzyki, które łączą się z błoną komórkową i uwalniają zawartość na zewnątrz.
