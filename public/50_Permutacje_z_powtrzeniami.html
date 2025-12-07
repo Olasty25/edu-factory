@@ -68,39 +68,58 @@
       <body>
         <h1>50_Permutacje_z_powtrzeniami</h1>
         <div class="section quiz">
-          <h1>Quiz</h1>
+          <h1>Quiz - Permutacje z powtórzeniami</h1>
 <ol>
-<li>Co to są permutacje z powtórzeniami?
-A) permutacje wybranych elementów zbioru bez powtórzeń
-B) permutacje wybranych elementów zbioru z powtórzeniami
-C) kombinacje wybranych elementów zbioru bez powtórzeń
-D) kombinacje wybranych elementów zbioru z powtórzeniami</li>
+<li><p>Czym są permutacje z powtórzeniami?
+A. Uporządkowane zestawienia elementów, które mogą się powtarzać
+B. Uporządkowane zestawienia elementów, które nie mogą się powtarzać
+C. Nieuporządkowane zestawienia elementów, które mogą się powtarzać
+D. Nieuporządkowane zestawienia elementów, które nie mogą się powtarzać</p>
+<p><strong>Poprawna odpowiedź: A</strong></p>
+</li>
+<li><p>Ile jest permutacji uporządkowanych zbioru 5-elementowego, w którym każdy element może się powtarzać maksymalnie 3 razy?
+A. 225
+B. 120
+C. 150
+D. 192</p>
+<p><strong>Poprawna odpowiedź: A</strong></p>
+</li>
+<li><p>Permutacje z powtórzeniami towarzyszą...
+A. Zbiorom, w których wszystkie elementy są różne
+B. Zbiorom, w których elementy mogą się powtarzać
+C. Zbiorom, które są puste
+D. Żadnemu z powyższych</p>
+<p><strong>Poprawna odpowiedź: B</strong></p>
+</li>
+<li><p>Ile jest permutacji uporządkowanych zbioru 4-elementowego, w którym każdy element może się powtarzać maksymalnie 2 razy?
+A. 48
+B. 36
+C. 24
+D. 72</p>
+<p><strong>Poprawna odpowiedź: A</strong></p>
+</li>
+<li><p>Permutacje z powtórzeniami mogą być wykorzystywane do...
+A. Obliczania liczby możliwych układów w losowaniu bez zwracania
+B. Obliczania liczby możliwych układów w losowaniu z zwracaniem
+C. Obliczania liczby możliwych nieuporządkowanych zbiorów
+D. Obliczania liczby możliwych uporządkowanych zbiorów</p>
+<p><strong>Poprawna odpowiedź: D</strong></p>
+</li>
 </ol>
-<p>Odpowiedź: B) permutacje wybranych elementów zbioru z powtórzeniami</p>
-<p>...</p>
-<p>(pozostale pytania analogicznie, wyjaśnienie zobacz w sekcji Notatki)</p>
-<h1>Fiszki</h1>
-<ul>
-<li>elementy biorące udział w permutacjach muszą pochodzić ze zbioru danych</li>
-<li>jeśli elementy są nierozróżnialne, występuje ich faktycznie mniej, np. AABBCC to tylko 15 permutacji</li>
-<li>permutacje z powtórzeniami to po prostu porządkowania zbioru elementów, w którym są powtórzenia</li>
-<li>jeśli zbiór jest duży, wydajniejszy od zliczania kolejnych permutacji jest mnożenie kolejnych rozmiarów zbioru</li>
-</ul>
-<h1>Notatki</h1>
-<p>Permutacjami z powtórzeniami nazywamy porządkowanie elementów, które mogą się powtarzać (w przeciwieństwie do standardowych permutacji, w których elementy są unikalne). Zgodnie z formalną definicją permutacji, jeżeli mamy zbiór $n$ elementów, w tym $k$ różnych elementów, w których dany element $a$ pojawia się $m$ razy, mamy:</p>
-<p>$$P_{n} = \frac{n!}{m_1! \cdot m_2! \cdots m_k!}.$$</p>
-<p>W powyższym wzorze należy pamiętać o warunku $m_1 + m_2 + \dots + m_k = n$.</p>
-<h2>Przykład</h2>
-<p>Zauważmy, że permutacjami z powtórzeniami dla zbioru ABC ABC są między innymi: ABC ABC, ACB BAC, BAC ACB, CBA BAC, BAC CBA, BC ACB.</p>
-<p>Permutacje te policzemy w następujący sposób:</p>
-<p>$$P_{6} = \frac{6!}{1! \cdot 2! \cdot 3!} = \frac{720}{2 \cdot 6} = 60.$$</p>
-<p>W naszym przykładzie permutacji jest mniej, niż wynika z powyższego wzoru, ponieważ elementy ABC są nierozróżnialne. Faktycznie musimy policzyć permutacje trzech liter ABC:</p>
-<p>$$P_{3} = \frac{3!}{1! \cdot 1! \cdot 1!} = \frac{6}{1 \cdot 1 \cdot 1} = 6,$$</p>
-<p>więc sumarycznie jest ich $60 / 6 = 10$.</p>
-<p>Powyższe rozważania prowadzą do stwierdzenia, że najlepiej policzyć permutacje z powtórzeniami dla małych zbiorów zgodnie z ich definicją, a dla
-większych zastosować metodę mnożenia kolejnych rozmiarów zbioru:</p>
-<p>$$n_1 \cdot n_2 \cdot \dots \cdot n_m,$$</p>
-<p>gdzie $n_i$ to liczba wystąpień każdego elementu w zbiorze. W ten sposób możemy policzyć, że ABCD ABCD ma 504 permutacji z powtórzeniami.</p>
+<h1>Fiszki - Permutacje z powtórzeniami</h1>
+<ol>
+<li>Permutacja z powtórzeniami - uporządkowane zestawienie elementów, które mogą się powtarzać</li>
+<li>Formuła na obliczanie permutacji z powtórzeniami: n! / (n1!*n2!*...*nk!) gdzie n - liczba elementów, n1, n2, ..., nk - liczba powtórzeń poszczególnych elementów</li>
+<li>Permutacje z powtórzeniami stosuje się do zbiorów, w których elementy mogą się powtarzać</li>
+<li>Przykład: Ile jest permutacji uporządkowanych zbioru 3-elementowego, w którym znajduje się jeden element powtarzający się 2 razy i jeden element występujący raz? Odpowiedź: 3! / (2!*1!) = 3</li>
+<li>Permutacje z powtórzeniami są wykorzystywane do obliczania liczby możliwych uporządkowanych zbiorów</li>
+</ol>
+<h1>Notatki - Permutacje z powtórzeniami</h1>
+<p>Permutacje z powtórzeniami to uporządkowane zestawienia elementów, które mogą się powtarzać. Są one wykorzystywane do obliczania liczby możliwych uporządkowanych zbiorów, w których elementy mogą się powtarzać.</p>
+<p>Formuła na obliczanie permutacji z powtórzeniami brzmi: n! / (n1!*n2!*...*nk!) gdzie n to liczba elementów, a n1, n2, ..., nk to liczba powtórzeń poszczególnych elementów.</p>
+<p>Przykład: Ile jest permutacji uporządkowanych zbioru 3-elementowego, w którym znajduje się jeden element powtarzający się 2 razy i jeden element występujący raz? Odpowiedź: 3! / (2!*1!) = 3.</p>
+<p>Permutacje z powtórzeniami stosuje się do zbiorów, w których elementy mogą się powtarzać. Dzięki nim można obliczyć liczbę możliwych uporządkowanych zbiorów w zależności od liczby elementów i ich powtórzeń.</p>
+<p>Warto zauważyć, że permutacje z powtórzeniami różnią się od permutacji bez powtórzeń, które dotyczą uporządkowanych zestawień elementów, które nie mogą się powtarzać.</p>
 
         </div>
         <a href="index.html" class="back">← Powrót do spisu treści</a>

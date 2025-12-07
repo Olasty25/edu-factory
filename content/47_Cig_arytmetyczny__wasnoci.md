@@ -1,80 +1,64 @@
- ### Quiz
+ # Quiz
 
-1. Jaka własność charakteryzuje każdy ciąg arytmetyczny?
-A. Różnica między kolejnymi wyrazami jest stała.
-B. Suma wyrazów jest stała.
-C. Iloczyn wyrazów jest stała.
-D. Liczba wyrazów jest stała.
+1. Jaka własność charakteryzuje ciąg arytmetyczny?
+   A. Różnica między kolejnymi wyrazami jest stała.
+   B. Ilość wyrazów w ciągu jest stała.
+   C. Pierwszy wyraz ciągu jest równy ostatniemu.
+   D. Suma wyrazów ciągu jest zawsze taka sama.
+   **Poprawna odpowiedź: A**
 
-   Poprawna odpowiedź: A
+2. Jak wyznaczyć wartość pierwszego wyrazu ciągu arytmetycznego, jeśli ostatni wyraz to `a_n` a różnica `d` jest równa 3?
+   A. `a_1 = a_n - 3`
+   B. `a_1 = a_n + 3`
+   C. `a_1 = (a_n * 3) / n`
+   D. `a_1 = (a_n - n) / 3`
+   **Poprawna odpowiedź: A**
 
-2. Jaki wyraz ciągu arytmetycznego o wzorzean = 2n - 3 określa wzór an+2, gdzie n to liczba naturalna?
-A. n+1
-B. n+2
-C. n-1
-D. 2n-1
+3. Jak wyznaczyć sumę `n` wyrazów ciągu arytmetycznego, jeśli pierwszy wyraz `a_1` wynosi 5, ostatni wyraz `a_n` wynosi 43, a różnica `d` jest równa 3?
+   A. `n * (a_1 + a_n) / 2`
+   B. `n * (a_1 + a_n) / 3`
+   C. `(n * (a_1 + a_n)) / 2 - (n * d) / 2`
+   D. `(n * (a_1 + a_n)) / 2 + (n * d) / 2`
+   **Poprawna odpowiedź: C**
 
-   Poprawna odpowiedź: A
+4. Czy ciąg arytmetyczny musi zawierać co najmniej 3 wyrazy?
+   A. Tak
+   B. Nie
+   **Poprawna odpowiedź: B**
 
-3. Jaki wyraz ciągu arytmetycznego o wzorze an = 3n + 1 oraz pierwszym wyrazie a1 = 7 określa wzór an+3, gdzie n to liczba naturalna?
-A. 3n + 4
-B. 3n + 5
-C. 3n + 6
-D. 3n + 7
+5. Jak wyznaczyć wartość wyrazu `a_i` ciągu arytmetycznego, jeśli pierwszy wyraz `a_1` wynosi 2, różnica `d` jest równa 4, a indeks `i` wynosi 6?
+   A. `a_i = a_1 + (i - 1) * d`
+   B. `a_i = a_1 - (i - 1) * d`
+   C. `a_i = a_1 * (i - 1) * d`
+   D. `a_i = a_1 / (i - 1) * d`
+   **Poprawna odpowiedź: A**
 
-   Poprawna odpowiedź: C
+# Fiszki
 
-4. Jaką własność spełnia suma wyrazów ciągu arytmetycznego?
-A. Jest zawsze równa średniej arytmetycznej wyrazów.
-B. Zależy od iloczynu wyrazów ciągu.
-C. Jest zawsze równa ostatniemu wyrazowi ciągu.
-D. Zależy od różnicy między kolejnymi wyrazami.
+1. **Ciąg arytmetyczny** - kolejne wyrazy różnią się o stałą wartość.
+2. **Pierwszy wyraz** - pierwszy wyraz ciągu arytmetycznego.
+3. **Ostatni wyraz** - ostatni wyraz ciągu arytmetycznego.
+4. **Różnica** - stała różnica między kolejnymi wyrazami ciągu arytmetycznego.
+5. **Suma** - suma wyrazów ciągu arytmetycznego.
 
-   Poprawna odpowiedź: A
+# Notatki
 
-5. Jak wyznaczyć sumę wyrazów ciągu arytmetycznego o liczbie elementów n i różnicy d?
-A. an × n / 2
-B. (a1 + an) × n / 2
-C. a1 + an × n / 2
-D. an - a1 × n / 2
+Ciąg arytmetyczny to ciąg, w którym każdy kolejny wyraz różni się o stałą wartość, nazywaną różnicą. Aby wyznaczyć wartość dowolnego wyrazu `a_i` ciągu arytmetycznego, należy znać wartość pierwszego wyrazu `a_1`, różnicę `d` oraz indeks `i`:
 
-   Poprawna odpowiedź: C
+`a_i = a_1 + (i - 1) * d`
 
-### Fiszki
+W celu wyznaczenia wartości pierwszego wyrazu `a_1`, można skorzystać z wartości ostatniego wyrazu `a_n` i różnicy `d`:
 
-1. Wzór ogólny ciągu arytmetycznego:
-an = a1 + (n-1)d
-gdzie:
-* an - n-ty wyraz ciągu
-* a1 - pierwszy wyraz ciągu
-* n - kolejność wyrazu
-* d - stała różnica między kolejnymi wyrazami
+`a_1 = a_n - (n - 1) * d`
 
-2. Suma wyrazów ciągu arytmetycznego:
-S = (a1 + an) × n / 2
-gdzie:
-* S - suma wyrazów ciągu
-* a1 - pierwszy wyraz ciągu
-* an - ostatni wyraz ciągu
-* n - ilość wyrazów ciągu
+gdzie `n` oznacza liczbę wyrazów w ciągu.
 
-3. Wiązana suma wyrazów ciągu arytmetycznego:
-Sna = S(a1, an, n) = n/2 × (a1 + an)
+Aby obliczyć sumę `n` wyrazów ciągu arytmetycznego, można skorzystać z wzoru:
 
-4. Wiązana suma wyrazów ciągu arytmetycznego (wzór geometryczny):
-Sna = n/2 × (a1 + an) = n × d × (2a1 + (n-1)d) / 2(n+1)
+`S_n = n * (a_1 + a_n) / 2`
 
-5. Ciąg arytmetyczny można zapisać jako:
-{a1, a1+d, a1+2d, ..., a1+(n-1)d}
 lub
-{ak, ak+d, ak+2d, ..., ak+(n-1)d}
 
-### Notatki
+`S_n = (n * (a_1 + a_n)) / 2 - (n * d) / 2`
 
-Ciąg arytmetyczny to ciąg liczbowy, w którym każdy kolejny wyraz różni się od poprzedniego stałą wartością różnicy d. Własność ta umożliwia znalezienie dowolnego wyrazu w ciągu na podstawie jego pozycji lub odwrotnie, wyznaczenie pozycji wyrazu w ciągu na podstawie jego wartości.
-
-Dla każdego ciągu arytmetycznego można określić jego pierwszy wyraz a1 i stałą różnicę d. Na tej podstawie można stworzyć wzór ogólny ciągu arytmetycznego: an = a1 + (n-1)d, gdzie an jest n-tym wyrazem ciągu.
-
-Sumę wyrazów ciągu arytmetycznego można obliczyć według wzoru: S = (a1 + an) × n / 2. W praktyce korzysta się często z wiązanej sumy wyrazów ciągu arytmetycznego: Sna = S(a1, an, n) = n/2 × (a1 + an). Można również obliczyć sumę za pomocą wzoru geometrycznego: Sna = n/2 × (a1 + an) = n × d × (2a1 + (n-1)d) / 2(n+1).
-
-Ciągi arytmetyczne mają szerokie zastosowanie w matematyce, a przykłady takich ciągów można spotkać m.in. w zagadkach matematycznych czy statystyce.
+Ciągi arytmetyczne mogą zawierać dowolną liczbę wyrazów, nie tylko co najmniej 3.
