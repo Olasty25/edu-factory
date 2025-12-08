@@ -1,56 +1,62 @@
- # Quiz - Reakcje addycji do alkenów
+# Quiz - Reakcje addycji do alkenów
 
-1. Co to są reakcje addycji do alkenów?
-   a) Reakcje, w których zachodzi rozrywanie wiązań wielokrotnych
-   b) Reakcje, w których do alkenów dodaje się inne atomy lub grupy atomów
-   c) Reakcje, w których tworzą się więzy wielokrotne
-   d) Reakcje, w których do alkenów dodaje się wodór
-   **Poprawna odpowiedź:** b
+1. Jakie rodzaje reakcji addycji do alkenów znasz? (Wybierz wszystkie poprawne odpowiedzi)
+   A. Addycja elektrofilowa
+   B. Addycja nukleofilowa
+   C. Addycja radykalna
+   D. Addycja kowalencyjna
+   **Poprawna odpowiedź:** A, B, C
 
-2. Jakie rodzaje reakcji addycji do alkenów istnieją?
-   a) Addycja elektrofilowa
-   b) Addycja nukleofilowa
-   c) Addycja radiacyjna
-   d) Addycja jonowa
-   **Poprawna odpowiedź:** a
+2. Czym się różni addycja elektrofilowa od addycji nukleofilowej?
+   A. Przebieg reakcji
+   B. Mechanizm reakcji
+   C. Rodzaj cząsteczki, która atakuje alken
+   D. Rodzaj wiązania, które powstaje w reakcji
+   **Poprawna odpowiedź:** B
 
-3. Jakie związki mogą być produktami addycji elektrofilowej do alkenu?
-   a) Alkohole
-   b) Alkilbromidy
-   c) Alkiny
-   d) Alkany
-   **Poprawna odpowiedź:** b
+3. Jakie rodzaje alkenów są najbardziej reaktywne względem reakcji addycji elektrofilowej? (Wybierz wszystkie poprawne odpowiedzi)
+   A. Alkeny niesymetryczne
+   B. Alkeny symetryczne
+   C. Alkeny konjugowane
+   D. Alkeny nienakrzyszczone
+   **Poprawna odpowiedź:** A, C
 
-4. Co to jest addycja siarkowo- tlenowa?
-   a) Reakcja addycji alkenu z tlenkiem wodoru
-   b) Reakcja addycji alkenu z tlenem i siarką
-   c) Reakcja addycji alkenu z dwutlenkiem siarki
-   d) Reakcja addycji alkenu z dwutlenkiem tlenu
-   **Poprawna odpowiedź:** c
+4. Jakie związki mogą być produktami reakcji addycji do alkenów? (Wybierz wszystkie poprawne odpowiedzi)
+   A. Alkany
+   B. Alkiny
+   C. Aldehydy
+   D. Ketony
+   **Poprawna odpowiedź:** A, C, D
 
-5. Czym są katalizatory w reakcjach addycji do alkenów?
-   a) Związki, które przyspieszają reakcje addycji
-   b) Związki, które zmniejszają szybkość reakcji addycji
-   c) Związki, które zmieniają przebieg reakcji addycji
-   d) Związki, które nie mają wpływu na reakcje addycji
-   **Poprawna odpowiedź:** a
+5. Czym jest reguła Markownikowa w kontekście reakcji addycji elektrofilowej do alkenów?
+   A. Reguła określająca, które wiązanie rozrywa się w pierwszym etapie reakcji
+   B. Reguła określająca, które wiązanie tworzy się w drugim etapie reakcji
+   C. Reguła określająca, które wiązanie jest bardziej reaktywne
+   D. Reguła określająca, które wiązanie jest mniej reaktywne
+   **Poprawna odpowiedź:** B
 
 # Fiszki - Reakcje addycji do alkenów
 
-1. **Addycja elektrofilowa do alkenu** - to rodzaj reakcji addycji do alkenu, w której do alkenu dodaje się elektrofil. Produktem tych reakcji jest zawsze związek, w którym liczba wiązań wielokrotnych jest mniejsza niż w alkenie.
-2. **Addycja nukleofilowa do alkenu** - to rodzaj reakcji addycji do alkenu, w której do alkenu dodaje się nukleofil. Produktem tych reakcji jest zawsze związek, w którym liczba wiązań wielokrotnych jest mniejsza niż w alkenie.
-3. **Alkilbromid** - to organiczny związek chemiczny z grupy halogenków alkilowych, w którym atomy wodoru zastąpione są atomami bromu. Powstaje w wyniku addycji elektrofilowej do alkenu.
-4. **Dwtlenek siarki (SO2)** - to związek chemiczny z grupy tlenków, w którym pojedynczy atom siarki jest związany z dwoma atomami tlenu. Addycja SO2 do alkenu zachodzi w obecności katalizatora i w wyniku tej reakcji powstaje zwykle związek zawierający grupę sulfonową.
-5. **Katalizator** - to związek chemiczny, który przyspiesza reakcję chemiczną, nie zmieniając w niej swojej ilości, ani nie uczestnicząc w końcowym produkcie reakcji.
+1. **Addycja elektrofilowa:** Mechanizm reakcji z udziałem elektrofilu, który atakuje alken.
+
+2. **Addycja nukleofilowa:** Mechanizm reakcji z udziałem nukleofila, który atakuje alken.
+
+3. **Addycja radykalna:** Mechanizm reakcji z udziałem rodników, które atakują alken.
+
+4. **Reguła Markownikowa:** Reguła określająca, które wiązanie tworzy się w drugim etapie reakcji addycji elektrofilowej do alkenów.
+
+5. **Alkeny niesymetryczne:** Alkeny, które mają różne grupy funkcyjne na obu atomach węgla w wiązaniu podwójnym.
 
 # Notatki - Reakcje addycji do alkenów
 
-Addycja do alkenów to rodzaj reakcji chemicznych, w których do alkenów dodaje się inne atomy lub grupy atomów. Istnieją dwa główne typy addycji do alkenów: addycja elektrofilowa i addycja nukleofilowa.
+Addycja do alkenów to rodzaj reakcji chemicznej, w której do alkenów dołącza się inna cząsteczka, tworząc nowe wiązanie. Istnieją trzy główne rodzaje addycji do alkenów: addycja elektrofilowa, addycja nukleofilowa i addycja radykalna.
 
-Addycja elektrofilowa to rodzaj reakcji, w których do alkenu dodaje się elektrofil. Produktami tych reakcji są zwykle alkilowane związki organiczne. Wśród tych związków można wyróżnić m.in. alkilbromidy, alkilchloridy i alkohole.
+Addycja elektrofilowa to mechanizm reakcji, w którym atakuje ona alken elektrofil, czyli cząsteczka, która ma niedobór elektronów. W reakcji tej tworzy się nowe wiązanie z udziałem elektrofilu i jednego z atomów węgla w alkenie. Reguła Markownikowa określa, które wiązanie zostanie utworzone w drugim etapie reakcji addycji elektrofilowej do alkenów.
 
-Addycja nukleofilowa to rodzaj reakcji, w których do alkenu dodaje się nukleofil. Produktami tych reakcji są również związki organiczne, jednak w porównaniu do addycji elektrofilowej, w produktach tych reakcji występują alkohole i inne związki zawierające tlen.
+Addycja nukleofilowa to mechanizm reakcji, w którym atakuje ona alken nukleofil, czyli cząsteczka, która ma nadmiar elektronów. W reakcji tej tworzy się nowe wiązanie z udziałem nukleofila i jednego z atomów węgla w alkenie.
 
-Dodawanie do alkenów może zachodzić również pod wpływem katalizatorów. Przykładem takiej reakcji jest addycja dwutlenku siarki do alkenu, w której jako katalizator stosuje się kwas siarkowy. Produktem przeprowadzanej w ten sposób reakcji jest związek zawierający grupę sulfonową.
+Addycja radykalna to mechanizm reakcji, w którym atakują one alken rodniki, czyli cząsteczki, które mają niezapełniony poziom energetyczny. W reakcji tej tworzy się nowe wiązanie z udziałem radykału i jednego z atomów węgla w alkenie.
 
-Addycja do alkenów to jeden z podstawowych mechanizmów reakcji organicznych, pozwalający na tworzenie nowych wiązań chemicznych i budowanie nowych struktur związków organicznych. W zależności od rodzaju addycji i związków biorących w niej udział, powstają różne produkty reakcji, które mają zastosowanie w różnych działach chemii i przemyśle.
+Alkeny niesymetryczne to alkeny, które mają różne grupy funkcyjne na obu atomach węgla w wiązaniu podwójnym. Alkeny symetryczne to alkeny, które mają te same grupy funkcyjne na obu atomach węgla w wiązaniu podwójnym. Alkeny konjugowane to alkeny, które mają wiązania podwójne w sąsiednich pozycjach w łańcuchu węglowym. Alkeny nienakrzyszczone to alkeny, które nie mają żadnych grup funkcyjnych na atomach węgla w wiązaniu podwójnym.
+
+Produktami reakcji addycji do alkenów mogą być alkany, aldehydy i ketony. W zależności od rodzaju reakcji i cząsteczki, która do niej dołącza, tworzą się różne produkty.

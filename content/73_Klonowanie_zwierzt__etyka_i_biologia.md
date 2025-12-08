@@ -1,44 +1,61 @@
- # Quiz: Klonowanie Zwierząt - Etyka i Biologia
+# Quiz
+
 1. Co to jest klonowanie?
-   - A) Tworzenie identycznych organizmów poprzez łączenie komórek rozrodczych
-   **B) Tworzenie identycznych organizmów poprzez transfer jądra komórkowego**
-   - C) Tworzenie nowych organizmów poprzez modyfikację genów
-   - D) Tworzenie nowych organizmów poprzez zygotę hybrydową
+A. Stworzenie nowego gatunku
+B. Tworzenie genetycznie identycznej kopii organizmu
+C. Stworzenie organizmu o zupełnie nowej genomie
+D. Tworzenie organizmu poprzez zygotę
 
-2. Która metoda klonowania została użyta do sklonowania owce Dolly?
-   - A) Metoda SCNT (Transfer Jądra Komórkowego Somatycznego)
-   **B) Metoda Dolly (Transfer Jądra Komórkowego Somatycznego)**
-   - C) Metoda ZNF (Faktory Transkrypcyjne Z wingedu)
-   - D) Metoda TALEN (Effektory Endonukleazy Z złączami TAL)
+Correct answer: B. Tworzenie genetycznie identycznej kopii organizmu
 
-3. Dlaczego klonowanie zwierząt jest przedmiotem kontrowersji etycznej?
-   - A) Ponieważ zwiększa możliwości genetyczne zwierząt
-   **B) Ponieważ narusza integralność i godność istniejących organizmów**
-   - C) Ponieważ zwiększa dostępność pożywienia zwierzęcego
-   - D) Ponieważ jest niezbędne do leczenia chorób ludzkich
+2. Co to jest komórka macierzysta?
+A. Komórka, z której powstaje nowy organizm
+B. Komórka, która może się różnicować w dowolny typ komórek
+C. Komórka, która nie może się dzielić
+D. Komórka, która może tworzyć nowe komórki tylko w określonych okolicznościach
 
-4. Co to jest klonowanie terapeutyczne?
-   - A) Klonowanie pozwalające uzyskać komórki do transplantacji
-   **B) Klonowanie pozwalające uzyskać zwierzęta do produkcji żywności**
-   - C) Klonowanie pozwalające uzyskać zwierzęta do badań naukowych
-   - D) Klonowanie pozwalające uzyskać nowe gatunki zwierząt
+Correct answer: B. Komórka, która może się różnicować w dowolny typ komórek
 
-5. Czy klonowanie zwierząt jest dozwolone w Polsce?
-   - A) Tak, ale tylko w celach badawczych
-   - B) Nie, ponieważ jest sprzeczne z prawem
-   **C) Tak, ale tylko w celach rolniczych i hodowlanych**
-   - D) Tak, ale tylko w celach medycznych i weterynaryjnych
+3. Co to jest teratoma?
+A. Choroba nowotworowa
+B. Choroba genetyczna
+C. Choroba zakaźna
+D. Nieprawidłowo rozwinięty twór w organizmie
 
-# Fiszki: Klonowanie Zwierząt - Etyka i Biologia
-- **Klonowanie** to proces tworzenia organizmów genetycznie identycznych do innego organizmu za pomocą technologii laboratoryjnych.
-- **Metoda SCNT (Transfer Jądra Komórkowego Somatycznego)** to metoda klonowania, w której jądro komórki somatycznej (pozazygotywej) zostaje przeniesione do jaja bez jądra, co prowadzi do powstania organizmu identycznego genetycznie z komórką, z której pochodzi jądro.
-- **Klonowanie zwierząt** jest przedmiotem kontrowersji etycznej z powodu naruszenia integralności i godności istniejących organizmów, możliwości powstawania płodów z wadami genetycznymi, a także możliwości nadużycia tej technologii w celach nieetycznych.
-- **Klonowanie terapeutyczne** to forma klonowania, w której tworzone są komórki do zastosowań medycznych, takich jak transplantacje.
-- W Polsce klonowanie zwierząt jest dozwolone wyłącznie w celach rolniczych i hodowlanych.
+Correct answer: D. Nieprawidłowo rozwinięty twór w organizmie
 
-# Notatki: Klonowanie Zwierząt - Etyka i Biologia
-Klonowanie zwierząt to proces tworzenia organizmów, które są identyczne genetycznie z innym organizmem. Ten proces wymaga stosowania określonych metod laboratoryjnych, takich jak metoda SCNT (Transfer Jądra Komórkowego Somatycznego). Ta metoda obejmuje przekazanie jądra komórki somatycznej (pozazygotywnej) do jaja bez jądra.
+4. Czy klonowanie zwierząt jest etyczne?
+A. Tak
+B. Nie
+C. W zależności od celu klonowania
+D. W zależności od metody klonowania
 
-Klonowanie zwierząt jest przedmiotem kontrowersji etycznej, ponieważ narusza integralność i godność istniejących organizmów, może prowadzić do powstawania osobników z wadami genetycznymi i ma możliwość zastosowania w nieetyczny sposób. Z drugiej strony, istnieją również argumenty za klonowaniem, szczególnie w kontekście medycznym, gdzie klonowanie terapeutyczne ma znaczenie w tworzeniu komórek do zastosowań transplantacyjnych.
+Correct answer: C. W zależności od celu klonowania
 
-W Polsce klonowanie zwierząt jest dozwolone wyłącznie w celach rolniczych i hodowlanych, a nie w celach medycznych czy badawczych. Należy zwrócić uwagę na etyczne aspekty klonowania, aby zapewnić, że używanie tej technologii nie stanowi zagrożenia dla dobrobytu zwierząt, a także dla dobra społeczeństwa w sensie ogólnym.
+5. Czy klonowanie ludzi jest możliwe?
+A. Tak
+B. Nie
+C. Nie wiem
+D. Zależy od definicji klonowania
+
+Correct answer: D. Zależy od definicji klonowania
+
+# Fiszki
+
+1. Klonowanie - tworzenie genetycznie identycznej kopii organizmu przy pomocy specjalnych technik biologicznych.
+2. Komórka macierzysta - komórka, która może się różnicować w dowolny typ komórek.
+3. Teratoma - nieprawidłowo rozwinięty twór w organizmie, który może zawierać różne typy tkanek.
+4. Klonowanie zwierząt - proces, który jest kontrowersyjny z powodu etycznych, religijnych i społecznych względów.
+5. Klonowanie ludzi - proces, który jest obecnie niemożliwy z powodu braku odpowiednich technik i etycznych względów.
+
+# Notatki
+
+Klonowanie to proces tworzenia genetycznie identycznej kopii organizmu przy pomocy specjalnych technik biologicznych. Polega ono na przeniesieniu jądra komórkowego z komórki dawnej do komórki jajowej, która nie ma jądra. Następnie komórka jajowa z nowym jądrem jest stymulowana do podziału, a powstały zygota jest umieszczona w macicy matki.
+
+Komórki macierzyste to komórki, które mają zdolność do samorznicowania i różnicowania się w różne typy komórek. Są one istotne w procesie klonowania, ponieważ pozwalają na stworzenie nowego organizmu z komórki dawnej.
+
+Teratoma to nieprawidłowo rozwinięty twór w organizmie, który może zawierać różne typy tkanek, takie jak kości, mięśnie, włosy i zęby. Może być spowodowana przez nieprawidłową działalność komórek macierzystych.
+
+Klonowanie zwierząt jest kontrowersyjne z powodu etycznych, religijnych i społecznych względów. Krytycy twierdzą, że klonowanie jest nienaturalne i może prowadzić do nieznanych konsekwencji. Zwolennicy twierdzą, że klonowanie może być użyteczne w medycynie i rolnictwie.
+
+Klonowanie ludzi jest obecnie niemożliwe z powodu braku odpowiednich technik i etycznych względów. Istnieją obawy, że klonowanie ludzi może prowadzić do nieznanych konsekwencji i naruszenia godności ludzkiej.
