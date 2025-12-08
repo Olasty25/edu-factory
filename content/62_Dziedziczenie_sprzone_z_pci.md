@@ -1,62 +1,72 @@
  ### Quiz
 
-1. Co oznacza termin "dziedziczenie sprzężone z płciem"?
+1. Co oznacza termin "dziedziczenie sprzężone z płcią"?
+   A. Dziedziczenie cech związanych z płcią przodków
+   B. Dziedziczenie cech związanych z chromosomem Y
+   C. Dziedziczenie cech związanych z chromosomem X
+   D. Dziedziczenie cech związanych z obojętnym chromosomem płciowym
 
-A. Dziedziczenie cech, które są związane z płcią podmiotu
-B. Dziedziczenie cech, które są zawsze dominujące
-C. Dziedziczenie cech, które są zawsze recesywne
-D. Dziedziczenie cech, które są związane z kolorem oczu
+   Poprawna odpowiedź: C. Dziedziczenie cech związanych z chromosomem X
 
-Correct answer: A
+2. Co to są geny sprzężone z płcią?
+   A. Geny znajdujące się na chromosomie Y
+   B. Geny znajdujące się na chromosomie X
+   C. Geny znajdujące się na obojętnym chromosomie płciowym
+   D. Geny znajdujące się na dowolnym chromosomie
 
-2. Jakie cechy są dziedziczone w sposób sprzężony z płciem?
+   Poprawna odpowiedź: B. Geny znajdujące się na chromosomie X
 
-A. Kolor włosów i oczu
-B. Wzrost i masa ciała
-C. Choroby genetyczne, takie jak choroba von Gierkego
-D. Uzdolnienia matematyczne i muzyczne
+3. Czy kobiety mogą być nosicielkami genów sprzężonych z płcią?
+   A. Tak, kobiety mają dwa chromosomy X
+   B. Nie, kobiety mają tylko jeden chromosom X
+   C. Tak, kobiety mogą być nosicielkami genów sprzężonych z płcią tylko wtedy, gdy są nosicielkami mutacji punktowych
+   D. Nie, kobiety nie mogą być nosicielkami genów sprzężonych z płcią
 
-Correct answer: C
+   Poprawna odpowiedź: A. Tak, kobiety mają dwa chromosomy X
 
-3. Co oznacza termin "allel"?
+4. Czy mężczyźni mogą być nosicielami genów sprzężonych z płcią?
+   A. Tak, mężczyźni mają chromosom X i chromosom Y
+   B. Nie, mężczyźni mają tylko jeden chromosom X
+   C. Tak, mężczyźni mogą być nosicielami genów sprzężonych z płcią tylko wtedy, gdy są nosicielami mutacji punktowych
+   D. Nie, mężczyźni nie mogą być nosicielami genów sprzężonych z płcią
 
-A. Każdy z par cząsteczek DNA, które kodują ten sam gen
-B. Każda z dwóch kopii danego genu w komórkach diploidalnych
-C. Każdy z rodziców, od których dana osoba odziedziczyła dany gen
-D. Każdy z loci (położenia) genów na chromosomie
+   Poprawna odpowiedź: B. Nie, mężczyźni mają tylko jeden chromosom X
 
-Correct answer: B
+5. Co to jest fenotyp ksenosomalny?
+   A. Fenotyp wyrażony tylko w kobietach
+   B. Fenotyp wyrażony tylko w mężczyznach
+   C. Fenotyp wyrażony zarówno w kobietach, jak i w mężczyznach, ale różnie
+   D. Fenotyp wyrażony zarówno w kobietach, jak i w mężczyznach, w tym samym sposobie
 
-4. Co oznacza termin "heterozygota"?
-
-A. Osoba, u której oba allele danego genu są tego samego typu
-B. Osoba, u której dwa allele danego genu są innego typu
-C. Osoba, która ma więcej niż dwie kopie danego genu
-D. Osoba, u której został stwierdzony nowy mutacji genetyczny
-
-Correct answer: B
-
-5. Co oznacza termin "homozygota"?
-
-A. Osoba, u której oba allele danego genu są tego samego typu
-B. Osoba, u której dwa allele danego genu są innego typu
-C. Osoba, która ma więcej niż dwie kopie danego genu
-D. Osoba, u której został stwierdzony nowy mutacji genetyczny
-
-Correct answer: A
+   Poprawna odpowiedź: C. Fenotyp wyrażony zarówno w kobietach, jak i w mężczyznach, ale różnie
 
 ### Fiszki
 
-1. Dziedziczenie sprzężone z płciem to sposób dziedziczenia cech, które są związane z płcią podmiotu.
-2. Przy dziedziczeniu sprzężonym z płciem u mężczyzn pojawiają się jedynie allele dziedziczone od matki, podczas gdy u kobiet pojawiają się allele dziedziczone zarówno od matki, jak i od ojca.
-3. Przy dziedziczeniu sprzężonym z płciem allele danego genu mogą być dominujące lub recesywne.
-4. Przy dziedziczeniu sprzężonym z płciem allele danego genu mogą znajdować się na różnych chromosomach płci, czyli X i Y.
-5. Przykładem cechy, która jest dziedziczona w sposób sprzężony z płciem, jest np. choroba hemofilia.
+1. Chromosom X
+   - Chromosom płciowy występujący u samic organizmów o rozmnażaniu płciowym
+   - Nosiciel genów sprzężonych z płcią
+
+2. Chromosom Y
+   - Chromosom płciowy występujący u samców organizmów o rozmnażaniu płciowym
+   - Nie nosi genów sprzężonych z płcią
+
+3. Nosicielka
+   - Kobieta, która ma gen sprzężony z płcią, ale nie wyraża go w swoim fenotypie
+
+4. Fenotyp ksenosomalny
+   - Fenotyp wyrażony zarówno w kobietach, jak i w mężczyznach, ale różnie
+
+5. Mutacja punktowa
+   - Zmiana pojedynczego nukleotydu w sekwencji DNA
 
 ### Notatki
 
-Dziedziczenie sprzężone z płciem to sposób dziedziczenia cech, który jest związany z płcią podmiotu. W przypadku człowieka dotyczy to cech dziedziczonych przez płeć męską (chromosom Y) i żeńską (chromosom X).
+Dziedziczenie sprzężone z płcią to sposób dziedziczenia cech związanych z chromosomem X. Chromosom X jest jednym z dwóch chromosomów płciowych występujących u samic organizmów o rozmnażaniu płciowym. Chromosom X nosi geny sprzężone z płcią, które mogą być dziedziczone tylko w linii żeńskiej.
 
-W przypadku dziedziczenia sprzężonego z płciem allele danego genu mogą być dominujące lub recesywne. Jeśli allel jest dominujący, to jego efekt fenotypowy pojawia się nawet wtedy, gdy jest obecny tylko w jednej kopii (heterozygotycznie). Jeśli allel jest recesywny, to jego efekt fenotypowy pojawia się tylko wtedy, gdy jest on obecny w obu kopiach (homozygotycznie).
+Geny sprzężone z płcią to geny, które znajdują się na chromosomie X. Kobiety mają dwa chromosomy X, więc mogą być nosicielkami genów sprzężonych z płcią. Mężczyźni mają tylko jeden chromosom X, więc jeśli mają gen sprzężony z płcią, to go wyrażają w swoim fenotypie.
 
-U człowieka, w przypadku dziedziczenia sprzężonego z płciem, u mężczyzn pojawiają się jedynie allele dziedziczone od matki, ponieważ mężczyźni mają tylko jeden chromosom X i jeden chromosom Y. U kobiet pojawiają się allele dziedziczone zarówno od matki, jak i od ojca, poniewa
+Nosicielkami genów sprzężonych z płcią są kobiety, które mają gen sprzężony z płcią, ale nie wyrażają go w swoim fenotypie. Nosicielki mogą przekazać gen sprzężony z płcią swoim dzieciom, zarówno synom, jak i córkom.
+
+Fenotyp ksenosomalny to fenotyp wyrażony zarówno w kobietach, jak i w mężczyznach, ale różnie. Fenotyp ksenosomalny może być spowodowany różnymi allelami tego samego genu lub różnymi genami sprzężonymi z płcią.
+
+Mutacja punktowa to zmiana pojedynczego nukleotydu w sekwencji DNA. Mutacje punktowe mogą być przyczyną zmian w genach sprzężonych z płcią i mogą prowadzić do różnych fenotypów.

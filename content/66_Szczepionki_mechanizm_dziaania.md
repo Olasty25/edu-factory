@@ -1,50 +1,65 @@
- # Quiz - Szczepionki: Mechanizm Działania
-1. Co to jest odporność drobnoustrojów?
-    A. Mechanizm atakujący układ odpornościowy
-    B. Mechanizm obronny układu odpornościowego
-    C. Choroba układu odpornościowego
-    D. Mutacja drobnoustrojów
+ Vaccines: Mechanism of Action
+=============================
 
-    (Poprawna odpowiedź: B. Mechanizm obronny układu odpornościowego)
+Quiz
+----
 
-2. Jakie typy reakcji odpornościowej można wyróżnić?
-    A. Aktywna i pasywna
-    B. Dobrowolna i niedobrowolna
-    C. Specyficzna i niespecyficzna
-    D. Przyśpieszona i zahamowana
+1. What is the main goal of a vaccine?
+A. To prevent the spread of a disease
+B. To cure a disease
+C. To make a person immune to a specific disease
+D. To identify people who have had a disease
 
-    (Poprawna odpowiedź: C. Specyficzna i niespecyficzna)
+Answer: C. To make a person immune to a specific disease
 
-3. Czym różnią się szczepionki atenuowane i inaktuwane?
-    A. Szczepionki atenuowane zawierają żywe, osłabione szczepy drobnoustrojów, podczas gdy szczepionki inaktuwane zawierają zabite drobnoustroje.
-    B. Szczepionki atenuowane zawierają zabite drobnoustroje, podczas gdy szczepionki inaktuwane zawierają żywe, osłabione szczepy.
-    C. Szczepionki atenuowane i inaktuwane zawierają żywe, niezabite drobnoustroje.
-    D. Szczepionki atenuowane i inaktuwane nie zawierają drobnoustrojów.
+2. Which type of immune response is activated by vaccines?
+A. Innate immune response
+B. Adaptive immune response
+C. Both innate and adaptive immune responses
+D. None of the above
 
-    (Poprawna odpowiedź: A. Szczepionki atenuowane zawierają żywe, osłabione szczepy drobnoustrojów, podczas gdy szczepionki inaktuwane zawierają zabite drobnoustroje.)
+Answer: C. Both innate and adaptive immune responses
 
-4. Co to jest sygnał alarmowy w komórce?
-    A. Sygnał chemiczny w komórce, który uruchamia szlaki metaboliczne w odpowiedzi na zagrożenie
-    B. Sygnał elektryczny w komórce, który hamuje funkcjonowanie komórki
-    C. Sygnał mechaniczny w komórce, który wzmacnia odporność
-    D. Sygnał termiczny w komórce, który dezaktywuje odporność
+3. What is the difference between a live attenuated vaccine and an inactivated vaccine?
+A. Live attenuated vaccines use a weakened form of the virus, while inactivated vaccines use a dead form of the virus
+B. Live attenuated vaccines use a dead form of the virus, while inactivated vaccines use a weakened form of the virus
+C. Both live attenuated and inactivated vaccines use a weakened form of the virus
+D. Both live attenuated and inactivated vaccines use a dead form of the virus
 
-    (Poprawna odpowiedź: A. Sygnał chemiczny w komórce, który uruchamia szlaki metaboliczne w odpowiedzi na zagrożenie)
+Answer: A. Live attenuated vaccines use a weakened form of the virus, while inactivated vaccines use a dead form of the virus
 
-5. Jakie są główne mechanizmy przeciwdziałania infekcji przez szczepionki?
-    A. Stymulacja odpowiedzi odpornościowej właściwej i nieswoistej
-    B. Rozwiązanie problemu infekcji przez usunięcie szczepionki
-    C. Hamowanie odpowiedzi odpornościowej organizmu
-    D. Blokowanie wytwarzania przeciwciał w organizmie
+4. What is the name of the process by which the immune system creates memory cells?
+A. Immunization
+B. Antigen presentation
+C. Clonal selection
+D. None of the above
 
-    (Poprawna odpowiedź: A. Stymulacja odpowiedzi odpornościowej właściwej i nieswoistej)
+Answer: C. Clonal selection
 
-# Fiszki - Szczepionki: Mechanizm Działania
-- Odporność drobnoustrojów to mechanizm obronny układu odpornościowego.
-- Reakcje odpornościowe można podzielić na specyficzne i niespecyficzne.
-- Szczepionki atenuowane zawierają żywe, osłabione szczepy drobnoustrojów, podczas gdy szczepionki inaktuwane zawierają zabite drobnoustroje.
-- Sygnał alarmowy w komórce to sygnał chemiczny, który uruchamia szlaki metaboliczne w odpowiedzi na zagrożenie.
-- Szczepionki pomagają w rozwoju odpowiedzi odpornościowej właściwej i nieswoistej.
+5. How long does immunity from a vaccine typically last?
+A. For the rest of a person's life
+B. For a few months
+C. For several years
+D. It varies depending on the vaccine
 
-# Notatki - Szczepionki: Mechanizm Działania
-Szczepionki mają kluczową rolę w zapobieganiu chorób zakaźnych. Działają one poprzez stymulowanie odpowiedzi odpornościowej właściwej i nieswoistej. Reakcje odpornościowe można podzielić na specyficzne i niespecyficzne. Szczepionki atenuowane zawierają żywe, osłabione szczepy drobnoustrojów, podczas gdy szczepionki inaktuwane zawierają zabite drobnoustroje. Sygnał alarmowy w komórce to sygnał chemiczny, który uruchamia szlaki metaboliczne w odpowiedzi na zagrożenie. Przykładem sygnału alarmowego w komórce może być sygnał w postaci interferonu gamma, który aktywuje szlaki metaboliczne w komórkach odpowiedzialnych za odpowiedź odpornościową właściwą. Dzięki szczepionkom organizm jest w stanie lepiej rozpoznać i zapewnić obronę przed patogenami, których wcześniej nie spotkał.
+Answer: D. It varies depending on the vaccine
+
+Fiszki
+------
+
+1. **Vaccine**: A preparation that is used to stimulate the body's immune system to produce immunity to a specific disease
+2. **Immunity**: The condition of being protected against a specific disease
+3. **Antigen**: A substance (usually a protein) that is recognized by the immune system and stimulates an immune response
+4. **Adaptive immune response**: A type of immune response that is specific to a particular pathogen and involves the activation of T cells and B cells
+5. **Memory cells**: Immune cells that remain in the body after an initial immune response and provide long-term immunity to a specific pathogen
+
+Notatki
+-------
+
+Vaccines are a powerful tool for preventing the spread of infectious diseases. They work by introducing a small, harmless piece of a pathogen (the agent that causes a disease) into the body, which stimulates the immune system to produce a response. This response includes the production of antibodies, which are proteins that recognize and bind to the pathogen, and the activation of immune cells, such as T cells and B cells.
+
+There are several different types of vaccines, including live attenuated vaccines, inactivated vaccines, and subunit vaccines. Live attenuated vaccines use a weakened form of the virus, while inactivated vaccines use a dead form of the virus. Subunit vaccines, on the other hand, use only a piece of the virus, such as a protein, to stimulate an immune response.
+
+One of the key features of the immune system is its ability to remember past infections. When the immune system encounters a pathogen for the first time, it mounts a response to fight off the infection. Some of the immune cells that are involved in this response become memory cells, which remain in the body and provide long-term immunity to the specific pathogen. This is why vaccines are often able to provide protection against a disease for many years, or even for the rest of a person's life.
+
+In summary, vaccines work by stimulating the immune system to produce an immune response, which includes the production of antibodies and the activation of immune cells. This response provides protection against a specific disease, and in some cases, it can also provide long-term immunity.

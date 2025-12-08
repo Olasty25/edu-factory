@@ -1,66 +1,63 @@
- # Genetic Crossword Puzzle Examples
+ # Quiz: Krzyżówka genetyczna - Przykłady
 
-In this educational material, we'll explore genetic crossword puzzles and their applications in genetics. This topic is both fun and instructional as it allows us to apply our understanding of genetics to solve puzzles and overcome challenges.
+1. Jakie są dwa rodzaje krzyżówek genetycznych?
+   A. Krzyżówka interstycyjna
+   B. Krzyżówka intrastycyjna
+   C. Krzyżówka intergatunkowa
+   D. Krzyżówka intragatunkowa
 
-## Quiz
+   Poprawna odpowiedź: A i D
 
-1. What type of cross occurs when two heterozygous individuals are crossed?
-A) Monohybrid cross
-B) Dihybrid cross
-C) Test cross
-D) None of the above
-Answer: B) Dihybrid cross
+2. Co oznacza termin "recesywny"?
+   A. Oznacza, że allel jest dominujący
+   B. Oznacza, że allel jest heterozygotyczny
+   C. Oznacza, że allel jest homozygotyczny
+   D. Oznacza, że allel nie jest wyrażony
 
-2. What is the difference between a monohybrid cross and a dihybrid cross?
-A) The number of genes involved
-B) The number of phenotypes observed
-C) The shape of the Punnett square
-D) The complexity of the traits
-Answer: A) The number of genes involved
+   Poprawna odpowiedź: D
 
-3. In a monohybrid cross, which of the following is true about the phenotypic ratio?
-A) 3:1
-B) 1:1
-C) 9:3:3:1
-D) 9:7
-Answer: B) 1:1
+3. Co oznacza termin "dominujący"?
+   A. Oznacza, że allel jest recesywny
+   B. Oznacza, że allel jest heterozygotyczny
+   C. Oznacza, że allel jest homozygotyczny
+   D. Oznacza, że allel jest wyrażony
 
-4. What is the primary objective of a test cross?
-A) Determining the parental genotype
-B) Generating homozygous dominant individuals
-C) Keeping the alleles together
-D) Separating the alleles
-Answer: A) Determining the parental genotype
+   Poprawna odpowiedź: D
 
-5. In a dihybrid cross, what is the probability of obtaining both dominant traits in the F2 generation?
-A) 25%
-B) 50%
-C) 75%
-D) 100%
-Answer: A) 25%
+4. Co oznacza termin "heterozygotyczny"?
+   A. Oznacza, że organizm ma dwa różne allele danego genu
+   B. Oznacza, że organizm ma dwa ten sam allele danego genu
+   C. Oznacza, że organizm nie ma alleli danego genu
+   D. Oznacza, że organizm ma trzy allele danego genu
 
-## Fiszki
+   Poprawna odpowiedź: A
 
-1. **Monohybrid Cross** - A genetic cross in which only one trait is examined, and the organism has two alleles for this trait.
-2. **Dihybrid Cross** - A genetic cross in which two traits (on different chromosomes) are examined, and the organism has two alleles for each of these traits.
-3. **Punnett Square** - A graphic organizer used for representing potential genotypes of sexually-reproducing organisms, created by a British geneticist named Reginald C. Punnett.
-4. **Test Cross** - A genetic cross in which an organism with unknown genotype is crossed with a homozygous recessive individual to determine the unknown genotype; it is employed to establish the genotype of the unknown individual.
-5. **Genotype** - The genetic makeup of an organism, often represented as a sequence of letters that indicate alleles and their inheritance patterns.
+5. Co oznacza termin "homozygotyczny"?
+   A. Oznacza, że organizm ma dwa różne allele danego genu
+   B. Oznacza, że organizm ma dwa ten sam allele danego genu
+   C. Oznacza, że organizm nie ma alleli danego genu
+   D. Oznacza, że organizm ma trzy allele danego genu
 
-## Notatki
+   Poprawna odpowiedź: B
 
-Genetic crosses are an essential tool for understanding the principles of heredity and genetics. In a genetic cross, the genotypes of the parents are combined to predict the possible genotypes and phenotypes of their offspring. This is primarily done through the use of Punnett squares.
+# Fiszki: Krzyżówka genetyczna - Przykłady
 
-In a monohybrid cross, the focus is on one gene. The cross is typically between a homozygous dominant individual and a homozygous recessive individual, and the resulting F1 generation will demonstrate a 1:1 phenotypic ratio for the dominant and recessive traits. Meanwhile, the dihybrid cross looks at two different genes, and the resulting F2 generation exhibits more variation in possible genotypes and phenotypes, which is reflected in a 9:3:3:1 phenotypic ratio.
+1. **Krzyżówka interstycyjna** - krzyżówka między dwoma różnymi odmianami tej samej gatunku.
+2. **Krzyżówka intrastycyjna** - krzyżówka między dwoma różnymi populacjami tej samej odmiany.
+3. **Allel** - każda z dwóch lub więcej wersji danego genu, które mogą występować w organizmie.
+4. **Heterozygota** - organizm, który ma dwa różne allele danego genu.
+5. **Homozygota** - organizm, który ma dwa ten sam allele danego genu.
 
-A test cross is crucial in establishing the genotype of an unknown individual by crossing it with a homozygous recessive individual. By analyzing the phenotypic ratio of the offspring, the unknown genotype can be inferred.
+# Notatki: Krzyżówka genetyczna - Przykłady
 
-Some common terms and concepts include:
+Krzyżówka genetyczna to proces krzyżowania dwóch organizmów, które różnią się allelami danego genu. Istnieją dwa rodzaje krzyżówek genetycznych: krzyżówka interstycyjna i krzyżówka intrastycyjna.
 
-- Alleles: Variations of the same gene at a specific locus (position) on a chromosome.
-- Autosomal: Refers to genes located on non-sex chromosomes.
-- Crossing over: The process where two homologous chromosomes exchange genetic material during meiosis.
-- Dominant: Describing an allele that is phenotypically apparent when present in an individual's genotype.
-- Recessive: Describing an allele whose phenotypic expression requires that the allele be present in both copies of the gene in an individual's genotype.
+Krzyżówka interstycyjna to krzyżówka między dwoma różnymi odmianami tej samej gatunku. Na przykład, jeśli krzyżujemy dwie różne odmiany psów, to otrzymujemy krzyżówkę interstycyjną.
 
-By utilizing and analyzing the results of genetic crosses, genetics enthusiasts can better understand heredity and develop new applications (whether medical, agricultural, or personal) in the realm of genetics.
+Krzyżówka intrastycyjna to krzyżówka między dwoma różnymi populacjami tej samej odmiany. Na przykład, jeśli krzyżujemy dwie różne populacje psów tej samej odmiany, to otrzymujemy krzyżówkę intrastycyjną.
+
+Allele to każda z dwóch lub więcej wersji danego genu, które mogą występować w organizmie. Allele mogą być dominujące lub recesywne. Dominujący allel jest wyrażony, nawet jeśli organizm ma tylko jeden takiego allela. Recesywny allel jest wyrażony tylko wtedy, gdy organizm ma dwa takie allele.
+
+Heterozygota to organizm, który ma dwa różne allele danego genu. Homozygota to organizm, który ma dwa ten sam allele danego genu.
+
+Krzyżówka genetyczna pozwala na uzyskanie nowych alleli i nowych kombinacji alleli, co może prowadzić do nowych cech organizmów. Krzyżówka genetyczna jest szeroko stosowana w hodowli roślin i zwierząt, aby uzyskać nowe odmiany o pożądanych cechach.
