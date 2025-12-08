@@ -1,50 +1,68 @@
- # Quiz - Adaptacje roślin do środowiska wodnego
-1. Co to jest hydroturbina i w jaki sposób pomaga roślinom w środowisku wodnemu?
-    - A) To jest urządzenie, które umożliwia fotosyntezę w warunkach niedostatku światła.
-    - B) To jest mechanizm, dzięki któremu rośliny wodne mogą się unosić na powierzchni wody.
-    - **C) To jest turbina wodna, dzięki której rośliny wodne mogą wytwarzać energię.**
-    - D) To jest mechanizm, dzięki któremu rośliny wodne mogą asymilować węglan wód wapiennych.
+ # Quiz: Adaptacje roślin do środowiska wodnego
 
-2. Jakie są główne rodzaje adaptacji roślin wodnych do braku dostępu tlenu?
-    - A) Pobieranie tlenu z powietrza i przechowywanie go w komórkach.
-    - **B) Przeprowadzanie fotosyntezy tlenowej i korzystanie z asymilatu jako źródła tlenu.**
-    - C) Utrzymywanie stałego kontaktu z podłożem w celu dostępu do tlenu.
-    - D) Utrzymywanie się w powietrzu, aby uniknąć braku dostępu do tlenu.
+1. Co to jest hydropioon?
+   A. Roślina lądowa, która potrafi żyć w wodzie
+   B. Roślina wodna, która potrafi żyć na lądzie
+   C. Roślina wodna, która ma liście przystosowane do życia w wodzie
+   D. Roślina wodna, która ma korzenie pod wodą
 
-3. Po czym charakteryzują się aparaty szparkowe u roślin wodnych?
-    - **A) Mają one mniejszą średnicę i grubsze ściany komórkowe.**
-    - B) Są one bardziej unerwione i szybciej reagują na brak wody.
-    - C) Są one bardziej rozproszone na powierzchni liścia.
-    - D) Są one bardziej rozbudowane i otwierają się szersze.
+   Poprawna odpowiedź: C. Roślina wodna, która ma liście przystosowane do życia w wodzie
 
-4. Jakie są główne adaptacje roślin wodnych do zwiększonego pływania w wodzie?
-    - A) Wykształcenie pływaków i tworzenie powietrznych komór.
-    - **B) Rozrost kłączy i korzeni, aby zwiększyć opór i stabilność.**
-    - C) Tworzenie powietrznych przestrzeni wewnątrz pędów.
-    - D) Tworzenie korzeni przylistkowych, aby zwiększyć opór do płynięcia.
+2. Jakie zanurzone części roślin wodnych pełnią funkcję asymilacyjną?
+   A. Liście
+   B. Kłącza
+   C. Korzenie
+   D. Łodygi
 
-5. Jaka jest rola kolumn w hydrofitach?
-    - A) Są to mechanizmy asymilacyjne, dzięki którym rośliny wykonują fotosyntezę.
-    - B) Są to kanały zapewniające transport wody i substancji odżywczych.
-    - **C) Są to mechanizmy unoszące roślinę i zapewniające pływalność.**
-    - D) Są to mechanizmy wchłaniające wodę i składniki odżywcze.
+   Poprawna odpowiedź: A. Liście
 
-# Fiszki - Adaptacje roślin do środowiska wodnego
-- Hydroturbina: Urządzenie pozwalające roślinom wodnym wytwarzać energię
-- Aparat szparkowy roślin wodnych: Charakteryzuje się mniejszą średnicą i grubszymi ścianami komórkowymi
-- Adaptacja do braku dostępu tlenu: Fotosynteza tlenowa i korzystanie z asymilatu jako źródła tlenu
-- Adaptacja do zwiększonego pływania w wodzie: Rozrost kłączy i korzeni
-- Kolumny hydrofitów: Mechanizmy unoszące roślinę i zapewniające pływalność
+3. Co to jest elodea?
+   A. Roślina lądowa, która potrafi żyć w wodzie
+   B. Roślina wodna, która potrafi żyć na lądzie
+   C. Roślina wodna, która ma liście przystosowane do życia w wodzie
+   D. Roślina wodna, która ma korzenie pod wodą
 
-# Notatki - Adaptacje roślin do środowiska wodnego
-Rośliny wodne, czyli hydrofyty, to rośliny, które w całości lub w dużym stopniu zaliczają się do środowiska wodnego. W zależności od warunków wodnych mogą one w pełni zanurzone być w wodzie, czy też mieć kontakt z podłożem i powietrzem.
+   Poprawna odpowiedź: C. Roślina wodna, która ma liście przystosowane do życia w wodzie
 
-Podstawową adaptacją hydrofitów do takiego środowiska jest ochrona aparatów szparkowych. Ze względu na ciśnienie hydrostatyczne, aparaty te mają mniejszą średnicę i grubsze ściany komórkowe, co zapobiega uszkodzeniom przez hydrodynamiczny ruch wody.
+4. Jakie rośliny wodne mogą mieć zanurzone liście i kwiaty?
+   A. Rośliny jednoroczne
+   B. Rośliny wieloletnie
+   C. Rośliny dwupienne
+   D. Rośliny jednopienne
 
-Hydrofyty rozwinęły także mechanizmy wchłaniania wody i substancji odżywczych. Rozwinęły także mechanizmy unoszące i stabilizujące, takie jak kolumny, kłącza i korzenie, które zapewniają stabilną pozycję i pływalność rośliny.
+   Poprawna odpowiedź: B. Rośliny wieloletnie
 
-Adaptacją do braku dostępu tlenu jest przeprowadzanie fotosyntezy tlenowej i korzystanie z asymilatu jako źródła tlenu.
+5. Co to jest wgłębienie powietrzne?
+   A. Zanurzone w wodzie części rośliny, które pełnią funkcję asymilacyjną
+   B. Zanurzone w wodzie części rośliny, które pełnią funkcję oddechową
+   C. Nadwodne części rośliny, które pełnią funkcję asymilacyjną
+   D. Nadwodne części rośliny, które pełnią funkcję oddechową
 
-Ponadto, rośliny wodne wykształciły szereg mechanizmów pozwalających im na pływanie w wodzie, takich jak tworzenie powietrznych komór, wzrost kłączy i korzeni oraz utrzymanie stałego kontaktu z podłożem.
+   Poprawna odpowiedź: B. Zanurzone w wodzie części rośliny, które pełnią funkcję oddechową
 
-Hydroturbina to urządzenie pozwalające roślinom wodnym wytwarzać energię. Dzięki niej rośliny mogą sprawniej przystosować się do trudnych warunków siedliskowych.
+# Fiszki: Adaptacje roślin do środowiska wodnego
+
+1. Hydrofiton - roślina wodna, która potrafi żyć w wodzie
+2. Hydropioon - roślina wodna, która ma liście przystosowane do życia w wodzie
+3. Elodea - roślina wodna, która ma liście przystosowane do życia w wodzie
+4. Wgłębienie powietrzne - zanurzone w wodzie części rośliny, które pełnią funkcję oddechową
+5. Rośliny wieloletnie - rośliny wodne, które mogą mieć zanurzone liście i kwiaty
+
+# Notatki: Adaptacje roślin do środowiska wodnego
+
+Rośliny wodne to takie rośliny, które potrafią żyć w wodzie. Rozwinęły one specjalne przystosowania, aby móc żyć w tak trudnych warunkach.
+
+Rośliny wodne możemy podzielić na dwie grupy:
+
+* Hydrofyty - rośliny wodne, które potrafią żyć w wodzie, ale nie potrafią żyć na lądzie
+* Hydrobiofyty - rośliny wodne, które potrafią żyć zarówno w wodzie, jak i na lądzie
+
+Rośliny wodne mają specjalne przystosowania, aby móc żyć w wodzie. Najważniejsze z nich to:
+
+* Hydropioony - rośliny wodne, które mają liście przystosowane do życia w wodzie. Liście te mają grubą, skórzastą powłokę, aby chronić roślinę przed utratą wody.
+* Wgłębienia powietrzne - zanurzone w wodzie części rośliny, które pełnią funkcję oddechową. Rośliny te mogą pobierać tlen z wody, dzięki czemu mogą żyć w warunkach beztlenowych.
+* Zanurzone części rośliny, które pełnią funkcję asymilacyjną. Rośliny te mogą wchłaniać wodę i składniki odżywcze z wody, dzięki czemu mogą rosnąć i rozwijać się w warunkach wodnych.
+
+Rośliny wodne mogą być jednoroczne lub wieloletnie. Rośliny jednoroczne żyją tylko jeden sezon, a rośliny wieloletnie mogą żyć przez wiele sezonów. Rośliny wieloletnie mogą mieć zanurzone liście i kwiaty, dzięki czemu mogą rozmnażać się w warunkach wodnych.
+
+Przykładem rośliny wodnej jest elodea. Elodea to roślina wodna, która ma liście przystosowane do życia w wodzie. Liście te mają grubą, skórzastą powłokę, aby chronić roślinę przed utratą wody. Elodea ma także wgłębienia powietrzne, dzięki czemu może pobierać tlen z wody. Elodea jest rośliną wodną, która może żyć w warunkach beztlenowych.

@@ -1,78 +1,59 @@
- ### Quiz
+# Quiz (Budowa kwiatu i zapylanie)
 
-1. Co to jest androecjum?
-A. Zalążnia
-B. Pręcik
-C. Szyjka słupka
-D. Korona kwiatu
+1. Jaka część kwiatu pełni funkcję męską?
+A. Szyjka słupka
+B. Zalążek
+C. Pręcik
+D. Okwiat
 
-Correct Answer: B. Pręcik
+Correct answer: C. Pręcik
 
-2. Jaka część kwiatu powstaje z zrośniętych pręcików?
-A. Pylnik
-B. Nitka pręcika
-C. Słupek
-D. Zalążnia
+2. Co to jest pyłek?
+A. Część słupka
+B. Część pręcika
+C. Zalążek
+D. Szyjka słupka
 
-Correct Answer: A. Pylnik
+Correct answer: B. Część pręcika
 
-3. Co to jest gineceum?
-A. Łożysko zalążka
-B. Zalążnia
-C. Szyjka słupka
-D. Znamię słupka
+3. Jaka część kwiatu pełni funkcję żeńską?
+A. Szyjka słupka
+B. Zalążek
+C. Pręcik
+D. Okwiat
 
-Correct Answer: B. Zalążnia
+Correct answer: A. Szyjka słupka
 
-4. Jaka część słupka kwiatu kopulująco pełni rolę łącznika między zalążnią a pręcikiem?
-A. Łożysko zalążka
-B. Szyjka słupka
-C. Znamię słupka
-D. Zalążnia
+4. Co to jest zapylacz?
+A. Ktoś kto zbiera nektar
+B. Ktoś kto rozprzestrzenia pyłek
+C. Ktoś kto zbiera zalążki
+D. Ktoś kto produkuje nektar
 
-Correct Answer: B. Szyjka słupka
+Correct answer: B. Ktoś kto rozprzestrzenia pyłek
 
-5. Kiedy mówimy o kwiatach wonnych - jakie ich części są odpowiedzialne za emitowanie substancji zapachowych?
-A. Pręciki
-B. Kielich i korona
-C. Zrośnięte działki kielicha
-D. Zalążnia
+5. Co to jest zapylenie krzyżowe?
+A. Zapylenie przez ten sam kwiat
+B. Zapylenie przez różne kwiaty
+C. Zapylenie przez owady
+D. Zapylenie przez wiatr
 
-Correct Answer: B. Kielich i korona
+Correct answer: B. Zapylenie przez różne kwiaty
 
-### Fiszki
+# Fiszki (Budowa kwiatu i zapylanie)
 
-1. Androecjum
-   Def: Część męska kwiatu, zbudowana z pręcików.
+1. Pręcik - męska część kwiatu, składa się z nitki i pylnika zawierającego pyłek
+2. Szyjka słupka - żeńska część kwiatu, wyrasta z zalążni
+3. Pyłek - męska gameta, przenoszona przez zapylacza na szyjkę słupka
+4. Zapylenie krzyżowe - zapylenie między różnymi kwiatami, zapewniające różnorodność genetyczną
+5. Zapylenie owadzime - zapylenie dokonywane przez owady, np. pszczoły
 
-2. Gineceum
-   Def: Część żeńska kwiatu, zbudowana z zalążni.
+# Notatki (Budowa kwiatu i zapylanie)
 
-3. Zygomorficzny
-   Def: Określa kwiat mający różnorodną budowę w różnych płatach lub okółkach.
+Kwiaty to bardzo złożone organy roślin, pełniące funkcję rozmnażania się roślin. Każdy kwiat składa się z okwiatu, pręcików i słupka. Okwiat to zewnętrzna, barwna i ochronna warstwa kwiatu, składająca się z kielicha i korony. Pręciki to męskie części kwiatu, składające się z nitki i pylnika. Pylnik zawiera pyłek, który jest męską gametą. Słupek to żeńska część kwiatu, składająca się z szyjki i zalążni. Zalążnia zawiera zalążki, które po zapłodnieniu stają się nasionami.
 
-4. Pręcik
-   Def: Część męska kwiatu, składa się z nitki i pylnika.
+Zapylenie to proces przenoszenia pyłku z pręcików na szyjkę słupka. Zapylacz, którym mogą być owady, ptaki lub wiatr, przenosi pyłek z jednego kwiatu na drugiego. Istnieją dwa rodzaje zapylania: samozapylenie i zapylanie krzyżowe. Samozapylenie to zapylenie przez ten sam kwiat, podczas gdy zapylanie krzyżowe to zapylenie przez różne kwiaty. Zapylenie krzyżowe zapewnia większą różnorodność genetyczną, co jest korzystne dla roślin.
 
-5. Zalążnia
-   Def: Część żeńska kwiatu, zawiera komory nasienne z zalążkami.
+Istnieje również wiele sposobów zapylania, w tym zapylanie owadzime, wiatrowe i wodne. Zapylenie owadzime jest najbardziej rozpowszechnione, a owady, takie jak pszczoły, są głównymi zapylaczami. Zapylenie wiatrowe występuje u roślin, których kwiaty są małe i niepozorne, a pyłek jest przenoszony przez wiatr. Zapylenie wodne występuje u roślin wodnych, a pyłek jest przenoszony przez wodę.
 
-### Notatki
-
-Budowa kwiatu jest centrum interesu dla botaników i ogrodników. Jest to kluczowy i interesujący komponent gatunków roślinnych. Jak wszystko w przyrodzie, budowa kwiatu jest delikatnie zaprojektowana, aby ułatwić zapylanie krzyżowe i samozapylenie.
-
-Kwiaty różnią się wielkością, kształtem, kolorem oraz budową, gdyż mają one różne zadania - niektóre przyciągają owady lub zwierzęta, które transportują pyłek z pręcików na zalążnie, inne zaś to zapylaczka musi być wystarczająco duża, by pomieścić cały kwiat.
-
-Kwiaty są często zdefiniowane jako zwieńczenie pędu, składające się z gynoecjum, androecjum i okwiatu.
-
-Gineceum, czyli kwiat żeński, składa się z komór nasiennych, w których znajdują się komórki jajowe, oraz z szyjki, znajdującej się posredniku między komorami nasiennymi a innymi częściami kwiatu.
-
-Androecjum, czyli kwiat męski, zbudowane jest z pręcików, z których każdy sat to nitka pręcika oraz ziarno pyłku. Ziarno pyłku składa się z dwóch półkomórek i wytwarza ono pyłek curvekowy.
-
-Pyłek curekowy jest wykorzystywany do zapylaniem roślin. Szukając sposobu, by dotrzeć przez otwór szczytowy na znamieniu słupka bądź inną część kwiatu, tworzy on przedłużki zwane czerwami pyłkowymi. Czerwie składają się z dwóch półkomórek oraz nabłonka, który produkuje substancję śluzową, pomagającą pyleczkom się poruszać. Czerw pyłkowy nabiera wilgoci i rozdmuchuje się, unoszony przez wiatr, stając się pyłkiem powietrznym.
-
-Kwiaty samozapylające mają dwa rodzaje zapylenia: autogamiczne, gdzie zarodek powstaje z pyłku i komórki jajowej z tego samego kwiatu oraz allogamiczne, gdzie zarodek powstaje z pyłku i komórki jajowej z różnych kwiatów.
-
-Rośliny z kwiatami wonnymi emitują substancje zapachowe zwane feromonami, które przyciągają zapylaczy, w tym owady, muchy, motyle, kolibry, nietoperze, króliki i lisy.
-
-Kwiaty, tak jak ludzie, posługują się kombinacją kolorów i kształtów, aby wytworzyć efekt owocujący zapyleniem. Nawet działki kielicha, oscylujące wokół kwiatów kolibry, pobudzają zapylacza do dotyku kielicha oraz przenoszenia pyłku.
+Wszystkie te procesy są bardzo złożone i ważne dla rozmnażania się roślin. Dzięki nim rośliny mogą produkować nasiona i rozmnażać się, zapewniając tym samym ciągłość gatunku.
