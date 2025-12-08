@@ -1,55 +1,61 @@
- # Quiz - Reakcje substytucji w alkanach
+ # Quiz: Reakcje Substytucji w Alkanach
 
-1. Co to są reakcje substytucji?
-A. Reakcje, gdzie jeden atom zastępuje inny atom w molekule
-B. Reakcje, gdzie zachodzi całkowita wymiana atomów w cząsteczce
-C. Reakcje, w których odłączają się atomy od cząsteczki
-D. Reakcje, w których zachodzi addycja do cząsteczki
+1. Co to są reakcje substytucji w alkanach?
+   A. Reakcje, w których atomy wodoru w alkanie są zastępowane przez inne atomy lub grupy atomów.
+   B. Reakcje, w których atomy węgla w alkanie są zastępowane przez inne atomy lub grupy atomów.
+   C. Reakcje, w których atomy wodoru w alkanie są usuwane.
+   D. Reakcje, w których atomy wodoru w alkanie są dodawane.
+   **Poprawna odpowiedź:** A.
 
-Poprawna odpowiedź: A
+2. Jakie rodzaje reakcji substytucji w alkanach znasz?
+   A. Reakcje substytucji wodorowania.
+   B. Reakcje substytucji halogenowania.
+   C. Reakcje substytucji sulfonowania.
+   D. Wszystkie z powyższych.
+   **Poprawna odpowiedź:** D.
 
-2. Czym różnią się reakcje substytucji w alkanach od podobnych reakcji w alkinach i alkenach?
-A. Zastępowanym atomem jest wtedy węgiel
-B. Podczas reakcji tworzą się nowe wiązania podwójne i potrójne
-C. Reakcja zachodzi szybciej z udziałem wolnych rodników
-D. Reakcja zachodzi szybciej w środowisku kwasowym
+3. Co to jest reakcja substytucji wodorowania?
+   A. Reakcja, w której atomy wodoru w alkanie są zastępowane przez atomy wodoru.
+   B. Reakcja, w której atomy wodoru w alkanie są zastępowane przez atomy wodoru i wodór.
+   C. Reakcja, w której atomy wodoru w alkanie są zastępowane przez atomy wodoru i wodór w obecności katalizatora.
+   D. Reakcja, w której atomy wodoru w alkanie są zastępowane przez atomy wodoru i wodór w obecności katalizatora oraz podwyższonej temperatury.
+   **Poprawna odpowiedź:** D.
 
-Poprawna odpowiedź: A
+4. Co to jest reakcja substytucji halogenowania?
+   A. Reakcja, w której atomy wodoru w alkanie są zastępowane przez atomy halogenów.
+   B. Reakcja, w której atomy wodoru w alkanie są zastępowane przez atomy halogenów i halogeny.
+   C. Reakcja, w której atomy wodoru w alkanie są zastępowane przez atomy halogenów i halogeny w obecności światła.
+   D. Reakcja, w której atomy wodoru w alkanie są zastępowane przez atomy halogenów i halogeny w obecności światła i katalizatora.
+   **Poprawna odpowiedź:** C.
 
-3. Jaka jest typowa szybkość reakcji substytucji w alkanach?
-A. Bardzo duża
-B. Duża
-C. Mała
-D. Bardzo mała
+5. Co to jest reakcja substytucji sulfonowania?
+   A. Reakcja, w której atomy wodoru w alkanie są zastępowane przez grupy sulfonowe.
+   B. Reakcja, w której atomy wodoru w alkanie są zastępowane przez grupy sulfonowe i kwas siarkowy.
+   C. Reakcja, w której atomy wodoru w alkanie są zastępowane przez grupy sulfonowe i kwas siarkowy w obecności katalizatora.
+   D. Reakcja, w której atomy wodoru w alkanie są zastępowane przez grupy sulfonowe i kwas siarkowy w obecności katalizatora oraz podwyższonej temperatury.
+   **Poprawna odpowiedź:** A.
 
-Poprawna odpowiedź: C
+# Fiszki: Reakcje Substytucji w Alkanach
 
-4. Czym jest proces halogenowania alkanów i która z wymienionych cząsteczek jest jego produktem?
-A. Dodawanie atomy halogenu do cząsteczki węglowodorowej, cząsteczka CX$_4$
-B. Dodawanie atomy halogenu do cząsteczki węglowodorowej, cząsteczka CX$_3$H
-C. Dodawanie atomy wodoru do cząsteczki halogenku, cząsteczka CX$_4$
-D. Dodawanie atomy wodoru do cząsteczki halogenku, cząsteczka CX$_3$H
+1. Alkany
+   * Są węglowodorami saturowanymi o wszystkich wiązaniach pojedynczych.
+2. Reakcje substytucji
+   * Są to reakcje, w których atomy wodoru w alkanie są zastępowane przez inne atomy lub grupy atomów.
+3. Reakcja substytucji wodorowania
+   * Jest to reakcja, w której atomy wodoru w alkanie są zastępowane przez atomy wodoru i wodór w obecności katalizatora oraz podwyższonej temperatury.
+4. Reakcja substytucji halogenowania
+   * Jest to reakcja, w której atomy wodoru w alkanie są zastępowane przez atomy halogenów i halogeny w obecności światła.
+5. Reakcja substytucji sulfonowania
+   * Jest to reakcja, w której atomy wodoru w alkanie są zastępowane przez grupy sulfonowe.
 
-Poprawna odpowiedź: B
+# Notatki: Reakcje Substytucji w Alkanach
 
-5. Czy następuje przesunięcie równowagi w reakcji halogenowania alkanów w temperaturze pokojowej?
-A. Tak
-B. Nie
+Reakcje substytucji w alkanach to rodzaj reakcji chemicznych, w których atomy wodoru w alkanie są zastępowane przez inne atomy lub grupy atomów. Istnieją trzy rodzaje reakcji substytucji w alkanach: substytucji wodorowania, substytucji halogenowania i substytucji sulfonowania.
 
-Poprawna odpowiedź: B
+Reakcja substytucji wodorowania to reakcja, w której atomy wodoru w alkanie są zastępowane przez atomy wodoru i wodór w obecności katalizatora oraz podwyższonej temperatury. W rezultacie tej reakcji otrzymujemy alkan o tym samym składzie chemicznym, ale o wyższej liczbie wodorów.
 
-# Fiszki - Reakcje substytucji w alkanach
+Reakcja substytucji halogenowania to reakcja, w której atomy wodoru w alkanie są zastępowane przez atomy halogenów i halogeny w obecności światła. W rezultacie tej reakcji otrzymujemy alkan z dodatkowymi atomami halogenów.
 
-- Reakcje substytucji to procesy, w których zachodzi zastąpienie jednego atomu innym atomem lub grupą atomów w cząsteczce związku chemicznego.
-- Alkany to węglowodory nasycone, czyli cząsteczki o wiązaniach wszystkich pojedynczych.
-- Reakcje substytucji w alkanach zachodzą powoli i wymagają inicjacji, której może dostarczyć promieniowanie ultrafioletowe, wolne rodniki lub ciepło.
-- Jednym z rodzajów reakcji substytucji w alkanach jest halogenowanie, które zachodzi przy użyciu czynników halogenujących, takich jak chlor lub brom.
-- W typowym procesie halogenowania alkanów do cząsteczki alkanu dodaje się jeden atom halogenu, tworząc cząsteczkę halogenku alkilowego o wzorze CX$_3$H.
+Reakcja substytucji sulfonowania to reakcja, w której atomy wodoru w alkanie są zastępowane przez grupy sulfonowe. W rezultacie tej reakcji otrzymujemy alkan z dodatkowymi grupami sulfonowymi.
 
-# Notatki - Reakcje substytucji w alkanach
-
-Reakcje substytucji w alkanach to rodzaj procesów chemicznych, w których zachodzi zastąpienie jednego atomu lub grupy atomów innym atomem lub grupą atomów w cząsteczce. Alkany są węglowodorami nasyconymi, co oznacza, że wszystkie ich wiązania są pojedyncze. Reakcje substytucji w alkanach zachodzą wolno i wymagają inicjacji, która może być dostarczona przez promieniowanie ultrafioletowe, wolne rodniki lub ciepło.
-
-Halogenowanie jest jednym z rodzajów reakcji substytucji w alkanach. W halogenowaniu alkanów używa się czynników halogenujących, takich jak chlor lub brom. W typowym procesie halogenowania alkanów do cząsteczki alkanu dodaje się jeden atom halogenu, tworząc nową cząsteczkę halogenku alkilowego o wzorze CX$_3$H. Warto jednak zauważyć, że przesunięcie równowagi w reakcji halogenowania alkanów zachodzi dopiero pod wpływem wysokich temperatur lub innych czynników stymulujących.
-
-W Artsielancerze świadczymy usługi kopiowania i konwersji plików. Każdy klient otrzymuje promocję na pierwszą usługę oraz zniżkę dla stałych klientów. Skontaktuj się z nami i skorzystaj z najlepszej jakości usług oraz opieki osobistej.
+Reakcje substytucji w alkanach są ważne w przemyśle chemicznym, ponieważ umożliwiają produkcję nowych związków chemicznych o pożądanych właściwościach.

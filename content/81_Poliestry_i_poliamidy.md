@@ -1,56 +1,58 @@
- # Quiz: Polyesters and Polyamides
+# Quiz - Poliestry i Poliamidy
+1. Co to są poliestry?
+   A. Tworzywa sztuczne wyprodukowane z węglowodorów
+   B. Tworzywa sztuczne wyprodukowane z węgla i wody
+   C. Tworzywa sztuczne wyprodukowane z wielu różnych substancji
+   D. Tworzywa sztuczne wyprodukowane z estrów wielocukrowych
 
-1. What are polyesters and polyamides made of?
-A. Polyesters are made of ester functional groups, while polyamides are made of amide functional groups.
-B. Both polyesters and polyamides are made of amide functional groups.
-C. Both polyesters and polyamides are made of ester functional groups.
-D. Polyesters are made of amide functional groups, while polyamides are made of ester functional groups.
-Correct answer: A.
+   Poprawna odpowiedź: D. Tworzywa sztuczne wyprodukowane z estrów wielocukrowych
 
-2. What are some common polyesters?
-A. Polyethylene terephthalate (PET) and polybutylene terephthalate (PBT)
-B. Polyethylene and polypropylene
-C. Polyamide 6 and polyamide 12
-D. Nylon and Kevlar
-Correct answer: A.
+2. Co to są poliamidy?
+   A. Tworzywa sztuczne wyprodukowane z amin wielocukrowych
+   B. Tworzywa sztuczne wyprodukowane z amin i wody
+   C. Tworzywa sztuczne wyprodukowane z amin i kwasów tłuszczowych
+   D. Tworzywa sztuczne wyprodukowane z amin i alkoholi
 
-3. What are some common polyamides?
-A. Polyethylene terephthalate (PET) and polybutylene terephthalate (PBT)
-B. Polyamide 6 and polyamide 12
-C. Polyethylene and polypropylene
-D. Nylon and Kevlar
-Correct answer: D.
+   Poprawna odpowiedź: C. Tworzywa sztuczne wyprodukowane z amin i kwasów tłuszczowych
 
-4. In what ways are polyesters and polyamides similar?
-A. Both have high melting points and are resistance to abrasion and chemicals.
-B. Both have low melting points and are not resistance to abrasion and chemicals.
-C. Both are thermoplastics, and their chains are held together by weak van der Waals forces.
-D. Both are thermosets, and their chains are held together by strong covalent bonds.
-Correct answer: A.
+3. Które z tworzyw to poliestry?
+   A. PET
+   B. PA
+   C. PVC
+   D. PP
 
-5. In what ways are polyesters and polyamides different?
-A. Polyesters are thermosets, and polyamides are thermoplastics.
-B. Polyesters are thermoplastics, and polyamides are thermosets.
-C. Polyesters have low melting points, and polyamides have high melting points.
-D. Polyesters have high melting points, and polyamides have low melting points.
-Correct answer: D.
+   Poprawna odpowiedź: A. PET
 
-# Flashcards: Polyesters and Polyamides
+4. Które z tworzyw to poliamidy?
+   A. PET
+   B. PA
+   C. PVC
+   D. PP
 
-1. A synthetic fiber made of long-chain polymers of an ester of a dihydric alcohol and terphthalic acid
-2. A synthetic fiber made of long-chain polymers of amides
-3. A type of polyester used in making fibers, beverage bottles, and film
-4. A type of polyamide used in making fibers, such as nylon and kevlar
-5. A synthetic fiber made of long-chain polymers of an ester of a dihydric alcohol and adipic acid
+   Poprawna odpowiedź: B. PA
 
-# Notes: Polyesters and Polyamides
+5. Gdzie stosuje się poliestry i poliamidy?
+   A. W przemyśle samochodowym
+   B. W przemyśle odzieżowym
+   C. W przemyśle elektronicznym
+   D. W przemyśle spożywczym
 
-Polyesters and polyamides are both synthetic polymers that are made up of long chains of repeating units. They are widely used in industry and everyday life, for example in the production of textiles, plastics, and fibers.
+   Poprawna odpowiedź: A. W przemyśle samochodowym, B. W przemyśle odzieżowym, C. W przemyśle elektronicznym
 
-Polyesters are made of ester functional groups, and they have high melting points and are resistance to abrasion and chemicals. Polyethylene terephthalate (PET) and polybutylene terephthalate (PBT) are examples of common polyesters. PET is used in the production of fibers, beverage bottles, and film. PBT is used in the production of engineering plastics and fibers.
+# Fiszki - Poliestry i Poliamidy
+1. Poliestry to tworzywa sztuczne wyprodukowane z estrów wielocukrowych.
+2. Poliamidy to tworzywa sztuczne wyprodukowane z amin i kwasów tłuszczowych.
+3. PET to rodzaj poliestru, stosowany m.in. w przemyśle odzieżowym i elektronicznym.
+4. PA to rodzaj poliamidu, stosowany m.in. w przemyśle samochodowym i odzieżowym.
+5. Poliestry i poliamidy to tworzywa sztuczne o dużej wytrzymałości mechanicznej i odporności na wysokie temperatury.
 
-Polyamides, on the other hand, are made of amide functional groups. They are also known as nylons, and they have high melting points and are resistance to abrasion and chemicals. Nylon and Kevlar are examples of common polyamides. Nylon is used in the production of fibers, such as clothing, carpeting, and industrial textiles. Kevlar is used in the production of high-strength fibers, such as those used in bulletproof vests.
+# Notatki - Poliestry i Poliamidy
+Poliestry i poliamidy to tworzywa sztuczne, które są szeroko stosowane w przemyśle ze względu na ich wysoką wytrzymałość mechaniczną i odporność na wysokie temperatury. Poliestry są wyprodukowane z estrów wielocukrowych, a poliamidy z amin i kwasów tłuszczowych.
 
-Polyesters and polyamides are similar in that they are both thermoplastics, and their chains are held together by strong covalent bonds. They can be melted and reformed multiple times, and they are typically recyclable. However, they are different in that polyesters have low melting points and polyamides have high melting points. And polyesters are made of ester functional groups while polyamides are made of amide functional groups.
+Do najbardziej znanych poliestrów należy PET, który jest stosowany m.in. w przemyśle odzieżowym i elektronicznym. Jest on wykorzystywany do produkcji butelek, włókien syntetycznych i taśm magnetycznych.
 
-In summary, polyesters and polyamides are synthetic polymers that have high melting points and are resistance to abrasion and chemicals, they are widely used in industry and everyday life. While polyesters are made of ester functional groups and polymides are made of amide functional groups. Polyesters have low melting points and polymides have high melting points.
+Do najbardziej znanych poliamidów należy PA, który jest stosowany m.in. w przemyśle samochodowym i odzieżowym. Jest on wykorzystywany do produkcji części samochodowych, włókien syntetycznych i wyrobów technicznych.
+
+Poliestry i poliamidy charakteryzują się dużą odpornością na działanie czynników zewnętrznych, takich jak woda, oleje i rozpuszczalniki. Są również łatwe w przetwarzaniu i nadają się do produkcji wielu różnych wyrobów.
+
+Wadą poliestrów i poliamidów jest ich wysoki koszt produkcji i niska biodegr
