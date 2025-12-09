@@ -1,92 +1,70 @@
- Hydroliza Soli - Przykłady
-=========================
+# Hydroliza soli - Przykłady
 
-Quiz
-----
+## Quiz
 
-1. Co jest to proces hydroliza?
+1. Jaka sól ulegnie hydrolizie w roztworze wodnym o pH = 7?
+   a) NaCl
+   b) NH<sub>4</sub>Cl
+   c) CH<sub>3</sub>COONa
+   d) KNO<sub>3</sub>
+   **Odpowiedź: c) CH<sub>3</sub>COONa**
 
-   A. Rozkład związków organicznych pod wpływem wody.
-   B. Rozkład związków nieorganicznych pod wpływem wody.
-   C. Rozkład organicznych związków wody.
-   D. Rozkład nieorganicznych związków wody.
+2. Która z wymienionych soli ulegnie hydrolizie z wytworzeniem zasady?
+   a) KCl
+   b) NH<sub>4</sub>NO<sub>3</sub>
+   c) NaOH
+   d) CH<sub>3</sub>COOH
+   **Odpowiedź: c) NaOH**
 
-   **Poprawna odpowiedź: B.**
+3. Jaka sól powstanie po hydrolizie NaHCO<sub>3</sub> w roztworze wodnym o pH = 10?
+   a) H<sub>2</sub>CO<sub>3</sub>
+   b) Na<sub>2</sub>CO<sub>3</sub>
+   c) NaHCO<sub>3</sub>
+   d) CO<sub>3</sub><sup>2-</sup>
+   **Odpowiedź: d) CO<sub>3</sub><sup>2-</sup>**
 
-2. Jaka jest różnica pomiędzy hydrolizą soli słabych kwasów tlenowych a silnych?
+4. Która z wymienionych soli ulegnie hydrolizie w roztworze wodnym o pH = 7?
+   a) Al(OH)<sub>3</sub>
+   b) Ba(OH)<sub>2</sub>
+   c) Mg(OH)<sub>2</sub>
+   d) Ca(OH)<sub>2</sub>
+   **Odpowiedź: c) Mg(OH)<sub>2</sub>**
 
-   A. Hydroliza soli słabych kwasów tlenowych daje alkohole i wodorotlenki, a hydroliza soli silnych daje alkohole i kwasy tlenowe.
-   B. Hydroliza soli słabych kwasów tlenowych daje alkohole i kwasy tlenowe, a hydroliza soli silnych daje alkohole i wodorotlenki.
-   C. Hydroliza soli słabych kwasów tlenowych daje słabe zasady, a hydroliza soli silnych daje soli.
-   D. Hydroliza soli słabych kwasów tlenowych daje soli, a hydroliza soli silnych daje słabe zasady.
+5. Która z wymienionych soli ulegnie hydrolizie w roztworze wodnym o pH = 7?
+   a) NH<sub>4</sub>NO<sub>3</sub>
+   b) NH<sub>4</sub>Cl
+   c) NH<sub>4</sub>Br
+   d) NH<sub>4</sub>I
+   **Odpowiedź: b) NH<sub>4</sub>Cl, c) NH<sub>4</sub>Br, d) NH<sub>4</sub>I**
 
-   **Poprawna odpowiedź: A.**
+## Fiszki
 
-3. Na czym polega hydroliza węglanów i bikarbonianów?
+1. **Hydroliza** - rozkład związków chemicznych pod wpływem wody.
+2. **Sole** - związki chemiczne powstające w reakcji kwasu z zasadą.
+3. **Hydroliza soli** - reakcja zachodząca między solą a wodą, w wyniku której powstają nowe związki chemiczne.
+4. **Hydroliza zasadowa** - rodzaj hydrolizy, w której powstaje zasada.
+5. **Hydroliza kwasowa** - rodzaj hydrolizy, w której powstaje kwas.
 
-   A. Hydroliza węglanów i bikarbonianów daje alkohole i kwasy karboksylowe.
-   B. Hydroliza węglanów i bikarbonianów daje wodę i dwutlenek węgla.
-   C. Hydroliza węglanów i bikarbonianów daje kationy metali i aniony wodorowęglanowe lub węglanowe.
-   D. Hydroliza węglanów i bikarbonianów daje słabe zasady i soli.
+## Notatki
 
-   **Poprawna odpowiedź: C.**
+Hydroliza soli to rodzaj reakcji chemicznej, w której sól rozkłada się na jon zasadowy i kwasowy pod wpływem wody. W zależności od rodzaju soli, reakcja może przebiegać w różny sposób.
 
-4. Jaka jest różnica pomiędzy hydrolizą soli a rozpuszczaniem się soli w wodzie?
+### Hydroliza zasadowa
 
-   A. Hydroliza soli wytwarza nowe związki chemiczne, a rozpuszczanie się soli nie.
-   B. Hydroliza soli rozkłada sole na jony, a rozpuszczanie się soli nie.
-   C. Hydroliza soli jest egzotermiczna, a rozpuszczanie się soli jest endotermiczne.
-   D. Hydroliza soli zachodzi tylko dla soli słabych kwasów/zasad, a rozpuszczanie się soli zachodzi dla wszystkich soli.
+Hydroliza zasadowa to rodzaj hydrolizy, w której powstaje zasada. Reakcja ta zachodzi, gdy jon zasadowy soli jest silniejszy od jonu wodorotwórczego H<sub>3</sub>O<sup>+</sup>. W rezultacie powstaje nowa zasada oraz kwas wodorowęglanowy H<sub>2</sub>CO<sub>3</sub>. Przykładem takiej reakcji jest rozkład w roztworze wodnym węglanu sodu:
 
-   **Poprawna odpowiedź: A.**
+Na<sub>2</sub>CO<sub>3</sub> + 2H<sub>2</sub>O → 2Na<sup>+</sup> + HCO<sub>3</sub><sup>-</sup> + OH<sup>-</sup> + H<sub>2</sub>O
 
-5. Czy wodne roztwory wodorotlenków są produktem hydrolizy soli zasadowych?
+### Hydroliza kwasowa
 
-   A. Tak, wodne roztwory wodorotlenków są produktem hydrolizy soli zasadowych.
-   B. Nie, wodne roztwory wodorotlenków nie są produktem hydrolizy soli zasadowych, lecz wodorotlenki.
-   C. Tak, wodne roztwory wodorotlenków są produktem hydrolizy soli kwasowych.
-   D. Nie, wodne roztwory wodorotlenków nie są produktem hydrolizy soli, lecz wodorowodorów.
+Hydroliza kwasowa to rodzaj hydrolizy, w której powstaje kwas. Reakcja ta zachodzi, gdy jon kwasowy soli jest silniejszy od jonu hydroksylowego OH<sup>-</sup>. W rezultacie powstaje nowy kwas oraz wodorotlenek metalu. Przykładem takiej reakcji jest rozkład w roztworze wodnym wodorotlenku amonu:
 
-   **Poprawna odpowiedź: B.**
+NH<sub>4</sub>OH → NH<sub>4</sub><sup>+</sup> + OH<sup>-</sup> → NH<sub>3</sub> + H<sub>2</sub>O
 
-Fiszki
------
+### Inne rodzaje hydrolizy
 
-* Hydroliza: Rozkład związków nieorganicznych pod wpływem wody.
-* Sole słabych kwasów tlenowych: Pod wpływem hydrolizy dają zasady.
-* Sole silnych kwasów tlenowych: Nie ulegają hydrolizie.
-* Rozpuszczanie się soli: Nie wiąże się z tworzeniem nowych związków chemicznych.
-* Hydroliza węglanów i bikarbonianów: Daje kationy metali i aniony wodorowęglanowe lub węglanowe.
+Istnieją również inne rodzaje hydrolizy, w zależności od rodzaju soli. Niekiedy reakcja hydrolizy prowadzi do powstania zarówno kwasu, jak i zasady. Przykładem takiej reakcji jest hydroliza chlorku amonu:
 
-Notatki
-=======
+NH<sub>4</sub>Cl + H<sub>2</sub>O → NH<sub>4</sub><sup>+</sup> + Cl<sup>-</sup> + H<sub>3</sub>O<sup>+</sup> + OH<sup>-</sup> → NH<sub>3</sub> + H<sub>3</sub>O<sup>+</sup> + Cl<sup>-</sup> + OH<sup>-</sup> → NH<sub>4</sub><sup>+</sup> + Cl<sup>-</sup> + H<sub>2</sub>O + H<sub>2</sub>O
 
-Hydroliza to proces chemiczny, podczas którego związki nieorganiczne rozkładają się pod wpływem wody. Jednym z przykładów tego procesu jest hydroliza soli. Hydroliza soli zachodzi tylko dla soli słabych kwasów tlenowych, ponieważ soli silnych kwasów tlenowych nie ulegają hydrolizie.
-
-Sole słabych kwasów tlenowych, takich jak wodorowęglany, wodorofosforany i wodoroborany, rozkładają się na jony metali i soli zasadowe. Na przykład, jeżeli rozpuścimy chlorek amonu w wodzie, otrzymamy roztwór amoniaku i jodku:
-
-NH4Cl → NH4+ + Cl-
-
-NH4+ + H2O → NH3 + H3O+
-
-Cl- + H2O → HCl + OH-
-
-NH3 + H2O + HCl → NH4Cl + H2O
-
-Podobnie, jeżeli rozpuścimy wodorowęglan sodu w wodzie, otrzymamy roztwór wodorotlenku sodu i dwutlenku węgla:
-
-NaHCO3 + H2O → Na+ + HCO3-
-
-HCO3- + H2O → H2CO3 + OH-
-
-H2CO3 → CO2 + H2O
-
-Na+ + OH- + CO2 + H2O → NaHCO3 + H2O
-
-Hydroliza węglanów i bikarbonianów zachodzi w obecności wody i dwutlenku węgla, a końcowym efektem jest wytrącanie się tych soli jako osadu.
-
-W przypadku soli zasadowych, np. wodorotlenków, ich hydroliza prowadzi do wytworzenia jonów wodorotlenkowych oraz kationów metali, które tworzą sole zasadowe. W wyniku tego procesu powstają wodne roztwory wodorotlenków.
-
-Hydroliza jest procesem egzotermicznym, co oznacza, że wydziela energię cieplną. Jednak, jeżeli podczas hydrolizy wytwarzane są sole zasadowe, to energia cieplna może być pochłaniana, a proces staje się endotermiczny.
-
-Podsumowując, hydroliza to ważny proces chemiczny, który odgrywa kluczową rolę w rozpuszczaniu się soli w wodzie. Hydroliza soli słabych kwasów tlenowych prowadzi do wytworzenia soli zasadowych lub zasad, a w przypadku soli zasadowych powstają wodne roztwory wodorotlenków. Hydroliza węglanów i bikarbonianów prowadzi do ich wytrącania się jako osadu.
+W zależności od pH roztworu, jedna z tych reakcji będzie dominować, co skutkuje powstaniem nowego kwasu lub zasady.
