@@ -1,73 +1,27 @@
- # Prawo Avogadra - Quiz
+# Quiz
 
-1. Co to jest Prawo Avogadra?
-   A. Zakon na uczczenie fizyka Amedeo Avogadro
-   
-   B. Przypisanie liczby stałej do objętości 1 molka gazu
-   
-   C. Zależność między liczbą czastek a objętością gazu
-   
-   D. Definicja gramu molowego
+1. Ile atomów w 5g wodoru? (A: 3,011 x 10^23, B: 5 x 10^23, C: 1,5 x 10^23, D: 2 x 10^23)
+2. Ile molów w 30g chloru? (A: 1 mol, B: 0,5 mol, C: 2 mol, D: 3 mol)
+3. Ile atomów w 2 molach węgla? (A: 6 x 10^23, B: 12 x 10^23, C: 18 x 10^23, D: 24 x 10^23)
+4. Ile molów w 6 x 10^24 atomach wodoru? (A: 3 mol, B: 6 mol, C: 9 mol, D: 12 mol)
+5. Ile cząstek w 0,2 molach tlenu? (A: 6 x 10^23, B: 12 x 10^23, C: 18 x 10^23, D: 24 x 10^23)
 
-   Poprawna odpowiedź: C. Zależność między liczbą czastek a objętością gazu
+Poprawne odpowiedzi: 1A, 2B, 3D, 4C, 5B
 
-2. Jaką objętość zajmuje 1 mol gazu przy warunkach normalnych?
-   A. 22,4 dm³
-   
-   B. 224 dm³
-   
-   C. 0,224 dm³
-   
-   D. 0,0224 dm³
+# Fiszki
 
-   Poprawna odpowiedź: A. 22,4 dm³
+1. **Prawo Avogadra** - stosunek liczby atomów (lub innych cząstek) do liczby molów jest stały i równy Avogadro'emu number, który wynosi 6,022 x 10^23.
+2. **Mol** - jednostka ilości substancji, która zawiera tyle cząstek, ile atomów w 12g węgla-12.
+3. **Masa molowa** - masa jednego mola substancji, wyrażona w gramach.
+4. **Równanie Avogadra'ego** - n = N/NA, gdzie n to liczba molów, N to liczba cząstek, a NA to stała Avogadra.
+5. **Przykład obliczenia** - masa molowa wodoru to 1g/mol, więc w 5g wodoru jest 5g/1g/mol = 5 molów, co daje 5 mol x 6,022 x 10^23 = 3,011 x 10^23 atomy.
 
-3. Ile cząsteczek gazu znajduje się w objętości 5,6 l przy ciśnieniu 1,2 atm i temperaturze 300 K?
-   A. 1,3 x 10^23
-   
-   B. 1,3 x 10^22
-   
-   C. 1,3 x 10^24
-   
-   D. 1,3 x 10^25
+# Notatki
 
-   Poprawna odpowiedź: B. 1,3 x 10^22
+Prawo Avogadra jest fundamentalne w chemii, ponieważ pozwala nam na łatwe obliczanie ilości cząstek w danej substancji. Zgodnie z prawem, stosunek liczby atomów (lub innych cząstek) do liczby molów jest stały i równy Avogadro'emu number, który wynosi 6,022 x 10^23. Jednostką ilości substancji jest mol, który zawiera tyle cząstek, ile atomów w 12g węgla-12.
 
-4. Jakie jest stałe przypisane do liczby Avogadra?
-   A. 6,022 x 10^23
-   
-   B. 0,6022 x 10^23
-   
-   C. 60,22 x 10^21
-   
-   D. 602,2 x 10^20
+Aby policzyć ilość cząstek w danej substancji, możemy skorzystać z równania Avogadra: n = N/NA, gdzie n to liczba molów, N to liczba cząstek, a NA to stała Avogadra. Na przykład, aby obliczyć ilość atomów w 5g wodoru, musimy najpierw policzyć liczbę molów w 5g wodoru, dzieląc masę przez masę molową (1g/mol): 5g/1g/mol = 5 mol. Następnie, mnożymy liczbę molów przez Avogadro's number, aby uzyskać liczbę atomów: 5 mol x 6,022 x 10^23 = 3,011 x 10^23 atomy.
 
-   Poprawna odpowiedź: A. 6,022 x 10^23
+Prawo Avogadra jest również używane do obliczania molów w danej substancji, gdy mamy liczbę cząstek. Na przykład, aby obliczyć liczbę molów w 6 x 10^24 atomach wodoru, dzielimy liczbę cząstek przez Avogadro's number: 6 x 10^24 / 6,022 x 10^23 = 9,96 mol.
 
-5. Dla jakich gazów w warunkach normalnych nie zachodzi prawo Avogadra?
-   A. Idealne gazy
-   
-   B. Realne gazy
-   
-   C. Wszystkie gazy
-   
-   D. Ciecze
-
-   Poprawna odpowiedź: B. Realne gazy
-
-# Prawo Avogadra - Fiszki
-
-1. Definicja Prawo Avogadra:
-   "Objętość jednego mola gazu doskonałego przy stałym ciśnieniu i temperaturze zawiera stałą liczbę cząstek, równą przybliżonemu zrezultacie 6,022 x 10^23"
-2. Liczba Avogadra: 6,022 x 10^23
-3. Zdefiniowana jednostka: mol
-4. Warunki normalne: 1 atm i 273 K
-5. Objętość 1 mola gazu przy warunkach normalnych: 22,4 dm³
-
-# Prawo Avogadra - Notatki
-
-Prawo Avogadra, nazwane na cześć fizyka Amedeo Avogadro, mówi, że objętość jednego mola gazu doskonałego przy stałym ciśnieniu i temperaturze zawiera stałą liczbę cząstek, przybliżoną do 6,022 x 10^23. Liczba ta nazywana jest liczbą Avogadra, i definiuje mol jako jednostkę ilości. Liczba Avogadra wskazuje liczbę cząstek w strukturze atomowej (jakkolwiek czasami stosowana w odniesieniu do cząstek w całej strukturze molekularnej), więc oznacza ilość składników zestalonych razem w gramie molowym.
-
-Warunki normalne dla gazów zdefiniowane są jako 1 atm i 273 K. Przy tych warunkach, objętość 1 mola gazu jest równa 22,4 dm³.
-
-Prawo to jest prawdziwe w przypadku gazów idealnych, które nie istnieją w stanie czystym i są hipotetycznymi modelami używanymi do aproksymacji. Przybliżenia idealnych gazów są najlepsze przy niskich ciśnieniach i dużych objętościach. Prawo Avogadra zastosowane do realnych gazów daエ回精确结果.
+Wiedza o prawie Avogadra i jego zastosowaniu jest niezbędna do zrozumienia chemii i jest stosowana w wielu obszarach, w tym w obliczaniu masy molowej, masy cząsteczkowej, stężenia substancji i innych.

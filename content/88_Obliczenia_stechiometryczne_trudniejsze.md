@@ -1,57 +1,86 @@
- # Stogram Stechiometryczny: Ósma Dezet — Obliczenia Trudniejsze
+# Quiz: Obliczenia Stechiometryczne Trudniejsze
 
-## Quiz
+1. Jakie ilości reagentów są niezbędne do przeprowadzenia reakcji, w której uczestniczą 30,0 g chlorku amonu (NH<sub>4</sub>Cl) i wodorotlenek sodu (NaOH), a produktem jest chlorek sodu (NaCl) i woda (H<sub>2</sub>O)?
 
-1. Ile moli wodoru (H) zawiera się w 4 molach wody (H2O)?
-A. 2
-B. 4
-C. 8
-D. 16
-**Poprawna odpowiedź:** C. 8
-2. Ile moli tlenu (O) zawiera się w 3 molach dwutlenku siarki (SO2)?
-A. 3
-B. 6
-C. 9
-D. 12
-**Poprawna odpowiedź:** B. 6
-3. Ile grama tlenku wapnia (CaO) można otrzymać z 80 gramów węglanu wapnia (CaCO3)? (Masa molowa CaO = 56 g/mol, CaCO3 = 100 g/mol)
-A. 40 g
-B. 50 g
-C. 56 g
-D. 80 g
-**Poprawna odpowiedź:** B. 50 g
-4. Ile moli węglanu sodu (Na2CO3) powstaje przy rozkładzie 5 moli węglanu wapnia (CaCO3)?
-A. 2,5
-B. 3
-C. 5
-D. 7,5
-**Poprawna odpowiedź:** A. 2,5
-5. Ile moli wody (H2O) jest potrzebna do otrzymania 1 moli alkoholu etylowego (C2H5OH) w reakcji z etylenem (C2H4)? (Reakcja: C2H4 + H2O → C2H5OH)
-A. 1
-B. 2
-C. 3
-D. 4
-**Poprawna odpowiedź:** B. 2
+   A. 30,0 g NaOH
+   B. 45,0 g NaOH
+   C. 60,0 g NaOH
+   D. 75,0 g NaOH
 
-## Fiszki
+   Poprawna odpowiedź: C. 60,0 g NaOH
 
-1. **Masa molowa:** Sumaryczna masa 1 mola cząsteczki danej substancji.
-2. **Równoważnik molowy:** Liczba moli danej substancji, która uczestniczy w reakcji chemicznej na przestrzeni 1 mola innej substancji.
-3. **Zasada stechiometryczna:** Liczba moli danej substancji jest równa liczbie moli innej substancji, która wchodzi w reakcję z pierwszą substancją.
-4. **Uwadnianie:** Proces dodawania wody do związku chemicznego.
-5. **Hydroliza:** Proces rozkładu związku chemicznego przez wodę.
+2. Ilość cukru (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>) potrzebna do przeprowadzenia reakcji z wodorotlenkiem sodu (NaOH), aby otrzymać 15,0 g glukozy (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>), wynosi:
 
-## Notatki
+   A. 12,5 g
+   B. 25,0 g
+   C. 37,5 g
+   D. 50,0 g
 
-Obliczanie stechiometryczne wymaga zrozumienia kilku podstawowych pojęć chemicznych: masy molowej, równoważnika molowego i zasady stechiometrycznej.
+   Poprawna odpowiedź: B. 25,0 g
 
-Masa molowa to suma mas atomowych wszystkich atomów w cząsteczce danej substancji. Na przykład masa molowa wody (H2O) wynosi 18 g/mol, gdyż zawiera ona dwie masy atomy wodoru (2 × 1 g/mol) i jedną masę atomową tlenu (16 g/mol). Pozwala to przeliczać masy substancji na liczby moli i odwrotnie.
+3. Ilość węglanu wapnia (CaCO<sub>3</sub>) potrzebna do uzyskania 40,0 g węglanu baru (BaCO<sub>3</sub>), wynosi:
 
-Równoważnik molowy to liczba moli danej substancji biorącej udział w reakcji na przestrzeni 1 moli innej substancji. Na przykład w przypadku reakcji wody (H2O) z alkoholem etylowym (C2H5OH), do \
-1 moli alkoholu etylowego potrzebny jest dokładnie 1 mol wody, więc masa równoważnika molowego wody wynosi 18 g/mol, podczas gdy masa równoważnika molowego alkoholu etylowego wynosi ok. 46 g/mol.
+   A. 40,0 g
+   B. 60,0 g
+   C. 80,0 g
+   D. 100,0 g
 
-Zasada stechiometryczna mówi, że liczba moli danej substancji jest równa liczbie moli innej substancji, która wchodzi w reakcję z pierwszą substancją. Pozwala to na obliczenie ilości substancji, którą można otrzymać w wyniku reakcji chemicznej.
+   Poprawna odpowiedź: C. 80,0 g
 
-Ogólnie rzecz biorąc, obliczanie stechiometryczne wymaga uwzględnienia masy molowej, równoważnika molowego i zasady stechiometrycznej. Kiedy mamy dwie substancje reagujące ze sobą, najpierw należy ustalić ilość moli każdej z nich, poczynając od substancji o znanej ilości. Następnie należy wykorzystać zasadę stechiometryczną i obliczyć liczbę moli drugiej substancji. Po wykonaniu tych kroków możemy przeliczyć liczbę moli na masy lub objętości substancji.
+4. Ilość wody (H<sub>2</sub>O) potrzebna do przeprowadzenia reakcji z tlenem (O<sub>2</sub>), aby otrzymać 20,0 g kwasu siarkowego (H<sub>2</sub>SO<sub>4</sub>), wynosi:
 
-Obliczenia stechiometryczne mogą mieć zastosowanie w procedurach przemysłowych, gdzie właściwe stosowanie substancji wpływa na jakość końcowego produktu, a także w ekologii i ochronie środowiska. Na przykład obliczenia stechiometryczne pomagają określić ilość substancji, które można bezpiecznie uwolnić w środowisku przy przetwarzaniu odpadów.
+   A. 10,0 g
+   B. 20,0 g
+   C. 30,0 g
+   D. 40,0 g
+
+   Poprawna odpowiedź: C. 30,0 g
+
+5. Ilość tlenku węgla (CO) potrzebna do przeprowadzenia reakcji z wodorem (H<sub>2</sub>), aby otrzymać 15,0 g metanolu (CH<sub>3</sub>OH), wynosi:
+
+   A. 5,0 g
+   B. 10,0 g
+   C. 15,0 g
+   D. 20,0 g
+
+   Poprawna odpowiedź: B. 10,0 g
+
+# Fiszki: Obliczenia Stechiometryczne Trudniejsze
+
+1. Obliczanie masy molowej
+   * Równanie: n = m / M
+   * n - ilość moli
+   * m - masa
+   * M - masa molowa
+2. Obliczanie masy z ilości moli
+   * Równanie: m = n * M
+   * m - masa
+   * n - ilość moli
+   * M - masa molowa
+3. Obliczanie ilości moli z masy
+   * Równanie: n = m / M
+   * n - ilość moli
+   * m - masa
+   * M - masa molowa
+4. Obliczanie masy z ilości reagentów
+   * Równanie: m = n * M
+   * m - masa
+   * n - ilość moli
+   * M - masa molowa
+5. Obliczanie ilości reagentów z masy
+   * Równanie: n = m / M
+   * n - ilość moli
+   * m - masa
+   * M - masa molowa
+
+# Notatki: Obliczenia Stechiometryczne Trudniejsze
+
+Obliczenia stechiometryczne to proces obliczania ilości reagentów i produktów w reakcjach chemicznych. Wymaga ono znajomości równań stechiometrycznych i stosowania podstawowych równań fizycznych.
+
+Aby obliczyć ilość reagentów potrzebnych do przeprowadzenia reakcji, należy obliczyć ilość moli każdego reagenta i pomnożyć ją przez jego masę molową. Następnie, należy wybrać reagent o największej ilości moli i użyć jego ilości moli do wyliczenia ilości moli pozostałych reagentów.
+
+Aby obliczyć ilość produktów otrzymanych w reakcji, należy obliczyć ilość moli każdego produktu i pomnożyć ją przez jego masę molową.
+
+Obliczenia stechiometryczne mogą być wykonane również w odwrotnym kierunku, aby obliczyć ilość reagentów potrzebnych do otrzymania określonej ilości produktu. W tym przypadku, należy obliczyć ilość moli produktu i podzielić ją przez współczynnik stechiometryczny, aby uzyskać ilość moli reagentu. Następnie, należy pomnożyć ilość moli reagentu przez jego masę molową, aby uzyskać masę reagentu.
+
+Obliczenia stechiometryczne mogą być złożone, szczególnie w przypadku reakcji z wieloma reagentami i produktami. Jednak, poprzez stosowanie podstawowych równań fizycznych i metodyków obliczeniowych, można je wykonać z dokładnością i dokładnością.
