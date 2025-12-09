@@ -1,76 +1,75 @@
- # Quiz - Amino Acids: Structure and Properties (5 questions)
+# Quiz - Amino Acids: Building and Properties (5 questions)
 
-1. What is the basic structure of an amino acid?
-A. A single protein molecule
-B. A molecule containing a carboxylic acid group, an amino group, and a side chain
-C. A molecule with a weak intermolecular force
-D. A molecule with a single functional group
- Correct answer: B
-2. How many different amino acids are encoded by the standard genetic code?
-A. 4
-B. 10
-C. 20
-D. 22
- Correct answer: C
-3. What are the two main properties that characterize an amino acid's side chain?
-A. Hydrophilicity and hydrophobicity
-B. Chirality and electrical charge
-C. Coolness and warmth
-D. Acidity and basicity
- Correct answer: A
-4. How are amino acids typically represented in diagrams or models?
-A. Using the standard three-letter abbreviations
-B. Using the standard one-letter abbreviations
-C. Drawing the full chemical structure
-D. Representing them with symbols or colors
- Correct answer: B
-5. In what way do amino acids differ from each other?
-A. They have different chemical structures
-B. They have different molecular weights
-C. They have different electrical charges
-D. All of the above
- Correct answer: D
+1. What is the basic building block of proteins?
+A. Nucleotides
+B. Carbohydrates
+C. Amino acids
+D. Lipids
 
----
+Answer: C. Amino acids
 
-# Flashcards - Amino Acids: Structure and Properties (5 flashcards)
+2. How many standard proteinogenic amino acids are there?
+A. 18
+B. 20
+C. 22
+D. 24
 
-1. **Amino Acid Structure**
-```markdown
-- Carboxylic acid group
-- Amino group
-- Side chain
-```
-2. **Amino Acids Encoded by Standard Genetic Code**
-```markdown
-- 20 standard amino acids
-```
-3. **Side Chain Characteristics**
-```markdown
-- Hydrophilic (attracted to water)
-- Hydrophobic (repelled by water)
-```
-4. **Representation of Amino Acids**
-```markdown
-- Standard one-letter abbreviations
-```
-5. **Differences among Amino Acids**
-```markdown
-- Different chemical structures
-- Different molecular weights
-- Different electrical charges
-```
+Answer: B. 20
 
----
+3. Which of the following is NOT a property of amino acids?
+A. Contains both amino and carboxyl groups
+B. Has four different functional groups
+C. Exhibits optical isomerism
+D. Contains only carbon and hydrogen atoms
 
-# Notes - Amino Acids: Structure and Properties (~200 words)
+Answer: D. Contains only carbon and hydrogen atoms
 
-Amino acids are fundamental building blocks of proteins and are composed of three main parts: a carboxylic acid group, an amino group, and a side chain. The carboxylic acid group and the amino group are linked by a central carbon atom, known as the alpha carbon, resulting in an amino acid's general formula being represented as H2N-Cα-COOH. The side chain, or R group, is unique to each of the 20 standard amino acids and is responsible for their various chemical properties.
+4. What is the general formula for an amino acid?
+A. R-CH-OH
+B. R-CH-NH2
+C. R-COOH
+D. R-CH2-R
 
-The two main properties that characterize an amino acid's side chain are hydrophilicity and hydrophobicity. Hydrophilic amino acids have side chains that are attracted to water molecules, making them polar, while hydrophobic amino acids have side chains that are repelled by water molecules, making them nonpolar. The 20 standard amino acids are typically represented in diagrams and models using standard one-letter abbreviations, which are easy to recognize and use in diagrams and models.
+Answer: C. R-COOH
 
-Amino acids differ from each other in several ways, including their chemical structures, molecular weights, and electrical charges. Some amino acids have charged side chains, some have polar side chains, while others have nonpolar side chains. The unique properties of the side chains give each amino acid its distinct chemical properties and influence the arrangement of the amino acids within a protein.
+5. Which of the following amino acids is classified as a hydrophobic amino acid?
+A. Serine
+B. Tryptophan
+C. Threonine
+D. Tyrosine
 
-Furthermore, amino acids are linked together by peptide bonds to form polypeptides, which are the primary building blocks of proteins. The unique arrangement of amino acids in a polypeptide chains determines the three-dimensional structure of a protein, which in turn determines its biological function and activity. The properties of the constituent amino acids, such as polarity and charge, play a significant role in determining how the protein will behave in different environments, such as in the cell or outside of it. Understanding the structure and properties of amino acids is crucial in the study of proteins, their function, folding, and interactions.
+Answer: B. Tryptophan
 
----
+# Flashcards - Amino Acids: Building and Properties (5 flashcards)
+
+1. **Glutamic acid**
+   * Amino acid with a negative charge at physiological pH
+   * Important for neurotransmission
+
+2. **Leucine**
+   * Hydrophobic amino acid
+   * Plays a role in protein synthesis and energy production
+
+3. **Lysine**
+   * Positively charged amino acid
+   * Involved in various cellular processes, including DNA replication and repair
+
+4. **Serine**
+   * Polar amino acid
+   * Participates in numerous metabolic pathways, including the synthesis of purines, pyrimidines, and phospholipids
+
+5. **Tryptophan**
+   * Hydrophobic amino acid
+   * Precursor to the neurotransmitter serotonin and the hormone melatonin
+
+# Notes - Amino Acids: Building and Properties (~200 words)
+
+Amino acids are organic compounds containing both amino and carboxyl groups. They are the building blocks of proteins and are essential for the structure, function, and regulation of cells, tissues, and organs. There are 20 standard proteinogenic amino acids, each with a unique side chain (R group) that determines its chemical properties.
+
+Amino acids can be classified into four groups based on their R groups: nonpolar (hydrophobic), polar (hydrophilic), positively charged (basic), and negatively charged (acidic). Hydrophobic amino acids, such as leucine, isoleucine, and tryptophan, tend to be located in the interior of proteins, while hydrophilic amino acids, such as serine, threonine, and tyrosine, are found on the surface of proteins and interact with the aqueous environment.
+
+Positively charged amino acids, such as lysine and arginine, have a positive charge at physiological pH, while negatively charged amino acids, such as aspartic acid and glutamic acid, have a negative charge at physiological pH. These charged amino acids play a crucial role in protein-protein interactions, protein folding, and protein targeting.
+
+Amino acids also exhibit optical isomerism, meaning they can exist in two forms that are mirror images of each other, called D- and L-amino acids. Proteins are composed of L-amino acids, while D-amino acids are rare in nature and have different properties and functions.
+
+In summary, amino acids are the basic building blocks of proteins, and their unique chemical properties determine the structure, function, and regulation of proteins and cells. Understanding the building and properties of amino acids is essential for understanding the biochemistry of life.
