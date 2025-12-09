@@ -1,68 +1,56 @@
- Separation Methods Quiz
-====================
+# Quiz - Metody rozdzielania mieszanin
 
-1. Which of the following is the principle behind paper chromatography?
-A) Partitioning of components between a solid and a gas
-B) Partitioning of components between a solid and a liquid
-C) Partitioning of components between two immiscible liquids
-D) Differential adsorption of components on a solid surface
-Answer: B
+1. Jaka metoda rozdzielania mieszanin jest stosowana, gdy rozdzielamy mieszaninę cieczy o różnych temperaturach wrzenia?
+   A) destylacja
+   B) ekstrakcja
+   C) krystalizacja
+   D) chromatografia
+   **Poprawna odpowiedź: A**
 
-2. What is the primary difference between distillation and fractional distillation?
-A) The temperature range used
-B) The number of stages involved
-C) The type of column used
-D) The phase of matter being separated
-Answer: C
+2. Jaka metoda rozdzielania mieszanin jest stosowana, gdy jedna z substancji jest rozpuszczalna w rozpuszczalniku, a druga nie?
+   A) destylacja
+   B) ekstrakcja
+   C) krystalizacja
+   D) chromatografia
+   **Poprawna odpowiedź: B**
 
-3. What is the purpose of using a centrifuge in the separation of mixtures?
-A) To use the difference in density between components
-B) To use the difference in solubility between components
-C) To use the difference in boiling points between components
-D) To use the difference in polarities between components
-Answer: A
+3. Jaka metoda rozdzielania mieszanin jest stosowana, gdy mamy do czynienia z mieszaniną cieczy i ciała stałego?
+   A) destylacja
+   B) ekstrakcja
+   C) krystalizacja
+   D) chromatografia
+   **Poprawna odpowiedź: C**
 
-4. Which method is commonly used for the separation of ions and charged particles in a solution?
-A) Crystallization
-B) Distillation
-C) Electrophoresis
-D) Filtration
-Answer: C
+4. Jaka metoda rozdzielania mieszanin jest stosowana, gdy mamy do czynienia z mieszaniną związków o różnej lotności?
+   A) destylacja
+   B) ekstrakcja
+   C) krystalizacja
+   D) chromatografia
+   **Poprawna odpowiedź: A**
 
-5. What is the purpose of adding a selective solvent to a mixture for the process of extraction?
-A) To increase the solubility of the desired component
-B) To decrease the solubility of the undesired component
-C) To increase the density of the mixture
-D) To decrease the boiling point of the mixture
-Answer: A
+5. Jaka metoda rozdzielania mieszanin jest stosowana, gdy mamy do czynienia z mieszaniną związków o różnej barwie lub ładunku elektrycznym?
+   A) destylacja
+   B) ekstrakcja
+   C) krystalizacja
+   D) chromatografia
+   **Poprawna odpowiedź: D**
 
----
+# Fiszki - Metody rozdzielania mieszanin
 
-Flashcards
-=========
+1. **Destylacja** - metoda rozdzielania mieszanin cieczy o różnych temperaturach wrzenia.
+2. **Ekstrakcja** - metoda rozdzielania mieszanin, w której jedna substancja jest rozpuszczalna w rozpuszczalniku, a druga nie.
+3. **Krystalizacja** - metoda rozdzielania mieszanin, w której mamy do czynienia z mieszaniną cieczy i ciała stałego.
+4. **Chromatografia** - metoda rozdzielania mieszanin, w której mamy do czynienia z mieszaniną związków o różnej barwie lub ładunku elektrycznym.
+5. **Destylacja frakcyjna** - metoda rozdzielania mieszanin cieczy o niewielkiej różnicy temperatur wrzenia.
 
-1. **Chromatography** - A method for separating and analyzing mixtures based on the differential distribution of components between a stationary phase and a mobile phase.
-2. **Distillation** - A method for separating a mixture based on the difference in boiling points of its components.
-3. **Centrifugation** - A method for separating a mixture based on the difference in densities of its components by applying a centrifugal force.
-4. **Crystallization** - A method for separating a pure solid from a solution by lowering the solubility of the solid through cooling or evaporation.
-5. **Extraction** - A method for separating a component from a mixture by selectively dissolving it in a solvent.
+# Notatki - Metody rozdzielania mieszanin
 
----
+Metody rozdzielania mieszanin to zestaw technik stosowanych w celu oddzielenia składników mieszaniny. Istnieje wiele metod rozdzielania mieszanin, w tym: destylacja, ekstrakcja, krystalizacja i chromatografia.
 
-Notes
-=====
+**Destylacja** jest metodą rozdzielania mieszanin cieczy o różnych temperaturach wrzenia. Polega ona na nagrzewaniu mieszaniny cieczy do temperatury wrzenia niższej składnika, który następnie jest zbierany jako destylat. Temperatura wrzenia wzrasta, aż dojdzie do temperatury wrzenia składnika o wyższej temperaturze wrzenia, który zostaje również zebrany jako destylat.
 
-Separation methods are techniques used for separating and purifying components in a mixture. There are various separation methods, each having its advantages and disadvantages, depending on the components and type of mixture. The following are some common separation methods and their explanations.
+**Ekstrakcja** to metoda rozdzielania mieszanin, w której jedna substancja jest rozpuszczalna w rozpuszczalniku, a druga nie. Polega ona na dodaniu rozpuszczalnika do mieszaniny i rozdzieleniu składników na fazę rozpuszczalnika i fazę nierozpuszczalną. Składnik rozpuszczalny w rozpuszczalniku zostaje wyodrębniony, a składnik nierozpuszczalny pozostaje w fazie nierozpuszczalnej.
 
-1. **Chromatography**
-This is a technique that separates the components of a mixture based on the differential distribution of the components between two phases, a stationary and a mobile phase. The mobile phase is the phase that moves through the system while the stationary phase remains in place. This technique is useful for separating and identifying pigments, dyes, drugs, and other components in a mixture.
-2. **Distillation**
-This technique is based on the principle of boiling point differences between the components of a mixture. In this process, the mixture is heated, and the component with the lowest boiling point evaporates first. The vapor is then cooled, condensed, and collected as a pure liquid. This technique is useful for separating volatile liquids such as ethanol from water, where the boiling point of ethanol is lower than that of water.
-3. **Centrifugation**
-This technique separates a mixture based on the difference in density between its components. In this process, the mixture is subjected to a centrifugal force, which causes the denser components to settle at the bottom of the container, while the less dense components remain on top. This technique is useful for separating solids from liquids, such as blood cells from plasma, or for separating two immiscible liquids, such as oil from water.
-4. **Crystallization**
-This technique is based on the principle of solubility differences between the components of a mixture. In this process, the mixture is dissolved in a solvent, and the resulting solution is slowly cooled to lower the solubility of the desired component. The solid that forms is then collected and purified, leaving the impurities in the solution. This technique is useful for separating and purifying solids such as salts, sugars, and other organic compounds.
-5. **Extraction**
-This technique involves adding a selective solvent to a mixture to dissolve the desired component, leaving behind the impurities. This technique is useful for separating components with different solubilities in a solvent. For instance, extraction is used in the purification of oils and fats, where the lipids are dissolved in a non-polar solvent such as hexane, leaving behind the water-soluble impurities.
+**Krystalizacja** jest metodą rozdzielania mieszanin, w której mamy do czynienia z mieszaniną cieczy i ciała stałego. Polega ona na ochłodzeniu mieszaniny, w wyniku czego składnik o niższej temperaturze topnienia krystalizuje, a składnik o wyższej temperaturze topnienia pozostaje w stanie ciekłym.
 
-In conclusion, separation methods are essential in chemistry and other scientific disciplines for purifying and characterizing mixtures. The method chosen is dependent on the type of components and the type of mixture. Choosing the appropriate separation method is critical for the success of any experimental procedure.
+**Chromatografia** to metoda rozdzielania mieszanin, w której mamy do czynienia z mieszaniną związków o różnej barwie lub ładunku elektrycznym. Polega ona na przepuszczaniu mieszaniny przez kolumnę wypełnioną materiałem absorbującym. Składniki o różnej sile adsorpcji są wychwytywane przez kolumnę w różnym stopniu, co umożliwia ich rozdzielenie.

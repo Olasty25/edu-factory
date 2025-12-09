@@ -1,63 +1,64 @@
- # Quiz
+# Quiz
 
 1. Co oznacza akronim NMR w kontekście spektroskopii?
-   A. Near-field microscopy
-   B. Nuclear magnetic resonance
-   C. Noise margin ratio
-   D. None of the above
+A. Near-Molecular Resonance
+B. Nuclear Magnetic Resonance
+C. Noise Measurement of Radiation
+D. None of the above
 
-   Correct answer: B. Nuclear magnetic resonance
+Correct answer: B. Nuclear Magnetic Resonance
 
-2. W spektroskopii IR, co oznaczają własności transmisyjne i relaksacyjne substancji?
-   A. Transmission and relaxation properties
-   B. Transmission and reflection properties
-   C. Absorption and emission properties
-   D. Absorption and scattering properties
+2. Which of the following is NOT a type of IR spectroscopy?
+A. ATR
+B. FT-IR
+C. DRIFT
+D. NMR
 
-   Correct answer: A. Transmission and relaxation properties
+Correct answer: D. NMR
 
-3. W czym różni się spektroskopia UV od innych technik spektroskopowych?
-   A. Długość fali
-   B. Częstotliwość
-   C. Energia kwantu światła
-   D. Polaryzacja promieniowania
+3. In which region of the electromagnetic spectrum is UV spectroscopy performed?
+A. Visible light
+B. Infrared radiation
+C. Ultraviolet radiation
+D. X-rays
 
-   Correct answer: C. Energia kwantu światła
+Correct answer: C. Ultraviolet radiation
 
-4. Jaka jest zasadnicza różnica między spektroskopią NMR-1H i NMR-13C?
-   A. Rodzaj jąder atomowych
-   B. Rodzaj magnetyzmu jądrowego
-   C. Sposób detekcji sygnału
-   D. Energia kwantu światła
+4. What does the term "shift" refer to in NMR spectroscopy?
+A. The movement of a signal to a higher frequency
+B. The movement of a signal to a lower frequency
+C. The broadening of a signal
+D. The splitting of a signal
 
-   Correct answer: A. Rodzaj jąder atomowych
+Correct answer: A. The movement of a signal to a higher frequency
 
-5. Gdzie znajduje się obszar czułości w widmie UV-Vis?
-   A. Na początku widma
-   B. W środku widma
-   C. Na końcu widma
-   D. Wszędzie w widmie
+5. Which of the following functional groups can be detected using IR spectroscopy?
+A. Alcohols
+B. Aldehydes
+C. Esters
+D. All of the above
 
-   Correct answer: C. Na końcu widma
+Correct answer: D. All of the above
 
 # Fiszki
 
-1. **NMR (Nuclear Magnetic Resonance)**: Technika analityczna wykorzystująca oddziaływanie pomiędzy jądrami atomowymi a polem magnetycznym, wykorzystywana do analizy struktury chemicznej związków organicznych.
-
-2. **IR (Infrared)**: Technika analityczna opierająca się na pomiarze absorpcji promieniowania podczerwonego przez badaną substancję, umożliwia identyfikację grup funkcyjnych w związkach organicznych.
-
-3. **UV (Ultraviolet-Visible)**: Technika analityczna opierająca się na pomiarze absorpcji promieniowania ultrafioletowego i widzialnego przez badaną substancję, wykorzystywana do identyfikacji podwójnych i trójjądrowych wiązań oraz obecności chromoforów w związkach organicznych.
-
-4. **Jądro atomowe**: Każdy atom posiada jądro, które zawiera protony i neutrony. W spektroskopii NMR, różnice w stałych magnetogiracyjnych jąder atomowych pozwalają na identyfikację poszczególnych atomów w związkach organicznych.
-
-5. **Widmo UV-Vis**: Widmo otrzymane w spektroskopii UV-Vis składa się z obszaru czułości, który wskazuje na obecność chromoforów w badanym związku i obszaru naczułości, który nie zawiera informacji o obecności chromoforów.
+1. NMR (Nuclear Magnetic Resonance)
+	* A type of spectroscopy that observes the magnetic properties of certain atomic nuclei
+2. IR (Infrared) spectroscopy
+	* A type of spectroscopy that analyzes the absorption of infrared radiation by a sample
+3. UV (Ultraviolet) spectroscopy
+	* A type of spectroscopy that measures the absorption or transmission of ultraviolet light by a sample
+4. ATR (Attenuated Total Reflectance)
+	* A type of IR spectroscopy that measures the reflection of infrared radiation at the interface between a sample and an internal reflection element
+5. FT-IR (Fourier Transform Infrared)
+	* A type of IR spectroscopy that uses a mathematical technique called Fourier Transform to convert the interferogram (raw data) into a spectrum
 
 # Notatki
 
-Spektroskopia NMR, IR i UV to trzy uniwersalne metody analityczne stosowane w chemii organicznej do badania struktury związków chemicznych.
+Spektroskopia jest techniką analityczną, która wykorzystuje interakcje między materiałem a promieniowaniem elektromagnetycznym do uzyskania informacji o strukturze, własnościach i składzie chemicznym badanego próbki. Wśród różnych metod spektroskopii, trzy najczęściej stosowane w chemii organicznej to NMR, IR i UV.
 
-NMR (Nuclear Magnetic Resonance) to technika analityczna, która wykorzystuje oddziaływanie pomiędzy jądrami atomowymi a polem magnetycznym. W spektroskopii NMR stosuje się zazwyczaj jądra atomowe wodoru (1H) i węgla-13 (13C). Stałe magnetogiracyjne jąder atomowych różnią się dla każdego atomu, dzięki czemu możemy identyfikować położenie poszczególnych atomów w badanej substancji. W spektroskopii NMR można także stwierdzić, czy dany atom jest związany z innymi atomami, takimi jak tlen, wodór lub siarka, co pozwala na wyznaczenie struktury związku.
+NMR (Nuclear Magnetic Resonance) to technika spektroskopowa, która wykorzystuje magnetyczne właściwości jąder atomowych do uzyskania informacji o strukturze i składzie chemicznym próbki. W NMR, próbka umieszczana jest w silnym polu magnetycznym, a następnie bombardowana falami radiowymi o określonej częstotliwości. W zależności od własności magnetycznych jąder atomowych w próbce, obserwowane są sygnały o różnych częstotliwościach, które tworzą charakterystyczny dla danej próbki widmo NMR.
 
-IR (Infrared) to technika analityczna opierająca się na pomiarze absorpcji promieniowania podczerwonego przez badaną substancję. W spektroskopii IR można stwierdzić obecność i położenie wysokoenergetycznych wiązań w substancji, co pozwala na identyfikację grup funkcyjnych w związkach organicznych. W spektroskopii IR stosuje się obszar właściwości transmisyjnych i relaksacyjnych badanej substancji.
+IR (Infrared) spektroskopia to metoda analizy, która wykorzystuje promieniowanie podczerwone do wykrywania wibracji molekularnych w próbce. Każda wibracja molekularna odpowiada określonej częstotliwości, która jest charakterystyczna dla danej grupy funkcyjnej. Na podstawie analizy widma IR można więc wywnioskować, które grupy funkcyjne są obecne w próbce.
 
-UV (Ultraviolet-Visible) to technika analityczna opierająca się na pomiarze absorpcji promieniowania ultrafioletowego i widzialnego przez badaną substancję. W spektroskopii UV można stwierdzić obecność i położenie wysokoenergetycznych wiązań oraz obecność chromoforów w badanej substancji. W widmie UV-Vis wyróżnia się obszar czułości, który wskazuje na obecność chromoforów w badanym związku i obszar naczułości, który nie zawiera informacji o obecności chromoforów. W spektroskopii UV stosuje się długość fali promieniowania ultrafioletowego i widzialnego oraz energię kwantu światła.
+UV (Ultraviolet) spektroskopia to metoda analizy, która wykorzystuje promieniowanie ultrafioletowe do wykrywania wzbudzeń elektronowych w próbce. W zależności od rodzaju wzbudzeń, obserwowane są sygnały o różnych częstotliwościach, które tworzą charakterystyczne dla danego związku widmo UV. W szczególności, UV-Vis spektroskopia jest często stosowana do identyfikacji i charakteryzacji związków aromatycznych i wielopierścieniowych.
