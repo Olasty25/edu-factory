@@ -1,58 +1,65 @@
- # Quiz: Jagiellonowie - Złoty Wiek Polski
+ # Quiz - Jagiellonowie - Złoty Wiek Polski
 
-1. Który rok rozpoczyna panowanie dynastii Jagiellonów w Polsce?
-   A) 1385
-   B) 1386
-   C) 1387
-   D) 1388
-   **Poprawna odpowiedź: B**
+1. Kto był królem Polski w czasach złotego wieku Jagiellonów?
+   A. Kazimierz III Wielki
+   B. Władysław II Jagiełło
+   C. Zygmunt I Stary
+   D. Jan III Sobieski
 
-2. Który Jagiellon został wybrany na króla Polski w 1447 roku?
-   A) Władysław III Warneńczyk
-   B) Kazimierz IV Jagiellończyk
-   C) Jan I Olbracht
-   D) Aleksander Jagiellończyk
-   **Poprawna odpowiedź: B**
+   Correct answer: C. Zygmunt I Stary
 
-3. Która bitwa uważana jest za najważniejsze zwycięstwo militjarne w historii Polski?
-   A) Bitwa pod Grunwaldem
-   B) Bitwa pod Pabianicami
-   C) Bitwa pod Warną
-   D) Bitwa pod Chojnicami
-   **Poprawna odpowiedź: A**
+2. Kiedy rozpoczął się złoty wiek Polski?
+   A. W XIV wieku
+   B. W XV wieku
+   C. W XVI wieku
+   D. W XVII wieku
 
-4. Która królowa z dynastii Jagiellonów najbardziej znana jest z rozwijania kultury i edukacji w Polsce?
-   A) Jadwiga Andegaweńska
-   B) Elżbieta Rakuszanka
-   C) Barbara Zápolya
-   D) Bona Sforza
-   **Poprawna odpowiedź: D**
+   Correct answer: C. W XVI wieku
 
-5. Jaki rok uważany jest za koniec Złotego Wieku Polski, okresu rozkwitu w dziedzinie sztuki, nauki i gospodarki?
-   A) 1505
-   B) 1506
-   C) 1569
-   D) 1572
-   **Poprawna odpowiedź: C**
+3. Która królowa Polski była córką Władysława II Jagiełły?
+   A. Jadwiga Andegaweńska
+   B. Barbara Zápolya
+   C. Bona Sforza
+   D. Anna Jagiellonka
 
-# Fiszki: Jagiellonowie - Złoty Wiek Polski
+   Correct answer: D. Anna Jagiellonka
 
-1. **Władysław III Warneńczyk (1424-1444)**: Pierwszy król Polski z dynastii Jagiellonów, któremu udało się również zostać królem Węgier. Podczas swoich rządów starał się umocnić unię polsko-litewską i rozpoczął wojnę z Turcją, która zakończyła się jego śmiercią.
-2. **Kazimierz IV Jagiellończyk (1427-1492)**: Drugi król Polski z dynastii Jagiellonów i ojciec królów: Władysława II Jagiełły, Jana I Olbrachta, Aleksandra Jagiellończyka i Zygmunta I Starego. Panował w okresie znanym jako "Złoty Wiek Polski".
-3. **Bitwa pod Grunwaldem (1410)**: Bitwa stoczona pomiędzy Królestwem Polskim i Wielkim Księstwem Litewskim a Zakonem Krzyżackim, zakończona zwycięstwem Polski i Litwy. Bitwa ta jest uważana za największe i najważniejsze zwycięstwo Polski w dziejach.
-4. **Jan Olbracht (1459-1501)**: Trzeci król Polski z dynastii Jagiellonów, który zyskał sławę jako dowódca wojskowy. Podczas jego panowania Polska odniosła wojenne zwycięstwo w Mołdawii w bitwie pod Koźminiem.
-5. **Bona Sforza (1494-1557)**: Włoska księżniczka z dynastii Sforz, która urodziła się w Mediolanie i poślubiła Zygmunta I Starego w 1518 roku. Była królową Polski i Wielkiego Księstwa Litewskiego, popularyzatorką kultury włoskiej i mecenas sztuki.
+4. Która z wymienionych bitew nie miała miejsca w czasach złotego wieku Jagiellonów?
+   A. Bitwa pod Grunwaldem
+   B. Bitwa pod Chocimiem
+   C. Bitwa pod Wiedniem
+   D. Bitwa pod Orszą
 
-# Notatki: Jagiellonowie - Złoty Wiek Polski
+   Correct answer: C. Bitwa pod Wiedniem
 
-Złoty Wiek Polski to okres rozkwitu w dziedzinie sztuki, nauki i gospodarki. Przypada on na panowanie królów: Władysława III Warneńczyka, Kazimierza IV Jagiellończyka, Jana I Olbrachta, Aleksandra Jagiellończyka oraz Zygmunta I Starego.
+5. Kto był ojcem Zygmunta I Starego?
+   A. Władysław II Jagiełło
+   B. Kazimierz IV Jagiellończyk
+   C. Jan Olbracht
+   D. Aleksander Jagiellończyk
 
-Za datę początkową Złotego Wieku Polski uznaje się rok 1386, kiedy to Władysław II Jagiełło poślubił Jadwigę Andegaweńską i został koronowany na króla Polski. Pod panowaniem Jagiellonów Polska stała się najsilniejszym państwem na terenach położonych między Morzem Bałtyckim i Morzem Czarnym.
+   Correct answer: B. Kazimierz IV Jagiellończyk
 
-Najważniejszym wydarzeniem w historii Polski w tym okresie była bitwa pod Grunwaldem w 1410 roku, w której wojska polsko-litewskie pod dowództwem Władysława II Jagiełły i Witolda Kiejstutowicza pokonały siły krzyżackie.
+# Fiszki - Jagiellonowie - Złoty Wiek Polski
 
-W dziedzinie kultury Złoty Wiek Polski to czas świetności polskiego humanizmu. Uniwersytet Krakowski stał się jednym z najważniejszych ośrodków naukowych w Europie, a polscy uczeni wywarli wielki wpływ na rozwój nauki na kontynencie.
+1. **Złoty Wiek Polski** - okres w historii Polski, który trwał od połowy XVI wieku do początku XVII wieku, kiedy Polska była jednym z najpotężniejszych państw Europy.
+2. **Jagiellonowie** - dynastia królewska, która rządziła Polską w czasach złotego wieku.
+3. **Zygmunt I Stary** - król Polski w latach 1506-1548, który rozpoczął okres złotego wieku Polski.
+4. **Bona Sforza** - królowa Polski, żona Zygmunta I Starego, która przyczyniła się do rozwoju gospodarczego i kulturalnego Polski.
+5. **Sejm** - instytucja polityczna, która powstała w czasach złotego wieku Polski i umożliwiła współpracę szlachty z królem.
 
-Rozwój gospodarczy Polski zapewnił jej stabilność wewnętrzną i status wielkiej potęgi w Europie. Królowie Jagiellonów przeprowadzili reformy mające na celu poprawę warunków życia ludności, a także zaangażowali się w akcje mające na celu rozwój handlu i przemysłu.
+# Notatki - Jagiellonowie - Złoty Wiek Polski
 
-Złoty Wiek Polski zakończył się w 1569 roku, kiedy to nastąpił podział Unii Lubelskiej na Rzeczpospolitą Obojga Narodów.
+W czasach złotego wieku Polski, który trwał od połowy XVI wieku do początku XVII wieku, Polska była jednym z najpotężniejszych państw Europy. To okres w historii Polski, kiedy kraj rozwijał się gospodarczo, kulturalnie i politycznie.
+
+Jagiellonowie byli dynastią królewską, która rządziła Polską w czasach złotego wieku. Pierwszym królem Jagiellonów na tronie polskim był Władysław II Jagiełło, który rządził w latach 1386-1434. Za jego rządów Polska stała się potęgą militarną i polityczną w Europie.
+
+Następcą Władysława II Jagiełły na tronie polskim był Kazimierz IV Jagiellończyk, który rządził w latach 1447-1492. Za jego rządów Polska rozwinęła się gospodarczo i kulturalnie. Kazimierz IV Jagiellończyk wprowadził wiele reform, które umocniły pozycję Polski w Europie.
+
+Złoty wiek Polski rozpoczął się za rządów Zygmunta I Starego, który rządził w latach 1506-1548. Za jego rządów Polska stała się jednym z najpotężniejszych państw Europy. Zygmunt I Stary wprowadził wiele reform, które umocniły pozycję Polski w Europie.
+
+Bona Sforza, żona Zygmunta I Starego, przyczyniła się do rozwoju gospodarczego i kulturalnego Polski. Była włoską arystokratką, która wprowadziła wiele nowych idei i zwyczajów do Polski.
+
+Sejm, instytucja polityczna, która powstała w czasach złotego wieku Polski, umożliwił współpracę szlachty z królem. Sejm był forum, na którym szlachta mogła dyskutować i decydować o sprawach państwa.
+
+W czasach złotego wieku Polski kraj stał się jednym z najpotężniejszych państw Europy. Jagiellonowie byli dynastią królewską, która rządziła Polską w tym okresie. Za ich rządów Polska rozwijała się gospodarczo, kulturalnie i politycznie. Złoty wiek Polski to okres w historii Polski, który jest pamiętany do dziś jako jeden z najbardziej udanych okresów w historii kraju.

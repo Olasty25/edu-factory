@@ -1,64 +1,59 @@
- # Quiz (113. Liberum veto i kryzys Rzeczpospolitej)
+ # Quiz: Liberum Veto and the Crisis of the Polish-Lithuanian Commonwealth
 
-1. Co oznacza łaciński termin "Liberum veto"?
+1. What is Liberum Veto?
+   A. A law that allowed the King to dissolve the parliament
+   B. A law that allowed any member of the Sejm to veto a decision
+   C. A law that gave the nobility the right to elect the King
+   D. A law that protected the rights of religious minorities
 
-   A. "Wolne miasto"
-   B. "Wolne głosowanie"
-   C. "Wolna wola"
-   D. "Wolne sądy"
+   Answer: B
 
-   **Poprawna odpowiedź: C. "Wolna wola"**
+2. When was Liberum Veto first introduced in the Polish-Lithuanian Commonwealth?
+   A. In the 15th century
+   B. In the 16th century
+   C. In the 17th century
+   D. In the 18th century
 
-2. Kiedy po raz pierwszy zastosowano liberum veto w Sejmie Rzeczypospolitej?
+   Answer: C
 
-   A. W 1609 roku
-   B. W 1669 roku
-   C. W 1764 roku
-   D. W 1788 roku
+3. What were the consequences of Liberum Veto?
+   A. It led to political stability and economic growth
+   B. It led to the weakening of the central government and the paralysis of decision-making
+   C. It led to the strengthening of the monarchy
+   D. It led to the suppression of religious freedoms
 
-   **Poprawna odpowiedź: B. W 1669 roku**
+   Answer: B
 
-3. Jakie były konsekwencje stosowania liberum veto w Sejmie Rzeczypospolitej?
+4. What was the Golden Liberty?
+   A. A set of privileges granted to the nobility
+   B. A law that allowed the King to dissolve the parliament
+   C. A law that allowed any member of the Sejm to veto a decision
+   D. A law that protected the rights of religious minorities
 
-   A. Impas polityczny i brak zdolności do podejmowania decyzji
-   B. Zaniechanie wszelkich zmian w ustroju państwa
-   C. Zwiększenie władzy królewskiej
-   D. Ograniczenie uprawnień szlachty
+   Answer: A
 
-   **Poprawna odpowiedź: A. Impas polityczny i brak zdolności do podejmowania decyzji**
+5. When did the Polish-Lithuanian Commonwealth cease to exist?
+   A. In 1791
+   B. In 1793
+   C. In 1795
+   D. In 1807
 
-4. Która z osób była najbardziej krytyczna wobec liberum veto?
+   Answer: C
 
-   A. Stanisław Leszczyński
-   B. Stanisław Małachowski
-   C. Król August III
-   D. Hetman Stefan Czarniecki
+# Fiszki: Liberum Veto and the Crisis of the Polish-Lithuanian Commonwealth
 
-   **Poprawna odpowiedź: B. Stanisław Małachowski**
+1. Liberum Veto - a law that allowed any member of the Sejm (Polish parliament) to veto a decision, leading to the paralysis of decision-making and the weakening of the central government.
+2. Golden Liberty - a set of privileges granted to the nobility, including the right to elect the King and veto his decisions.
+3. Polish-Lithuanian Commonwealth - a political entity that existed from 1569 to 1795, encompassing the territories of present-day Poland, Lithuania, Belarus, and Ukraine.
+4. Sejm - the Polish parliament, consisting of the King, the Senate, and the Chamber of Deputies.
+5. Konfederacja Warszawska - a confederation established in 1704, aimed at limiting the power of the King and protecting the rights of the nobility.
 
-5. Kiedy zniesiono liberum veto w Rzeczypospolitej?
+# Notatki: Liberum Veto and the Crisis of the Polish-Lithuanian Commonwealth
 
-   A. W 1773 roku
-   B. W 1791 roku
-   C. W 1793 roku
-   D. W 1795 roku
+The Polish-Lithuanian Commonwealth was a unique political entity in early modern Europe, characterized by its decentralized power structure and the strong influence of the nobility. The Golden Liberty, a set of privileges granted to the nobility, ensured their dominance in the political life of the Commonwealth. One of the most significant aspects of the Golden Liberty was the Liberum Veto, a law that allowed any member of the Sejm to veto a decision, effectively paralyzing the decision-making process.
 
-   **Poprawna odpowiedź: B. W 1791 roku**
+The Liberum Veto was introduced in the 17th century and had far-reaching consequences for the Commonwealth. It led to the weakening of the central government, as the Sejm was unable to make important decisions regarding the country's foreign and domestic policy. The paralysis of decision-making also had economic consequences, as the Commonwealth was unable to implement necessary reforms and modernize its economy.
 
-# Fiszki (113. Liberum veto i kryzys Rzeczpospolitej)
+The Liberum Veto was abolished in 1791, as part of the Constitution of May 3rd, which aimed to strengthen the central government and modernize the Commonwealth. However, it was too late to save the country from external threats. The Commonwealth was partitioned between Russia, Prussia, and Austria in the late 18th century, and ceased to exist as a political entity.
 
-1. **Liberum veto** - łaciński termin oznaczający "wolną wolę" lub "wolne głosowanie", stosowany w Sejmie Rzeczypospolitej, który umożliwiał każdemu deputowanemu blokowanie obrad i zapobieganie przyjęciu nowych uchwał.
-2. **Sejm Rzeczypospolitej** - instytucja ustawodawcza Rzeczypospolitej Obojga Narodów, złożona z przedstawicieli króla, senatu i izby poselskiej.
-3. **Szlachta** - arystokracja w Rzeczypospolitej Obojga Narodów, wywodząca się głównie z rycerstwa, posiadająca wiele przywilejów i uprawnień politycznych.
-4. **Ustrój Rzeczypospolitej** - konfederacja dwóch narodów: Polski i Litwy, charakteryzująca się złożonym systemem wielopartyjnym, decentralizacją i silnymi wpływami szlachty.
-5. **Konstytucja 3 maja** - pierwsza w historii Polski konstytucja, uchwalona w 1791 roku, która m.in. zniosła liberum veto i zmodyfikowała ustrój Rzeczypospolitej.
-
-# Notatki (113. Liberum veto i kryzys Rzeczpospolitej)
-
-Liberum veto było instytucją istniejącą w Sejmie Rzeczypospolitej, która umożliwiała każdemu posłowi zablokowanie obrad i zapobieganie przyjęciu nowych uchwał. Przykładanie dużej wagi do tej instytucji było jednym z elementów ustroju Rzeczypospolitej, który charakteryzował się dużą autonomią i decentralizacją.
-
-Początkowo liberum veto było stosowane sporadycznie, ale od połowy XVII wieku zyskało na popularności i stało się przeszkodą w rozwoju i modernizacji kraju. Szlachta uważała to za gwarancję wolności i niepodlegania królom Absolutystycznych. W rzeczywistości jednak liberum veto powodowało impas polityczny i brak zdolności do podejmowania decyzji.
-
-Próby ograniczenia lub zniesienia liberum veto podejmowane były kilkakrotnie, m.in. poprzez utworzenie konfederacji stanowych, które umożliwiały podejmowanie decyzji większością głosów. Jednak szlachta nie zgodziła się na zniesienie liberum veto aż do 1791 roku, kiedy to przyjęty został nowy ustrój państwa, zakładający m.in. zniesienie liberum veto i utworzenie stanowisk premiera i wicepremiera.
-
-Zniesienie liberum veto było jednym z pierwszych kroków w kierunku reform ustrojowych, jednak nie zapobiegło rozbiorom Polski i upadkowi Rzeczypospolitej. Instytucja ta była symbolem wolności i autonomii szlacheckiej, ale również głębokiej niepewności i braku stabilności politycznej w Rzeczypospolitej Obojga Narodów.
+In conclusion, the Liberum Veto was a significant factor in the crisis of the Polish-Lithuanian Commonwealth. It led to the weakening of the central government, the paralysis of decision-making, and the inability to implement necessary reforms. The abolition of the Liberum Veto in 1791 was a step towards modernization, but it was too late to save the Commonwealth from external threats.
