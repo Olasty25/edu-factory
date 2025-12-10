@@ -1,53 +1,63 @@
- # Quiz - Monarchia Piastowska - Początki Państwa
+# Quiz
 
-1. Kto jest uważany za założyciela drogi do niezawisłości Polski?
-   A. Mieszko I
-   B. Bolesław I
-   C. Kazimierz I
-   D. Władysław I
+1. Kto był protoplastą dynastii Piastów?
+A. Mieszko I
+B. Bolesław I Chrobry
+C. Siemowit
+D. Wratysław
 
-2. Kiedy powstało pierwsze piastowskie państwo?
-   A. IX wiek
-   B. X wiek
-   C. XI wiek
-   D. XII wiek
+Poprawna odpowiedź: C. Siemowit
 
-3. Która dynastia była równoległa do dynastii Piastów?
-   A. Jagiellonów
-   B. Přemyslidów
-   C. Rurykowiczów
-   D. Kapetyngów
+2. Kiedy miało miejsce chrztinę Mieszka I?
+A. 966 rok
+B. 992 rok
+C. 1000 rok
+D. 1025 rok
 
-4. Które były jednostki terytorialne przed powstaniem państwa Piastów?
-   A. Księstwa
-   B. Hrabstwa
-   C. Palatynaty
-   D. Księstwa i Hrabstwa
+Poprawna odpowiedź: A. 966 rok
 
-5. Kto był ojcem Mieszka I?
-   A. Siemomysł
-   B. Leszko I
-   Bolesław I
-   D. Wratysław I
+3. Któż był autorem Dagome Iudex?
+A. Mieszko I
+B. Bolesław I Chrobry
+C. Otton III
+D. Jan Canaparius
 
-Poprawne odpowiedzi: 1A, 2B, 3B, 4D, 5A
+Poprawna odpowiedź: A. Mieszko I
 
-# Fiszki - Monarchia Piastowska - Początki Państwa
+4. Która żona Bolesława I Chrobrego była córką Ottona II?
+A. Dobrawa
+B. Świętosława
+C. Oda
+D. Teofano
 
-1. **Mieszko I** - pierwszego historycznie potwierdzonego władcę Polski, założyciela Polski, z dynastii Piastów.
-2. **Bolesław I Chrobry** - syn Mieszka I i Dobrawy Przemyślidki, drugi król Polski z dynastii Piastów, jeden z najważniejszych władców w historii Polski.
-3. **Państwo Piastów** - państwo średniowieczne na obszarze współczesnej Polski, utworzone w X wieku przez Mieszka I.
-4. **Dynastia Piastów** - pierwotna polska dynastia panująca, która ustanowiła państwo polskie.
-5. **Dobrawa Przemyślidka** - druga żona Mieszka I, księżniczka czeska i córka Bolesława I, księcia Czech, której chrześcijaństwo przyczyniło się do nawrócenia Polski.
+Poprawna odpowiedź: B. Świętosława
 
-# Notatki - Monarchia Piastowska - Początki Państwa
+5. Kiedy zmarł Bolesław I Chrobry?
+A. 1025 rok
+B. 1014 rok
+C. 1021 rok
+D. 1034 rok
 
-Monarchia Piastowska to historyczne państwo polskie istniejące w X-XII wieku, założone i rządzone przez dynastię Piastów. Pierwszym historycznie potwierdzonym władcą Polski był Mieszko I. Polscy książęta i królowie Piastowie panowali na terenie dzisiejszej Polski, Czech, Rusi oraz innych regionów Europy Środkowo-Wschodniej.
+Poprawna odpowiedź: A. 1025 rok
 
-- **Założenie** - Monarchia Piastowska powstała na początku X wieku. Pierwszym historycznie potwierdzonym księciem Polski był Mieszko I. Państwo to było stopniowo tworzone w procesie umacniania sąsiednich terytoriów i one stanowiły zalążek niezawisłości Polski.
-- **Dynastia Piastów** - Monarchia Piastowska została założona przez dynastię Piastów, której członkowie początkowo rządzili niewielkimi terytoriami. Ponadto istniała także dynastia Přemyslidów, która rządziła w Czechach i walczyła o dominację na terenie państwa Piastowskiego.
-- **Jednostki terytorialne** - Polska była podzielona na niewielkie jednostki terytorialne, takie jak księstwa i hrabstwa. Po zwycięstwie w bitwie pod Cedynią, Mieszko I podbił i wchłonął sąsiednie terytoria, dzięki czemu powiększył obszar państwa.
-- **Chrześcijaństwo** - Państwo Piastowskie przyjęło chrześcijaństwo dzięki Dobrawie Przemyślidce, drugiej żonie Mieszka I. Jej nawrócenie i wpływ na męża doprowadził do około 966 roku do ogłoszenia chrztu państwa, przez co został on znany jako chrzt Polski.
-- **Władcy Piastowscy** - Najbardziej znanym władcą był Bolesław I Chrobry, który został koronowany na króla i urosł do legendarnego statusu, dzięki którym został zwany "władcą dębem", "księciem ogniem i młotem". Panował on w latach 992-1025, był jednym z najważniejszych polskich władców w historii, stworzył władztwo, podbił jednostki sąsiednie i odegrał ważną rolę w średniowiecznej Europie. Kolejnym ważnym królem był Kazimierz I Odnowiciel, który zreformował państwo po ustabilizowaniu terytorium i przywrócił jego niezawisłość.
+# Fiszki
 
-Monarchia Piastowska była pierwszym historycznie zakorzenionym państwem polskim. Była ona podstawą dzisiejszej Polski, założona i rozwijana przez dynastię Piastów i ich potomków w okresie średniowiecza. W ciągu stuleci Polska rozwinęła się i umocniła, stając się znaczącym i niezależnym krajem w Europie.
+1. Piastowie - dynastia panująca w Polsce w okresie od X do XVI wieku.
+2. Dagome Iudex - dokument z 991 roku, w którym Mieszko I oddaje swoje państwo pod opiekę papieża.
+3. Chrzest Polski - akt chrztu Mieszka I w 966 roku, który zapoczątkował proces chrystianizacji Polski.
+4. Bolesław I Chrobry - książę i król Polski, syn Mieszka I i Dobrawy.
+5. Świętosława - córka Mieszka I i Dobrawy, żona Sweyna Forkbearda i Kanuta Wielkiego.
+
+# Notatki
+
+Monarchia Piastowska była pierwszym państwem polskim, które istniało w okresie od X do XVI wieku. Protoplastą dynastii Piastów był Siemowit, z którego potomstwa wywodził się Mieszko I, który został koronowany na króla Polski w 1025 roku.
+
+Monarchia Piastowska była państwem feudalnym, w którym władza należała do możnowładztwa i duchowieństwa. W okresie monarchii Piastowskiej miało miejsce wiele ważnych wydarzeń, takich jak chrzest Polski w 966 roku, chrztinę Mieszka I, która zapoczątkowała proces chrystianizacji Polski.
+
+Ważnym dokumentem z tego okresu był Dagome Iudex, w którym Mieszko I oddaje swoje państwo pod opiekę papieża. Dokument ten jest jednym z najstarszych źródeł pisanych dotyczących historii Polski.
+
+Bolesław I Chrobry, syn Mieszka I i Dobrawy, był jednym z najważniejszych władców monarchii Piastowskiej. Został koronowany na króla Polski w 1025 roku i jest uznawany za twórcę pierwszego państwa polskiego.
+
+Świętosława, córka Mieszka I i Dobrawy, była żoną Sweyna Forkbearda i Kanuta Wielkiego, królów Danii i Anglii. Jej małżeństwa miały duży wpływ na stosunki polityczne między Polską a Skandynawią i Anglią.
+
+Monarchia Piastowska była okresem ważnego rozwoju państwa polskiego, który zapoczątkował proces chrystianizacji Polski i stworzył podstawy dla późniejszego rozwoju państwa.
