@@ -1,1 +1,1 @@
- # Quiz - Christianization of Europe
+ # Quiz: Christianization of Europe

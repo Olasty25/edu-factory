@@ -1,58 +1,58 @@
- # Quiz - Cesarstwo Rzymskie: Przyczyny Upadku
-1. Co to jest przypuszczalnie główne długookresowe działanie, które przyczyniło się do upadku Cesarstwa Rzymskiego?
-   A. Wojny samnickie
-   B. Kryzys trzeciego wieku
-   C. Wojny punickie
-   D. Komnina i wojny domowe
+# Quiz - Cesarstwo Rzymskie - Przyczyny Upadku
+1. Co to było Kryzys III wieku?
+   A. Okres względnej stabilności w Cesarstwie Rzymskim.
+   B. Długotrwały okres chaosu, wojen domowych i niestabilności politycznej.
+   C. Okres prosperity i rozwoju gospodarczego.
+   D. Okres dominacji chrześcijaństwa w Cesarstwie.
 
-2. W którym wieku Rzymianie zaczęli mieć problemy z zapewnieniem żywności dla swoich obywateli?
-   A. III wiek p.n.e.
-   B. I wiek p.n.e.
-   C. II wiek n.e.
-   D. IV wiek n.e.
+   Poprawna odpowiedź: B
 
-3. Kto była ostatnią oficjalną cesarzową rzymską?
-   A. Julia Domna
-   B. Teodora
-   C. Eudoksja
-   D. Marcia
+2. Kto był Dioklecjanem?
+   A. Ostatnim cesarzem zachodniego cesarstwa.
+   B. Pierwszym cesarzem rzymskim, który abdykował dobrowolnie.
+   C. Wojskowym dyktatorem, który przywrócił porządek w Cesarstwie.
+   D. Wielkim persecutorem chrześcijan.
 
-4. Kto był jednym z najbardziej wpływowych chrześcijańskich pisarzy wczesnochrześcijańskich, który służył jako mówca w Konstantynopolu?
-   A. Klemens Rzymski
-   B. Euzebiusz z Cezarei
-   C. Jan Chryzostom
-   D. Augustyn z Hippony
+   Poprawna odpowiedź: C
 
-5. Kiedy zostało Papieskie Państwo włączone do Włoch?
-   A. 1860
-   B. 1870
-   C. 1910
-   D. 1920
+3. Co to było Tetrarchia?
+   A. System rządów, w którym władzę sprawowało czterech cesarzy.
+   B. System rządów, w którym władzę sprawował jeden cesarz.
+   C. System rządów, w którym władzę sprawował senat.
+   D. System rządów, w którym władzę sprawowała rodzina cesarska.
 
-Poprawne odpowiedzi: 1.D, 2.D, 3.B, 4.C, 5.B
+   Poprawna odpowiedź: A
 
-# Fiszki - Cesarstwo Rzymskie: Przyczyny Upadku
-1. *Crisis Tertia*: trzydziestoletni okres niestabilności wewnętrznej Cesarstwa Rzymskiego w III wieku n.e.
-2. *Barbarzyńcy*: zagraniczne plemiona nieposiadające rozwiniętej kultury materialnej.
-3. * staticusianus*: tak zwany "edyt wojskowy", wprowadzony przez cesarza Dioklecjana, pobór wojskowy dotyczący wszystkich warstw społeczeństwa.
-4. *Konstantynopol*: miasto, które za czasów Konstantyna Wielkiego stało się stolicą Wschodniorzymskiego Cesarstwa.
-5. *Goty*: wschodniogermańskie plemię zaliczane do tzw. barbarzyńców, które dwukrotnie zdobyło Rzym.
+4. Kiedy upadło Cesarstwo Zachodniorzymskie?
+   A. W 476 roku naszej ery.
+   B. W 395 roku naszej ery.
+   C. W 527 roku naszej ery.
+   D. W 410 roku naszej ery.
 
-# Notatki - Cesarstwo Rzymskie: Przyczyny Upadku
-Cesarstwo Rzymskie przetrwało ponad 14 stuleci, lecz było coraz bardziej narażone na ataki z zewnątrz. Konflikty wewnętrzne, utrata prestiżu, powolne zmienianie się rzymskiego społeczeństwa, ekonomiczne trudności i skolonizowanie obszarów Imperium sprzyjały jego upadkowi.
+   Poprawna odpowiedź: A
 
-Podane niżej czynniki przyczyniły się do coraz bliższego upadku Cesarstwa Rzymskiego.
+5. Kto był Alarykiem?
+   A. Ostatnim cesarzem zachodniego cesarstwa.
+   B. Wodzem Wizygotów, który złupił Rzym w 410 roku.
+   C. Wodzem Hunów, który pokonał Rzymian w bitwie na Polach Katalaunijskich.
+   D. Pierwszym cesarzem bizantyjskim.
 
-**Przyczyny wewnętrzne:**
+   Poprawna odpowiedź: B
 
-* **Wojny domowe**: Największą przyczyną wewnętrznej niestabilności Cesarstwa Rzymskiego były wojny domowe, zwłaszcza te związane z komniną.
-* **Struktura społeczno-polityczna**: Wraz z oddzieleniem się Wschodu od Zachodu, ludność Rzymu została podzielona na wielkie grupy społeczne, co prowadziło do konfliktów oraz utrudniało rządy.
-* **Zmiany etniczne i kulturowe**: Ponadto, zmiany etniczne i kulturowe na obszarze Cesarstwa doprowadziły do jego rozpadu.
+# Fiszki - Cesarstwo Rzymskie - Przyczyny Upadku
+1. **Kryzys III wieku** - Długotrwały okres chaosu, wojen domowych i niestabilności politycznej w Cesarstwie Rzymskim.
+2. **Dioklecjan** - Wojskowy dyktator, który przywrócił porządek w Cesarstwie i abdykował dobrowolnie.
+3. **Tetrarchia** - System rządów, w którym władzę sprawowało czterech cesarzy.
+4. **Cesarstwo Zachodniorzymskie** - Zachodnia część Cesarstwa Rzymskiego, która upadła w 476 roku naszej ery.
+5. **Alaryk** - Wódz Wizygotów, który złupił Rzym w 410 roku.
 
-**Przyczyny zewnętrzne:**
+# Notatki - Cesarstwo Rzymskie - Przyczyny Upadku
+Cesarstwo Rzymskie upadło w wyniku wielu czynników, które działały zarówno wewnątrz, jak i na zewnątrz Cesarstwa. Jednym z najważniejszych czynników było to, że Cesarstwo było zbyt duże, aby być efektywnie zarządzane przez jednego władcę. To spowodowało, że władza cesarska osłabła, a Cesarstwo stało się łatwiejszym celem dla ataków zewnętrznych.
 
-* **Barbarzyńcy**: Barbarzyńcy coraz częściej podejmowali wyprawy wojenne na ziemie Imperium. Gotowie w 410 i ponownie w 455 r. zdobyli i splądrowali Rzym.
-* **Przekłamania geopolityczne**: Rzymskie elity polityczne i wojskowe poświęcały za dużo uwagi przekłamanom geopolitycznym, takim jak konflikty z Persją lub Germanami.
-* **Niewydolność administracji cesarskiej**: System cesarski stał się niewydolny, co wpłynęło na spadek efektywności administracji Brytanii, Galii, Hiszpanii i Afryki i zmniejszyło wpływy Rzymu w tych rejonach.
+Innym ważnym czynnikiem była ekonomia. Cesarstwo Rzymskie miało olbrzymie długi, a jego gospodarka była coraz bardziej uzależniona od niewolnictwa. To spowodowało, że Cesarstwo stało się coraz bardziej niestabilne ekonomicznie.
 
-Podsumowując, wiele czynników przyczyniło się do upadku Cesarstwa Rzymskiego, w tym strukturalne i gospodarcze problemy, barbarzyńcy oraz konflikty wewnątrz społeczeństwa.
+Kryzys III wieku to długotrwały okres chaosu, wojen domowych i niestabilności politycznej w Cesarstwie Rzymskim. W tym okresie Cesarstwo było atakowane z zewnątrz przez barbarzyńców, a wewnątrz Cesarstwa dochodziło do wojen domowych i przewrotów.
+
+Dioklecjan to wojskowy dyktator, który przywrócił porządek w Cesarstwie i abdykował dobrowolnie. Dioklecjan wprowadził wiele reform, które miały na celu wzmocnienie władzy cesarskiej i stabilizację Cesarstwa. Jedną z tych reform była Tetrarchia, czyli system rządów, w którym władzę sprawowało czterech cesarzy.
+
+Cesarstwo Zachodniorzymskie upadło w 476 roku naszej ery, kiedy ostatni cesarz zachodniego cesarstwa, Romulus Augustus, został obalony przez wodza germańskiego Odoakra. Po upadku Cesarstwa Zachodniorzymskiego, Cesarstwo Wschodniorzymskie, znane też jako Bizancjum, kontynuowało swoje istnienie aż do 1453 roku.
