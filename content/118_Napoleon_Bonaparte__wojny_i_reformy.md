@@ -1,63 +1,61 @@
- ### Quiz
+ # Quiz: Napoleon Bonaparte - Wojny i Reformy
 
-1. Co to był Code Napoleon?
-   A. Nowy system opodatkowania we Francji
-   B. Nowy system prawny we Francji
-   C. Nowa waluta we Francji
-   D. Nowy system edukacji we Francji
+1. Co to był Kodeks Napoleona?
+   A. Nowy system pieniędzy we Francji
+   B. Konstytucja Francji z 1799 roku
+   C. Zbiór praw cywilnych we Francji
+   D. Traktat pokojowy kończący wojny napoleońskie
 
-   Poprawna odpowiedź: B. Nowy system prawny we Francji
+   Poprawna odpowiedź: C
 
-2. Która bitwa była punktem zwrotnym w wojnach napoleońskich?
+2. Która z bitew stoczona przez Napoleona była najważniejsza dla jego upadku?
    A. Bitwa pod Austerlitz
    B. Bitwa pod Borodino
    C. Bitwa pod Waterloo
-   D. Bitwa pod Trafalgar
+   D. Bitwa pod Marengo
 
-   Poprawna odpowiedź: C. Bitwa pod Waterloo
+   Poprawna odpowiedź: C
 
-3. Która z reform Napoleona była najbardziej rewolucyjna w sferze edukacji?
-   A. Wprowadzenie bezpłatnej edukacji
-   B. Wprowadzenie egzaminów maturalnych
-   C. Wprowadzenie nowego programu nauczania
-   D. Wprowadzenie szkół przymusowych
+3. Która z reform przeprowadzona przez Napoleona była najbardziej rewolucyjna?
+   A. Reforma systemu edukacji
+   B. Reforma administracji państwowej
+   C. Reforma prawa własności
+   D. Reforma systemu podatkowego
 
-   Poprawna odpowiedź: A. Wprowadzenie bezpłatnej edukacji
+   Poprawna odpowiedź: A
 
-4. Jaka kolonia francuska została zaanektowana przez Wielką Brytanię podczas wojen napoleońskich?
-   A. Kanada
-   B. Algieria
-   C. Indie
-   D. Senegal
+4. Która z wojen toczonych przez Napoleona była najbardziej krwawa?
+   A. Wojna z czwartą koalicją
+   B. Wojna z trzecią koalicją
+   C. Wojna z szóstą koalicją
+   D. Wojna z drugą koalicją
 
-   Poprawna odpowiedź: D. Senegal
+   Poprawna odpowiedź: C
 
-5. Która z bitew zmusiła Napoleona do abdykacji?
+5. Która z bitew stoczona przez Napoleona była jego pierwsza wielka wygrana?
    A. Bitwa pod Austerlitz
-   B. Bitwa pod Lipskiem
+   B. Bitwa pod Borodino
    C. Bitwa pod Waterloo
-   D. Bitwa pod Borodino
+   D. Bitwa pod Marengo
 
-   Poprawna odpowiedź: C. Bitwa pod Waterloo
+   Poprawna odpowiedź: D
 
-### Fiszki
+# Fiszki: Napoleon Bonaparte - Wojny i Reformy
 
-1. Code Napoleon: nowy system prawny we Francji, wprowadzony przez Napoleona Bonaparte w 1804 roku.
-2. Bitwa pod Waterloo: bitwa, która zakończyła epokę wojen napoleońskich i przywróciła monarchię w Europie.
-3. Bezpłatna edukacja: reforma wprowadzona przez Napoleona, która umożliwiła dostęp do edukacji każdemu obywatelowi, niezależnie od klasy społecznej.
-4. Senegal: kolonia francuska, która została zaanektowana przez Wielką Brytanię podczas wojen napoleońskich.
-5. Napoleon Bonaparte: francuski generał i polityk, który stał się cesarzem Francji w 1804 roku.
+1. Kodeks Napoleona - zbiór praw cywilnych we Francji, wprowadzony w 1804 roku, który miał duży wpływ na rozwój prawa cywilnego w Europie.
+2. Bitwa pod Austerlitz - bitwa stoczona 2 grudnia 1805 roku, w której wojska francuskie dowodzone przez Napoleona Bonaparte pokonały armię III koalicji składającą się z Austrii i Rosji.
+3. Reforma systemu edukacji - reforma przeprowadzona przez Napoleona, która wprowadziła obowiązek szkolny dla dzieci w wieku od 6 do 12 lat i zwiększyła dostęp do edukacji dla biedniejszych warstw społecznych.
+4. Wojna z szóstą koalicją - wojna toczona w latach 1812-1814, w której Francja poniosła klęskę i Napoleon został zmuszony do abdykacji.
+5. Bitwa pod Waterloo - bitwa stoczona 18 czerwca 1815 roku, w której wojska koalicji dowodzone przez księcia Wellingtona i feldmarszałka Blüchera pokonały armię francuską dowodzoną przez Napoleona Bonaparte.
 
-### Notatki
+# Notatki: Napoleon Bonaparte - Wojny i Reformy
 
-Napoleon Bonaparte był francuskim generałem i politykiem, który stał się cesarzem Francji w 1804 roku. Jego rządy były okresem wielkich zmian we Francji i w Europie.
+Napoleon Bonaparte był francuskim wodzem i politykiem, który w latach 1799-1815 sprawował władzę we Francji. Jego rządy były okresem wielkich zmian i reform we Francji, ale także okresem wojen i konfliktów z innymi krajami europejskimi.
 
-Jednym z największych osiągnięć Napoleona było wprowadzenie Code Napoleon, nowego systemu prawnego we Francji. Był to kodeks cywilny, który obejmował cztery księgi: osoby, spadki, własność i umowy. Code Napoleon stał się wzorem dla innych kodeksów cywilnych w Europie i świecie.
+Napoleon przeprowadził wiele reform, które miały na celu modernizację i scentralizowanie Francji. Jedną z najważniejszych reform było wprowadzenie Kodeksu Napoleona, który był zbiorem praw cywilnych we Francji. Kodeks Napoleon został wprowadzony w 1804 roku i miał duży wpływ na rozwój prawa cywilnego w Europie.
 
-Wojny napoleońskie były serią konfliktów zbrojnych, które miały miejsce pomiędzy Francją i jej sojusznikami a koalicjami europejskimi. Jednym z najważniejszych momentów wojen napoleońskich była bitwa pod Waterloo, która zakończyła epokę wojen napoleońskich i przywróciła monarchię w Europie.
+Inne ważne reformy przeprowadzone przez Napoleona obejmowały reformę systemu edukacji, która wprowadziła obowiązek szkolny dla dzieci w wieku od 6 do 12 lat i zwiększyła dostęp do edukacji dla biedniejszych warstw społecznych. Napoleon przeprowadził także reformę administracji państwowej, która zwiększyła efektywność i scentralizowała władzę we Francji.
 
-Innym aspektem rządów Napoleona było jego zaangażowanie w reformę edukacji. Jedną z najbardziej rewolucyjnych reform było wprowadzenie bezpłatnej edukacji, która umożliwiła dostęp do edukacji każdemu obywatelowi, niezależnie od klasy społecznej.
+Napoleon był również znany ze swoich wojen i konfliktów z innymi krajami europejskimi. Wojny napoleońskie były serią konfliktów, które trwały od 1803 do 1815 roku i obejmowały wiele bitew i kampanii wojskowych. Najważniejszą z bitew była bitwa pod Waterloo, w której wojska koalicji dowodzone przez księcia Wellingtona i feldmarszałka Blüchera pokonały armię francuską dowodzoną przez Napoleona Bonaparte.
 
-Ponadto, Napoleonowi udało się również rozszerzyć terytorium Francji, zajmując kolonie w Europie, Afryce i Azji. Jedną z najważniejszych kolonii było Senegal, które zostało zaanektowane przez Wielką Brytanię podczas wojen napoleońskich.
-
-Ostatecznie, Napoleon został zmuszony do abdykacji i wygnania na wyspę Św. Heleny, gdzie zmarł w 1821 roku. Jego rządy miały ogromny wpływ na historię Francji i Europy, a jego dziedzictwo pozostaje do dzisiaj punktem odniesienia w zakresie prawa, edukacji i rozwoju terytorialnego.
+Ostatecznie, Napoleon został zmuszony do abdykacji w 1814 roku i zesłany na wyspę Św. Heleny, gdzie zmarł w 1821 roku. Jego rządy były okresem wielkich zmian i reform we Francji, ale także okresem wojen i konfliktów z innymi krajami europejskimi.
